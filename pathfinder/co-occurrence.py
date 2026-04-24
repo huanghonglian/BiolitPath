@@ -23,7 +23,7 @@ def read_dictionary():
             'food': os.path.join(BASE_DIR,'dictionary/dict_food_202512.txt'),
             'go': os.path.join(BASE_DIR,'dictionary/dict_gene_ontology_202512.txt'),
             'treatment': os.path.join(BASE_DIR,'dictionary/dict_treatment_202512.txt'),
-            'diagnose': os.path.join(BASE_DIR,'dictionary/dict_diagnose_202512.txt'),
+            'diagnose': os.path.join(BASE_DIR,'dictionary/dict_diagnosis_202512.txt'),
             'bodypart': os.path.join(BASE_DIR,'dictionary/dict_uberon_202601.txt'),
             'location': os.path.join(BASE_DIR,'dictionary/dict_geoname_202601.txt'),
             'species': os.path.join(BASE_DIR,'dictionary/dict_Species.txt'),
@@ -74,6 +74,11 @@ def assign_entities_to_sentences(json_data):
                     #print(entity_type,[content[start:end+1]],entity)
                     continue
                 nor_id=entity_type+':'+nor_id
+                if nor_id=='species:9606':
+                    continue
+                if entity_type not in ['gene','mutation','species','cellline'] and entity['prob']<0.5:
+                    continue
+                
                 sent_id=''
                 for pos in sents_pos:
                     if start>=pos[0] and end<=pos[1]:
@@ -83,6 +88,7 @@ def assign_entities_to_sentences(json_data):
                     num+=1
                     #print(pmid,entity_type,[content[start:end+1]],entity)
                     continue
+                
                 if nor_id not in mentions_dict[entity_type]:
                     mentions_dict[entity_type][nor_id]=[]
                 if sent_id not in mentions_dict[entity_type][nor_id]:
@@ -255,6 +261,7 @@ def normalized_score(co_occur_data):
         nor_score=edge_weight[k]/math.sqrt(node_sum_weight[row[0]]+node_sum_weight[row[2]])
         row.append(nor_score)
     return co_occur_data
+
 def should_keep_relation(a, b, c, d, min_support=10):
     """
     Decision tree to determine if a relation should be kept based on co-occurrence statistics.
@@ -273,14 +280,9 @@ def should_keep_relation(a, b, c, d, min_support=10):
     p_x_given_y = a / (a + c) if (a + c) > 0 else 0  # P(X|Y)
     max_cooccur_ratio=max(p_y_given_x,p_x_given_y)
 
-    # Check 1: Both entities are rare
-    if freq_x < 0.01 and freq_y < 0.01:
-        # High co-occurrence ratio among rare entities
-        if max_cooccur_ratio > 0.5:
-            return True
         
-    # Check 2: Strong directional relationship
-    if p_y_given_x > 0.5 or p_x_given_y > 0.5:
+    # Strong directional relationship
+    if max_cooccur_ratio > 0.5:
         return True
     
     # Check 3: At least one high-frequency entity with low co-occurrence
@@ -294,6 +296,8 @@ def should_keep_relation(a, b, c, d, min_support=10):
     # Default: keep with low confidence
     return True
 
+    
+
 
 def save_co_occur_data(case,co_occur_data):
     if not os.path.exists(f'../case/{case}/pathfinder'):
@@ -301,7 +305,6 @@ def save_co_occur_data(case,co_occur_data):
     pval_path=f'../case/{case}/pathfinder/co_occur_pvalue.txt'
     edge_path=f'../case/{case}/pathfinder/graph.edgelist'
     node_path=f'../case/{case}/pathfinder/graph.nodelist'
-    
     node_info={}
     with open(pval_path,'w',encoding='utf-8') as fw, open(edge_path,'w',encoding='utf-8') as fw1:
         fw.write('\t'.join(['id1','entity1_type','id2','entity2_type','a','b','c','d','pvalue','adjP','enrichment_score'])+'\n')

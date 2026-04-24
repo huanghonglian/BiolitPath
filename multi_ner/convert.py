@@ -24,12 +24,12 @@ def pubtator2dict_list(pubtator_file_path, is_raw_text=False):
                 # if title_pmid != abstract_pmid:
                 #     return '{"error": "pmid disagreement {} != {}"}'\
                 #         .format(title_pmid, abstract_pmid)
-
+                
                 if len(mentions) > 0:
                     if len(mentions) > 1:
                         mentions = sorted(mentions,
                                            key=itemgetter('start'))
-
+                    
                     if is_raw_text:
                         # abstract only
                         mentions = get_bestplus_spans(mentions, abstract_text)
@@ -84,7 +84,6 @@ def pubtator2dict_list(pubtator_file_path, is_raw_text=False):
                     abstract_text = abstract_cols[1]
             elif doc_line_num > 1:
                 mention_cols = line.split('\t')
-                
                 if len(mention_cols) != 6:
                     mentions.append({'start': int(mention_cols[1]),
                                   'end': int(mention_cols[2]),
@@ -142,8 +141,6 @@ def reformat_gnorm(gnorm_docs):
                     gnorm_doc['entities']['gene'].append(entity)
             else:
                 entity_type='species'
-                if entity['id']=='9606':
-                    continue
                 gnorm_doc['entities']['species'].append(entity)
         del gnorm_doc['entities']['mention']
         cellline_docs.append(cellline_doc)
@@ -172,7 +169,7 @@ def pubtatorstr2dict_list(pubtator, is_raw_text):
                 if len(mutations) > 1:
                     mutations = sorted(mutations,
                                        key=itemgetter('start'))
-
+                
                 if is_raw_text:
                     # tmtool: title only
                     mutations = get_bestplus_spans(mutations, title)
@@ -182,7 +179,6 @@ def pubtatorstr2dict_list(pubtator, is_raw_text):
                                                    title + ' ' +
                                                    abstract_text)
                 # print('Found mutation(s)', mutations)
-
             doc_dict = {
                 'pmid': title_pmid,
                 'mutation_model': 'tmtool tmVar',
@@ -232,7 +228,6 @@ def pubtatorstr2dict_list(pubtator, is_raw_text):
                 abstract_text = abstract_cols[1]
         elif doc_line_num > 1:
             mutation_cols = line.split('\t')
-
             if len(mutation_cols) != 6:
                 return '{"error": "wrong #mutation_cols {}"}' \
                     .format(len(mutation_cols))
@@ -388,8 +383,6 @@ def get_bestplus_spans(mentions, title_space_abstract):
             mention_count_dict[m['mention']] += 1
         else:
             mention_count_dict[m['mention']] = 1
-
-        
             count = mention_count_dict[m['mention']]
     
             start = -1

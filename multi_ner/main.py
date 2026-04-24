@@ -39,7 +39,7 @@ from transformers import (
     PreTrainedTokenizer,
 )
 
-from ops import (
+from .ops import (
     json_to_sent, 
     input_form, 
     get_prob,
@@ -47,7 +47,7 @@ from ops import (
     preprocess, 
     Profile, 
 )
-from modeling import RoBERTaMultiNER2
+from .modeling import RoBERTaMultiNER2
 
 logger = logging.getLogger(__name__)
 
@@ -519,7 +519,7 @@ class MTNER:
         )
         if not self.params.no_cuda:
             self.model = self.model.cuda()
-        self.entity_types = ['disease', 'chemical',  'celltype', 'go', 'bodypart', 'diagnose','treatment','location','food']
+        self.entity_types = ['disease', 'chemical',  'celltype', 'go', 'bodypart', 'diagnosis','treatment','location','food']
         self.estimator_dict = {}
         for etype in self.entity_types:
             self.estimator_dict[etype] = {}

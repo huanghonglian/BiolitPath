@@ -2,16 +2,14 @@ import os
 import sys
 import csv
 import math
-import json
 import time
-import getopt
-import requests
 import argparse
 import pandas as pd
+from pathlib import Path
 from datetime import date
 from datetime import datetime
 from Bio import Medline, Entrez
-from multi_ner.ops import CoNLL_tokenizer
+from multi_ner.ops import CoNLL_tokenizer, pubtator2dict_list
 Entrez.email = ""
 
 
@@ -149,7 +147,7 @@ def download_medline(case, pmids:list=None, save_path=None):
     # 如果存储路径不存在，则创建
     if not os.path.exists(save_path):
         os.mkdir(save_path)
-    print("[case]: {}, [pmid]: {}, [save path]:{}".format(case, len(pmids), save_path))
+    print("[case]: {}, [pmid]: {}".format(case, len(pmids)))
     # 分批次下载，每次下载10000条
     count = len(pmids)
     batch_size = 500
@@ -172,40 +170,28 @@ def download_medline(case, pmids:list=None, save_path=None):
             # 休眠1秒，避免持续访问导致连接中断。
             time.sleep(1)
         except:
-            print('not download:',start,end)
+            print('\tCan not download:{}-{}'.format(start, end))
             continue
     t2 = time.time()
     print('\t[used time]: {} seconds.'.format(round(t2-t1, 4)))
 
-def preprocess_input(base_name,text,time_format):
+def preprocess_input(text):
     if '\r\n' in text:
-        print(datetime.now().strftime(time_format),
-              f'[{base_name}] Found a CRLF -> replace it w/ a space')
         text = text.replace('\r\n', ' ')
 
     if '\n' in text:
-        print(datetime.now().strftime(time_format),
-              f'[{base_name}] Found a line break -> replace it w/ a space')
         text = text.replace('\n', ' ')
 
     if '\t' in text:
-        print(datetime.now().strftime(time_format),
-              f'[{base_name}] Found a tab -> replace w/ a space')
         text = text.replace('\t', ' ')
 
     if '\xa0' in text:
-        print(datetime.now().strftime(time_format),
-              f'[{base_name}] Found a \\xa0 -> replace w/ a space')
         text = text.replace('\xa0', ' ')
 
     if '\x0b' in text:
-        print(datetime.now().strftime(time_format),
-              f'[{base_name}] Found a \\x0b -> replace w/ a space')
         text = text.replace('\x0b', ' ')
         
     if '\x0c' in text:
-        print(datetime.now().strftime(time_format),
-              f'[{base_name}] Found a \\x0c -> replace w/ a space')
         text = text.replace('\x0c', ' ')
     if '|' in text:
         text = text.replace('|', '/')
@@ -248,10 +234,10 @@ def medline2pubtator(case,save_path):
                 abstract=''
                 if 'TI' in record:
                     title=record['TI']
-                    title=preprocess_input(base_name,title,time_format)
+                    title=preprocess_input(title)
                 if 'AB' in record:
                     abstract=record['AB']
-                    abstract=preprocess_input(base_name,abstract,time_format)
+                    abstract=preprocess_input(abstract)
                 fw.write(pmid+'|t|'+title+'\n')
                 fw.write(pmid+'|a|'+abstract+'\n')
                 fw.write('\n')
@@ -263,8 +249,9 @@ def main():
     # parse parameters
     argparser = argparse.ArgumentParser()
     argparser.add_argument('-c', '--case',help='Specify case name')
-    argparser.add_argument('-t', '--term',action='store_true',help='Search query for literature retrieval')
+    argparser.add_argument('-q', '--query',action='store_true',help='Search query for literature retrieval')
     argparser.add_argument('-p', '--pmid',action='store_true',help='PubMed ID(s) to fetch specific papers')
+    argparser.add_argument('-t', '--text',action='store_true',help='Check if the text contains special characters, such as non-breaking spaces (\\xa0).')
     args = argparser.parse_args()
     if not args.case:
         argparser.print_help()
@@ -272,35 +259,79 @@ def main():
         print("❌ ERROR: You must provide the name of case!")
         print("="*60)
         sys.exit(1)
-    if not args.term and not args.pmid:
+    if not args.query and not args.pmid and not args.text:
         argparser.print_help()
         print("\n" + "="*60)
         print("❌ ERROR: You must provide at least one input source!")
-        print("   Use -t for search term OR -p for PMIDs OR both")
+        print("   Use -q for search query, -p for PMIDs, -t for text")
         print("="*60)
         sys.exit(1)
     case=args.case
     pmids=[]
-    if args.pmid:
-        pmid_file = os.path.join(f'./case/{case}', f'{case}.pmid.txt')
-        with open(pmid_file,encoding='utf-8') as fp:
-            pmids+=fp.read().strip().split('\n')
+    if args.text:
+        for file in os.listdir(f'./case/{case}/pubtator'):
+            if 'pubtator' not in file.lower():
+                continue
+            file_path=f'./case/{case}/pubtator/'+file
+            if 'PubTator' not in file:
+                new_file = os.path.splitext(file_path)[0]+'.PubTator'
+            else:
+                new_file=file_path
+            doc_list=pubtator2dict_list(file_path)
+            if type(doc_list)!=list:
+                print(doc_list)
+                sys.exit(1)
+            os.remove(file_path)
+            with open(new_file,'w',encoding='utf-8') as fw:
+                for doc in doc_list:
+                    pmid=doc['pmid']
+                    title=doc['title']
+                    abstarct=doc['abstract']
+                    if title!='':
+                        title=preprocess_input(title)
+                    if abstarct!='':
+                        abstarct=preprocess_input(abstarct)
+                    fw.write(f'{pmid}|t|{title}'+'\n')
+                    fw.write(f'{pmid}|a|{abstarct}'+'\n')
+                fw.write('\n')
+    else:
+        if args.pmid:
+            pmid_file = os.path.join(f'./case/{case}', f'{case}.pmid.txt')
+            if os.path.exists(pmid_file):
+                with open(pmid_file,encoding='utf-8') as fp:
+                    pmids+=fp.read().strip().split('\n')
+                print(f"[Reading pmids]: {pmid_file}")
+                print(f"[Total pmids]: {len(pmids)}")
+            else:
+                print(f"❌ ERROR: File '{pmid_file}' not found")
+                print("Please create it and add one PMID per line before proceeding.")
+                sys.exit(1)
+        
+        if args.query:
+            term_file = os.path.join(f'./case/{case}', f'{case}.term.txt')
+            term2pmid_files=os.path.join(f'./case/{case}', f'{case}.term2pmids.txt')
+            if os.path.exists(term_file):
+                pmids+=term_to_pmid(term_file, save_path=term2pmid_files)
+            else:
+                print(f"❌ ERROR: Term file '{term_file}' not found.")
+                print("Please create this file and add your PubMed search query as the first line, for example:")
+                print("   intrahepatic cholangiocarcinoma[tiab] AND FGFR2[tiab] AND BICC1[tiab]")
+                print("Then run the program again.")
+                sys.exit(1)
+        
+        pmids=list(set(pmids))
+        if len(pmids) == 0:
+            print("❌ No PMIDs were obtained! Please check the PMID file or search query.")
+            print(f"PMID file path: {os.path.join(f'./case/{case}', f'{case}.pmid.txt')}")
+            print(f"Search query file path: {os.path.join(f'./case/{case}', f'{case}.term.txt')}")
+            sys.exit(1)
+            
     
-    if args.term:
-        term_file = os.path.join(f'./case/{case}', f'{case}.term.txt')
-        term2pmid_files=os.path.join(f'./case/{case}', f'{case}.term2pmids.txt')
-        if os.path.exists(term2pmid_files):
-            with open(term2pmid_files,encoding='utf-8') as fp:
-                pmids+=fp.read().strip().split('\n')
-        else:
-            pmids+=term_to_pmid(term_file, save_path=term2pmid_files)
-    pmids=list(set(pmids))
-    
-
-    medline_save_path=f'./case/{case}/medline/'
-    pubtator_save_path=f'./case/{case}/pubtator/'
-    download_medline(case,pmids,medline_save_path)
-    medline2pubtator(case,pubtator_save_path)
+        medline_save_path=f'./case/{case}/medline/'
+        pubtator_save_path=f'./case/{case}/pubtator/'
+        download_medline(case,pmids,medline_save_path)
+        medline2pubtator(case,pubtator_save_path)
+        print(f'[save path]: {pubtator_save_path}')
     
 
 if __name__ == "__main__":

@@ -4,8 +4,8 @@ import json
 import argparse
 
 from datetime import datetime
-from main import MTNER
-from ops import filter_entities, pubtator2dict_list
+from multi_ner.main import MTNER
+from multi_ner.ops import filter_entities, pubtator2dict_list
 
 def count_entities(data):
     num_entities = 0
@@ -62,12 +62,12 @@ if __name__ == "__main__":
     argparser.add_argument('--seed', type=int, help='random seed for initialization',
                             default=1)
     argparser.add_argument('-c','--case', help='Specify the case name')
-    argparser.add_argument('--model_name_or_path', default='../model/1pubmed_gold')
+    argparser.add_argument('--model_name_or_path', default='./model/biolitNER')
     argparser.add_argument('--max_seq_length', type=int, help='The maximum total input sequence length after tokenization. Sequences longer than this will be truncated, sequences shorter will be padded.',
                             default=128)
     argparser.add_argument('--mtner_home',
                            help='biomedical language model home',
-                          default='../case')         
+                          default='./case')         
     argparser.add_argument('--time_format',
                             help='time format', default='[%d/%b/%Y %H:%M:%S.%f]')    
     argparser.add_argument('--no_cuda', action="store_true", help="Avoid using CUDA when available")

@@ -48,8 +48,8 @@ class Normalizer:
                                     'dictionary/dict_gene_ontology_202512.txt'),
             'treatment': os.path.join(self.BASE_DIR,
                                     'dictionary/dict_treatment_202512.txt'),
-            'diagnose': os.path.join(self.BASE_DIR,
-                                    'dictionary/dict_diagnose_202512.txt'),
+            'diagnosis': os.path.join(self.BASE_DIR,
+                                    'dictionary/dict_diagnosis_202512.txt'),
             'bodypart': os.path.join(self.BASE_DIR,
                                     'dictionary/dict_uberon_202601.txt'),
             'location': os.path.join(self.BASE_DIR,
@@ -73,8 +73,8 @@ class Normalizer:
                     'normalizers/neural_norm_caches/dict_gene_ontology_202512.txt.pk'),
             'treatment':os.path.join(self.BASE_DIR,
                     'normalizers/neural_norm_caches/dict_treatment_202512.txt.pk'),
-            'diagnose':os.path.join(self.BASE_DIR,
-                    'normalizers/neural_norm_caches/dict_diagnose_202512.txt.pk'),
+            'diagnosis':os.path.join(self.BASE_DIR,
+                    'normalizers/neural_norm_caches/dict_diagnosis_202512.txt.pk'),
             'bodypart':os.path.join(self.BASE_DIR,
                     'normalizers/neural_norm_caches/dict_uberon_202601.txt.pk'),
             'location':os.path.join(self.BASE_DIR,
@@ -92,7 +92,7 @@ class Normalizer:
         self.NO_ENTITY_ID = 'undefined'
         self.normalizer={}
         self.normalizer['chemical']= ChemicalNormalizer(self.NORM_DICT_PATH['chemical'])
-        for ent_type in ['disease','celltype','food','go','treatment','diagnose','bodypart','location','cellline','food']:
+        for ent_type in ['disease','celltype','food','go','treatment','diagnosis','bodypart','location','cellline','food']:
             self.normalizer[ent_type]=DictNormalizer(self.NORM_DICT_PATH[ent_type])
         # neural normalizer
         self.neural_disease_normalizer = None
@@ -194,7 +194,7 @@ class Normalizer:
                     loc['id'] = type_oids[oid_cnt]
                     loc['is_neural_normalized'] = False
                     oid_cnt += 1
-                    
+
         print(datetime.now().strftime(time_format),
               '[{}] Rule-based normalization '
               '{:.3f} sec ({} article(s), {} entity type(s))'
@@ -304,26 +304,23 @@ def resolve_overlap(tagged_docs):
             for mention_idx, entity in enumerate(entity_dict):
                 entity['type']=entity_type
                 entity['check_id']=1 if entity['id'] not in ['CUI-less','','undefined'] else 0
-                if entity_type in ['species','mutation','cellline']:
+                if entity_type in ['mutation','species']:
                     entity['prob']=1
-                if entity_type in ['gene']:
                     if entity['id'] in ['CUI-less','','undefined'] or entity['id'] is None:
-                        entity['prob']=1
+                        entity['prob']=0.8
+                elif entity_type in ['cellline']:
+                    entity['prob']=0.95
+                elif entity_type in ['gene']:
+                    if entity['id'] in ['CUI-less','','undefined'] or entity['id'] is None:
+                        entity['prob']=0.8
                     else:
-                        entity['prob']=1
+                        entity['prob']=0.95
                 all_entities.append(entity)
         
         # Sort by probability in descending order
-        all_entities.sort(key=lambda x: (x['prob'],x['check_id']), reverse=True)
-        '''
-        print('*')
-        if pmid=='14970278':
-            for entity in all_entities:
-                if entity['type']=='celltype':
-                    start=entity['start']
-                    end=entity['end']
-                    print([content[start:end]],entity)
-        '''
+        all_entities.sort(key=lambda x: (x['prob'],x['check_id'],-x['start'],x['end']), reverse=True)
+        
+        
         # Keep track of selected entities
         selected_entities = []
         
@@ -345,22 +342,13 @@ def resolve_overlap(tagged_docs):
             # If no overlap, add to selected entities
             if not is_overlapping:
                 selected_entities.append(entity)
-            '''
-            else:
-                if pmid=='14970278':
-                    start=entity['start']
-                    end=entity['end']
-                    print('x',[content[start:end]],entity)
-            '''
+            
+            
         # Reconstruct the result dictionary
         update_dict={}
         for entity in selected_entities:
-            '''
-            if pmid=='14970278':
-                start=entity['start']
-                end=entity['end']
-                print([content[start:end]],entity)
-            '''
+            
+            
             entity_type=entity['type']
             if entity_type not in update_dict:
                 update_dict[entity_type]=[]
@@ -434,7 +422,8 @@ def main():
         if num_entities > 0:
             cellline_docs = normalizer.normalize(base_name, cellline_docs)
         '''
-        #tagged_docs=resolve_overlap(tagged_docs)
+
+        tagged_docs=resolve_overlap(tagged_docs)
         output_path=ner_file.replace('NERoutput_m','NENoutput')
         
         with open(output_path, 'w', encoding='utf-8') as f:

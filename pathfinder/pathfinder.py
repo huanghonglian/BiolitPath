@@ -85,7 +85,7 @@ class YensKSP:
                     best_len=cur_diff_len
                     best_dist = current_dist
                     best_node = current
-                elif cur_diff_len<best_len:
+                elif cur_diff_len==best_len:
                     if current_dist < best_dist:
                         best_dist = current_dist
                         best_node = current
@@ -192,7 +192,6 @@ class YensKSP:
         
         A = [(weight_0, path_0)]  # Main list to store the found paths
         B = []  # Candidate paths list
-        
         # 2. Find the remaining K-1 paths
         for k in range(1, K):
             if len(A) < k:
@@ -306,7 +305,7 @@ class BiomedicalPathFinder(YensKSP):
         
     
     def find_topk_paths(self, source: str, target: str, node_seq: List, K: int = 10,
-                       max_length: int = 4, min_length: int = 1) -> List[Dict]:
+                       max_hop: int = 3, min_hop: int = 1) -> List[Dict]:
         """
         Search for the Top-K paths and return the detailed information
         
@@ -314,20 +313,19 @@ class BiomedicalPathFinder(YensKSP):
             source: start
             target: end
             K: the number of pathway
-            max_length: max k-hop
-            min_length: min k-hop
+            max_hop: max k-hop
+            min_hop: min k-hop
             
         Return:
             List of path details
         """
         #if target:
         print(f"Searching for the top-{K} paths from '{source}' to '{target}'...")
-        print(f"Length constraint: {min_length} to {max_length} hops")
+        print(f"Length constraint: {min_hop} to {max_hop} hops")
         print("-" * 60)
         
         # Find the initial path using Yen's algorithm
-        raw_paths = self.yen_ksp(source, target, node_seq, max(K*3,30), max_length)  # Find more for filtering
-        #print(raw_paths)
+        raw_paths = self.yen_ksp(source, target, node_seq, max(K*3,30), max_hop)  # Find more for filtering
         if not raw_paths:
             return []
 
@@ -335,7 +333,7 @@ class BiomedicalPathFinder(YensKSP):
         detailed_paths = []
         for weight, path in raw_paths:
             # Skip the too short paths
-            if len(path) - 1 < min_length:
+            if len(path) - 1 < min_hop:
                 continue
             node_types=[]
             if_continue=False
@@ -483,8 +481,8 @@ class BiomedicalPathFinder(YensKSP):
         all_nodes=set(all_nodes)
         all_nodes=pd.DataFrame(all_nodes,columns=['ID','Lable','name'])
         all_edge_weights=pd.DataFrame(all_edge_weights,columns=['source','target','weight'])
-        all_nodes.to_csv(f'../case/{case}/pathfinder/node.csv',index=False)
-        all_edge_weights.to_csv(f'../case/{case}/pathfinder/edge.csv',index=False)
+        #all_nodes.to_csv(f'../case/{case}/pathfinder/node.csv',index=False)
+        #all_edge_weights.to_csv(f'../case/{case}/pathfinder/edge.csv',index=False)
         
 
 
@@ -508,6 +506,8 @@ def load_graph(case):
                 if 'mutation' in line[0]:
                     G.nodes[line[0]]['name']=line[0].replace('mutation:','')
                 else:
+                    if len(line)<2:
+                        print(line)
                     G.nodes[line[0]]['name']=line[1]
     return G
 
@@ -523,8 +523,8 @@ def main():
     parser.add_argument('-i', '--input', type=str, help='Input file path, examples: D002583||C401859||disease+gene+chemical')
     
     parser.add_argument('-k', '--path_num', type=int, default=10, help='The number of paths to be found (default: 10)')
-    parser.add_argument('-max', '--max_hops', type=int, default=3, help='Maximum path hop limit')
-    parser.add_argument('-min', '--min_hops', type=int, default=1, help='Minimum path hop limit')
+    parser.add_argument('-max', '--max_hop', type=int, default=2, help='Maximum path hop limit')
+    parser.add_argument('-min', '--min_hop', type=int, default=1, help='Minimum path hop limit')
     parser.add_argument('-d', '--display', action='store_true', default=False, help='Display the results in console')
     args = parser.parse_args()
 
@@ -566,7 +566,7 @@ def main():
     G=load_graph(args.case)
     finder = BiomedicalPathFinder(G)
 
-    paths_file=f'../case/{args.case}/pathfinder/found_paths.json'
+    paths_file=f'../case/{args.case}/pathfinder/found_paths_.json'
     results=[]
     for source, target, node_types in queries:
         print(f"source: {source} → target: {target}, node_types={node_types} ")
@@ -575,8 +575,8 @@ def main():
                 target=target,
                 node_seq=node_types,
                 K=args.path_num,           
-                max_length=args.max_hops, 
-                min_length=args.min_hops, 
+                max_hop=args.max_hop, 
+                min_hop=args.min_hop, 
             )
         if not paths:
             print("No path found")
@@ -593,53 +593,6 @@ def main():
     else:
         print("Path not found, file not written")
 
-
-    
-
-def run_yens_algorithm_example():
-    """运行Yen's算法完整示例"""
-
-    parser = argparse.ArgumentParser(
-        description='知识图谱处理工具',
-        epilog='示例: python yen.py --input data.ttl --format turtle'
-    )
-    parser.add_argument('-c', '--case',help='Specify case name',required=True)
-
-    args = parser.parse_args()
-    
-    G = nx.Graph() 
-    kg_file=f'../case/{args.case}/pathfinder/graph.edgelist'
-    G = nx.read_edgelist(kg_file, data=[("weight", float)])
-    for node in G:
-        node_type=node.split(':')[0]
-        G.nodes[node]['type'] = node_type
-        
-    finder = BiomedicalPathFinder(G)
-    
-    queries = [
-        ["species:10566",None,None],
-    ]
-    
-    for source, target, node_seq in queries:
-        print(f"source: {source} → target: {target}")
-        paths = finder.find_topk_paths(
-            source=source,
-            target=target,
-            node_seq=node_seq,
-            K=10,           
-            max_length=2, 
-            min_length=1, 
-        )
-        finder.display_paths(paths, show_details=True)
-        '''
-        if paths:
-            filename = f'../case/{args.case}/co-occurrence/paths'.replace(' ', '_')
-            finder.save_paths_to_file(args.case, paths, filename)
-        '''
-        print(f"\n分析完成！")
-        
-    
-    return finder
 
 # 主程序
 if __name__ == "__main__":

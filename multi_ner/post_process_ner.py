@@ -16,12 +16,14 @@ def process_abbreviations(content,tagged_doc, abbr_dict):
     Returns:
         Updated tagged_doc with abbreviations properly handled
     """
-    #print(abbr_dict)
     # Step 1: Check if full forms are recognized as entities
     entities=tagged_doc['entities']
     full_form_entity_status = {}
     for abbr, full_form in abbr_dict.items():
         # Check if the full form exists in any entity type
+        if len(abbr)<2:
+            continue
+        pmid=tagged_doc['pmid']
         found_type = ''
         found_distance=1000
         found_prob=0
@@ -43,17 +45,18 @@ def process_abbreviations(content,tagged_doc, abbr_dict):
                 id_=''
                 if entity_type not in ['gene','mutation','species','cellline']:
                     prob=entity_dict['prob']
-                    '''
-                    end=end+1
-                    mention=content[start:end]
-                    entity_dict['mention']=mention
-                    entity_dict['end']+=1
-                    print(entity_dict)
-                    '''
                 else:
-                    if entity_type=='species':
+                    prob=1
+                    if entity_type in ['mutation','species']:
                         prob=1
-                    else:
+                        if entity_dict['id']=='':
+                            prob=0.8
+                    elif entity_type=='gene':
+                        if entity_dict['id']!='':
+                            prob=0.8
+                        else:
+                            prob=0.95
+                    elif entity_type=='cellline':
                         prob=0.95
                     if 'id' in entity_dict:
                         id_=entity_dict['id']
@@ -75,6 +78,8 @@ def process_abbreviations(content,tagged_doc, abbr_dict):
         full_form_entity_status[abbr] = [found_type,found_prob,full_form,found_id]
     add_abbr=[]
     for abbr in full_form_entity_status:
+        if len(abbr)<2:
+            continue
         abbr_status=full_form_entity_status[abbr][:]
         if abbr[-1]=='s':
             add_abbr.append([abbr[:-1],abbr_status])
@@ -83,7 +88,6 @@ def process_abbreviations(content,tagged_doc, abbr_dict):
     for item in add_abbr:
         abbr,abbr_status=item
         full_form_entity_status[abbr]=abbr_status[:]
-    
     # Step 2: Process each abbreviation based on full form recognition status
     for abbr, found_result in full_form_entity_status.items():
         found_type,found_prob,full_form,found_id=found_result
@@ -101,21 +105,19 @@ def process_abbreviations(content,tagged_doc, abbr_dict):
                     start=entity_dict['start']
                     end=entity_dict['end']
                     if not (add_end<=start or end<=add_start):
-                        if found_type not in ['gene','species','mutation']:
+                        if found_type not in ['gene','species','mutation','cellline']:
                             entity_dict['prob']=found_prob
                             entity_dict['mention']=entity_dict['mention'].replace(abbr,full_form)
                         if_add=False
                 
                 if if_add:
-                    if found_type not in ['gene','species','mutation']:
+                    if found_type not in ['gene','species','mutation','cellline']:
                         add_entities.append({'start': add_start,'end': add_end,'prob':found_prob,'mention':full_form})
                     else:
                         add_entities.append({'start': add_start,'end': add_end,'mention':abbr,'id':found_id})
             
             for add_entity in add_entities:
-                #print('*',add_entity)
                 entities[found_type].append(add_entity) 
-            '''
             for entity_type, entity_dicts in entities.items():
                 if entity_type==found_type:
                     continue
@@ -133,8 +135,7 @@ def process_abbreviations(content,tagged_doc, abbr_dict):
                 
                 for del_index in del_indexs:
                     del entity_dicts[del_index]  
-            '''
-
+            
         '''
         else:
             # Case 2: Full form is not recognized - remove any misrecognized abbreviations
@@ -163,6 +164,7 @@ def abbr2fullname(tagged_docs):
         content=tagged_doc['title']+' '+tagged_doc['abstract']
         pmid=tagged_doc['pmid']
         abbr_dict = abbr_resolver.resolve(content)
+
         tagged_doc=process_abbreviations(content,tagged_doc,abbr_dict)
     return tagged_docs
 
@@ -196,11 +198,6 @@ def ner_merge(tagged_docs,tmvar_docs,gnormplus_docs,cellline_docs):
                 gnorm_found=True
                 break 
         if gnorm_found and len(content)!=len(content_gnorm):
-            '''
-            print(len(content),[content])
-            print(len(content_gnorm),[content_gnorm])
-            print(yes)
-            '''
             if tagged_doc_index not in del_indexs:
                 del_indexs.append(tagged_doc_index)
             continue
@@ -230,15 +227,15 @@ def ner_merge(tagged_docs,tmvar_docs,gnormplus_docs,cellline_docs):
     for del_index in del_indexs:
         del tagged_docs[del_index]
     return tagged_docs
-            
+      
 def main():
     argparser = argparse.ArgumentParser()
-    argparser.add_argument('-c', '--case',help='Specify case name')
+    argparser.add_argument('-c', '--case',help='Specify case name',required=True)
     args = argparser.parse_args()
-    ner_path=f'./case/{args.case}/NERoutput/{args.case}*.json'
+    ner_path=f'../case/{args.case}/NERoutput/{args.case}*.json'
     ner_files = glob.glob(ner_path)
     
-    output_path=f'./case/{args.case}/NERoutput_m'
+    output_path=f'../case/{args.case}/NERoutput_m'
     if not os.path.exists(output_path):
         os.makedirs(output_path)
     
@@ -251,20 +248,20 @@ def main():
         tmvar_docs=[]
         gnormplus_docs=[]
         cellline_docs=[]
-        output_tmvar_norm=f'./case/{args.case}/tmvar3/{base_name}.PubTator.PubTator'
+        output_tmvar_norm=f'../case/{args.case}/tmvar3/{base_name}.PubTator.PubTator'
         if os.path.exists(output_tmvar_norm):
             tmvar_docs = pubtator2dict_list(output_tmvar_norm)
             tmvar_docs = reformat_tmvar(tmvar_docs)
-        output_gnormplus_norm=f'./case/{args.case}/gnormplus/{base_name}.PubTator'
+        output_gnormplus_norm=f'../case/{args.case}/gnormplus/{base_name}.PubTator'
         if os.path.exists(output_gnormplus_norm):
             gnormplus_docs = pubtator2dict_list(output_gnormplus_norm)
             gnormplus_docs,cellline_docs=reformat_gnorm(gnormplus_docs)
         tagged_docs=ner_merge(tagged_docs,tmvar_docs,gnormplus_docs,cellline_docs)
         #Handling abbreviations
         tagged_docs=abbr2fullname(tagged_docs)
-        
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(tagged_docs, f)
+        os.remove(ner_file)
         
         
         

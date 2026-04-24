@@ -31,17 +31,12 @@ def mtner_recognize(model, dict_path, base_name, args):
     )
     if res is None:
         return None, 0
-    num_filtered_species_per_doc = filter_entities(res)
-    for n_f_spcs in num_filtered_species_per_doc:
-        if n_f_spcs[1] > 0:
-            print(datetime.now().strftime(args.time_format),
-                  '[{}] Filtered {} species'
-                  .format(base_name, n_f_spcs[1]))
-    num_entities = count_entities(res)
-    res[0]['num_entities'] = num_entities
+    #num_entities = count_entities(res)
+    #res[0]['num_entities'] = num_entities
     # Write output str to a .PubTator format file
     with open(output_mt_ner, 'w', encoding='utf-8') as f:
         json.dump(res, f)
+    
 
 def run_server(model, args):
     output_path=os.path.join(args.mtner_home,args.case, 'NERoutput')
@@ -51,6 +46,10 @@ def run_server(model, args):
     for file in os.listdir(os.path.join(args.mtner_home, args.case,'pubtator')):
         if 'PubTator' not in file:
             continue
+        '''
+        if os.path.exists(os.path.join(args.mtner_home, args.case,'NERoutput',file.replace('PubTator','json'))):
+            continue
+        '''
         print(f"Processing file: {file}...")
         dict_path=os.path.splitext(file)[0]
         base_name=os.path.splitext(file)[0]
@@ -63,7 +62,7 @@ if __name__ == "__main__":
     argparser.add_argument('--seed', type=int, help='random seed for initialization',
                             default=1)
     argparser.add_argument('-c','--case', help='Specify the case name')
-    argparser.add_argument('--model_name_or_path', default='../model/biolitNER')
+    argparser.add_argument('--model_name_or_path', default='../model/1pubmed_gold')
     argparser.add_argument('--max_seq_length', type=int, help='The maximum total input sequence length after tokenization. Sequences longer than this will be truncated, sequences shorter will be padded.',
                             default=128)
     argparser.add_argument('--mtner_home',

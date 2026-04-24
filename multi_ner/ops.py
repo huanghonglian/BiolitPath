@@ -334,28 +334,27 @@ def pubtator2dict_list(pubtator_file_path):
     with open(pubtator_file_path, 'r', encoding='utf-8') as f:
         for line in f:
             line = line.rstrip()
-            if len(line) == 0:
-                               
-                doc_dict = {
-                    'pmid': title_pmid,
-                    'entities': {},
-                }
-                doc_dict['title'] = preprocess(title)
-                doc_dict['abstract'] = preprocess(abstract_text)
+            if len(line) == 0:    
                 if title.strip()!='' or abstract_text.strip()!='':
+                    doc_dict = {
+                        'pmid': title_pmid,
+                        'entities': {},
+                    }
+                    doc_dict['title'] = preprocess(title)
+                    doc_dict['abstract'] = preprocess(abstract_text)
                     dict_list.append(doc_dict)
-
+                title=''
+                abstract_text=''
                 doc_line_num = 0
                 continue
 
             if doc_line_num == 0:
                 title_cols = line.split('|t|')
-                if len(title_cols) != 2:
-                    return '{"error": "wrong #title_cols {}"}'\
-                        .format(len(title_cols))
-
+                if len(title_cols) <2:
+                    print(f'There is an error in file {pubtator_file_path}:')
+                    return (f'error: Invalid title columns count: expected 2, got {len(title_cols)}\ntext:{line[:50]}...')
                 title_pmid = title_cols[0]
-
+                title_cols[1]='|t|'.join(title_cols[1:])
                 if '- No text -' == title_cols[1]:
                     # make tmvar2 results empty
                     title = ''
@@ -363,14 +362,12 @@ def pubtator2dict_list(pubtator_file_path):
                     title = title_cols[1]
             elif doc_line_num == 1:
                 abstract_cols = line.split('|a|')
-
                 if len(abstract_cols) != 2:
                     if len(abstract_cols) > 2:
                         abstract_text = "|a|".join(abstract_cols[1:])
                     else:
-                        print(f'There is an error in the following line in file {pubtator_file_path}:')
-                        print(line)
-                        return '{{"error": "wrong #abstract_cols {}"}}'.format(len(abstract_cols))
+                        print(f'There is an error in file {pubtator_file_path}:')
+                        return (f'error: wrong #abstract_cols: expected 2, got {len(abstract_cols)}\ntext:{line[:50]}...')
                 else:
                     if '- No text -' == abstract_cols[1]:
                         # make tmvar2 results empty
@@ -378,7 +375,15 @@ def pubtator2dict_list(pubtator_file_path):
                     else:
                          abstract_text = abstract_cols[1]
 
-            doc_line_num += 1
+            doc_line_num += 1   
+    if title.strip()!='' or abstract_text.strip()!='':
+        doc_dict = {
+            'pmid': title_pmid,
+            'entities': {},
+        }
+        doc_dict['title'] = preprocess(title)
+        doc_dict['abstract'] = preprocess(abstract_text)
+        dict_list.append(doc_dict)
     return dict_list
 
 def preprocess(text):
