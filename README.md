@@ -1,8 +1,8 @@
-# BioLitGraph
+# BiolitPath
 
-BioLitGraph (Biological Literature Graph) is an tool designed to accelerate biomedical research by automatically extracting and standardizing biological entities (such as genes, proteins, diseases, drugs, and cell types) from large-scale biomedical literature, constructing a high-quality knowledge graph based on their co-occurrence relationships, and enabling simple path-based reasoning.
+BiolitPath (Biological Literature Path retrieval) is an tool designed to accelerate biomedical research by automatically extracting and standardizing biological entities (such as genes, diseases, chemicals, and cell types) from large-scale biomedical literature, constructing a knowledge graph based on their co-occurrence relationships, and enabling simple path-based retrieval.
 
-### Install BioLitGraph
+### Install BiolitPath
 
 
 ```python
@@ -10,16 +10,11 @@ BioLitGraph (Biological Literature Graph) is an tool designed to accelerate biom
 python -c "import torch;print(torch.cuda.is_available())"
 
 # Install BioLitGraph
-cd BioLitGraph
+cd BiolitPath
 pip install -r requirements.txt
 ```
 
-
-```python
-curl -X POST https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/RESTful/retrieve.cgi -H "Content-Type: application/x-www-form-urlencoded" -d "id=90C392ACD99A9B6769B7"
-```
-
-Then, you need to download resources (e.g., external modules or dictionaries) for running BioLitGraph. Note that you will need 15GB of free disk space. You can also download the resource file from google drive.
+Then, you need to download resources (e.g., external modules or dictionaries) for running BiolitPath. Note that you will need 15GB of free disk space.
 
 
 ```python
@@ -40,26 +35,60 @@ mv CRF++-0.58 CRF
 cd ../..
 ```
 
-### Running BioLitGraph
+### Running BiolitPath
 
-The minimum memory requirement for running BioLitGraph on GPU is 4GB of RAM & 5.05GB of GPU. The following command runs BioLitGraph.
+The minimum memory requirement for running BiolitPath on GPU is 4GB of RAM & 5.05GB of GPU. The following command runs BiolitPath.
+
+In the following, we use a simple case named "**test**" as an example.
 
 #### Step 1 Input Options
 
-Users can input either a **PMID** or their own **custom text**.
+Users can input either **search query**, **PMIDs** or their own **custom text**.
 
-- **If a PMID is provided**:  
-  The system will retrieve the corresponding title and abstract from the PubMed database using that PMID, and then convert them into PubTator format.
+- **If a Search query or PMIDs are provided**:  
+  The system will retrieve the corresponding title and abstract from the PubMed database and convert them into PubTator format.
+
+&emsp;(1)If the input is a search query. Save it to the file `./case/test/test.term.txt`. For example:
+
+```text
+intrahepatic cholangiocarcinoma[tiab] AND FGFR2[tiab] AND BICC1[tiab]
+
+&emsp;(2)If the input is a list of PMIDs. Save them to the file ./case/test/test.pmid.txt, with one PMID per line.  
+&emsp;For example:
+
+```text
+38331087
+32934021
+35564224
 
 - **If custom text is provided**:  
-  The user must supply the text in PubTator format themselves and place it in the `./case/{case_name}/pubtator` directory. The filename must strictly follow the pattern `{case_name}{num}.PubTator` (where `{case_name}` is the case name and `{num}` is a sequential number).
+  The user must supply the text in PubTator format and place it in the `./case/{case_name}/pubtator` directory.  
+  The filename must follow the pattern `{case_name}{num}.PubTator`, where `{case_name}` is the case name and `{num}` is a sequential number.  
+  For example: `./case/test/pubtator/test1.PubTator`
+
+```text
+35564224|t|Intracellular...  
+35564224|a|The study...  
+  
+20417042|t|Detection...  
+20417042|a|Human papilloma...  
 
 
 ```python
 #Search query as Input
-python lit_download.py -c test -t
-#PubMed ID (PMID) as Input
+python lit_download.py -c test -q
+```
+
+
+```python
+#PubMed ID as Input
 python lit_download.py -c test -p
+```
+
+
+```python
+#Custom text as Input
+python lit_download.py -c test -t
 ```
 
 #### **Step 2 Running named entity recognition**
@@ -69,27 +98,24 @@ This stage performs comprehensive named entity recognition (NER) on the input te
 **Multi-Semantic Model Recognition**  
    A advanced multi-semantic deep learning model is employed to identify a broad range of biomedical entities with rich contextual understanding. The model is capable of recognizing the following entity types:  
    - **Diseases** (e.g., cancer, diabetes, Alzheimer's disease)  
-   - **Compounds** (e.g., drugs, chemicals, small molecules, metabolites)  
+   - **Chemical** (e.g., drugs, chemicals, small molecules, metabolites)  
    - **Cell Types** (e.g., T cells, neurons, hepatocytes)  
    - **Gene Ontology Terms** (biological processes, molecular functions, cellular components)  
    - **Body Parts** (e.g., liver, heart, brain)  
-   - **Diagnostic Procedures** (e.g., MRI, biopsy, blood test)  
-   - **Treatment Methods** (e.g., chemotherapy, surgery, radiotherapy)  
+   - **Diagnosis** (e.g., MRI, biopsy, blood test)  
+   - **Treatment** (e.g., chemotherapy, surgery, radiotherapy)  
    - **Food** (e.g., Mediterranean diet, ketogenic diet)  
-   - **Geographical Locations** (e.g., countries, regions, or places relevant to epidemiology)  
+   - **Locations** (e.g., countries, regions, or places relevant to epidemiology)  
 
-   This model excels at capturing complex semantic relationships and handling ambiguous or overlapping mentions in biomedical literature.
 
 
 ```python
-cd multi_ner
-python ner_server.py -c Medmention-diagnose
-cd ..
+python multi_ner.py -c test
 ```
 
 **GnormPlus**  
    The GnormPlus tool, a state-of-the-art rule-based and machine learning hybrid system, is applied to accurately identify:  
-   - **Genes and Proteins**  
+   - **Genes/Proteins**  
    - **Species** (e.g., Homo sapiens, Mus musculus)  
    - **Cell Lines** (e.g., HeLa, HEK293)  
 
@@ -97,32 +123,20 @@ cd ..
 
 
 ```python
-case='NLM-Gene' 
+case='test'
 mkdir ./case/$case/gnormplus_tmp
-mkdir ./case/$case/gnormplus
-cd GNorm2
-java -Xmx40G -Xms40G -jar GNormPlus.jar "../case/${case}/pubtator" "../case/${case}/gnormplus_tmp" setup.txt
-#python post-processing_gnormplus.py -c "${case}"
-cd ..
-```
-
-
-```python
-case='NLM-Gene' 
-cd GNorm2
-java -Xmx40G -Xms40G -jar GNormPlus.jar "../case/${case}/gnormplus_tmp" "../case/${case}/gnormplus" setup.txt
+cd GNormPlus
+java -Xmx40G -Xms40G -jar GNormPlus.jar ../case/${case}/pubtator ../case/${case}/gnormplus_tmp setup.txt
+python post_processing_gnormplus.py -c "${case}"
 cd ..
 ```
 
 **tmVar3**  
-   The tmVar3 tool is used to detect **genetic variants** mentioned in the text, including:  
-   - Single nucleotide variants (SNVs)  
-   - Insertions/deletions (indels)  
-   - Other sequence variations at DNA, RNA, and protein levels  
+   The tmVar3 tool is used to detect **genetic variants** mentioned in the text
 
 
 ```python
-case='Medmention-diagnose' 
+case='test'
 mkdir ./case/$case/tmvar3
 cd tmVar3
 java -Xmx5G -Xms5G -jar tmVar.jar ../case/$case/gnormplus_tmp ../case/$case/tmvar3 
@@ -135,66 +149,97 @@ All recognized entities from the three components are integrated and annotated i
 
 
 ```python
-python post_process_ner.py -c Medmention-treatment
+cd multi_ner
+python post_process_ner.py -c $case
+cd ..
 ```
 
 #### **Step 3 Running named entity normalization**
 
-This stage focuses on normalizing the entities recognized in the previous NER phase, mapping them to standardized identifiers from established biomedical ontologies and databases. Normalization ensures consistency, enables interoperability, and facilitates downstream tasks such as knowledge graph construction or comparative analysis.
+This stage focuses on normalizing the entities recognized in the previous NER phase, mapping them to standardized identifiers from established biomedical ontologies and databases. Overlapping or conflicting annotations are resolved based on priority rules and source reliability.
 
 The normalization process covers the following entity types with their respective target resources:
 
-- **Diseases**  
-  Normalized to **MeSH** (Medical Subject Headings) and/or **OMIM** (Online Mendelian Inheritance in Man) identifiers, providing standardized disease terminology and links to genetic disorders where applicable.
+| Type           | Ontology                     | Type        | Ontology        |
+|:---------------|:------------------------------|:------------|:-----------------|
+| Chemical       | MESH; CHEBI                  | Body part   | UBERON           |
+| Disease        | MESH; OMIM                   | Treatment   | UMLS (T060)      |
+| Cell type      | Cell ontology; Cell taxonomy | Diagnose    | UMLS (T061)      |
+| Food           | UMLS (T168)                  | Gene        | NCBI Gene        |
+| Gene ontology  | Gene ontology                | Species     | Taxonomy         |
+| Location       | Geoname                      | Cell line   | RRID             |
 
-- **Compounds** (drugs, chemicals, small molecules, metabolites)  
-  Mapped to canonical identifiers from databases such as **PubChem**, **ChEBI**, or **DrugBank** (specific resource may depend on model configuration).
-
-- **Cell Types**  
-  Normalized using **Cell Ontology (CL)** and/or **BRENDA Tissue Ontology (BTO)**, ensuring precise representation of cell populations and tissue-derived cells.
-
-- **Gene Ontology Terms** (biological processes, molecular functions, cellular components)  
-  Directly linked to **Gene Ontology (GO)** identifiers.
-
-- **Body Parts**  
-  Normalized to concepts in **UMLS** (Unified Medical Language System), leveraging its comprehensive anatomical terminology.
-
-- **Diagnostic Procedures**  
-  Mapped to corresponding **UMLS** concepts for standardized representation of tests, imaging, and diagnostic methods.
-
-- **Treatment Methods**  
-  Normalized to **UMLS** concepts, covering interventions such as surgery, radiotherapy, and therapeutic procedures.
-
-- **Food**  
-  Linked to relevant **UMLS** concepts describing dietary patterns or nutritional regimens.
-
-- **Geographical Locations**  
-  Normalized using **GeoNames** identifiers for countries, regions, cities, or other epidemiologically relevant locations.
-
-- **Genes and Proteins** (from GnormPlus)  
-  Normalized to **NCBI Gene** (Entrez Gene) identifiers.
-
-- **Species** (from GnormPlus)  
-  Mapped to **NCBI Taxonomy** IDs.
-
-- **Cell Lines** (from GnormPlus)  
-  Normalized to **RRID** (Research Resource Identifier) where available, or standard cell line database entries.
-
-- **Mutations** (from tmVar 3)  
-  Already standardized to **HGVS** nomenclature with links to databases such as dbSNP or ClinVar (no additional ontology mapping required).
-
-Normalization is performed using a combination of dictionary lookup, contextual disambiguation, and confidence scoring. Overlapping or conflicting annotations are resolved based on priority rules and source reliability. The final output augments the original PubTator file with standardized identifiers in the entity annotation lines, maintaining full compatibility with PubTator-centric tools and pipelines.
+Mutation normalization refers to representing mutations as uniformly formatted, canonical expressions rather than mapping them to entries in a specific database.
 
 
 ```python
-python normalizer.py -c Medmention-treatment
+python normalizer.py -c $case
 ```
 
-#### Step 3 Path reasoning
+#### Step 3 Path retrieval
+
+- **Co-occurrence score calculation**:  
+    Co-occurrence of entity pairs is assessed across the corpus using Fisher’s exact test. 
+The adjusted p-value (adjP) is used to quantify statistical significance. 
+Entity pairs with an $\text{adjP} < 0.05$ are considered to have a co-occurrence relationship, 
+and $-\log(\text{adjP})$ is used as the co-occurrence score.
+
+    Triples in the form of (entity1, relation, entity2) are generated. Nodes represent entities, edges denote co-occurrence relationships, and edge weights correspond to co-occurrence scores, reflecting the strength of associations between entities.
 
 
 ```python
 cd pathfinder
-python co-occurrence.py -c HPV
-python pathfinder.py -c HPV -s species:10566 -t disease:MESH:D002583,OMIM:603956 
+python co-occurrence.py -c test
+```
+
+- **Path retrieval**:  
+    A path retrieval approach is developed to identify high-confidence multi-hop association paths between entities. 
+
+    The path retrieval module supports three flexible input modes for different application scenarios:
+
+1. **Single-source query**:  
+   Given a single source entity, the system automatically retrieves the top-*k* highest-weighted paths originating from that entity.
+
+2. **Source–target query**:  
+   When both a source entity and a target entity are specified, the system searches for the shortest association paths between them in the graph.  
+   This mode is particularly useful for validating known or hypothesized indirect mechanisms of action.
+
+3. **Type-guided path query**:  
+   Given a predefined sequence of node types (e.g., *Disease → Gene → Chemical/Drug*), the system preferentially retrieves paths that conform to the specified semantic structure.  
+
+Case Study: Path Retrieval Examples
+
+We demonstrate the proposed KG-based path retrieval approach on three representative disease cases.
+
+Case 1: Intrahepatic Cholangiocarcinoma
+
+
+```python
+python pathfinder.py -c ICC -s disease:MESH:D018281 -d --max_hop 2 -k 5
+```
+
+Case 2: Mechanistic Link Between HPV Infection and Cervical Cancer
+
+
+```python
+python pathfinder.py -c HPV -s species:10566 -t disease:MESH:D002583,OMIM:603956 -d --max_hop 2 -k 5
+```
+
+Case 3: Myelodysplastic Syndrome
+
+
+```python
+python pathfinder.py -c MDS -s disease:MESH:D009190,OMIM:614286 -d --max_hop 2 -k 5
+```
+
+GO–gene association pathways
+
+
+```python
+#cell proliferation
+python pathfinder.py -c ICC -s go:GO:0008283 -d -max_hop 1 -k 20 -n go+gene
+#cell migration
+python pathfinder.py -c ICC -s go:GO:0016477 -d -max_hop 1 -k 20 -n go+gene
+#epithelial to mesenchymal transition
+python pathfinder.py -c ICC -s go:GO:0001837 -d -max_hop 1 -k 20 -n go+gene
 ```
