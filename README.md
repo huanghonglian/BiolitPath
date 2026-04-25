@@ -240,9 +240,9 @@ GO–gene association pathways
 
 ```python
 #cell proliferation
-python pathfinder.py -c ICC -s go:GO:0008283 -d -max_hop 1 -k 20 -n go+gene
+python pathfinder.py -c ICC -s go:GO:0008283 -d --max_hop 1 -k 20 -n go+gene
 #cell migration
-python pathfinder.py -c ICC -s go:GO:0016477 -d -max_hop 1 -k 20 -n go+gene
+python pathfinder.py -c ICC -s go:GO:0016477 -d --max_hop 1 -k 20 -n go+gene
 #epithelial to mesenchymal transition
-python pathfinder.py -c ICC -s go:GO:0001837 -d -max_hop 1 -k 20 -n go+gene
+python pathfinder.py -c ICC -s go:GO:0001837 -d --max_hop 1 -k 20 -n go+gene
 ```
