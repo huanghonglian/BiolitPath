@@ -49,6 +49,7 @@ Users can input either **search query**, **PMIDs** or their own **custom text**.
 
 ```text
 intrahepatic cholangiocarcinoma[tiab] AND FGFR2[tiab] AND BICC1[tiab]  
+```
 
 &emsp;(2)If the input is a list of PMIDs. Save them to the file ./case/test/test.pmid.txt, with one PMID per line.  
 &emsp;For example:
