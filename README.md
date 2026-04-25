@@ -14,13 +14,13 @@ cd BiolitPath
 pip install -r requirements.txt
 ```
 
-Then, you need to download resources (e.g., external modules or dictionaries) for running BiolitPath. Note that you will need 15GB of free disk space.
+Then, you need to download resources (e.g., external modules or dictionaries) for running BiolitPath. Note that you will need 18GB of free disk space.  
+Place GNormPlus, resources, and tmVar3 under the `BiolitPath` directory. The compressed package can be downloaded from http://www.biomedinfo.cn/biomedinfo/download/BiolitPath.tar.gz.
 
 
 ```python
 # (For Linux Users) install CRF 
 cd GNormPlusJava
-tar -zxvf CRF++-0.58.tar.gz
 mv CRF++-0.58 CRF
 cd CRF
 ./configure --prefix="$HOME"
@@ -30,14 +30,11 @@ cd ../..
 
 # (For Windows Users) install CRF 
 cd resources/GNormPlusJava
-unzip -zxvf CRF++-0.58.zip
 mv CRF++-0.58 CRF
 cd ../..
 ```
 
 ### Running BiolitPath
-
-The minimum memory requirement for running BiolitPath on GPU is 4GB of RAM & 5.05GB of GPU. The following command runs BiolitPath.
 
 In the following, we use a simple case named "**test**" as an example.
 
@@ -51,8 +48,7 @@ Users can input either **search query**, **PMIDs** or their own **custom text**.
 &emsp;(1)If the input is a search query. Save it to the file `./case/test/test.term.txt`. For example:
 
 ```text
-intrahepatic cholangiocarcinoma[tiab] AND FGFR2[tiab] AND BICC1[tiab]
-```
+intrahepatic cholangiocarcinoma[tiab] AND FGFR2[tiab] AND BICC1[tiab]  
 
 &emsp;(2)If the input is a list of PMIDs. Save them to the file ./case/test/test.pmid.txt, with one PMID per line.  
 &emsp;For example:
@@ -61,7 +57,6 @@ intrahepatic cholangiocarcinoma[tiab] AND FGFR2[tiab] AND BICC1[tiab]
 38331087
 32934021
 35564224
-```
 
 - **If custom text is provided**:  
   The user must supply the text in PubTator format and place it in the `./case/{case_name}/pubtator` directory.  
@@ -74,7 +69,7 @@ intrahepatic cholangiocarcinoma[tiab] AND FGFR2[tiab] AND BICC1[tiab]
   
 20417042|t|Detection...  
 20417042|a|Human papilloma...  
-```
+
 
 ```python
 #Search query as Input
@@ -95,8 +90,10 @@ python lit_download.py -c test -t
 
 #### **Step 2 Running named entity recognition**
 
-This stage performs comprehensive named entity recognition (NER) on the input text (in PubTator format, either retrieved from PubMed or provided by the user). The process is divided into three complementary components, each leveraging specialized models to detect distinct biomedical entity types.
-
+This stage performs comprehensive named entity recognition (NER) on the input text (in PubTator format, either retrieved from PubMed or provided by the user). The process is divided into three complementary components, each leveraging specialized models to detect distinct biomedical entity types.  
+  
+Download the NER model from https://huggingface.co/honglian/BiolitNER and save it to `./model/BiolitNER`.
+  
 **Multi-Semantic Model Recognition**  
    A advanced multi-semantic deep learning model is employed to identify a broad range of biomedical entities with rich contextual understanding. The model is capable of recognizing the following entity types:  
    - **Diseases** (e.g., cancer, diabetes, Alzheimer's disease)  
@@ -141,7 +138,7 @@ cd ..
 case='test'
 mkdir ./case/$case/tmvar3
 cd tmVar3
-java -Xmx5G -Xms5G -jar tmVar.jar ../case/$case/gnormplus_tmp ../case/$case/tmvar3 
+java -Xmx5G -Xms5G -jar tmVar.jar ../case/$case/gnormplus ../case/$case/tmvar3 
 cd ..
 ```
 
@@ -159,6 +156,8 @@ cd ..
 #### **Step 3 Running named entity normalization**
 
 This stage focuses on normalizing the entities recognized in the previous NER phase, mapping them to standardized identifiers from established biomedical ontologies and databases. Overlapping or conflicting annotations are resolved based on priority rules and source reliability.
+
+Download the NER model from https://huggingface.co/honglian/BiolitNEN and save it to `./model/BiolitNEN`.  
 
 The normalization process covers the following entity types with their respective target resources:
 
