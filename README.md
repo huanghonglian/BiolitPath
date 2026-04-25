@@ -29,7 +29,7 @@ make install
 cd ../..
 
 # (For Windows Users) install CRF 
-cd resources/GNormPlusJava
+cd GNormPlusJava
 mv CRF++-0.58 CRF
 cd ../..
 ```
