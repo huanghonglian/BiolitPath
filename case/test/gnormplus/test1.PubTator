@@ -1,0 +1,499 @@
+40198372|t|FGFR2 fusion/rearrangement analysis in intrahepatic cholangiocarcinoma using DNA/RNA-based NGS and FISH.
+40198372|a|Patients with intrahepatic cholangiocarcinoma (iCCA) harboring FGFR2 fusion/rearrangement benefit from targeted therapies, highlighting the need for reliable testing strategies to identify FGFR2 alterations. We assessed 226 iCCA cases using RNA-based NGS, DNA-based NGS, and break-apart FISH to evaluate the effectiveness of these methods in detecting FGFR2 fusion/rearrangement. The detection rates for FGFR2 fusion/rearrangement were 9.7% (22/226) for RNA-based NGS, 7.1% (16/226) for DNA-based NGS, and 10.2% (23/226) for FISH. Among the 26 FGFR2 fusion/rearrangement-positive cases identified by any method, only 15 (57.7%) were positive by all three techniques, yielding a concordance rate of 95.1% (215/226). RNA-based NGS confirmed oncogenic FGFR2 fusion in 81% (21/26) of positive cases and identified five novel oncogenic fusions. Thirty-five percent (6/17) of the partner genes were located on chromosome 10, with BICC1 being the most common fusion partner, while the rest were distributed across the other 9 chromosomes. FISH demonstrated a sensitivity of 95.2% and specificity of 98.5%, compared to oncogenic FGFR2 fusions confirmed by RNA-based NGS, while DNA-based NGS exhibited a sensitivity of 71.4% and specificity of 99.5%, identifying FGFR2 mutations in 4 cases. FGFR2-FISH positive cases displayed no significant heterogeneity in positive cell distribution. Oncogenic FGFR2 fusion/rearrangement was associated with small duct type iCCA, especially in cases with positive serum HBsAg and absent cholangiolocarcinoma components and peripheral liver steatosis. This study provides a comprehensive comparison of three assays for detecting FGFR2 fusion/rearrangement, along with clinicopathologic characterization of oncogenic FGFR2 fusion in iCCA.
+40198372	0	5	FGFR2	Gene	2263
+40198372	105	113	Patients	Species	9606
+40198372	168	173	FGFR2	Gene	2263
+40198372	294	299	FGFR2	Gene	2263
+40198372	457	462	FGFR2	Gene	2263
+40198372	509	514	FGFR2	Gene	2263
+40198372	649	654	FGFR2	Gene	2263
+40198372	854	859	FGFR2	Gene	2263
+40198372	1029	1034	BICC1	Gene	80114
+40198372	1226	1231	FGFR2	Gene	2263
+40198372	1359	1364	FGFR2	Gene	2263
+40198372	1387	1392	FGFR2	Gene	2263
+40198372	1493	1498	FGFR2	Gene	2263
+40198372	1760	1765	FGFR2	Gene	2263
+40198372	1847	1852	FGFR2	Gene	2263
+
+14970278|t|TSLC1 gene silencing in cervical cancer cell lines and cervical neoplasia.
+14970278|a|BACKGROUND: Cervical carcinogenesis is initiated by infection with high-risk (i.e., carcinogenic) human papillomavirus (HPV) types. The subsequent progression from premalignant cervical intraepithelial neoplasia (CIN) to invasive cancer is driven by both genetic and epigenetic processes. We assessed the role of the gene encoding the adhesion molecule tumor suppressor in lung cancer 1 (TSLC1) in this progression. METHODS: We analyzed TSLC1 gene expression by real-time quantitative reverse transcription-polymerase chain reaction, promoter methylation by sodium bisulfite genomic DNA sequencing, and allelic loss by microsatellite analysis in primary keratinocytes, in four non-tumorigenic HPV-immortalized human keratinocyte cell lines, and in 11 human cervical cancer cell lines that were positive for a high-risk HPV DNA type and in normal cervical epithelial cells. We transfected cervical cancer SiHa cells that did not express TSLC1 mRNA with an expression vector containing the TSLC1 complementary DNA (cDNA) or an empty vector and analyzed transfectants for anchorage-independent growth and tumorigenicity in nude mice. We also examined TSLC1 promoter methylation in premalignant cervical lesions and in cervical carcinomas and smears. All statistical tests were two-sided. RESULTS: TSLC1 mRNA was strongly reduced, relative to levels in primary keratinocytes, or absent in 10 (91%) of 11 cervical carcinoma cell lines but in none (0%) of the four HPV-immortalized cell lines (difference = 91%, 95% confidence interval [CI] = 74% to 100%; P =.004). The TSLC1 promoter was hypermethylated, relative to normal foreskin and cervical epithelial cells, in nine (82%) of the 11 cervical carcinoma cell lines but in none (0%) of the four HPV-immortalized cell lines (difference = 82%, 95 CI = 59% to 100%; P =.01). Seven (88%, 95% CI = 47% to 100%) of the eight SiHa/TSLC1 transfectants displayed a marked reduction in anchorage-independent growth (i.e., 0-100 colonies per 5000 cells) compared with none of the four (0%, 95% CI = 0% to 60%) SiHa transfectants bearing the empty vector (i.e., SiHa/hygro transfectants; difference = 88%, 95% CI = 65% to 100%; P =.01) or untransfected SiHa cells. All seven mice (100%, 95% CI = 59% to 100%) injected with untransfected SiHa cells or SiHa/hygro transfectants displayed tumors of at least 50 mm(3) by 2-6 weeks after injection compared with none of eight mice (0%, 95% CI = 0% to 37%) injected with the SiHa/TSLC1 transfectants (difference = 100%, 95% CI = 68% to 100%; P<.001). We detected TSLC1 promoter hypermethylation in seven (35%, 95% CI = 15% to 59%) of 20 high-grade CIN lesions (i.e., CIN II and III) and in 30 (58%, 95% CI = 43% to 71%) of 52 cervical squamous cell carcinomas compared with none (0%, 95% CI = 0% to 34%) of nine normal cervical epithelial biopsy samples and none (0%, 95% CI = 0% to 22%) of 12 CIN I lesions (P<.001 for cervical squamous cell cancer versus normal epithelial biopsy samples plus CIN I lesions). CONCLUSIONS: TSLC1 gene silencing via promoter hypermethylation is a frequent event in the progression from high-risk HPV-containing, high-grade CIN lesions to invasive cervical cancer.
+14970278	0	5	TSLC1	Gene	23705
+14970278	173	193	human papillomavirus	Species	10566
+14970278	785	790	human	Species	9606
+14970278	826	831	human	Species	9606
+14970278	1195	1204	nude mice	Species	10090
+14970278	2285	2289	mice	Species	10090
+14970278	2481	2485	mice	Species	10090
+14970278	979	983	SiHa	CellLine	9606
+14970278	2238	2244	P =.01	CellLine	9606
+14970278	2263	2267	SiHa	CellLine	9606
+14970278	2347	2351	SiHa	CellLine	9606
+14970278	195	198	HPV	Species	10566
+14970278	768	771	HPV	Species	10566
+14970278	894	897	HPV	Species	10566
+14970278	1534	1537	HPV	Species	10566
+14970278	1817	1820	HPV	Species	10566
+14970278	3183	3186	HPV	Species	10566
+14970278	410	461	adhesion molecule tumor suppressor in lung cancer 1	Gene
+14970278	463	468	TSLC1	Gene	23705
+14970278	512	517	TSLC1	Gene	23705
+14970278	1011	1016	TSLC1	Gene	23705
+14970278	1063	1068	TSLC1	Gene	23705
+14970278	1223	1228	TSLC1	Gene	54725
+14970278	1369	1374	TSLC1	Gene	23705
+14970278	1639	1644	TSLC1	Gene	23705
+14970278	1946	1951	TSLC1	Gene	23705
+14970278	2534	2539	TSLC1	Gene	54725
+14970278	2617	2622	TSLC1	Gene	54725
+14970278	2721	2735	CIN II and III	Gene
+14970278	3078	3083	TSLC1	Gene	23705
+
+10530768|t|Features of HPV infection among the healthy attendants of gynecological practice in St. Petersburg, Russia.
+10530768|a|Prevalence of human papillomavirus (HPV) infection was estimated in women from St. Petersburg, Russia. The study included 309 attendants of gynecological practice, who met the following criteria: (1) history of sexual activity; (2) reproductive age; (3) lack of evidence for a specific disease of the genital tract or a current pregnancy; and (4) no cervical abnormalities revealed by cytological examination. Papillomavirus detection was carried out by PCR using MY09/11 primers. Ninety (29%) females turned out to be HPV-positive. HPV presence did not correlate with the current age, age at the sexual debut, or time interval since the first intercourse. However, women with the history of more than two contraceptive abortions had a higher prevalence of papillomavirus infection as compared to the remaining group (30/66 (45%) vs. 56/207 (27%); P = 0.005; OR = 2.25 (1.27-3.97)). HPV genotyping procedure involved reverse dot-blot hybridization and restriction endonuclease analysis. High-risk, low-risk and non-identified viruses were detected in 58, 26, and 16% of the positive samples, respectively. HPV16 was the most prevalent type, being present alone in 21% of the infected women, and in combination with other HPVs in 5% of the virus-positive females. No other papillomavirus types showed exceptionally prominent prevalence. The data suggest that HPV occurrence among Russian women is within the range of world-wide variations.
+10530768	12	15	HPV	Species	10566
+10530768	122	142	human papillomavirus	Species	10566
+10530768	176	181	women	Species	9606
+10530768	774	779	women	Species	9606
+10530768	1214	1219	HPV16	Species	333760
+10530768	1292	1297	women	Species	9606
+10530768	1495	1500	women	Species	9606
+10530768	144	147	HPV	Species	10566
+10530768	627	630	HPV	Species	10566
+10530768	641	644	HPV	Species	10566
+10530768	991	994	HPV	Species	10566
+10530768	1466	1469	HPV	Species	10566
+
+33741397|t|FGFR2 fusion proteins drive oncogenic transformation of mouse liver organoids towards cholangiocarcinoma.
+33741397|a|BACKGROUND & AIMS: About 15% of intrahepatic cholangiocarcinomas (iCCAs) express fibroblast growth factor receptor 2 (FGFR2) fusion proteins (FFs), usually alongside mutational inactivation of TP53, CDKN2A or BAP1. In FFs, FGFR2 residues 1-768 fuse to sequences encoded by a diverse array of partner genes (>60) causing oncogenic FF activation. While FGFR-specific tyrosine kinase inhibitors (F-TKI) provide clinical benefit in FF(+) iCCA, responses are partial and/or limited by resistance mechanisms, such as the V565F substitution in the FGFR2 gatekeeper residue. Improving on FF targeting in iCCA therefore remains a critical unmet need. Herein, we aimed to generate a murine model of FF-driven iCCA and use this to uncover actionable FF-associated dependencies. METHODS: Four iCCA FFs carrying different fusion sequences were expressed in Tp53(-/-) mouse liver organoids. Tumorigenic properties of genetically modified liver organoids were assessed by transplantation into immuno-deficient mice. Cellular models derived from neoplastic lesions were exploited for pre-clinical studies. RESULTS: Transplantation of FF-expressing liver organoids yielded tumors diagnosed as CCA based on histological, phenotypic and transcriptomic analyses. The penetrance of this tumorigenic phenotype was influenced by FF identity. Tumor organoids and 2D cell lines derived from CCA lesions were addicted to FF signaling via Ras-Erk, regardless of FF identity or V565F mutation. Dual blockade of FF and the Ras-Erk pathway by concomitant pharmacological inhibition of FFs and Mek1/2 provided greater therapeutic efficacy than single agent F-TKI in vitro and in vivo. CONCLUSIONS: FF-driven iCCA pathogenesis was successfully modeled on a Tp53(-/-) murine background, revealing biological heterogeneity among structurally different FFs. Double blockade of FF-ERK signaling deserves consideration for precision-based approaches against human FF(+) iCCA. LAY SUMMARY: Intrahepatic cholangiocarcinoma (iCCA) is a rare cancer that is difficult to treat. A subtype of iCCA is caused by genomic alterations that generate oncogenic drivers known as FGFR2 fusions. Patients with FGFR2 fusions respond to FGFR inhibitors, but clinical responses are often of modest duration. We used animal and cellular models to show that FGFR2 fusions require the activity of a downstream effector named Mek1/2. We found that dual blockade of FGFR2 fusions and Mek1/2 was more effective than isolated inhibition of FGFR2 fusions, pointing to the potential clinical utility of dual FGFR2-MEK1/2 blockade in patients with iCCA.
+33741397	56	61	mouse	Species	10090
+33741397	0	5	FGFR2	Gene	14183
+33741397	653	663	gatekeeper	Species	111938
+33741397	779	785	murine	Species	10090
+33741397	960	965	mouse	Species	10090
+33741397	1101	1105	mice	Species	10090
+33741397	1841	1847	murine	Species	10090
+33741397	2027	2032	human	Species	9606
+33741397	2249	2257	Patients	Species	9606
+33741397	2674	2682	patients	Species	9606
+33741397	187	222	fibroblast growth factor receptor 2	Gene	14183
+33741397	224	229	FGFR2	Gene	14183
+33741397	299	303	TP53	Gene	22059
+33741397	305	311	CDKN2A	Gene	12578
+33741397	315	319	BAP1	Gene	104416
+33741397	329	334	FGFR2	Gene	14183
+33741397	647	652	FGFR2	Gene	2263
+33741397	950	954	Tp53	Gene	22059
+33741397	1522	1525	Erk	Gene	13844
+33741397	1604	1607	Erk	Gene	13844
+33741397	1669	1675	Mek1/2	Gene	26395;26396
+33741397	1831	1835	Tp53	Gene	22059
+33741397	1951	1954	ERK	Gene	2048
+33741397	2234	2239	FGFR2	Gene	2263
+33741397	2263	2268	FGFR2	Gene	2263
+33741397	2406	2411	FGFR2	Gene	2263
+33741397	2472	2478	Mek1/2	Gene	5604;5605
+33741397	2511	2516	FGFR2	Gene	2263
+33741397	2529	2535	Mek1/2	Gene	5604;5605
+33741397	2583	2588	FGFR2	Gene	2263
+33741397	2649	2654	FGFR2	Gene	2263
+33741397	2655	2661	MEK1/2	Gene	5604;5605
+
+17429529|t|[Association between human papillomavirus (HPV) type 16 infection and E6/E7 gene variant and the cervical lesions in Beijing].
+17429529|a|OBJECTIVE: To investigate the association between HPV16 infection, E6/E7 variations and the cervical lesions. METHODS: HPV subtypes were detected by using flow-through hybridization technique, E6/E7 gene was extracted from cervical lesions in 80 patients with HPV16 infection, PCR amplified, cloned into plasmid pMD18-T and sequenced. RESULTS: HPV 16 was the most common type which accounted for 33.3% (154/463), the HPV16 infection rates increased with the severity of cervical lesions (P < 0.05). Totally in 72 cases the complete E6 and E7 regions were successfully sequenced, the DNA mutation rate of E6/E7 was 88.9% (64/72). A mutation, E6-D32E (T96G) coincided with a specific type of E7 mutation, N29S (A86G). D32E/N29S mutation rate was 38.9% (28/72), the detection rate increased with the severity of cervical lesions (P < 0.05). CONCLUSION: HPV 16 was the most common type in women with cervical lesions in Beijing, D32E/N29S variant associated with the cervical lesions.
+17429529	21	41	human papillomavirus	Species	10566
+17429529	43	46	HPV	Species	10566
+17429529	70	75	E6/E7	Gene	25479186
+17429529	177	182	HPV16	Species	333760
+17429529	373	381	patients	Species	9606
+17429529	387	392	HPV16	Species	333760
+17429529	471	477	HPV 16	Species	333760
+17429529	544	549	HPV16	Species	333760
+17429529	977	983	HPV 16	Species	333760
+17429529	1012	1017	women	Species	9606
+17429529	246	249	HPV	Species	10566
+17429529	194	199	E6/E7	Gene	1489078
+17429529	320	325	E6/E7	Gene	25479186
+17429529	659	661	E6	Gene
+17429529	768	775	E6-D32E	Gene
+17429529	817	819	E7	Gene
+17429529	830	834	N29S	Gene
+17429529	666	668	E7	Gene
+17429529	848	852	N29S	Gene
+17429529	731	736	E6/E7	Gene	25479186
+
+20417042|t|Detection of novel Human papilloma virus type 82 in laryngeal cancer: case report.
+20417042|a|Human papilloma virus infection is thought to play a role in laryngeal carcinogenesis; the variable association reported in literature may be due to wide range of HPV genotypes. We report the case of a 51-year-old man affected by laryngeal squamous cell carcinoma; analysis of DNA extracted by cancer cells by an innovative molecular virology assay (INNO-LiPA HPV Genotyping Extra) showed the presence of two high-risk HPV genotypes, HPV-73 and -82. Immunohistochemical examination confirmed positivity for both capsid protein and viral oncogenic protein E7. Such association has never been reported in literature so far, and a brief discussion on the importance of assessing HPV status in laryngeal cancer is provided.
+20417042	19	40	Human papilloma virus	Species	10566
+20417042	83	104	Human papilloma virus	Species	10566
+20417042	638	640	E7	Gene
+20417042	517	531	HPV-73 and -82	Gene
+
+38331087|t|EZH2-mediated development of therapeutic resistance in cancer.
+38331087|a|Enhancer of zeste homolog 2 (EZH2) regulates gene expression and plays a definite role in cell proliferation, apoptosis, and senescence. Overexpression of EZH2 has been found in various human malignancies, including prostate, breast, and ovarian cancers, and is associated with increased metastasis and poor prognosis. EZH2 catalyzes trimethylation of lysine 27 of histone H3 (H3K27me3) as a canonical role in a PRC2-dependent manner. This mechanism silences various tumor suppressor genes through EZH2-mediated histone lysine methyltransferase activity. As a non-canonical role, EZH2 partners with other signaling molecules to undergo post-translational modification to orchestrate its function as a co-activator playing a critical role in cancer progression. Dysregulation of EZH2 has also been associated with therapeutic resistance in cancer cells. Given the role of EZH2 in promoting carcinogenesis and therapy resistance, both canonical and non-canonical EZH2 inhibitors have been used to combat multiple cancer types. Moreover, combining EZH2 inhibitors with other therapeutic modalities have shown to enhance the therapeutic efficacy and overcome potential resistance mechanisms in these cancerous cells. Therefore, targeting EZH2 through canonical and non-canonical modes appears to be a promising therapeutic strategy to enhance efficacy and overcome resistance in multiple cancers.
+38331087	0	4	EZH2	Gene	2146
+38331087	249	254	human	Species	9606
+38331087	63	90	Enhancer of zeste homolog 2	Gene	2146
+38331087	92	96	EZH2	Gene	2146
+38331087	218	222	EZH2	Gene	2146
+38331087	382	386	EZH2	Gene	2146
+38331087	561	565	EZH2	Gene	2146
+38331087	643	647	EZH2	Gene	2146
+38331087	841	845	EZH2	Gene	2146
+38331087	934	938	EZH2	Gene	2146
+38331087	1024	1028	EZH2	Gene	2146
+38331087	1108	1112	EZH2	Gene	2146
+38331087	1297	1301	EZH2	Gene	2146
+
+24122810|t|Fibroblast growth factor receptor 2 tyrosine kinase fusions define a unique molecular subtype of cholangiocarcinoma.
+24122810|a|Cholangiocarcinoma is an intractable cancer, with limited therapeutic options, in which the molecular mechanisms underlying tumor development remain poorly understood. Identification of a novel driver oncogene and applying it to targeted therapies for molecularly defined cancers might lead to improvements in the outcome of patients. We performed massively parallel whole transcriptome sequencing in eight specimens from cholangiocarcinoma patients without KRAS/BRAF/ROS1 alterations and identified two fusion kinase genes, FGFR2-AHCYL1 and FGFR2-BICC1. In reverse-transcriptase polymerase chain reaction (RT-PCR) screening, the FGFR2 fusion was detected in nine patients with cholangiocarcinoma (9/102), exclusively in the intrahepatic subtype (9/66, 13.6%), rarely in colorectal (1/149) and hepatocellular carcinoma (1/96), and none in gastric cancer (0/212). The rearrangements were mutually exclusive with KRAS/BRAF mutations. Expression of the fusion kinases in NIH3T3 cells activated MAPK and conferred anchorage-independent growth and in vivo tumorigenesis of subcutaneous transplanted cells in immune-compromised mice. This transforming ability was attributable to its kinase activity. Treatment with the fibroblast growth factor receptor (FGFR) kinase inhibitors BGJ398 and PD173074 effectively suppressed transformation. CONCLUSION: FGFR2 fusions occur in 13.6% of intrahepatic cholangiocarcinoma. The expression pattern of these fusions in association with sensitivity to FGFR inhibitors warrant a new molecular classification of cholangiocarcinoma and suggest a new therapeutic approach to the disease.
+24122810	0	35	Fibroblast growth factor receptor 2	Gene	2263
+24122810	442	450	patients	Species	9606
+24122810	558	566	patients	Species	9606
+24122810	781	789	patients	Species	9606
+24122810	1239	1243	mice	Species	10090
+24122810	1085	1091	NIH3T3	CellLine	10090
+24122810	575	579	KRAS	Gene	3845
+24122810	580	584	BRAF	Gene	673
+24122810	585	589	ROS1	Gene	6098
+24122810	642	647	FGFR2	Gene	2263
+24122810	648	654	AHCYL1	Gene	10768
+24122810	659	664	FGFR2	Gene	2263
+24122810	665	670	BICC1	Gene	80114
+24122810	747	752	FGFR2	Gene	2263
+24122810	911	941	hepatocellular carcinoma (1/96	Gene	84324
+24122810	1028	1032	KRAS	Gene	3845
+24122810	1033	1037	BRAF	Gene	673
+24122810	1461	1466	FGFR2	Gene	14183
+
+41454768|t|Harmonization trial of FGFR1-3 testing strategies in cholangiocarcinoma patients: an Italian multicenter experience.
+41454768|a|AIMS: Molecular analysis of FGFR2 aberrant transcripts became crucial for clinical stratification of intrahepatic cholangiocarcinoma (iCCA) patients. Several strategies, including fluorescent in situ hybridization (FISH) and next generation sequencing (NGS), are commonly used to investigate FGFR aberrations. Here, we evaluated the technical performance of clinically implemented diagnostic strategies in 8 referral Italian institutions on artificial reference formalin-fixed paraffin-embedded (FFPE) samples. METHODS: Each participating institution was requested to apply its own diagnostic testing strategy on 8 sections obtained from artificial reference specimens built to harbor FGFR3(17)-TACC3(11) rearrangement and unbalanced FGFR2. A second-round slide set hosting FGFR2(17)-BICC1(3) aberrant transcript was shared to detect clinically relevant FGFR2 fusion. Artificial reference sample was previously validated by the University of Naples Federico II before arranging the shipment. Technical procedures (e.g. extraction methods, testing platforms and assays) were recorded. RESULTS: Overall, cell resuspension yielded higher amounts of DNA and RNA (SNU16 61.5 ng/microl, 38100.0 pg/microl; RT112 118.0/microl, 2140.0 pg/microl, respectively) in comparison with SNU16+ RT112 mixing cell block (0.7 ng/microl DNA and 412.0 pg/microl RNA). Moreover, FFPE samples showed a higher fragmentation index (DIN 1.2 and RIN not calculated) compared with cell line resuspension (DIN 2.2 and 9.5 for SNU16 and RT112; RIN 3.9 and 6.8 for SNU16 and RT112). All participating institutions identified FGFR2(17)-BICC1(3) and FGFR3(17)-TACC3(11) aberrant transcripts. Moreover, ID#2, ID#4, ID#7 institutions also detected FGFR2(3)-CD44(1) rearrangement on RNA, whereas institutions ID#1, ID#2, ID#3, ID#5, ID#6, ID#8 identified FGFR2 CNVs on DNA. CONCLUSIONS: NGS represents the most suitable approach in molecular profiling of FGFR aberrant transcripts. Rings trial based on artificial reference samples play a pivotal role in optimizing routine diagnostic procedures filling the gap in clinical stratification of iCCA patients.
+41454768	72	80	patients	Species	9606
+41454768	23	28	FGFR1	Gene	2260
+41454768	257	265	patients	Species	9606
+41454768	2228	2236	patients	Species	9606
+41454768	1388	1393	SNU16	CellLine	9606
+41454768	1395	1400	RT112	CellLine	9606
+41454768	145	150	FGFR2	Gene	2263
+41454768	802	807	FGFR3	Gene	2261
+41454768	812	817	TACC3	Gene	10460
+41454768	851	856	FGFR2	Gene	2263
+41454768	891	896	FGFR2	Gene	2263
+41454768	901	906	BICC1	Gene	80114
+41454768	971	976	FGFR2	Gene	2263
+41454768	1711	1716	FGFR2	Gene	2263
+41454768	1721	1726	BICC1	Gene	80114
+41454768	1734	1739	FGFR3	Gene	2261
+41454768	1744	1749	TACC3	Gene	10460
+41454768	1830	1835	FGFR2	Gene	2263
+41454768	1839	1843	CD44	Gene	960
+41454768	1896	1900	ID#2	Gene	3398
+41454768	1936	1941	FGFR2	Gene	2263
+41454768	1902	1906	ID#3	Gene	3399
+41454768	1890	1894	ID#1	Gene	3397
+41454768	1792	1796	ID#4	Gene	3400
+41454768	1786	1790	ID#2	Gene	3398
+
+35564224|t|Intracellular Trafficking and Distribution of Cd and InP Quantum Dots in HeLa and ML-1 Thyroid Cancer Cells.
+35564224|a|The study of the interaction of engineered nanoparticles, including quantum dots (QDs), with cellular constituents and the kinetics of their localization and transport, has provided new insights into their biological consequences in cancers and for the development of effective cancer therapies. The present study aims to elucidate the toxicity and intracellular transport kinetics of CdSe/ZnS and InP/ZnS QDs in late-stage ML-1 thyroid cancer using well-tested HeLa as a control. Our XTT (2,3-bis-(2-methoxy-4-nitro-5-sulfophenyl)-2H-tetrazolium-5-carboxanilide) viability assay (Cell Proliferation Kit II) showed that ML-1 cells and non-cancerous mouse fibroblast cells exhibit no viability defect in response to these QDs, whereas HeLa cell viability decreases. These results suggest that HeLa cells are more sensitive to the QDs compared to ML-1 cells. To test the possibility that transporting rates of QDs are different between HeLa and ML-1 cells, we performed a QD subcellular localization assay by determining Pearson's Coefficient values and found that HeLa cells showed faster QDs transporting towards the lysosome. Consistently, the ICP-OES test showed the uptake of CdSe/ZnS QDs in HeLa cells was significantly higher than in ML-1 cells. Together, we conclude that high levels of toxicity in HeLa are positively correlated with the traffic rate of QDs in the treated cells.
+35564224	73	77	HeLa	CellLine	9606
+35564224	758	763	mouse	Species	10090
+35564224	843	847	HeLa	CellLine	9606
+35564224	901	905	HeLa	CellLine	9606
+35564224	1043	1047	HeLa	CellLine	9606
+35564224	1172	1176	HeLa	CellLine	9606
+35564224	1304	1308	HeLa	CellLine	9606
+
+32252259|t|Generation of An Endogenous FGFR2-BICC1 Gene Fusion/58 Megabase Inversion Using Single-Plasmid CRISPR/Cas9 Editing in Biliary Cells.
+32252259|a|Fibroblast growth factor receptor 2 (FGFR2) gene fusions are bona fide oncogenic drivers in 10-15% of intrahepatic cholangiocarcinoma (CCA), yet currently there are no cell lines publically available to study endogenous FGFR2 gene fusions. The ability of clustered regularly interspaced short palindromic repeats (CRISPR)/Cas9 to generate large yet precise chromosomal rearrangements has presented the possibility of engineering endogenous gene fusions for downstream studies. In this technical report, we describe the generation of an endogenous FGFR2-Bicaudal family RNA binding protein 1 (BICC1) fusion in multiple independent cholangiocarcinoma and immortalized liver cell lines using CRISPR. BICC1 is the most common FGFR2 fusion partner in CCA, and the fusion arises as a consequence of a 58-megabase-sized inversion on chromosome 10. We replicated this inversion to generate a fusion product that is identical to that seen in many human CCA. Our results demonstrate the feasibility of generating large megabase-scale inversions that faithfully reproduce human cancer aberrations.
+32252259	102	106	Cas9	CellLine	129429
+32252259	28	33	FGFR2	Gene	2263
+32252259	34	39	BICC1	Gene	80114
+32252259	1071	1076	human	Species	9606
+32252259	1194	1199	human	Species	9606
+32252259	133	168	Fibroblast growth factor receptor 2	Gene	2263
+32252259	170	175	FGFR2	Gene	2263
+32252259	353	358	FGFR2	Gene	2263
+32252259	680	685	FGFR2	Gene	2263
+32252259	725	730	BICC1	Gene	80114
+32252259	830	835	BICC1	Gene	80114
+32252259	855	860	FGFR2	Gene	2263
+
+38877653|t|Integrative genomic analyses of European intrahepatic cholangiocarcinoma: Novel ROS1 fusion gene and PBX1 as prognostic marker.
+38877653|a|BACKGROUND: Cholangiocarcinoma (CCA) is a fatal cancer of the bile duct with a poor prognosis owing to limited therapeutic options. The incidence of intrahepatic CCA (iCCA) is increasing worldwide, and its molecular basis is emerging. Environmental factors may contribute to regional differences in the mutation spectrum of European patients with iCCA, which are underrepresented in systematic genomic and transcriptomic studies of the disease. METHODS: We describe an integrated whole-exome sequencing and transcriptomic study of 37 iCCAs patients in Germany. RESULTS: We observed as most frequently mutated genes ARID1A (14%), IDH1, BAP1, TP53, KRAS, and ATM in 8% of patients. We identified FGFR2::BICC1 fusions in two tumours, and FGFR2::KCTD1 and TMEM106B::ROS1 as novel fusions with potential therapeutic implications in iCCA and confirmed oncogenic properties of TMEM106B::ROS1 in vitro. Using a data integration framework, we identified PBX1 as a novel central regulatory gene in iCCA. We performed extended screening by targeted sequencing of an additional 40 CCAs. In the joint analysis, IDH1 (13%), BAP1 (10%), TP53 (9%), KRAS (7%), ARID1A (7%), NF1 (5%), and ATM (5%) were the most frequently mutated genes, and we found PBX1 to show copy gain in 20% of the tumours. According to other studies, amplifications of PBX1 tend to occur in European iCCAs in contrast to liver fluke-associated Asian iCCAs. CONCLUSIONS: By analyzing an additional European cohort of iCCA patients, we found that PBX1 protein expression was a marker of poor prognosis. Overall, our findings provide insight into key molecular alterations in iCCA, reveal new targetable fusion genes, and suggest that PBX1 is a novel modulator of this disease.
+38877653	80	84	ROS1	Gene	6098
+38877653	101	105	PBX1	Gene	5087
+38877653	461	469	patients	Species	9606
+38877653	668	676	patients	Species	9606
+38877653	798	806	patients	Species	9606
+38877653	1505	1516	liver fluke	Species	6192
+38877653	1605	1613	patients	Species	9606
+38877653	743	749	ARID1A	Gene	8289
+38877653	757	761	IDH1	Gene	3417
+38877653	763	767	BAP1	Gene	8314
+38877653	769	773	TP53	Gene	7157
+38877653	775	779	KRAS	Gene	3845
+38877653	785	788	ATM	Gene	472
+38877653	822	827	FGFR2	Gene	2263
+38877653	829	834	BICC1	Gene	80114
+38877653	863	868	FGFR2	Gene	2263
+38877653	870	875	KCTD1	Gene	284252
+38877653	880	888	TMEM106B	Gene	54664
+38877653	998	1006	TMEM106B	Gene	54664
+38877653	1073	1077	PBX1	Gene	5087
+38877653	1226	1230	IDH1	Gene	3417
+38877653	1238	1242	BAP1	Gene	8314
+38877653	1250	1254	TP53	Gene	7157
+38877653	1261	1265	KRAS	Gene	3845
+38877653	1272	1278	ARID1A	Gene	8289
+38877653	1285	1288	NF1	Gene	4763
+38877653	1299	1302	ATM	Gene	472
+38877653	1361	1365	PBX1	Gene	5087
+38877653	1453	1457	PBX1	Gene	5087
+38877653	1629	1633	PBX1	Gene	5087
+38877653	1816	1820	PBX1	Gene	5087
+38877653	890	894	ROS1	Gene	6098
+38877653	1008	1012	ROS1	Gene	6098
+
+37719957|t|Molecular Detection of FGFR2 Rearrangements in Resected Intrahepatic Cholangiocarcinomas: FISH Could Be An Ideal Method in Patients with Histological Small Duct Subtype.
+37719957|a|BACKGROUND AND AIMS: Intrahepatic cholangiocarcinoma (ICC) is a subtype of primary liver cancer for which effective therapeutic agents are lacking. Fibroblast growth factor receptor 2 (FGFR2) has become a promising therapeutic target in ICC; however, its incidence and optimum testing method have not been fully assessed. This study investigated the rearrangement of FGFR2 in intrahepatic cholangiocarcinoma using multiple molecular detection methods. METHODS: The samples and clinical data of 167 patients who underwent surgical resection of intrahepatic cholangiocarcinoma in Zhongshan hospital, Fudan university were collected. The presence of FGFR2 gene rearrangement was confirmed using fluorescence in situ hybridization (FISH) and targeted next-generation sequencing (NGS). FGFR2 protein expression was determined using immunohistochemistry (IHC). The concordance between the methods was statistically compared. PD-L1 expression was also assessed in this cohort. The clinicopathological characteristics and genomic profile related to FGFR2 rearrangements were also analyzed to assist candidate-screening for targeted therapies. RESULTS: FGFR2 rearrangement was detected in 21 of the 167 ICC cases (12.5%) using FISH. NGS analysis revealed that FGFR2 rearrangement was present in 16 of the 20 FISH-positive cases, which was consistent with the FISH results (kappa value=0.696, p<0.01). IHC showed that 80 of the 167 cases (48%) were positive for FGFR2 expression, which was discordant with both FISH and NGS results. By comparison, FGFR2-positivity tended to correlate with unique clinicopathological subgroups, featuring early clinical stage, histologically small duct subtype, and reduced mucus production (P<0.05), with improved overall survival (p<0.05). FGFR2-positivity was not associated with PD-L1 expression in ICCs. In genome research, we identified eight partner genes fused with FGFR2, among which FGFR2-BICC1 was the most common fusion type. BAP1, CDKN2A, and CDKN2B were the most common concomitant genetic alterations of FGFR2, whereas KRAS and IDH1 mutations were mutually exclusive to FGFR2 rearrangements. CONCLUSIONS: FISH achieved satisfactory concordance with NGS, has potential value for FGFR2 screening for targeted therapies. FGFR2 detection should be prioritized for unique clinical subgroups in ICC, which features a histological small duct subtype, early clinical stage, and reduced mucus production.
+37719957	123	131	Patients	Species	9606
+37719957	23	28	FGFR2	Gene	2263
+37719957	668	676	patients	Species	9606
+37719957	318	353	Fibroblast growth factor receptor 2	Gene	2263
+37719957	355	360	FGFR2	Gene	2263
+37719957	537	542	FGFR2	Gene	2263
+37719957	817	822	FGFR2	Gene	2263
+37719957	951	956	FGFR2	Gene	2263
+37719957	1089	1094	PD-L1	Gene	29126
+37719957	1211	1216	FGFR2	Gene	2263
+37719957	1314	1319	FGFR2	Gene	2263
+37719957	1421	1426	FGFR2	Gene	2263
+37719957	1622	1627	FGFR2	Gene	2263
+37719957	1708	1713	FGFR2	Gene	2263
+37719957	1935	1940	FGFR2	Gene	2263
+37719957	1976	1981	PD-L1	Gene	29126
+37719957	2067	2072	FGFR2	Gene	2263
+37719957	2086	2091	FGFR2	Gene	2263
+37719957	2092	2097	BICC1	Gene	80114
+37719957	2131	2135	BAP1	Gene	8314
+37719957	2137	2143	CDKN2A	Gene	1029
+37719957	2149	2155	CDKN2B	Gene	1030
+37719957	2212	2217	FGFR2	Gene	2263
+37719957	2227	2231	KRAS	Gene	3845
+37719957	2236	2240	IDH1	Gene	3417
+37719957	2278	2283	FGFR2	Gene	2263
+37719957	2386	2391	FGFR2	Gene	2263
+37719957	2426	2431	FGFR2	Gene	2263
+
+29931158|t|Menstrual Blood Human Papillomavirus DNA and TAP1 Gene Polymorphisms as Potential Biomarkers for Screening and Monitoring of Cervical Squamous Intraepithelial Lesion.
+29931158|a|BACKGROUND: Human papillomavirus (HPV) is a known causative factor in the etiology of cervical cancer. METHODS: HPV DNA genotyping was performed in menstrual blood (MB) collected in napkins from patients with cervical intraepithelial neoplasia (CIN), HPV infection and sexually active apparently normal subjects. In the same patient cohort, MB TAP1 I333V and TAP1 D637G gene polymorphisms were examined. RESULTS: The sensitivity, specificity, and positive and negative predictive values of HPV DNA in the detection of CIN or HPV infection were 83% (223 of 268), 98% (131 of 134), 99% (223 of 226), and 74% (131 of 176), respectively. Moreover, HPV DNA was found in 24% (28/118) patients who had loop electrosurgical excision procedure treatment and 0% (0/76) HPV infected or CIN1 patient with proven recovery. On the other hand, the risk of developing high-grade CIN was significantly reduced for AG and GG genotypes compared with AA genotype and for carriers with a G allele compared with those with an A allele for both polymorphisms. CONCLUSIONS: MB HPV DNA is a potential noninvasive marker for screening and monitoring of squamous intraepithelial lesion. Together with TAP1 I333V and TAP1 D637G gene polymorphisms, the combined test may be useful for stratifying high-risk patients for better follow-up strategies.
+29931158	16	36	Human Papillomavirus	Species	10566
+29931158	45	49	TAP1	Gene	6890
+29931158	179	199	Human papillomavirus	Species	10566
+29931158	362	370	patients	Species	9606
+29931158	492	499	patient	Species	9606
+29931158	845	853	patients	Species	9606
+29931158	947	954	patient	Species	9606
+29931158	1445	1453	patients	Species	9606
+29931158	201	204	HPV	Species	10566
+29931158	279	282	HPV	Species	10566
+29931158	418	421	HPV	Species	10566
+29931158	657	660	HPV	Species	10566
+29931158	692	695	HPV	Species	10566
+29931158	811	814	HPV	Species	10566
+29931158	926	929	HPV	Species	10566
+29931158	1220	1223	HPV	Species	10566
+29931158	526	530	TAP1	Gene	6890
+29931158	1356	1360	TAP1	Gene	6890
+29931158	942	946	CIN1	Gene
+
+40565050|t|First Successful Treatment of Advanced Intrahepatic Cholangiocarcinoma with Tasurgratinib Following Regulatory Approval: A Case Report from Clinical Practice.
+40565050|a|Intrahepatic cholangiocarcinoma (iCCA) is a malignancy with limited treatment options in advanced stages. Recently, targeted therapies against fibroblast growth factor receptor 2 (FGFR2) fusions have emerged as a promising approach for selected patients. Tasurgratinib, a selective FGFR1-3 inhibitor, was approved in Japan in 2024 for second-line treatment of FGFR2 fusion-positive biliary tract cancer. We report the case of a 55-year-old female with advanced iCCA harboring an FGFR2-BICC1 fusion, who experienced a rapid clinical response to tasurgratinib following disease progression on gemcitabine, cisplatin, and durvalumab (GCD). Following the failure of GCD therapy, treatment with oral tasurgratinib was initiated at 140 mg/day and subsequently reduced to 105 mg/day due to Grade 2 diarrhea. Within weeks, imaging and tumor markers indicated a partial response, accompanied by a reduction in ascites, and improved performance status. The response sustained for several months without evidence of disease progression. Notably, no substantial clinical hyperphosphatemia or anorexia was observed during treatment. This is the first report to describe the real-world clinical efficacy of tasurgratinib in an iCCA patient with FGFR2-BICC1 fusion. Our findings suggest that tasurgratinib can provide a rapid and durable response with manageable toxicity in molecularly selected patients who have progressed on standard therapies.
+40565050	404	412	patients	Species	9606
+40565050	1377	1384	patient	Species	9606
+40565050	1540	1548	patients	Species	9606
+40565050	302	337	fibroblast growth factor receptor 2	Gene	2263
+40565050	339	344	FGFR2	Gene	2263
+40565050	441	448	FGFR1-3	Gene	2260;2263;2261
+40565050	519	524	FGFR2	Gene	2263
+40565050	638	643	FGFR2	Gene	2263
+40565050	644	649	BICC1	Gene	80114
+40565050	1390	1395	FGFR2	Gene	2263
+40565050	1396	1401	BICC1	Gene	80114
+
+33800328|t|Identification and In-Depth Analysis of the Novel FGFR2-NDC80 Fusion in a Cholangiocarcinoma Patient: Implication for Therapy.
+33800328|a|Fibroblast growth factor receptor 2 (FGFR2) fusions have emerged as a new therapeutic target for cholangiocarcinoma in clinical practice following the United States Food and Drug Administration (FDA) approval of Pemigatinib in May 2020. FGFR2 fusions can result in a ligand-independent constitutive activation of FGFR2 signaling with a downstream activation of multiple pathways, including the mitogen-activated protein (MAPK) cascade. Until today, only a limited number of fusion partners have been reported, of which the most prevalent is BicC Family RNA Binding Protein (BICC1), representing one-third of all detected FGFR2 fusions. Nonetheless, in the majority of cases rare or yet unreported fusion partners are discovered in next-generation sequencing panels, which confronts clinicians with a challenging decision: Should a therapy be based on these variants or should the course of treatment follow the (limited) standard regime? Here, we present the case of a metastasized intrahepatic cholangiocarcinoma harboring a novel FGFR2-NDC80 fusion, which was discussed in our molecular tumor board. The protein NDC80 kinetochore complex component (NDC80) is an integral part of the outer kinetochore, which is involved in microtubule binding and spindle assembly. For additional therapeutic guidance, an immunohistochemical analysis of the predicted fusion and downstream effector proteins was performed and compared to cholangiocarcinoma samples of a tissue microarray. The FGFR2-NDC80 fusion resulted in strong activation of the FGFR2 signaling pathway. These supporting results led to a treatment recommendation of Pemigatinib. Unfortunately, the patient passed away before the commencement of therapy.
+33800328	93	100	Patient	Species	9606
+33800328	50	55	FGFR2	Gene	2263
+33800328	56	61	NDC80	Gene	10403
+33800328	1780	1787	patient	Species	9606
+33800328	127	162	Fibroblast growth factor receptor 2	Gene	2263
+33800328	164	169	FGFR2	Gene	2263
+33800328	364	369	FGFR2	Gene	2263
+33800328	440	445	FGFR2	Gene	2263
+33800328	701	706	BICC1	Gene	80114
+33800328	748	753	FGFR2	Gene	2263
+33800328	1159	1164	FGFR2	Gene	2263
+33800328	1165	1170	NDC80	Gene	10403
+33800328	1241	1246	NDC80	Gene	10403
+33800328	1278	1283	NDC80	Gene	10403
+33800328	1605	1610	FGFR2	Gene	2263
+33800328	1611	1616	NDC80	Gene	10403
+33800328	1661	1666	FGFR2	Gene	2263
+
+41632446|t|Recurrent Resistance Mutations to Lirafugratinib Inform Treatment Sequencing in FGFR2-Driven Tumors.
+41632446|a|PURPOSE: The use of reversible fibroblast growth factor receptor 2 (FGFR) inhibitors leads to the emergence of "undruggable" FGFR2 kinase domain mutations, hampering sequential treatment strategies. Lirafugratinib and futibatinib are irreversible FGFR inhibitors with the most promising clinical activity against FGFR2-driven tumors. EXPERIMENTAL DESIGN: We characterized resistance to lirafugratinib with circulating tumor DNA, tissue whole-exome sequencing, and bulk RNA sequencing in 30 patients with FGFR2-driven cancers, treated in the phase I/II ReFocus trial (NCT04526106) and enrolled in the UNLOCK program at Gustave Roussy. RESULTS: Among the 30 patients included, 18 (60%) had intrahepatic cholangiocarcinoma and 12 (40%) had other tumor types. Twenty-two patients (73%) were FGFR inhibitor-naive. Among those experiencing primary resistance to lirafugratinib, we identified potential resistance mechanisms in five of six pretreatment samples. Patients with acquired lirafugratinib resistance manifested an unprecedented emergence of FGFR2 mutations in the M538 and/or L618 residues of the kinase domain, documented in 11 of 16 cases (69%). Compared with futibatinib resistance, FGFR2 molecular brake (N550) and gatekeeper (V565) mutations were rare. Leveraging the spectrum of FGFR2 kinase domain mutations at resistance to lirafugratinib and futibatinib, respectively, we identified the complementarity of the two irreversible inhibitors. On the basis of viability assays in FGFR2::BICC1-dependent Ba/F3 models and in vivo studies on patient-derived xenografts, we propose treatment sequences with the two agents. After lirafugratinib progression, three patients received futibatinib and experienced prolonged disease response. CONCLUSIONS: The complementary activity of lirafugratinib and futibatinib against FGFR2 kinase domain mutations supports their sequential use when precise resistance mutations are detected in patients.
+41632446	80	85	FGFR2	Gene	2263
+41632446	591	599	patients	Species	9606
+41632446	757	765	patients	Species	9606
+41632446	868	876	patients	Species	9606
+41632446	1056	1064	Patients	Species	9606
+41632446	1324	1334	gatekeeper	Species	111938
+41632446	1648	1655	patient	Species	9606
+41632446	1768	1776	patients	Species	9606
+41632446	2034	2042	patients	Species	9606
+41632446	132	167	fibroblast growth factor receptor 2	Gene	2263
+41632446	169	173	FGFR	Gene	2263
+41632446	226	231	FGFR2	Gene	2263
+41632446	348	352	FGFR	Gene	2263
+41632446	414	419	FGFR2	Gene	2263
+41632446	605	610	FGFR2	Gene	2263
+41632446	888	892	FGFR	Gene	2263
+41632446	1146	1151	FGFR2	Gene	2263
+41632446	1291	1296	FGFR2	Gene	2263
+41632446	1390	1395	FGFR2	Gene	2263
+41632446	1589	1594	FGFR2	Gene	2263
+41632446	1596	1601	BICC1	Gene	80114
+41632446	1924	1929	FGFR2	Gene	2263
+
+36635225|t|First proficiency testing for NGS-based and combined NGS- and FISH-based detection of FGFR2 fusions in intrahepatic cholangiocarcinoma.
+36635225|a|Intrahepatic cholangiocarcinoma harbours druggable genetic lesions including FGFR2 gene fusions. Reliable and accurate detection of these fusions is becoming a critical component of the molecular work-up, but real-world data on the performance of fluorescence in situ hybridisation (FISH) and targeted RNA-based next-generation sequencing (NGS) are very limited. Bridging this gap, we report results of the first round robin test for FGFR2 fusions in cholangiocarcinoma and contextualise test data with genomic architecture. A cohort of 10 cholangiocarcinoma (4 fusion positive and 6 fusion negative) was tested by the Institute of Pathology, University Hospital Heidelberg, Germany. Data were validated by four academic pathology departments in Germany. Fusion-positive cases comprised FGFR2::BICC1, FGFR2::DBP, FGFR2::TRIM8, and FGFR2::ATE1 fusions. In a second step, a round robin test involving 21 academic and non-academic centres testing with RNA-based NGS approaches was carried out; five participants performed FISH testing in addition. Thirteen of 16 (81%) centres successfully passed the NGS only and 3 of 5 (60%) centres passed the combined NGS + FISH round robin test. Identified obstacles were bioinformatic pipelines not optimised for the detection of FGFR2 fusions and assays not capable of detecting unknown fusion partners. This study shows the benefit of targeted RNA-NGS for the detection of FGFR2 gene fusions. Due to the marked heterogeneity of the genomic architecture of these fusions, fusion partner agnostic (i.e. open) methodological approaches that are capable of identifying yet unknown fusion partners are superior. Furthermore, we highlight pitfalls in subsequent bioinformatic analysis and limitations of FISH-based tests.
+36635225	555	560	robin	Species	9188
+36635225	1014	1019	robin	Species	9188
+36635225	1132	1144	participants	Species	9606
+36635225	1305	1310	robin	Species	9188
+
+32934021|t|Breast Cancer Cell Detection and Characterization from Breast Milk-Derived Cells.
+32934021|a|Radiologic techniques remain the main method for early detection for breast cancer and are critical to achieve a favorable outcome from cancer. However, more sensitive detection methods to complement radiologic techniques are needed to enhance early detection and treatment strategies. Using our recently established culturing method that allows propagation of normal and cancerous breast epithelial cells of luminal origin, flow cytometry characterization, and genomic sequencing, we show that cancer cells can be detected in breast milk. Cells derived from milk from the breast with cancer were enriched for CD49f(+)/EpCAM(-), CD44(+)/CD24(-), and CD271(+) cancer stem-like cells (CSC). These CSCs carried mutations within the cytoplasmic retention domain of HDAC6, stop/gain insertion in MORF4L1, and deletion mutations within SWI/SNF complex component SMARCC2. CSCs were sensitive to HDAC6 inhibitors, BET bromodomain inhibitors, and EZH2 inhibitors, as mutations in SWI/SNF complex components are known to increase sensitivity to these drugs. Among cells derived from breast milk of additional ten women not known to have breast cancer, two of them contained cells that were enriched for the CSC phenotype and carried mutations in NF1 or KMT2D, which are frequently mutated in breast cancer. Breast milk-derived cells with NF1 mutations also carried copy-number variations in CDKN2C, PTEN, and REL genes. The approach described here may enable rapid cancer cell characterization including driver mutation detection and therapeutic screening for pregnancy/postpartum breast cancers. Furthermore, this method can be developed as a surveillance or early detection tool for women at high risk for developing breast cancer. SIGNIFICANCE: These findings describe how a simple method for characterization of cancer cells in pregnancy and postpartum breast cancer can be exploited as a surveillance tool for women at risk of developing breast cancer.
+32934021	1185	1190	women	Species	9606
+32934021	1757	1762	women	Species	9606
+32934021	1987	1992	women	Species	9606
+32934021	692	697	CD49f	Gene	3655
+32934021	711	715	CD44	Gene	960
+32934021	719	723	CD24	Gene	100133941
+32934021	732	737	CD271	Gene	4804
+32934021	843	848	HDAC6	Gene	10013
+32934021	873	880	MORF4L1	Gene	10933
+32934021	938	945	SMARCC2	Gene	6601
+32934021	970	975	HDAC6	Gene	10013
+32934021	1020	1024	EZH2	Gene	2146
+32934021	1318	1321	NF1	Gene	4763
+32934021	1325	1330	KMT2D	Gene	8085
+32934021	1410	1413	NF1	Gene	4763
+32934021	1463	1469	CDKN2C	Gene	1031
+32934021	1471	1475	PTEN	Gene	5728
+32934021	1481	1484	REL	Gene	5966
+
+39512411|t|Analysis of Human Papillomavirus-Associated Cervical Cancer Differentially Expressed Genes and Identification of Prognostic Factors using Integrated Bioinformatics Approaches.
+39512411|a|BACKGROUND: Human papillomavirus (HPV)-induced cervical cancer progresses through a series of steps. Despite our limited understanding of the mechanisms driving this progression, identifying the key genes involved could significantly improve early detection and treatment. MATERIALS AND METHODS: Two gene expression profiles of GSE9750 and GSE6791, which included cervical cancer HPV-positive and -negative samples, were evaluated using the R limma package with established cut-off criteria of P value < 0.05 and / fold change/ >/= 1. KEGG pathway enrichment was performed to identify potential pathways. Weighted gene co-expression network analysis (WGCNA) was used to discover co-expressed gene modules and trait-module connections. RESULTS: Considering the defined criteria, 115 differentially expressed genes (DEGs) were identified. The DEG's KEGG pathway enrichment analysis revealed enrichment in highly relevant pathways to the HPV infection, including cell cycle, viral carcinogenesis, autophagy-animal, Epstein-Barr virus infection, human T-cell leukemia virus 1 infection, and microRNAs in cancer. WGCNA results in 13 co-expression modules, and the magenta module is identified with significant relations to HPV, cervical cancer stage, and metastasis traits. The survival analysis identified BEX1 and CDC45 as potential prognostic factors in HPV-associated cervical cancer. CONCLUSION: The innovation of our work lies in identifying essential genes associated with the multi-step process of cervical carcinogenesis. In fact, the current study has the potential to give a distinct viewpoint on the molecular pathways linked to cervical cancer. Considering the potential importance of the hub genes, we recommend conducting in-depth wet lab research to determine their impact on the biological mechanisms of cervical cancer.
+39512411	12	32	Human Papillomavirus	Species	10566
+39512411	188	208	Human papillomavirus	Species	10566
+39512411	1188	1206	Epstein-Barr virus	Species	10376
+39512411	1218	1247	human T-cell leukemia virus 1	Species	11908
+39512411	210	213	HPV	Species	10566
+39512411	556	559	HPV	Species	10566
+39512411	1111	1114	HPV	Species	10566
+39512411	1394	1397	HPV	Species	10566
+39512411	1528	1531	HPV	Species	10566
+39512411	1478	1482	BEX1	Gene	55859
+39512411	1487	1492	CDC45	Gene	8318
+
+31899106|t|Functions of FGFR2 corrupted by translocations in intrahepatic cholangiocarcinoma.
+31899106|a|Cholangiocarcinoma, originating from the biliary duct, represents a subset of liver cancer. With about 8000 new cases of cholangiocarcinoma diagnosed annually in the U.S., these fall into three categories: intrahepatic, peri-hilar, and extrahepatic cholangiocarcinoma. Arising from the epithelium of the bile duct, intrahepatic cholangiocarcinoma (ICC) is a universally fatal malignancy with very few treatment options. The poor prognosis and lack of molecular targeted therapies highlights ICC as a critical unmet medical need. With advances in sequencing technology, numerous chromosomal translocations have been discovered as drivers in cancer initiation and progression. Particularly in ICC, chromosomal translocations involving Fibroblast Growth Factor Receptor 2 (FGFR2) have been frequently identified, resulting in the creation of oncogenic fusion proteins. At the N-terminus, these fusion proteins share a nearly-identical FGFR2 moiety retaining an intact kinase domain and, at the C-terminus, a dimerization/oligomerization domain provided by different partner genes, including: Periphilin 1 (PPHLN1), Bicaudal family RNA binding protein 1 (BICC1), Adenosylhomocysteinase Like 1 (AHCYL1), and Transforming Acidic Coiled-Coil Containing Protein 3 (TACC3). A number of pre-clinical and clinical trials have shown the effectiveness of FGFR inhibitors in treating FGFR2 fusion-positive ICC patients. However, the efficacy of these inhibitors may be short-lived due to acquired resistance. In this review, we provide an overview of FGFR2 fusions, comparing their structures and mechanism of dimerization, examining the importance of FGFR2 as a partner gene, as well as highlighting the significance of alternative splicing of FGFR2 in these fusion proteins. In addition, we discuss various therapeutic options and their associated potencies in targeting these translocation-induced ICCs.
+31899106	13	18	FGFR2	Gene	2263
+31899106	1479	1487	patients	Species	9606
+31899106	816	851	Fibroblast Growth Factor Receptor 2	Gene	2263
+31899106	853	858	FGFR2	Gene	2263
+31899106	1015	1020	FGFR2	Gene	2263
+31899106	1172	1184	Periphilin 1	Gene	51535
+31899106	1186	1192	PPHLN1	Gene	51535
+31899106	1234	1239	BICC1	Gene	80114
+31899106	1242	1271	Adenosylhomocysteinase Like 1	Gene	10768
+31899106	1273	1279	AHCYL1	Gene	10768
+31899106	1286	1338	Transforming Acidic Coiled-Coil Containing Protein 3	Gene	10460
+31899106	1340	1345	TACC3	Gene	10460
+31899106	1453	1458	FGFR2	Gene	2263
+31899106	1620	1625	FGFR2	Gene	2263
+31899106	1721	1726	FGFR2	Gene	2263
+31899106	1814	1819	FGFR2	Gene	2263
+
+37292215|t|Case Report: Persistent response to combination therapy of pemigatinib, chemotherapy, and immune checkpoint inhibitor in a patient with advanced intrahepatic cholangiocarcinoma.
+37292215|a|Patients with advanced intrahepatic cholangiocarcinoma (iCCA) often have a poor prognosis. Recent advancements in targeted molecular therapy and immunotherapy have been made. Herein, we report a case of advanced iCCA treated with a combination of pemigatinib (a selective FGFR inhibitor), chemotherapy, and an immune checkpoint inhibitor. A 34-year-old female was diagnosed with advanced iCCA with multiple liver masses and metastases in the peritoneum and lymph nodes. Next-generation sequencing (NGS) identified the genetic mutations. An FGFR2-BICC1 gene fusion was found in this patient. The patient was treated with pemigatinib in combination with pembrolizumab plus systemic gemcitabine and oxaliplatin. After 9 cycles of the combination therapy, the patient achieved a partial response, complete metabolic response, and normalization of tumor markers. Sequentially, the patient received pemigatinib and pembrolizumab for 3 months. Due to the elevated tumor biomarker, she is currently receiving chemotherapy, pemigatinib, and pembrolizumab treatment again. She regained an excellent physical status after 16 months of treatment. To the best of our knowledge, this was the first reported case of advanced iCCA successfully treated with a combination of pemigatinib, chemotherapy, and ICIs as a first-line regimen. This treatment combination may be effective and safe in the advanced iCCA.
+37292215	123	130	patient	Species	9606
+37292215	178	186	Patients	Species	9606
+37292215	760	767	patient	Species	9606
+37292215	773	780	patient	Species	9606
+37292215	934	941	patient	Species	9606
+37292215	1054	1061	patient	Species	9606
+37292215	718	723	FGFR2	Gene	2263
+37292215	724	729	BICC1	Gene	80114
+37292215	1467	1471	ICIs	Gene	23281
+
+35945897|t|Prevalence of multiple human papillomavirus infections and association with cervical lesions among outpatients in Fujian, China: A cross-sectional study.
+35945897|a|Multiple human papillomavirus (HPV) infections are common, but their impact on cervical lesions remains controversial. A total of 6225 female patients who underwent colposcopies/conization following abnormal cervical cancer screening results were included in the study. The final pathological diagnosis was determined by the most severe pathological grade among the cervical biopsy, endocervical curettage, and conization. Univariate and multivariate logistic regression analyses were used to investigate the association between multiple HPV infections and cervical lesions, adjusting for age, HPV genotype, gravidity and parity. In total, 33.3% (n = 2076) of the study population was infected with multiple HPV genotypes. Multiple HPV infections were more prevalent in patients younger than 25 years and older than 55 years, with the rate of multiple HPV infections at 52.8% and 44.3%, respectively. HPV16 52 18 58 are the most common HPV genotypes and usually appear as a single infection. Compared to single HR-HPV infection, multiple HR-HPV infections do not increase the risk of HSIL+, while single HR-HPV coinfected with LR-HPV seems to reduce the risk of HSIL+ (odds ratio = 0.515, confidence interval: 0.370-0.719, p < 0.001). Multiple HR-HPV infections cannot be risk-stratified for triage of HR-HPV-positive women.
+35945897	23	43	human papillomavirus	Species	10566
+35945897	163	183	human papillomavirus	Species	10566
+35945897	296	304	patients	Species	9606
+35945897	924	932	patients	Species	9606
+35945897	1055	1060	HPV16	Species	333760
+35945897	1472	1477	women	Species	9606
+35945897	185	188	HPV	Species	10566
+35945897	692	695	HPV	Species	10566
+35945897	748	751	HPV	Species	10566
+35945897	862	865	HPV	Species	10566
+35945897	886	889	HPV	Species	10566
+35945897	1006	1009	HPV	Species	10566
+35945897	1090	1093	HPV	Species	10566
+35945897	1168	1171	HPV	Species	10566
+35945897	1195	1198	HPV	Species	10566
+35945897	1261	1264	HPV	Species	10566
+35945897	1284	1287	HPV	Species	10566
+35945897	1401	1404	HPV	Species	10566
+35945897	1459	1462	HPV	Species	10566
+35945897	1238	1242	HSIL	Gene
+35945897	1316	1320	HSIL	Gene
+
+24563076|t|New routes to targeted therapy of intrahepatic cholangiocarcinomas revealed by next-generation sequencing.
+24563076|a|BACKGROUND: Intrahepatic cholangiocarcinoma (ICC) is a subtype of primary liver cancer that is rarely curable by surgery and is rapidly increasing in incidence. Relapsed ICC has a poor prognosis, and current systemic nontargeted therapies are commonly extrapolated from those used in other gastrointestinal malignancies. We hypothesized that genomic profiling of clinical ICC samples would identify genomic alterations that are linked to targeted therapies and that could facilitate a personalized approach to therapy. METHODS: DNA sequencing of hybridization-captured libraries was performed for 3,320 exons of 182 cancer-related genes and 36 introns of 14 genes frequently rearranged in cancer. Sample DNA was isolated from 40 mum of 28 formalin-fixed paraffin-embedded ICC specimens and sequenced to high coverage. RESULTS: The most commonly observed alterations were within ARID1A (36%), IDH1/2 (36%), and TP53 (36%) as well as amplification of MCL1 (21%). Twenty cases (71%) harbored at least one potentially actionable alteration, including FGFR2 (14%), KRAS (11%), PTEN (11%), CDKN2A (7%), CDK6 (7%), ERBB3 (7%), MET (7%), NRAS (7%), BRCA1 (4%), BRCA2 (4%), NF1 (4%), PIK3CA (4%), PTCH1 (4%), and TSC1 (4%). Four (14%) of the ICC cases featured novel gene fusions involving the tyrosine kinases FGFR2 and NTRK1 (FGFR2-KIAA1598, FGFR2-BICC1, FGFR2-TACC3, and RABGAP1L-NTRK1). CONCLUSION: Two thirds of patients in this study harbored genomic alterations that are associated with targeted therapies and that have the potential to personalize therapy selection for to individual patients.
+24563076	1515	1523	patients	Species	9606
+24563076	1690	1698	patients	Species	9606
+24563076	985	991	ARID1A	Gene	8289
+24563076	999	1005	IDH1/2	Gene	3417;3418
+24563076	1017	1021	TP53	Gene	7157
+24563076	1056	1060	MCL1	Gene	4170
+24563076	1154	1159	FGFR2	Gene	2263
+24563076	1167	1171	KRAS	Gene	3845
+24563076	1179	1183	PTEN	Gene	5728
+24563076	1191	1197	CDKN2A	Gene	1029
+24563076	1204	1208	CDK6	Gene	1021
+24563076	1215	1220	ERBB3	Gene	2065
+24563076	1227	1230	MET	Gene	79811
+24563076	1237	1241	NRAS	Gene	4893
+24563076	1248	1253	BRCA1	Gene	672
+24563076	1260	1265	BRCA2	Gene	675
+24563076	1272	1275	NF1	Gene	4763
+24563076	1282	1288	PIK3CA	Gene	5290
+24563076	1295	1300	PTCH1	Gene	5727
+24563076	1311	1315	TSC1	Gene	7248
+24563076	1409	1414	FGFR2	Gene	2263
+24563076	1419	1424	NTRK1	Gene	4914
+24563076	1426	1431	FGFR2	Gene	2263
+24563076	1432	1440	KIAA1598	Gene	57698
+24563076	1442	1447	FGFR2	Gene	2263
+24563076	1448	1453	BICC1	Gene	80114
+24563076	1455	1460	FGFR2	Gene	2263
+24563076	1461	1466	TACC3	Gene	10460
+24563076	1472	1480	RABGAP1L	Gene	9910
+24563076	1481	1486	NTRK1	Gene	4914
+

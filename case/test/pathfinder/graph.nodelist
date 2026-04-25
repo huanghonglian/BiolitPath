@@ -1,0 +1,157 @@
+species:10566	
+species:333760	
+species:10090	
+species:6192	
+species:111938	
+disease:MESH:D002583,OMIM:603956	Uterine Cervical Neoplasms
+disease:MESH:D018281	Cholangiocarcinoma
+disease:MESH:D009369	Neoplasms
+disease:MESH:D002294	Carcinoma, Squamous Cell
+disease:MESH:D002578	Uterine Cervical Dysplasia
+disease:MESH:D008171	Lung Diseases
+disease:MESH:C536211,OMIM:121050	Congenital contractural arachnodactyly
+disease:MESH:C535483,OMIM:193700	Freeman-Sheldon syndrome
+disease:MESH:D011471,OMIM:176807	Prostatic Neoplasms
+disease:MESH:D065310	Squamous Intraepithelial Lesions of the Cervix
+disease:MESH:D009362	Neoplasm Metastasis
+disease:MESH:D001943,OMIM:114480	Breast Neoplasms
+disease:MESH:D002577	Uterine Cervical Diseases
+disease:MESH:D006528,OMIM:114550	Carcinoma, Hepatocellular
+disease:MESH:D003967	Diarrhea
+disease:MESH:D011252	Pregnancy Complications, Neoplastic
+disease:MESH:D020191,OMIM:125370,OMIM:254900	Myoclonic Epilepsies, Progressive
+disease:MESH:D005770	Gastrointestinal Neoplasms
+disease:MESH:D030361	Papillomavirus Infections
+disease:MESH:D013274,OMIM:137215,OMIM:613659	Stomach Neoplasms
+disease:MESH:D015179,OMIM:114500	Colorectal Neoplasms
+disease:MESH:D013964	Thyroid Neoplasms
+gene:22059	
+gene:25479186	
+gene:5087	
+gene:2263	
+gene:6098	
+gene:23705	
+gene:2146	
+gene:13844	
+gene:14183	
+gene:6890	
+gene:10403	
+gene:8085	
+gene:80114	
+gene:10460	
+gene:10768	
+gene:12578	
+gene:104416	
+gene:26395;26396	
+gene:5604;5605	
+gene:3845	
+gene:673	
+gene:8289	
+gene:3417	
+gene:8314	
+gene:7157	
+gene:472	
+gene:4763	
+gene:1029	
+gene:1030	
+gene:1021	
+gene:2065	
+gene:79811	
+gene:4893	
+gene:672	
+gene:675	
+gene:5290	
+gene:5727	
+gene:7248	
+gene:284252	
+gene:54664	
+gene:51535	
+gene:2261	
+gene:4914	
+gene:57698	
+gene:9910	
+gene:3398	
+gene:3400	
+gene:960	
+gene:3397	
+gene:3399	
+gene:3655	
+gene:100133941	
+gene:4804	
+gene:3417;3418	
+gene:4170	
+gene:1031	
+gene:5728	
+gene:5966	
+gene:10013	
+gene:10933	
+gene:6601	
+gene:55859	
+gene:8318	
+gene:23281	
+mutation:p|SUB|V|565|F	
+mutation:p|SUB|D|32|E	
+mutation:p|SUB|N|29|S	
+mutation:p|SUB|I|333|V	
+mutation:p|SUB|D|637|G	
+treatment:C0038902	Gynecologic Surgical Procedures
+treatment:C0040732	Transplantation
+treatment:C0543467	Operative Surgical Procedures
+treatment:C0013216	Pharmacotherapy
+treatment:C0281182	Screening for malignant neoplasm of breast
+treatment:C2349866	Genomic screening
+treatment:C0040861	Triage
+treatment:C2985566	Targeted Therapy
+treatment:C0683525	treatment options
+treatment:C3665472	Chemotherapy
+treatment:C1708063	First line treatment
+go:GO:0009294	DNA-mediated transformation
+go:GO:0010629	negative regulation of gene expression
+go:GO:0044850	menstrual cycle
+go:GO:0007565	female pregnancy
+go:GO:0022414	reproductive process
+go:GO:0042697	menopause
+go:GO:0061025	membrane fusion
+go:GO:0003964	RNA-directed DNA polymerase activity
+go:GO:0005622	intracellular anatomical structure
+go:GO:0035098	ESC/E(Z) complex
+go:GO:0090398	cellular senescence
+go:GO:0006412	translation
+go:GO:0042803	protein homodimerization activity
+go:GO:0051259	protein complex oligomerization
+go:GO:0006277	DNA amplification
+go:GO:0032991	protein-containing complex
+go:GO:0051225	spindle assembly
+go:GO:0000776	kinetochore
+go:GO:0000940	outer kinetochore
+go:GO:0005874	microtubule
+go:GO:0005737	cytoplasm
+go:GO:0016514	SWI/SNF complex
+go:GO:0001171	reverse transcription
+go:GO:0032259	methylation
+go:GO:0141119	chromosomal DNA methylation maintenance following DNA replication
+go:GO:0098870	action potential propagation
+bodypart:UBERON_0006922	cervix squamous epithelium
+bodypart:UBERON_0000483	epithelium
+bodypart:UBERON_0004801	cervix epithelium
+bodypart:UBERON_0000003	naris
+bodypart:UBERON_0000990	reproductive system
+bodypart:UBERON_0002107	liver
+bodypart:UBERON_0003704	intrahepatic bile duct
+bodypart:UBERON_0000178	blood
+bodypart:UBERON_0001913	milk
+bodypart:UBERON_0001471	skin of prepuce of penis
+bodypart:UBERON_0000310	breast
+bodypart:UBERON_0018543	lumen of intestine
+chemical:MESH:D014443	Tyrosine
+chemical:MESH:C000713257	futibatinib
+chemical:MESH:C009279	sodium bisulfite
+chemical:MESH:D008239	Lysine
+chemical:MESH:C000705477	pemigatinib
+celltype:CT:00002942|CL:0002535	epithelial cell of cervix
+celltype:CT:00000320|CL:0000312|BTO:0000667	keratinocyte
+celltype:CT:00000059|CL:0000057|BTO:0000452	fibroblast
+celltype:CT:00001067	Cancer stem cell
+celltype:CT:00001390|CL:0002325	lactocyte
+celltype:CT:00001392|CL:0002327|BTO:0004300	mammary gland epithelial cell
+location:2038349	Beijing Shi
