@@ -57,6 +57,7 @@ intrahepatic cholangiocarcinoma[tiab] AND FGFR2[tiab] AND BICC1[tiab]
 38331087
 32934021
 35564224
+```
 
 - **If custom text is provided**:  
   The user must supply the text in PubTator format and place it in the `./case/{case_name}/pubtator` directory.  
@@ -69,7 +70,7 @@ intrahepatic cholangiocarcinoma[tiab] AND FGFR2[tiab] AND BICC1[tiab]
   
 20417042|t|Detection...  
 20417042|a|Human papilloma...  
-
+```
 
 ```python
 #Search query as Input
