@@ -1,0 +1,2275 @@
+27172917_ti1|t|
+27172917_ti1|a|Malignancy is associated with microcalcification and higher AP/T ratio in ultrasonography, but not with Hashimoto's thyroiditis in histopathology in patients with thyroid nodules evaluated as Bethesda Category III (AUS / FLUS) in cytology
+27172917_ti1	75	90	ultrasonography	diagnosis
+
+27172917_ab13|t|
+27172917_ab13|a|In Bethesda Category III nodules with higher AP/T ratio and microcalcification, surgery might be considered as a first therapeutic option instead of repeat fine-needle aspiration biopsy or observation.
+27172917_ab13	157	186	fine-needle aspiration biopsy	diagnosis
+
+27234220_ti1|t|
+27234220_ti1|a|Safety of transradial diagnostic cardiac catheterization in patients under oral anticoagulant therapy
+27234220_ti1	11	57	transradial diagnostic cardiac catheterization	diagnosis
+
+27234220_ab11|t|
+27234220_ab11|a|Performing a transradial diagnostic cardiac catheterization without removal of the oral chronic anticoagulation appears safe in patients under acenocumarol therapy.
+27234220_ab11	14	60	transradial diagnostic cardiac catheterization	diagnosis
+
+27235559_ti1|t|
+27235559_ti1|a|Does infrared visualization improve selection of venipuncture sites for indwelling needle at the forearm in second-year nursing students?
+27235559_ti1	50	62	venipuncture	diagnosis
+
+27235559_ab1|t|
+27235559_ab1|a|To evaluate the effectiveness of a vein visualization display system using near-infrared light (" Vein Display ") for the safe and proper selection of venipuncture sites for indwelling needle placement in the forearm.
+27235559_ab1	152	164	venipuncture	diagnosis
+
+27235559_ab4|t|
+27235559_ab4|a|The quality of the venipuncture procedure at various selected sites was evaluated according to a scale developed by the authors.
+27235559_ab4	20	42	venipuncture procedure	diagnosis
+
+27235559_ab5|t|
+27235559_ab5|a|Time, scores and patterns of puncture - site selection were compared with respect to three different methods: [1] attempt 1 (tourniquet only), [2] attempt 2 (Vein Display only) and [3] attempt 3 (both).
+27235559_ab5	30	38	puncture	diagnosis
+
+27235559_ab7|t|
+27235559_ab7|a|We found that venipuncture site selection time was significantly improved with the Vein Display, particularly in the case of difficult to administer venipuncture sites.
+27235559_ab7	15	27	venipuncture	diagnosis
+27235559_ab7	150	162	venipuncture	diagnosis
+
+27235559_ab8|t|
+27235559_ab8|a|Overall, we found no significant difference with respect to venipuncture quality, as determined by our scale.
+27235559_ab8	61	73	venipuncture	diagnosis
+
+27235559_ab9|t|
+27235559_ab9|a|These results suggest that equipment such as the Vein Display can contribute immensely to the improvement of practical skills, such as venipuncture, especially in the context of elderly patients.
+27235559_ab9	136	148	venipuncture	diagnosis
+
+27241818_ab8|t|
+27241818_ab8|a|Motoneuronal output was estimated through vastus lateralis surface electromyography (EMG).
+27241818_ab8	68	84	electromyography	diagnosis
+27241818_ab8	86	89	EMG	diagnosis
+
+27249559_ti1|t|
+27249559_ti1|a|Study of the Microfocus X-Ray Tube Based on a Point-Like Target Used for Micro-Computed Tomography
+27249559_ti1	74	99	Micro-Computed Tomography	diagnosis
+
+27249559_ab1|t|
+27249559_ab1|a|For a micro-Computed Tomography (Micro-CT) system, the microfocus X-ray tube is an essential component because the spatial resolution of CT images, in theory, is mainly determined by the size and stability of the X-ray focal spot of the microfocus X-ray tube.
+27249559_ab1	7	50	micro-Computed Tomography (Micro-CT) system	diagnosis
+27249559_ab1	138	140	CT	diagnosis
+27249559_ab1	214	219	X-ray	diagnosis
+
+27249559_ab2|t|
+27249559_ab2|a|However, many factors, including voltage fluctuations, mechanical vibrations, and temperature changes, can cause the size and the stability of the X-ray focal spot to degrade.
+27249559_ab2	148	153	X-ray	diagnosis
+
+27249559_ab3|t|
+27249559_ab3|a|A new microfocus X-ray tube based on a point-like micro-target in which the X-ray target is irradiated with an unfocused electron beam was investigated.
+27249559_ab3	77	82	X-ray	diagnosis
+
+27249559_ab4|t|
+27249559_ab4|a|EGS4 Monte Carlo simulation code was employed for the calculation of the X-ray intensity produced from the point-like micro-target and the substrate.
+27249559_ab4	74	79	X-ray	diagnosis
+
+27249559_ab6|t|
+27249559_ab6|a|The simulation results demonstrated that if the intensity of X-rays generated at the point-like target is greater than half of the X-ray intensity produced on the substrate, the X-ray focal spot is determined in part by the point-like target rather than by the electron beam in the conventional X-ray tube.
+27249559_ab6	62	68	X-rays	diagnosis
+27249559_ab6	132	137	X-ray	diagnosis
+27249559_ab6	179	184	X-ray	diagnosis
+
+27249559_ab7|t|
+27249559_ab7|a|In theory, since it is able to reduce those unfavorable effects such as the electron beam trajectory swinging and the beam size changing for the microfocus X-ray tube, it could alleviate CT image artifacts caused by the X-ray focal spot shift and size change.
+27249559_ab7	188	190	CT	diagnosis
+27249559_ab7	221	226	X-ray	diagnosis
+
+27266283_ab2|t|
+27266283_ab2|a|Patients with lung cancer are usually diagnosed at advanced or locally advanced stage, for this reason early diagnosis of lung cancer is very important.
+27266283_ab2	104	119	early diagnosis	diagnosis
+
+27266283_ab3|t|
+27266283_ab3|a|For early detection of lung cancer some methods are emphasized such as low-dose computed tomography or tumor biomarkers.
+27266283_ab3	5	20	early detection	diagnosis
+27266283_ab3	72	100	low-dose computed tomography	diagnosis
+
+27274893_ti1|t|
+27274893_ti1|a|Comparison of sonoelastography with sonourethrography and retrograde urethrography in the evaluation of male anterior urethral strictures
+27274893_ti1	15	31	sonoelastography	diagnosis
+27274893_ti1	37	54	sonourethrography	diagnosis
+27274893_ti1	59	83	retrograde urethrography	diagnosis
+
+27274893_ab1|t|
+27274893_ab1|a|Retrograde urethrography (RUG) is the most common and preferred imaging modality for imaging of the anterior urethral strictures despite its well-known limitations and disadvantages.
+27274893_ab1	1	25	Retrograde urethrography	diagnosis
+27274893_ab1	27	30	RUG	diagnosis
+27274893_ab1	86	93	imaging	diagnosis
+
+27274893_ab2|t|
+27274893_ab2|a|Sonourethrography (SUG) was introduced in 1988 to overcome the limitations of RUG and to provide more accurate results.
+27274893_ab2	1	18	Sonourethrography	diagnosis
+27274893_ab2	20	23	SUG	diagnosis
+27274893_ab2	79	82	RUG	diagnosis
+
+27274893_ab5|t|
+27274893_ab5|a|Sonoelastography (SE) is a newer technique, tried in various other pathologies.
+27274893_ab5	1	17	Sonoelastography	diagnosis
+27274893_ab5	19	21	SE	diagnosis
+
+27274893_ab6|t|
+27274893_ab6|a|In this study, we have used this technique for the first time to assess its efficacy in the evaluation of anterior urethral stricture disease by comparison with RUG and SUG.
+27274893_ab6	162	165	RUG	diagnosis
+27274893_ab6	170	173	SUG	diagnosis
+
+27274893_ab7|t|
+27274893_ab7|a|Between August 2014 and May 2015, 77 patients with clinical features of anterior urethral stricture disease were included in the study and evaluated by RUG followed by SUG and SE for stricture location, length, depth of spongiofibrosis and periurethral pathologies.
+27274893_ab7	153	156	RUG	diagnosis
+27274893_ab7	169	172	SUG	diagnosis
+27274893_ab7	177	179	SE	diagnosis
+
+27274893_ab9|t|
+27274893_ab9|a|Overall diagnostic accuracy of SE, SUG, and RGU for the estimation of stricture location, and length were estimated 92.68% vs.
+27274893_ab9	32	34	SE	diagnosis
+27274893_ab9	36	39	SUG	diagnosis
+27274893_ab9	45	48	RGU	diagnosis
+
+27274893_ab12|t|
+27274893_ab12|a|43.66%, respectively, while for depth of spongiofibrosis SE, and SUG had accuracy rates of 87.3%, 48%, respectively.
+27274893_ab12	58	60	SE	diagnosis
+27274893_ab12	66	69	SUG	diagnosis
+
+27274893_ab13|t|
+27274893_ab13|a|The mean length measured on SE was nearest to the mean intra-operative stricture length (21.34+11.8 mm).
+27274893_ab13	29	31	SE	diagnosis
+
+27274893_ab14|t|
+27274893_ab14|a|SE findings significantly correlated with the colour of bladder mucosa on cystoscopic examination (p=0.003) whereas the association was non-significant (p=0.127) for difficulty in incision.
+27274893_ab14	1	3	SE	diagnosis
+27274893_ab14	75	98	cystoscopic examination	diagnosis
+
+27274893_ab15|t|
+27274893_ab15|a|While a nonsignificant correlation existed between SUG findings related both to the colour of the bladder mucosa and difficulty in incision on cystoscopy, SE findings had a significant association (p<0.001) with histopathology findings for severe degree of fibrosis.
+27274893_ab15	52	55	SUG	diagnosis
+27274893_ab15	144	154	cystoscopy	diagnosis
+27274893_ab15	156	158	SE	diagnosis
+27274893_ab15	248	266	degree of fibrosis	diagnosis
+
+27274893_ab16|t|
+27274893_ab16|a|Sonoelastography estimates stricture site and length better in comparison with RUG and SUG.
+27274893_ab16	1	17	Sonoelastography	diagnosis
+27274893_ab16	80	83	RUG	diagnosis
+27274893_ab16	88	91	SUG	diagnosis
+
+27274893_ab17|t|
+27274893_ab17|a|It estimates degree of spongiofibrosis which serves as an important prognostic factor for stricture recurrence more accurately than SUG.
+27274893_ab17	133	136	SUG	diagnosis
+
+27280525_ab2|t|
+27280525_ab2|a|With the recent conclusion of Phase 3 of the Social Cognition Psychometric Evaluation (SCOPE) Study, the most psychometrically sound measures of social cognition have been identified.
+27280525_ab2	63	100	Psychometric Evaluation (SCOPE) Study	diagnosis
+27280525_ab2	111	127	psychometrically	diagnosis
+
+27280525_ab3|t|
+27280525_ab3|a|Therefore, the aims of the present study were to: 1) examine the factor structure of social cognition in schizophrenia through the utilization of psychometrically sound measures, 2) examine the stability of the factor structure across two study visits, 3) compare the factor structure of social cognition in schizophrenia to that in healthy controls, and 4) examine the relationship between the factors and relevant outcome measures including social functioning and symptoms.
+27280525_ab3	147	163	psychometrically	diagnosis
+
+27282845_ti1|t|
+27282845_ti1|a|Assessment of Residual Disease With Molecular Breast Imaging in Patients Undergoing Neoadjuvant Therapy: Association With Molecular Subtypes
+27282845_ti1	37	61	Molecular Breast Imaging	diagnosis
+
+27282845_ab1|t|
+27282845_ab1|a|Assessment of residual disease after neoadjuvant therapy for breast cancer is an ongoing challenge of breast imaging.
+27282845_ab1	110	117	imaging	diagnosis
+
+27282845_ab2|t|
+27282845_ab2|a|This study evaluates the accuracy of a novel dedicated system for molecular breast imaging (MBI) composed of the new generation of cadmium zinc telluride detectors in assessing residual disease after neoadjuvant therapy in patients with breast cancer.
+27282845_ab2	67	91	molecular breast imaging	diagnosis
+27282845_ab2	93	96	MBI	diagnosis
+
+27282845_ab3|t|
+27282845_ab3|a|Clinical data, imaging, surgical, and pathological findings of 51 women with breast cancer undergoing neoadjuvant therapy were recorded.
+27282845_ab3	16	23	imaging	diagnosis
+
+27282845_ab4|t|
+27282845_ab4|a|MBI findings were correlated with surgical pathology results.
+27282845_ab4	1	4	MBI	diagnosis
+
+27282845_ab5|t|
+27282845_ab5|a|Accuracy of MBI in predicting complete pathological response and size of residual disease was assessed according to molecular subtypes.
+27282845_ab5	13	16	MBI	diagnosis
+
+27282845_ab6|t|
+27282845_ab6|a|The size of the largest focus of uptake on MBI correlated with the largest dimension measured on pathology (r = 0.55; P < .001).
+27282845_ab6	44	47	MBI	diagnosis
+
+27282845_ab9|t|
+27282845_ab9|a|The sensitivity and specificity of MBI for detecting residual disease were 83% (95% confidence interval [CI], 66-93) and 69% (95% CI, 42-88), respectively.
+27282845_ab9	36	39	MBI	diagnosis
+
+27282845_ab11|t|
+27282845_ab11|a|The accuracy of MBI in assessing residual disease after neoadjuvant treatment might be related to the molecular subtype.
+27282845_ab11	17	20	MBI	diagnosis
+
+27286118_ab2|t|
+27286118_ab2|a|The patients were separated into two groups as histologically observed prostatitis (Group A) and no prostatitis (Group B) according to the biopsy outcomes.
+27286118_ab2	140	146	biopsy	diagnosis
+
+27297523_ab4|t|
+27297523_ab4|a|Laryngeal endoscopy showed limited movement of bilateral vocal cords, and computed tomography revealed a tumor lesion extending from the vocal cords to the subglottic area.
+27297523_ab4	1	20	Laryngeal endoscopy	diagnosis
+27297523_ab4	75	94	computed tomography	diagnosis
+
+27297523_ab8|t|
+27297523_ab8|a|Chest X-ray showed bilateral pneumothoraces; therefore, we inserted bilateral chest drainage tubes, which stabilized his respiratory condition.
+27297523_ab8	1	12	Chest X-ray	diagnosis
+
+27304832_ab4|t|
+27304832_ab4|a|The overall objective of this study was to determine the magnitude and distribution of causes of death among children aged 5 to 14 year olds in the population of Kersa HDSS using verbal autopsy method for the period 2008 to 2013.
+27304832_ab4	187	194	autopsy	diagnosis
+
+27310615_ab4|t|
+27310615_ab4|a|Anthropometric and dietary assessments were performed, the latter by applying nine 24h dietary recall s, by using the Brazilian Healthy Eating Index Revised (BHEI-R), and calculating the prevalence of inadequacy by the EAR cut-off point method.
+27310615_ab4	20	39	dietary assessments	diagnosis
+
+27347668_ab5|t|
+27347668_ab5|a|Therefore, we recorded 128-channel EEG while participants performed a bistable motion task and utilized state-of-the-art source-space connectivity analysis techniques to study the functional relevance of different coupling modes for cortical communication.
+27347668_ab5	36	39	EEG	diagnosis
+27347668_ab5	71	91	bistable motion task	diagnosis
+
+27347668_ab6|t|
+27347668_ab6|a|Our results indicate that gamma-band phase coupling in extrastriate visual cortex might mediate the integration of visual tokens into a moving stimulus during ambiguous visual stimulation.
+27347668_ab6	116	129	visual tokens	diagnosis
+27347668_ab6	170	188	visual stimulation	diagnosis
+
+27349365_ab1|t|
+27349365_ab1|a|Binding interactions between twisted cucurbit[14]uril (tQ[14]) and twenty standard amino acids (AAs) have been investigated by NMR spectroscopy and isothermal titration calorimetry (ITC) in aqueous HCl solutions and in DMSO.
+27349365_ab1	128	144	NMR spectroscopy	diagnosis
+
+27355434_ab6|t|
+27355434_ab6|a|Structural - MRI was performed to estimate the brain volume, and resting-state functional-MRI was applied to extract the amplitude of low-frequency fluctuations (ALFF), an imaging measure of intrinsic brain activity.
+27355434_ab6	14	17	MRI	diagnosis
+27355434_ab6	66	94	resting-state functional-MRI	diagnosis
+
+27366176_ab4|t|
+27366176_ab4|a|The patient underwent surgical exploration, and a diagnosis of necrotizing fasciitis was confirmed by pathological evidence of necrosis of the fascia and neutrophil infiltration in tissue biopsies.
+27366176_ab4	23	43	surgical exploration	diagnosis
+27366176_ab4	182	197	tissue biopsies	diagnosis
+
+27366176_ab5|t|
+27366176_ab5|a|Cultures of fascial tissue biopsies and blood samples were positive for Streptococcus pneumoniae.
+27366176_ab5	21	36	tissue biopsies	diagnosis
+
+27371817_ti1|t|
+27371817_ti1|a|Metabolomic analysis of glycerophospholipid signatures of inflammation treated with non-steroidal anti-inflammatory drugs -induced- RAW264.7 cells using (1)H NMR and U-HPLC / Q-TOF-MS
+27371817_ti1	154	162	(1)H NMR	diagnosis
+
+27371817_ab1|t|
+27371817_ab1|a|Non-destructive proton nuclear magnetic resonance ((1)H NMR) spectroscopy and highly sensitive ultra-performance liquid chromatography quadrupole time-of-flight mass spectrometry (U-HPLC / Q-TOF-MS) coupled to data processing methods were applied to analyze the metabolic profiling changes of glycerophospholipids (GPLs) in RAW264.7 cells from inflammation to prognosis.
+27371817_ab1	1	74	Non-destructive proton nuclear magnetic resonance ((1)H NMR) spectroscopy	diagnosis
+
+27371817_ab2|t|
+27371817_ab2|a|Analysis of (1)H NMR was shown that the models were grouped successfully, illustrating that all of them had significant differences.
+27371817_ab2	13	21	(1)H NMR	diagnosis
+
+27371817_ab3|t|
+27371817_ab3|a|Based on the highly simple, accurate, non-targeted and non-destructively advantages of (1)H NMR, it could be used as a new screening tool of anti-inflammatory drugs in the metabolic profiling of GPLs.
+27371817_ab3	88	96	(1)H NMR	diagnosis
+
+27371817_ab6|t|
+27371817_ab6|a|Compared with (1)H NMR, U-HPLC / Q-TOF-MS showed higher sensitivity and specificity and was more suitable for the determination of biomarkers apart from the deficiency of time-consuming sample preparation steps and unambiguous metabolite identification.
+27371817_ab6	15	23	(1)H NMR	diagnosis
+
+27371817_ab7|t|
+27371817_ab7|a|Therefore, it is feasible to analyze the changes of GPLs during inflammation by combining (1)H NMR spectroscopy with U-HPLC / Q-TOF-MS.
+27371817_ab7	91	112	(1)H NMR spectroscopy	diagnosis
+
+27383174_ab4|t|
+27383174_ab4|a|Thus, ischemic myocardium maintains the organized structure of ventricular fibrillation for the first 10 min, which is important for the development of automatic diagnostics of abnormal cardiac activity in humans.
+27383174_ab4	153	174	automatic diagnostics	diagnosis
+
+27408381_ab7|t|
+27408381_ab7|a|Ultrasonography abdomen revealed splenic enlargement with two focal lesions attributed to either splenic abscess or infarcts.
+27408381_ab7	1	24	Ultrasonography abdomen	diagnosis
+
+27408381_ab10|t|
+27408381_ab10|a|With a clinical suspicion of infection and haemophagocytic lymphohistiocytosis bone marrow aspiration (BMA) and biopsy (BMBx) was done.
+27408381_ab10	80	102	bone marrow aspiration	diagnosis
+27408381_ab10	80	126	bone marrow aspiration (BMA) and biopsy (BMBx)	diagnosis
+27408381_ab10	104	107	BMA	diagnosis
+27408381_ab10	113	119	biopsy	diagnosis
+
+27408381_ab12|t|
+27408381_ab12|a|On this basis PET-CT was suggested which showed enlarged spleen with diffuse uptake.
+27408381_ab12	15	21	PET-CT	diagnosis
+
+27408381_ab13|t|
+27408381_ab13|a|BMBx showed nodular and intrasinusoidal collection of abnormal lymphoid cells.
+27408381_ab13	1	5	BMBx	diagnosis
+
+27408381_ab14|t|
+27408381_ab14|a|On immunohistochemistry, these cells were positive for CD20, CD5, MUM1, BCL-2, BCL-6 and negative for CD3, CD10 and CD23.
+27408381_ab14	4	24	immunohistochemistry	diagnosis
+
+27408381_ab19|t|
+27408381_ab19|a|This indicates the importance of good morphological assessment of a bone marrow aspirate and biopsy to make a correct diagnosis.
+27408381_ab19	94	100	biopsy	diagnosis
+
+27425447_ab2|t|
+27425447_ab2|a|The structures of three new compounds were identified by analyzing their NMR spectroscopic and HRESIMS data.
+27425447_ab2	74	91	NMR spectroscopic	diagnosis
+
+27442214_ab1|t|
+27442214_ab1|a|Variable ossification patterns of the pelvis in skeletally immature patients can make the interpretation of pelvic radiographs challenging.
+27442214_ab1	116	127	radiographs	diagnosis
+
+27442214_ab3|t|
+27442214_ab3|a|This study evaluates the chronology and sex differences for appearance and closure of pelvic and proximal femoral secondary ossification centers using computed tomography (CT).
+27442214_ab3	152	171	computed tomography	diagnosis
+27442214_ab3	173	175	CT	diagnosis
+
+27442214_ab4|t|
+27442214_ab4|a|Patients who underwent abdominal and pelvic CT scans between January 2009 and December 2014 at 2 tertiary level 1 trauma centers were retrospectively reviewed.
+27442214_ab4	38	53	pelvic CT scans	diagnosis
+
+27442214_ab5|t|
+27442214_ab5|a|Patients between the ages of 2 and 32 years with adequate imaging of the pelvis and proximal femurs were included.
+27442214_ab5	59	66	imaging	diagnosis
+
+27442214_ab7|t|
+27442214_ab7|a|CT scans were assessed for the appearance and closure of the following secondary ossification centers: anterior inferior iliac spine (AIIS), anterior superior iliac spine (ASIS), femoral head (FH), greater trochanter (GT), iliac crest (IC), ischial tuberosity (IT), lesser trochanter (LT), posterior superior iliac spine (PSIS), symphysis pubis (SP), and triradiate cartilage (TRC).
+27442214_ab7	1	9	CT scans	diagnosis
+
+27442214_ab9|t|
+27442214_ab9|a|A total of 496 CT scans met inclusion criteria (240 males and 256 females).
+27442214_ab9	16	24	CT scans	diagnosis
+
+27442214_ab16|t|
+27442214_ab16|a|Future studies may use secondary ossification centers to further evaluate skeletal maturity, assess pediatric pathology, and aid surgical management.
+27442214_ab16	75	92	skeletal maturity	diagnosis
+
+27450789_ab6|t|
+27450789_ab6|a|All patients were asked to grade their pain experience during induction and maintenance of anesthesia and also during the phacoemulsification surgery, using a visual analogue scale (VAS) from 0 (no pain) to 10 (unbearable pain) administered after the surgery.
+27450789_ab6	160	181	visual analogue scale	diagnosis
+27450789_ab6	183	186	VAS	diagnosis
+
+27458601_ab2|t|
+27458601_ab2|a|Antibodies to MOG were investigated using a cell-based assay in 3 groups of patients: 104 preselected patients with MS (group 1), 55 age - and sex -matched, otherwise unselected patients with MS (group 2), and in 22 brain-biopsied patients with demyelinating diseases of the CNS (n = 19 with MS), 4 of whom classified as MS type II (group 3).
+27458601_ab2	217	231	brain-biopsied	diagnosis
+
+27458601_ab8|t|
+27458601_ab8|a|All anti-MOG -positive patients with MS showed typical MS lesions on brain MRI.
+27458601_ab8	70	79	brain MRI	diagnosis
+
+27460285_ti1|t|
+27460285_ti1|a|Multidetector CT of expected findings and complications after contemporary inguinal hernia repair surgery
+27460285_ti1	1	17	Multidetector CT	diagnosis
+
+27460285_ab3|t|
+27460285_ab3|a|Emphasis is placed on multidetector CT, which represents the ideal modality to comprehensively visualize the operated groin region and deeper intra-abdominal structures.
+27460285_ab3	23	39	multidetector CT	diagnosis
+
+27460285_ab4|t|
+27460285_ab4|a|CT consistently depicts seroma, mesh infections, hemorrhages, bowel complications and urinary bladder injuries, and thus generally provides a consistent basis for therapeutic choice.
+27460285_ab4	1	3	CT	diagnosis
+
+27460285_ab5|t|
+27460285_ab5|a|Since radiologists are increasingly requested to investigate suspected iatrogenic complications, this paper aims to provide an increased familiarity with early CT studies after IHR, including complications and normal postoperative appearances such as focal pseudolesions, in order to avoid misinterpretation and inappropriate management.
+27460285_ab5	161	163	CT	diagnosis
+
+27461472_ab6|t|
+27461472_ab6|a|Western blot analysis and immunohistochemistry were used to analyse expression of EphB1 receptor as well as the activation of the glial cells and the pro-inflammatory cytokines in the spinal cord.
+27461472_ab6	27	47	immunohistochemistry	diagnosis
+
+27470228_ab5|t|
+27470228_ab5|a|These men underwent a health examination including blood sampling in 2010 and a subset of 324 also had a quantitative PCR-based measurement of TL.
+27470228_ab5	52	66	blood sampling	diagnosis
+
+27473429_ab12|t|
+27473429_ab12|a|This result suggests that this device could serve as the PCR module of a continuous-flow high-throughput on-line total DNA analysis system integrating all necessary modules from cell lysis / DNA extraction to PCR product analysis.
+27473429_ab12	90	132	high-throughput on-line total DNA analysis	diagnosis
+
+27481714_ab6|t|
+27481714_ab6|a|Electrophysiological and pharmacological data also reveal a constitutively active calcium-activated chloride conductance (CaCC).
+27481714_ab6	1	21	Electrophysiological	diagnosis
+27481714_ab6	26	46	pharmacological data	diagnosis
+
+27484604_ab5|t|
+27484604_ab5|a|Panoramic radiographs were taken pre- and postoperatively on day 2 of the enucleation.
+27484604_ab5	1	22	Panoramic radiographs	diagnosis
+
+27484604_ab6|t|
+27484604_ab6|a|The dimensions of the cyst were evaluated on the radiograph according to the proforma.
+27484604_ab6	50	60	radiograph	diagnosis
+
+27484604_ab7|t|
+27484604_ab7|a|Subsequent radiographs were taken at regular intervals of 1.5, 3, and 6 months using standard parameters and were analyzed using MCID™ analysis software of imaging research.
+27484604_ab7	12	23	radiographs	diagnosis
+27484604_ab7	157	173	imaging research	diagnosis
+
+27488290_ti1|t|
+27488290_ti1|a|Direct Repair of Lumbar Pars Interarticularis Defects by Utilizing Intraoperative O-Arm-Based Navigation and Microendoscopic Techniques
+27488290_ti1	110	136	Microendoscopic Techniques	diagnosis
+
+27488290_ab1|t|
+27488290_ab1|a|A retrospective analysis of the clinical outcomes of eight patients with the lumbar pars interarticulars defects treated by direct repair with the aid of intraoperative O-arm based navigation and microendoscopic techniques.
+27488290_ab1	197	223	microendoscopic techniques	diagnosis
+
+27488290_ab5|t|
+27488290_ab5|a|Review of medical records identified eight consecutive patients treated with intraoperative O-arm based navigation and microendoscopic techniques.
+27488290_ab5	120	146	microendoscopic techniques	diagnosis
+
+27488290_ab6|t|
+27488290_ab6|a|Debridement and autograft of pars interarticularis defects was performed under microendoscopic procedure.
+27488290_ab6	80	105	microendoscopic procedure	diagnosis
+
+27488290_ab18|t|
+27488290_ab18|a|Minimally invasive direct repair of the pars interarticularis defects with intralaminar screws by using microendoscopic system and navigation procedure can provide safe and effective treatment of spondylolysis with satisfactory clinical and radiological outcomes, which need some special tools with steep learning curve.
+27488290_ab18	105	127	microendoscopic system	diagnosis
+
+27488602_ti1|t|
+27488602_ti1|a|The value of transesophageal echocardiography for embolic strokes of undetermined source
+27488602_ti1	14	46	transesophageal echocardiography	diagnosis
+
+27488602_ab1|t|
+27488602_ab1|a|Our aim was to evaluate the diagnostic yield of transesophageal echocardiography (TEE) in consecutive patients with ischemic stroke (IS) fulfilling the diagnostic criteria of embolic strokes of undetermined source (ESUS).
+27488602_ab1	29	45	diagnostic yield	diagnosis
+27488602_ab1	49	81	transesophageal echocardiography	diagnosis
+27488602_ab1	83	86	TEE	diagnosis
+
+27488602_ab2|t|
+27488602_ab2|a|We prospectively evaluated consecutive patients with acute IS satisfying ESUS criteria who underwent in- hospital TEE examination in 3 tertiary care stroke centers during a 12-month period.
+27488602_ab2	115	130	TEE examination	diagnosis
+
+27488602_ab3|t|
+27488602_ab3|a|We also performed a systematic review and meta-analysis estimating the cumulative effect of TEE findings on therapeutic management for secondary stroke prevention among different IS subgroups.
+27488602_ab3	93	96	TEE	diagnosis
+
+27488602_ab4|t|
+27488602_ab4|a|We identified 61 patients with ESUS who underwent investigation with TEE (mean age 44 ± 12 years, 49% men, median NIH Stroke Scale score = 5 points [interquartile range: 3-8]).
+27488602_ab4	70	73	TEE	diagnosis
+
+27488602_ab5|t|
+27488602_ab5|a|TEE revealed additional findings in 52% (95% confidence interval [CI]: 40%-65%) of the study population.
+27488602_ab5	1	4	TEE	diagnosis
+
+27488602_ab6|t|
+27488602_ab6|a|TEE findings changed management (initiation of anticoagulation therapy, administration of IV antibiotic therapy, and patent foramen ovale closure) in 10 (16% [95% CI: 9%-28%]) patients.
+27488602_ab6	1	4	TEE	diagnosis
+
+27488602_ab7|t|
+27488602_ab7|a|The pooled rate of reported anticoagulation therapy attributed to abnormal TEE findings among 3,562 acute IS patients included in the meta-analysis (12 studies) was 8.7% (95% CI: 7.3%-10.4%).
+27488602_ab7	76	79	TEE	diagnosis
+
+27488602_ab8|t|
+27488602_ab8|a|In subgroup analysis, the rates of initiation of anticoagulation therapy on the basis of TEE investigation did not differ (p = 0.315) among patients with cryptogenic stroke (6.9% [95% CI: 4.9%-9.6%]), ESUS (8.1% [95% CI: 3.4%-18.1%]), and IS (9.4% [95% CI: 7.5%-11.8%]).
+27488602_ab8	90	93	TEE	diagnosis
+
+27488602_ab9|t|
+27488602_ab9|a|Abnormal TEE findings may decisively affect the selection of appropriate therapeutic strategy in approximately 1 of 7 patients with ESUS.
+27488602_ab9	10	13	TEE	diagnosis
+
+27494135_ab3|t|
+27494135_ab3|a|Preparedness and early diagnosis are essential for effective control of FMD.
+27494135_ab3	18	33	early diagnosis	diagnosis
+
+27503306_ab12|t|
+27503306_ab12|a|Success of this strategy requires particularly strong training of the emergency physicians in ECG and lysis therapy, and co-operation with nearby cardiac centres.
+27503306_ab12	95	98	ECG	diagnosis
+
+27506129_ti1|t|
+27506129_ti1|a|On the development of conjunctival hyperemia computer-assisted diagnosis tools: Influence of feature selection and class imbalance in automatic gradings
+27506129_ti1	46	79	computer-assisted diagnosis tools	diagnosis
+
+27510458_ti1|t|
+27510458_ti1|a|Visualization of the Intimal Flap in Intracranial Arterial Dissection Using High-Resolution 3T MRI
+27510458_ti1	1	14	Visualization	diagnosis
+27510458_ti1	93	99	3T MRI	diagnosis
+
+27510458_ab2|t|
+27510458_ab2|a|Recent reports showed that high-resolution magnetic resonance imaging (MRI) was better at identifying intimal flaps as compared with routine MRI techniques used in clinical settings.
+27510458_ab2	44	70	magnetic resonance imaging	diagnosis
+27510458_ab2	72	75	MRI	diagnosis
+27510458_ab2	142	156	MRI techniques	diagnosis
+
+27510458_ab3|t|
+27510458_ab3|a|However, no current standardized sequence for high-resolution MRI without gadolinium enhancement produces images of satisfactory quality with clinically tolerable scanning times.
+27510458_ab3	63	66	MRI	diagnosis
+27510458_ab3	164	172	scanning	diagnosis
+
+27510458_ab4|t|
+27510458_ab4|a|This study evaluated a nonenhanced high-resolution fast spin echo (HR-FSE) MRI sequence for visualizing intimal flaps in patients with ICAD.
+27510458_ab4	24	79	nonenhanced high-resolution fast spin echo (HR-FSE) MRI	diagnosis
+
+27510458_ab5|t|
+27510458_ab5|a|Three patients with ICAD underwent plain MRI examination using a 2-dimensional T2-weighted FSE imaging sequence optimized for our 3T system (in-plane pixel size, .23 mm × .23 mm; slice thickness 3 mm with no interslice gap), as well as scanning with conventional modalities, including CT angiography, magnetic resonance angiography, and digital subtraction angiography.
+27510458_ab5	42	45	MRI	diagnosis
+27510458_ab5	80	103	T2-weighted FSE imaging	diagnosis
+27510458_ab5	237	245	scanning	diagnosis
+27510458_ab5	286	300	CT angiography	diagnosis
+27510458_ab5	302	332	magnetic resonance angiography	diagnosis
+27510458_ab5	338	369	digital subtraction angiography	diagnosis
+
+27510458_ab6|t|
+27510458_ab6|a|We assessed whether these imaging methods could visualize an intimal flap and/or double lumen sign in the participants and compared the results between HR-FSE and the other modalities.
+27510458_ab6	153	159	HR-FSE	diagnosis
+
+27510458_ab7|t|
+27510458_ab7|a|HR-FSE images clearly showed intimal flaps and double lumen signs in all 3 patients, whereas the conventional modalities identified a double lumen sign in only 2 of the 3 patients.
+27510458_ab7	1	7	HR-FSE	diagnosis
+
+27510458_ab8|t|
+27510458_ab8|a|The present method of optimized HR-FSE imaging with a 3T system improved visualization of intimal flaps and should thus be considered for assessing patients with suspected ICAD that cannot be definitively diagnosed by conventional imaging modalities.
+27510458_ab8	33	47	HR-FSE imaging	diagnosis
+27510458_ab8	74	87	visualization	diagnosis
+
+27515772_ti1|t|
+27515772_ti1|a|Laparoscopic radical lymph node dissection for advanced colon cancer close to the hepatic flexure
+27515772_ti1	1	13	Laparoscopic	diagnosis
+
+27518527_ab3|t|
+27518527_ab3|a|In this report, however, the authors describe a rare case of a 61- year -old woman with hyperprolactinemia, hypothyroidism, and acromegaly (elevation of insulin-like growth factor-1 [IGF-1]) with elevated growth hormone-releasing hormone (GHRH) in whom an MRI demonstrated diffuse enlargement of the pituitary gland.
+27518527_ab3	257	260	MRI	diagnosis
+
+27518527_ab5|t|
+27518527_ab5|a|She underwent a transsphenoidal biopsy, which yielded a diagnosis of DLBCL with an activated B-cell immunophenotype with somatotroph hyperplasia.
+27518527_ab5	17	39	transsphenoidal biopsy	diagnosis
+
+27518527_ab7|t|
+27518527_ab7|a|This is the only reported case of its kind and displays the importance of a broad differential diagnosis, multidisciplinary evaluation, and critical intraoperative decision-making when treating atypical sellar lesions.
+27518527_ab7	83	105	differential diagnosis	diagnosis
+
+27525549_ti1|t|
+27525549_ti1|a|Undisclosed HIV infection and art use in the kenya AIDS indicator survey 2012: relevance to targets for HIV diagnosis and treatment in kenya
+27525549_ti1	105	118	HIV diagnosis	diagnosis
+
+27530053_ab3|t|
+27530053_ab3|a|Against this background, we demonstrate how the natural correlation between numerosities and continuous magnitudes makes it nearly impossible to study non-symbolic numerosity processing in isolation from continuous magnitudes, and therefore the results of behavioral and imaging studies with infants, adults and animals can be explained, at least in part, by relying on continuous magnitudes.
+27530053_ab3	272	287	imaging studies	diagnosis
+
+27534734_ti1|t|
+27534734_ti1|a|Simultaneous edited MRS of GABA and glutathione
+27534734_ti1	21	24	MRS	diagnosis
+
+27534734_ab1|t|
+27534734_ab1|a|Edited MRS allows the detection of low - concentration metabolites, whose signals are not resolved in the MR spectrum.
+27534734_ab1	8	11	MRS	diagnosis
+27534734_ab1	107	118	MR spectrum	diagnosis
+
+27540584_ab1|t|
+27540584_ab1|a|In patients with Billroth II (B II) or Roux-en-Y anatomy, endoscopic retrograde cholangiopancreatography (ERCP) is demanding.
+27540584_ab1	59	105	endoscopic retrograde cholangiopancreatography	diagnosis
+27540584_ab1	107	111	ERCP	diagnosis
+
+27540584_ab2|t|
+27540584_ab2|a|Here, we describe a novel simulator with simulated fluoroscopy for cannulation and sphincterotomy training in such situations.
+27540584_ab2	52	63	fluoroscopy	diagnosis
+
+27540584_ab3|t|
+27540584_ab3|a|A custom-made simulation system was built based upon a common chassis of a series of previously described ERCP simulators.
+27540584_ab3	107	111	ERCP	diagnosis
+
+27540584_ab5|t|
+27540584_ab5|a|The advancement of guidewires and other instruments within transparent mock bile ducts can be viewed in the window of the simulator without the need for fluoroscopy.
+27540584_ab5	154	165	fluoroscopy	diagnosis
+
+27540584_ab6|t|
+27540584_ab6|a|The ERCP B II / Roux-en-Y simulation system was first evaluated during an ERCP course.
+27540584_ab6	5	9	ERCP	diagnosis
+27540584_ab6	75	79	ERCP	diagnosis
+
+27540584_ab11|t|
+27540584_ab11|a|A first evaluation during an ERCP course showed promising results.
+27540584_ab11	30	34	ERCP	diagnosis
+
+27552906_ab2|t|
+27552906_ab2|a|The aim of this study was to simulate the deposition distribution of both components of this drug within the airways based on realistic airflow measurements.
+27552906_ab2	137	157	airflow measurements	diagnosis
+
+27576608_ab5|t|
+27576608_ab5|a|Electroretinography (ERG) changes were observed at doses ≥30mg/kg.
+27576608_ab5	1	20	Electroretinography	diagnosis
+27576608_ab5	22	25	ERG	diagnosis
+
+27576608_ab6|t|
+27576608_ab6|a|The ERG changes were dose dependent, consistent with an effect on the photoreceptors, and fully reversible.
+27576608_ab6	5	8	ERG	diagnosis
+
+27576608_ab7|t|
+27576608_ab7|a|The ERG effects could not be minimized by decreasing the Cmax while maintaining AUC.
+27576608_ab7	5	8	ERG	diagnosis
+
+27580517_ti1|t|
+27580517_ti1|a|Assessment of cerebral blood perfusion reserve with acetazolamide using 3D spiral ASL MRI: Preliminary experience in pediatric patients
+27580517_ti1	73	90	3D spiral ASL MRI	diagnosis
+
+27580517_ab1|t|
+27580517_ab1|a|To demonstrate the clinical feasibility of a new non-Cartesian cylindrically-distributed spiral 3D pseudo-continuous arterial spin labeling (pCASL) magnetic resonance imaging (MRI) pulse sequence in pediatric patients in quantifying cerebral blood flow (CBF) response to an acetazolamide (ACZ) vasodilator challenge.
+27580517_ab1	50	181	non-Cartesian cylindrically-distributed spiral 3D pseudo-continuous arterial spin labeling (pCASL) magnetic resonance imaging (MRI)	diagnosis
+
+27580517_ab2|t|
+27580517_ab2|a|MRI exams were performed on two 3 Tesla Philips Ingenia systems using 32 channel head coil arrays.
+27580517_ab2	1	10	MRI exams	diagnosis
+
+27580517_ab3|t|
+27580517_ab3|a|After local institutional review board approval, the 3D spiral-based pCASL technique was added to a standard brain MRI exam and evaluated in 13 pediatric patients (average age: 11.7±6.4years, range: 1.4-22.2years).
+27580517_ab3	54	85	3D spiral-based pCASL technique	diagnosis
+27580517_ab3	110	124	brain MRI exam	diagnosis
+
+27580517_ab5|t|
+27580517_ab5|a|Quantitative whole-brain CBF measurements were computed pre - and post - ACZ to assess cerebrovascular reserve.
+27580517_ab5	14	42	whole-brain CBF measurements	diagnosis
+
+27580517_ab6|t|
+27580517_ab6|a|3D spiral pCASL data were successfully reconstructed in all 13 cases.
+27580517_ab6	1	16	3D spiral pCASL	diagnosis
+
+27580517_ab10|t|
+27580517_ab10|a|CBF perfusion data were diagnostically useful in supporting conventional MR angiography and clinical findings.
+27580517_ab10	74	88	MR angiography	diagnosis
+
+27580517_ab11|t|
+27580517_ab11|a|3D cylindrically-distributed spiral pCASL MRI provides a robust approach to assess cerebral blood flow and reserve in pediatric patients.
+27580517_ab11	1	46	3D cylindrically-distributed spiral pCASL MRI	diagnosis
+
+27580908_ab4|t|
+27580908_ab4|a|Student cohorts were alternatively given a faculty - supervised 1h session playing a simple interactive digital Tic-tac-toe quiz module on pediatric gastrointestinal radiology or a 1h didactic introductory lecture on the same topic.
+27580908_ab4	140	176	pediatric gastrointestinal radiology	diagnosis
+
+27593786_ab9|t|
+27593786_ab9|a|Electronic traction table is a new device for determining preoperative flexibility with longitudinal traction and lateral pushing radiographs.
+27593786_ab9	115	142	lateral pushing radiographs	diagnosis
+
+27598262_ab4|t|
+27598262_ab4|a|The patients with MCI or AD underwent clinical and neuropsychological tests at baseline and once every year thereafter for 2 years.
+27598262_ab4	52	76	neuropsychological tests	diagnosis
+
+27601594_ab4|t|
+27601594_ab4|a|Experimental Design: Matched pre - and post - neoadjuvant chemotherapy tumor samples from 26 high-grade serous carcinoma (HGSC) patients were analyzed by immunohistochemistry (IHC) for a large panel of immune cells and associated factors.
+27601594_ab4	155	175	immunohistochemistry	diagnosis
+27601594_ab4	177	180	IHC	diagnosis
+
+27607871_ti1|t|
+27607871_ti1|a|Utilization and Outcomes of Sentinel Lymph Node Biopsy for Vulvar Cancer
+27607871_ti1	29	55	Sentinel Lymph Node Biopsy	diagnosis
+
+27607871_ab1|t|
+27607871_ab1|a|To examine the use and predictors of sentinel node biopsy in women with vulvar cancer.
+27607871_ab1	38	58	sentinel node biopsy	diagnosis
+
+27607871_ab2|t|
+27607871_ab2|a|The Perspective database, an all-payer database that collects data from more than 500 hospitals, was used to perform a retrospective cohort study of women with vulvar cancer who underwent vulvectomy and lymph node assessment from 2006 to 2015.
+27607871_ab2	204	225	lymph node assessment	diagnosis
+
+27607871_ab3|t|
+27607871_ab3|a|Multivariable models were used to determine factors associated with sentinel node biopsy.
+27607871_ab3	69	89	sentinel node biopsy	diagnosis
+
+27607871_ab4|t|
+27607871_ab4|a|Length of stay and cost were compared between women who underwent sentinel node biopsy and lymphadenectomy.
+27607871_ab4	67	87	sentinel node biopsy	diagnosis
+
+27607871_ab5|t|
+27607871_ab5|a|Among 2,273 women, sentinel node biopsy was utilized in 618 (27.2%) and 1,655 (72.8%) underwent inguinofemoral lymphadenectomy.
+27607871_ab5	20	40	sentinel node biopsy	diagnosis
+
+27607871_ab6|t|
+27607871_ab6|a|Performance of sentinel node biopsy increased from 17.0% (95% confidence interval [CI] 12.0-22.0%) in 2006 to 39.1% (95% CI 27.1-51.0%) in 2015.
+27607871_ab6	16	36	sentinel node biopsy	diagnosis
+
+27607871_ab7|t|
+27607871_ab7|a|In a multivariable model, women treated more recently were more likely to have undergone sentinel node biopsy, whereas women with more comorbidities and those treated at rural hospitals were less likely to have undergone the procedure.
+27607871_ab7	90	110	sentinel node biopsy	diagnosis
+
+27607871_ab8|t|
+27607871_ab8|a|The median length of stay was shorter for those undergoing sentinel node biopsy (median 2 days, interquartile range 1-3) compared with women who underwent inguinofemoral lymphadenectomy (median 3 days, interquartile range 2-4).
+27607871_ab8	60	80	sentinel node biopsy	diagnosis
+
+27607871_ab9|t|
+27607871_ab9|a|The cost of sentinel node biopsy was $7,599 (interquartile range $5,739-9,922) compared with $8,095 (interquartile range $5,917-11,281) for lymphadenectomy.
+27607871_ab9	13	33	sentinel node biopsy	diagnosis
+
+27607871_ab10|t|
+27607871_ab10|a|The use of sentinel node biopsy for vulvar cancer has more than doubled since 2006.
+27607871_ab10	12	32	sentinel node biopsy	diagnosis
+
+27607871_ab11|t|
+27607871_ab11|a|Sentinel lymph node biopsy is associated with a shorter hospital stay and decreased cost compared with inguinofemoral lymphadenectomy.
+27607871_ab11	1	27	Sentinel lymph node biopsy	diagnosis
+
+27617315_ti1|t|
+27617315_ti1|a|Extended use of Prostate Health Index and percentage of [-2]pro-prostate-specific antigen in Chinese men with prostate specific antigen 10-20 ng/mL and normal digital rectal examination
+27617315_ti1	160	186	digital rectal examination	diagnosis
+
+27617315_ab1|t|
+27617315_ab1|a|We investigated the extended use of Prostate Health Index (PHI) and percentage of [-2]pro-prostate-specific antigen (%p2PSA) in Chinese men with prostate-specific antigen (PSA) 10-20 ng/mL and normal digital rectal examination (DRE).
+27617315_ab1	201	227	digital rectal examination	diagnosis
+27617315_ab1	229	232	DRE	diagnosis
+
+27617315_ab2|t|
+27617315_ab2|a|All consecutive Chinese men with PSA 10-20 ng/mL and normal DRE who agreed for transrectal ultrasound (TRUS)-guided 10-core prostate biopsy were recruited.
+27617315_ab2	61	64	DRE	diagnosis
+27617315_ab2	80	102	transrectal ultrasound	diagnosis
+27617315_ab2	104	108	TRUS	diagnosis
+27617315_ab2	125	140	prostate biopsy	diagnosis
+
+27617315_ab3|t|
+27617315_ab3|a|Blood samples were taken immediately before TRUS -guided prostate biopsy.
+27617315_ab3	45	49	TRUS	diagnosis
+27617315_ab3	58	73	prostate biopsy	diagnosis
+
+27617315_ab6|t|
+27617315_ab6|a|Among them, 53 out of 312 (17.0%) men were diagnosed to have prostate cancer on biopsy.
+27617315_ab6	81	87	biopsy	diagnosis
+
+27617315_ab7|t|
+27617315_ab7|a|The proportions of men with positive biopsies were 6.7% in PHI <35, 22.8% in PHI 35-55, and 54.5% in PHI >55 (chi-square test, p<0.001).
+27617315_ab7	38	46	biopsies	diagnosis
+
+27617315_ab8|t|
+27617315_ab8|a|The area under curves (AUC) of the base model including age, tPSA and status of initial/repeated biopsy was 0.64.
+27617315_ab8	98	104	biopsy	diagnosis
+
+27617315_ab10|t|
+27617315_ab10|a|The positive biopsy rates of Gleason 7 or above prostate cancers were 2.2% for PHI <35, 7.9% for PHI 35-55, and 36.4% for PHI >55 (chi-square test, p<0.001).
+27617315_ab10	14	20	biopsy	diagnosis
+
+27617315_ab11|t|
+27617315_ab11|a|By utilizing the PHI cutoff of 35 to men with PSA 10-20 ng/mL and normal DRE, 57.1% (178 of 312) biopsies could be avoided.
+27617315_ab11	74	77	DRE	diagnosis
+27617315_ab11	98	106	biopsies	diagnosis
+
+27617315_ab13|t|
+27617315_ab13|a|The use of PHI and %p2PSA should be extended to Chinese men with PSA 10-20 ng/mL and normal DRE.
+27617315_ab13	93	96	DRE	diagnosis
+
+27650225_ab8|t|
+27650225_ab8|a|The SIBO status was assessed by the lactulose breath test.
+27650225_ab8	37	58	lactulose breath test	diagnosis
+
+27650462_ab3|t|
+27650462_ab3|a|The Double-balloon enteroscopy (DBE) could be used to precisely localize and mark lesions, so that a minimally invasive surgical treatment could be performed.
+27650462_ab3	5	31	Double-balloon enteroscopy	diagnosis
+27650462_ab3	33	36	DBE	diagnosis
+
+27650462_ab4|t|
+27650462_ab4|a|Twenty robot - assisted small bowel procedures are presented using a combination of DBE for localization and robotic resection.
+27650462_ab4	85	88	DBE	diagnosis
+
+27650462_ab11|t|
+27650462_ab11|a|The combination of double-balloon enteroscopy and robotic technology allows accurate identification and selective treatment of lesions that could be otherwise difficult to treat in a minimally invasive fashion.
+27650462_ab11	20	46	double-balloon enteroscopy	diagnosis
+
+27651955_ti1|t|
+27651955_ti1|a|Kinematic and EMG Responses to Pelvis and Leg Assistance Force during Treadmill Walking in Children with Cerebral Palsy
+27651955_ti1	15	18	EMG	diagnosis
+
+27651955_ab2|t|
+27651955_ab2|a|The understanding of the kinematic and EMG responses to force s applied to the body of subjects during treadmill walking is crucial for improving current paradigms.
+27651955_ab2	40	43	EMG	diagnosis
+
+27651955_ab3|t|
+27651955_ab3|a|The objective of this study was to determine the kinematic s and EMG responses to the pelvis and/or leg assistance force.
+27651955_ab3	66	69	EMG	diagnosis
+
+27653010_ti1|t|
+27653010_ti1|a|Application of Laparoscopic Lumbar Discectomy and Artificial Disc Replacement: At Least Two Years of Follow-Up
+27653010_ti1	16	28	Laparoscopic	diagnosis
+
+27653010_ab1|t|
+27653010_ab1|a|This prospective observational study included 22 patients who were diagnosed with symptomatic degenerative disc disease treated via artificial disc replacement (ADR) with a laparoscopic technique.
+27653010_ab1	174	186	laparoscopic	diagnosis
+
+27653010_ab2|t|
+27653010_ab2|a|The current study aimed to assess the safety and efficacy of ADR using a laparoscopic technique for lumbar disc herniation.
+27653010_ab2	74	86	laparoscopic	diagnosis
+
+27653010_ab6|t|
+27653010_ab6|a|Therefore, laparoscopic lumbar discectomy and ADR may represent a useful alternative.
+27653010_ab6	12	24	laparoscopic	diagnosis
+
+27653010_ab10|t|
+27653010_ab10|a|Three-dimensional computed tomographic angiography (3D - CTA) of the iliac great blood vessels was completed before the surgery.
+27653010_ab10	19	51	computed tomographic angiography	diagnosis
+27653010_ab10	58	61	CTA	diagnosis
+
+27653010_ab15|t|
+27653010_ab15|a|All cases underwent X-rays at 3 days, 3 months, 6 months, 1 year, and the final postoperative follow-up.
+27653010_ab15	21	27	X-rays	diagnosis
+
+27659602_ab3|t|
+27659602_ab3|a|In all, 102 consecutive patients (mean age 61.8 ± 12.5 years; 60% male) who had undergone root-sparing aortic replacement had sufficient retrievable information regarding their aortic root diameter at postoperative baseline and follow-up imaging by computed tomography or echocardiography.
+27659602_ab3	239	246	imaging	diagnosis
+27659602_ab3	250	269	computed tomography	diagnosis
+27659602_ab3	273	289	echocardiography	diagnosis
+
+27676724_ti1|t|
+27676724_ti1|a|Antenatal consultation following limb malformation discovery using ultrasound scan
+27676724_ti1	68	83	ultrasound scan	diagnosis
+
+27676724_ab5|t|
+27676724_ab5|a|We deal with couples shocked by the prenatal diagnosis.
+27676724_ab5	37	55	prenatal diagnosis	diagnosis
+
+27678044_ab6|t|
+27678044_ab6|a|The personality trait of neuroticism was measured with the neuroticism subscale of the Chinese version of the NEO Five-Factor Inventory.
+27678044_ab6	111	136	NEO Five-Factor Inventory	diagnosis
+
+27678044_ab8|t|
+27678044_ab8|a|The National Institutes of Health Stroke Scale, Geriatric Depression Scale, Barthel Index, and Mini-Mental State Examination were administered to obtain demographic and clinical information.
+27678044_ab8	96	125	Mini-Mental State Examination	diagnosis
+
+27678044_ab9|t|
+27678044_ab9|a|Fatigue severity 3 months after stroke positively correlated with Geriatric Depression Scale and NEO Five-Factor Inventory neuroticism scores and negatively correlated with the Barthel Index score.
+27678044_ab9	98	123	NEO Five-Factor Inventory	diagnosis
+
+27680598_ab6|t|
+27680598_ab6|a|Tumor volumes were measured using ultrasound.
+27680598_ab6	35	45	ultrasound	diagnosis
+
+27681567_ab5|t|
+27681567_ab5|a|The biomechanical analysis focused on the lifting strategy.
+27681567_ab5	5	27	biomechanical analysis	diagnosis
+
+27681567_ab7|t|
+27681567_ab7|a|Three-dimensional motion analysis was conducted using an optoelectronic system.
+27681567_ab7	1	34	Three-dimensional motion analysis	diagnosis
+
+27688111_ab6|t|
+27688111_ab6|a|Expression of p16 in the tumor was determined with immunohistochemistry.
+27688111_ab6	52	72	immunohistochemistry	diagnosis
+
+27697757_ab9|t|
+27697757_ab9|a|These findings suggest that L-FABP -mediated PPAR-α downregulation appears to be a hepatotoxic response resulting from zebrafish larva liver cell apoptosis, and L-FABP can be used as a biomarker for the early detection of PZA - induced liver damage in zebrafish larvae.
+27697757_ab9	204	219	early detection	diagnosis
+
+27699206_ab1|t|
+27699206_ab1|a|In fMRI studies, human lateral occipital (LO) cortex is thought to respond selectively to images of objects, compared with nonobjects.
+27699206_ab1	4	16	fMRI studies	diagnosis
+
+27699206_ab5|t|
+27699206_ab5|a|These predictions were confirmed using fMRI, for objects and nonobjects.
+27699206_ab5	40	44	fMRI	diagnosis
+
+27699590_ab4|t|
+27699590_ab4|a|Investigations include oral glucose tolerance test, insulin tolerance test, histopathology by H&E and Masson's trichrome staining, mRNA expression by real-time PCR, protein expression by Western blot, and caspase-3 activity by colorimetry.
+27699590_ab4	24	51	oral glucose tolerance test	diagnosis
+
+27714135_ab1|t|
+27714135_ab1|a|Recent progress in nanotechnology and its application to biomedical settings have generated great advantages in dealing with early cancer diagnosis.
+27714135_ab1	126	148	early cancer diagnosis	diagnosis
+
+27723907_ti1|t|
+27723907_ti1|a|Ultrasonography for acute appendicitis - the way it looks today
+27723907_ti1	1	16	Ultrasonography	diagnosis
+
+27723907_ab2|t|
+27723907_ab2|a|As a remarkable clue and as early as 1986, ultrasonography (US) has been proven a reliable diagnostic method that is also explicitly helpful in difficult cases with atypical presentation and enables to rule out many differential diagnoses .Recent publications emphasized the role of multidetector computed tomography (CT) resulting in a significant reduction of false negative findings at operation.
+27723907_ab2	44	59	ultrasonography	diagnosis
+27723907_ab2	284	317	multidetector computed tomography	diagnosis
+27723907_ab2	319	321	CT	diagnosis
+
+27723907_ab3|t|
+27723907_ab3|a|Extensive as well as uncritical application of this method even in children inevitably causes substantial radiation exposure, a sequel to either pure ignorance or unqualified/ inadequate performance of US in this particular situation, which in turn can be considered sequel to either egocentric or economic preponderance .Recent data shed new light on the role of US (and CT) in acute appendicitis.
+27723907_ab3	373	375	CT	diagnosis
+
+27723907_ab4|t|
+27723907_ab4|a|Therefore, 1 generation after US with graded compression was etched in stone as the method of choice for diagnosing acute appendicitis (Puylaert), a visual arousal fostering its role and performance in clinical medicine appears justified.
+27723907_ab4	31	57	US with graded compression	diagnosis
+
+27732552_ti1|t|
+27732552_ti1|a|Volumetric absorptive microsampling at home as an alternative tool for the monitoring of HbA1c in diabetes patients
+27732552_ti1	1	36	Volumetric absorptive microsampling	diagnosis
+
+27732552_ab1|t|
+27732552_ab1|a|Microsampling techniques have several advantages over traditional blood collection.
+27732552_ab1	67	83	blood collection	diagnosis
+
+27732552_ab2|t|
+27732552_ab2|a|Dried blood spot (DBS) sampling and blood collection with heparinized capillaries are the standard techniques.
+27732552_ab2	37	53	blood collection	diagnosis
+
+27732552_ab3|t|
+27732552_ab3|a|Volumetric absorptive microsampling (VAMS) is a novel technique that collects a fixed volume of blood by applying an absorbent tip to a blood drop.
+27732552_ab3	1	36	Volumetric absorptive microsampling	diagnosis
+27732552_ab3	38	42	VAMS	diagnosis
+
+27732552_ab4|t|
+27732552_ab4|a|In the present study we explored the feasibility of HbA1c monitoring with VAMS sampling at home and analysis in the laboratory.
+27732552_ab4	75	88	VAMS sampling	diagnosis
+
+27732552_ab7|t|
+27732552_ab7|a|DBS (n=1) and dried VAMS (n=2) were collected at home and sent to the laboratory.
+27732552_ab7	15	25	dried VAMS	diagnosis
+
+27732552_ab8|t|
+27732552_ab8|a|For 25 pediatric patients one VAMS was collected during consultation for immediate analysis (without drying), referred to as " wet VAMS ".
+27732552_ab8	31	35	VAMS	diagnosis
+27732552_ab8	128	136	wet VAMS	diagnosis
+
+27732552_ab11|t|
+27732552_ab11|a|Results of HbA1c in dried VAMS showed a poor agreement with venous / capillary blood collected in hospital (concordance correlation coefficient CCC =0.72).
+27732552_ab11	27	31	VAMS	diagnosis
+
+27732552_ab13|t|
+27732552_ab13|a|An excellent agreement was obtained between HbA1c results on wet VAMS (CCC =0.996) and standard blood samples.
+27732552_ab13	62	70	wet VAMS	diagnosis
+
+27732552_ab14|t|
+27732552_ab14|a|Patients experienced VAMS and DBS as easy and convenient to use.
+27732552_ab14	22	26	VAMS	diagnosis
+
+27732552_ab15|t|
+27732552_ab15|a|Utilizing equipment standard available in the clinical laboratory, the use of home -sampled dried VAMS and DBS is not a reliable tool for the monitoring of HbA1c.
+27732552_ab15	93	103	dried VAMS	diagnosis
+
+27732552_ab16|t|
+27732552_ab16|a|However, perfect agreement between HbA1c measured on wet VAMS and capillary microsamples was obtained.
+27732552_ab16	54	62	wet VAMS	diagnosis
+
+27750105_ti1|t|
+27750105_ti1|a|Discordance in pathology report after central pathology review: Implications for breast cancer adjuvant treatment
+27750105_ti1	39	63	central pathology review	diagnosis
+
+27750105_ab2|t|
+27750105_ab2|a|In randomized clinical trials the variability in pathology report after central pathology review is noteworthy.
+27750105_ab2	73	97	central pathology review	diagnosis
+
+27750105_ab13|t|
+27750105_ab13|a|In our retrospective analysis, central pathological review has a significant impact in the decision-making process in early breast cancer, as shown in clinical trials.
+27750105_ab13	32	59	central pathological review	diagnosis
+
+27753022_ti1|t|
+27753022_ti1|a|Implementing Non-Invasive Prenatal Diagnosis (NIPD) in a National Health Service Laboratory; From Dominant to Recessive Disorders
+27753022_ti1	27	45	Prenatal Diagnosis	diagnosis
+27753022_ti1	47	51	NIPD	diagnosis
+
+27753022_ab1|t|
+27753022_ab1|a|Our UK National Health Service regional genetics laboratory offers NIPD for autosomal dominant and de novo conditions (achondroplasia, thanataphoric dysplasia, Apert syndrome), paternal mutation exclusion for cystic fibrosis and a range of bespoke tests.
+27753022_ab1	68	72	NIPD	diagnosis
+27753022_ab1	241	254	bespoke tests	diagnosis
+
+27753022_ab2|t|
+27753022_ab2|a|NIPD avoids the risks associated with invasive testing, making prenatal diagnosis more accessible to families at high genetic risk.
+27753022_ab2	1	5	NIPD	diagnosis
+27753022_ab2	39	55	invasive testing	diagnosis
+27753022_ab2	64	82	prenatal diagnosis	diagnosis
+
+27753022_ab4|t|
+27753022_ab4|a|Validation and diagnostic implementation for NIPD of congenital adrenal hyperplasia (CAH) is further complicated by presence of a pseudogene that requires a different approach.
+27753022_ab4	46	50	NIPD	diagnosis
+
+27753022_ab5|t|
+27753022_ab5|a|We have used an assay targeting approximately 6700 heterozygous SNPs around the CAH gene (CYP21A2) to construct the high-risk parental haplotypes and tested this approach in five cases, showing that inheritance of the parental alleles can be correctly identified using NIPD.
+27753022_ab5	270	274	NIPD	diagnosis
+
+27753022_ab7|t|
+27753022_ab7|a|We are currently exploring the utility of an NIPD multi-disorder panel for autosomal recessive disease, to make testing more widely applicable to families with a variety of serious genetic conditions.
+27753022_ab7	46	50	NIPD	diagnosis
+
+27764714_ab2|t|
+27764714_ab2|a|This study investigated ankle and hip power generation as a propulsion strategy (PS) during the late stance / early swing phases of walking and running in typically developing (TD) children (15: six to nine years; 17: nine to 13 years) using three-dimensional gait analysis.
+27764714_ab2	261	274	gait analysis	diagnosis
+
+27764968_ti1|t|
+27764968_ti1|a|The relationship between anthropometry and body composition from computed tomography: The Mediators of Atherosclerosis in South Asians Living in America Study
+27764968_ti1	66	85	computed tomography	diagnosis
+
+27764968_ab2|t|
+27764968_ab2|a|We conducted a cross-sectional study of 871 participants in the Mediators of Atherosclerosis in South Asians Living in America (MASALA) Study who had BMI < 40 kg/m(2) and underwent abdominal CT scans for measurement of visceral and subcutaneous fat.
+27764968_ab2	182	200	abdominal CT scans	diagnosis
+
+27768380_ab6|t|
+27768380_ab6|a|Magnetic resonance imaging was used to measure hippocampal volumes.
+27768380_ab6	1	27	Magnetic resonance imaging	diagnosis
+
+27772556_ti1|t|
+27772556_ti1|a|Psychometric analysis of the Patient Health Questionnaire in Danish patients with an implantable cardioverter defibrillator (The DEFIB-WOMEN study)
+27772556_ti1	1	22	Psychometric analysis	diagnosis
+
+27772556_ab1|t|
+27772556_ab1|a|To assess the psychometric properties of the Patient Health Questionnaire (PHQ-9), a measure of depressive symptoms, in a large Danish national cohort of patients with heart disease, implanted with an implantable cardioverter defibrillator (ICD), using item response theory.
+27772556_ab1	15	38	psychometric properties	diagnosis
+
+27791362_ti1|t|
+27791362_ti1|a|Nontoxic Formulations of Scintillation Nanocrystals for Use as X-ray Computed Tomography Contrast Agents
+27791362_ti1	64	89	X-ray Computed Tomography	diagnosis
+
+27791362_ab1|t|
+27791362_ab1|a|X-ray computed tomography (CT) is currently one of the most powerful, noninvasive, clinical in vivo imaging techniques, which has resulted from advances in both X-ray device and contrast enhancement technologies.
+27791362_ab1	1	26	X-ray computed tomography	diagnosis
+27791362_ab1	28	30	CT	diagnosis
+27791362_ab1	101	119	imaging techniques	diagnosis
+
+27791362_ab2|t|
+27791362_ab2|a|The present study demonstrates, for the first time, that metal tungstates (such as CaWO4) are promising contrast agents for X-ray, radiation, and CT imaging, because of the high X-ray mass attenuation of tungsten (W).
+27791362_ab2	125	130	X-ray	diagnosis
+27791362_ab2	147	157	CT imaging	diagnosis
+27791362_ab2	179	184	X-ray	diagnosis
+
+27791362_ab4|t|
+27791362_ab4|a|We show that these PEG-PLA - encapsulated CWO NPs (170 ± 10 nm hydrodynamic diameter) produce a higher CT contrast (by a factor of about 2) than commercial iodine -based radiocontrast agents (e.g., Iohexol) at identical molar concentrations of W or I atoms.
+27791362_ab4	104	106	CT	diagnosis
+
+27791362_ab6|t|
+27791362_ab6|a|It was confirmed that the maximum tolerated dose (MTD) of this material in mice is significantly higher (250 ± 50 mg per kg body weight following a single intravenous (IV) administration) than, for instance, commercially available dextran - coated iron oxide nanoparticles that are currently used clinically as MRI contrast agents (MTD in mice ≈ 168 mg/kg per dose IV).
+27791362_ab6	312	315	MRI	diagnosis
+
+27791362_ab10|t|
+27791362_ab10|a|These results suggest that PEG-PLA - coated CWO NPs are promising materials for use in CT contrast.
+27791362_ab10	88	90	CT	diagnosis
+
+27791364_ti1|t|
+27791364_ti1|a|Albumin -Bioinspired Gd: CuS Nanotheranostic Agent for In Vivo Photoacoustic / Magnetic Resonance Imaging -Guided Tumor -Targeted Photothermal Therapy
+27791364_ti1	64	77	Photoacoustic	diagnosis
+27791364_ti1	80	106	Magnetic Resonance Imaging	diagnosis
+
+27791364_ab2|t|
+27791364_ab2|a|However, there is an urgent need to develop biocompatible PTT agents, which enable accurate imaging, monitoring, and diagnosis.
+27791364_ab2	93	100	imaging	diagnosis
+
+27791364_ab6|t|
+27791364_ab6|a|With doped Gd species and strong tunable NIR absorbance, Gd: CuS @ BSA NPs demonstrate prominent tumor-contrasted imaging performance both on the photoacoustic and magnetic resonance imaging modalities.
+27791364_ab6	98	122	tumor-contrasted imaging	diagnosis
+27791364_ab6	147	160	photoacoustic	diagnosis
+27791364_ab6	165	191	magnetic resonance imaging	diagnosis
+
+27801735_ab5|t|
+27801735_ab5|a|In this study we selected 58 consecutive NSCLC surgical specimens that underwent pathologic examination from January 2014 to July 2015.
+27801735_ab5	82	104	pathologic examination	diagnosis
+
+27806658_ab3|t|
+27806658_ab3|a|From 2014 to 2015, all consecutive women with singleton pregnancies, who presented at our tertiary center due to acute flank pain, were prospectively evaluated by renal ultrasonography and pain questionnaires.
+27806658_ab3	170	185	ultrasonography	diagnosis
+
+27806658_ab4|t|
+27806658_ab4|a|A visual analogue scale was used to assess pain intensity.
+27806658_ab4	3	24	visual analogue scale	diagnosis
+
+27810802_ti1|t|
+27810802_ti1|a|Body Diffusion Weighted Imaging Using Non-CPMG Fast Spin Echo
+27810802_ti1	6	32	Diffusion Weighted Imaging	diagnosis
+27810802_ti1	39	62	Non-CPMG Fast Spin Echo	diagnosis
+
+27810802_ab1|t|
+27810802_ab1|a|SS-FSE is a fast technique that does not suffer from off-resonance distortions to the degree that EPI does.
+27810802_ab1	1	7	SS-FSE	diagnosis
+27810802_ab1	99	102	EPI	diagnosis
+
+27810802_ab2|t|
+27810802_ab2|a|Unlike EPI, SS-FSE is ill-suited to diffusion weighted imaging (DWI) due to the Carr-Purcell-Meiboom-Geill (CPMG) condition.
+27810802_ab2	8	11	EPI	diagnosis
+27810802_ab2	13	19	SS-FSE	diagnosis
+27810802_ab2	37	63	diffusion weighted imaging	diagnosis
+27810802_ab2	65	68	DWI	diagnosis
+
+27810802_ab3|t|
+27810802_ab3|a|Non-CPMG phase cycling does accommodate SS-FSE and DWI but places constraints on reconstruction, which are resolved here through parallel imaging.
+27810802_ab3	41	47	SS-FSE	diagnosis
+27810802_ab3	52	55	DWI	diagnosis
+27810802_ab3	130	146	parallel imaging	diagnosis
+
+27810802_ab5|t|
+27810802_ab5|a|Here, signal-to-noise ratio (SNR) comparisons between EPI and nCPMG SS-FSE acquisitions and reconstruction techniques give similar values.
+27810802_ab5	55	58	EPI	diagnosis
+27810802_ab5	69	75	SS-FSE	diagnosis
+
+27810802_ab6|t|
+27810802_ab6|a|Diffusion imaging with nCPMG SS-FSE gives similar SNR to an EPI acquisition, though apparent diffusion coefficient values are higher than seen with EPI.
+27810802_ab6	1	18	Diffusion imaging	diagnosis
+27810802_ab6	30	36	SS-FSE	diagnosis
+27810802_ab6	61	64	EPI	diagnosis
+27810802_ab6	149	152	EPI	diagnosis
+
+27810802_ab8|t|
+27810802_ab8|a|This method has the ability to capture distortion - free DWI images near areas of significant off-resonance as well as preserve adequate SNR.
+27810802_ab8	58	61	DWI	diagnosis
+
+27810802_ab9|t|
+27810802_ab9|a|Parallel imaging and DIVERSE refocusing RF pulses allow shorter ETL compared to previous implementations and thus reduces phase encode direction blur and SAR accumulation.
+27810802_ab9	1	17	Parallel imaging	diagnosis
+
+27813022_ab4|t|
+27813022_ab4|a|Abdominal computed tomography revealed a tumor with a layered structure in the left abdomen.
+27813022_ab4	11	30	computed tomography	diagnosis
+
+27818984_ab4|t|
+27818984_ab4|a|It is important to observe the relevance of computed tomography to help diagnosing, as well as monitoring the reduction procedure.
+27818984_ab4	45	64	computed tomography	diagnosis
+
+27840131_ab9|t|
+27840131_ab9|a|Visuospatial function (P=.002), inhibition (P=.008), binocular acuity (P=.04), vertical visual field (P=.02), and stereopsis (P=.03) best determined variance in total on-road score (unadjusted R(2)=.37).
+27840131_ab9	80	101	vertical visual field	diagnosis
+
+27840131_ab10|t|
+27840131_ab10|a|Attentional shift (P=.0004), stereopsis (P=.007), glare recovery (P=.047), and use of assistive devices (P=.03) best predicted the operational cluster (unadjusted R(2)=.28).
+27840131_ab10	51	65	glare recovery	diagnosis
+
+27842161_ti1|t|
+27842161_ti1|a|Netarsudil Increases Outflow Facility in Human Eyes Through Multiple Mechanisms
+27842161_ti1	22	38	Outflow Facility	diagnosis
+
+27842161_ab2|t|
+27842161_ab2|a|We investigated the effects of its active metabolite, netarsudil-M1, on outflow facility (C), outflow hydrodynamics, and morphology of the conventional outflow pathway in enucleated human eyes.
+27842161_ab2	73	89	outflow facility	diagnosis
+
+27857788_ti1|t|
+27857788_ti1|a|Ultrasonography and magnetic resonance imaging evaluation of pediatric spinal anomalies
+27857788_ti1	1	16	Ultrasonography	diagnosis
+27857788_ti1	21	47	magnetic resonance imaging	diagnosis
+
+27857788_ab2|t|
+27857788_ab2|a|Imaging plays a vital role in their evaluation as significant portion of patients may present with concurrent anomalies that need to be corrected simultaneously to avoid repeat surgeries.
+27857788_ab2	1	8	Imaging	diagnosis
+
+27857788_ab3|t|
+27857788_ab3|a|The aims of the study were to evaluate Spinal dysraphisms using USG and MRI and to correlate imaging findings with operative findings in patients undergoing surgery.
+27857788_ab3	65	68	USG	diagnosis
+27857788_ab3	73	76	MRI	diagnosis
+27857788_ab3	94	101	imaging	diagnosis
+
+27857788_ab6|t|
+27857788_ab6|a|USG was performed in 29 cases where acoustic window was available for proper evaluation.
+27857788_ab6	1	4	USG	diagnosis
+
+27857788_ab7|t|
+27857788_ab7|a|MRI was performed in all cases.
+27857788_ab7	1	4	MRI	diagnosis
+
+27857788_ab8|t|
+27857788_ab8|a|USG findings were compared with MRI findings and operative follow up was taken in 23 cases who underwent operative management.
+27857788_ab8	1	4	USG	diagnosis
+27857788_ab8	33	36	MRI	diagnosis
+
+27857788_ab13|t|
+27857788_ab13|a|79.31% cases showed full agreement between spinal USG and MRI examinations and 6 out of 20.69% showed partial agreement.
+27857788_ab13	51	54	USG	diagnosis
+27857788_ab13	59	62	MRI	diagnosis
+
+27857788_ab14|t|
+27857788_ab14|a|On operative correlation, USG findings were confirmatory in 91.30% cases and MRI findings were confirmatory in 100% cases.
+27857788_ab14	27	30	USG	diagnosis
+27857788_ab14	78	81	MRI	diagnosis
+
+27857788_ab15|t|
+27857788_ab15|a|USG can be used as the initial modality for evaluation of spinal dysraphism as well as for screening of suspected cases.
+27857788_ab15	1	4	USG	diagnosis
+
+27857788_ab16|t|
+27857788_ab16|a|MRI is indicated to confirm abnormal USG findings, which shows all concurrent abnormalities and also provides additional anatomical details relevant to surgical planning.
+27857788_ab16	1	4	MRI	diagnosis
+27857788_ab16	38	41	USG	diagnosis
+
+27859998_ti1|t|
+27859998_ti1|a|Impact of alcohol use on EEG dynamics of response inhibition: a cotwin control analysis
+27859998_ti1	26	38	EEG dynamics	diagnosis
+
+27859998_ab2|t|
+27859998_ab2|a|Recent work suggests that successful inhibition and cognitive control involve electrophysiological theta-band dynamics, including medial frontal cortex (MFC) power enhancement and functional connectivity between the MFC and dorsal prefrontal cortex (dPFC) regions, which may be disrupted by alcohol misuse.
+27859998_ab2	79	119	electrophysiological theta-band dynamics	diagnosis
+
+27859998_ab4|t|
+27859998_ab4|a|The present study tested the hypothesis that alcohol misuse has a deleterious effect on theta-band response inhibition EEG dynamics in a sample of 300 24-year-old same-sex twins.
+27859998_ab4	120	132	EEG dynamics	diagnosis
+
+27859998_ab9|t|
+27859998_ab9|a|Although preliminary, these results suggest that normative levels of alcohol use during emerging adulthood have potential sex-specific causal effects on response inhibition EEG dynamics, and thus have potentially significant public health implications.
+27859998_ab9	174	186	EEG dynamics	diagnosis
+
+27863934_ab4|t|
+27863934_ab4|a|A total of 59,444 women who ever gave birth, aged 18-49 years, without a self-reported lifetime psychosis diagnosis, were included in the analysis.
+27863934_ab4	97	116	psychosis diagnosis	diagnosis
+
+27863934_ab6|t|
+27863934_ab6|a|Depression was defined as self-reported lifetime depression diagnosis and/or past 12- month depression.
+27863934_ab6	50	70	depression diagnosis	diagnosis
+
+27876145_ab1|t|
+27876145_ab1|a|Imaging of microRNA (miRNA) in living cells could facilitate the monitoring of the expression and distribution of miRNA and research on miRNA -related diseases.
+27876145_ab1	1	8	Imaging	diagnosis
+
+27876145_ab5|t|
+27876145_ab5|a|This method supplies accurate information regarding cellular miRNA -related biological events and provides a new tool for highly sensitive and simultaneous imaging of multiple low-level biomarkers, thereby improving the accuracy of early disease diagnosis.
+27876145_ab5	157	164	imaging	diagnosis
+27876145_ab5	233	256	early disease diagnosis	diagnosis
+
+27901092_ti1|t|
+27901092_ti1|a|A Microfluidic Platform to design crosslinked Hyaluronic Acid Nanoparticles (cHANPs) for enhanced MRI
+27901092_ti1	90	102	enhanced MRI	diagnosis
+
+27901092_ab1|t|
+27901092_ab1|a|Recent advancements in imaging diagnostics have focused on the use of nanostructures that entrap Magnetic Resonance Imaging (MRI) Contrast Agents (CAs), without the need to chemically modify the clinically approved compounds.
+27901092_ab1	24	43	imaging diagnostics	diagnosis
+27901092_ab1	98	124	Magnetic Resonance Imaging	diagnosis
+27901092_ab1	126	129	MRI	diagnosis
+
+27901092_ab3|t|
+27901092_ab3|a|Here, a microfluidic platform is used to synthesize crosslinked Hyaluronic Acid NanoParticles (cHANPs) in which a clinically relevant MRI - CAs, gadolinium diethylenetriamine penta-acetic acid (Gd-DTPA), is entrapped.
+27901092_ab3	135	138	MRI	diagnosis
+
+27905023_ab2|t|
+27905023_ab2|a|We examined expression of three interneuron precursor transcription factors, alongside other markers, using immunohistochemistry on 8-12 post-conceptional weeks (PCW) human telencephalon sections.
+27905023_ab2	109	129	immunohistochemistry	diagnosis
+
+27909142_ab6|t|
+27909142_ab6|a|To study the effect of inflammatory activity, a composite disease activity index (DAI) was used.
+27909142_ab6	59	81	disease activity index	diagnosis
+27909142_ab6	83	86	DAI	diagnosis
+
+27909142_ab8|t|
+27909142_ab8|a|In regression analysis, DAI was significantly associated with death (OR 1.99, 95% CI 1.41-2.80) when adjusted for age and sex (p < 0.001), and remained significant after stratifying patients into the 2 major causes of death: diseases of the circulatory system and malignant neoplasms.
+27909142_ab8	25	28	DAI	diagnosis
+
+27909142_ab12|t|
+27909142_ab12|a|Among patients, death was associated with DAI, as well as axial involvement in combination with peripheral disease, indicating more aggressive disease phenotypes.
+27909142_ab12	43	46	DAI	diagnosis
+
+27910818_ab8|t|
+27910818_ab8|a|The quality and quantity of new bone formation was evaluated using micro-CT and histologic analyses during the 8 week experimental periods.
+27910818_ab8	68	76	micro-CT	diagnosis
+
+27910818_ab11|t|
+27910818_ab11|a|New bone formation was observed after HPD implantation compared to the controls, as shown on hematoxylin and eosin staining and micro-CT.
+27910818_ab11	129	137	micro-CT	diagnosis
+
+27925180_ab8|t|
+27925180_ab8|a|The Concordance Index of YMR for ER+ / node negative patients is close to the commercially available signatures.
+27925180_ab8	26	29	YMR	diagnosis
+
+27925180_ab9|t|
+27925180_ab9|a|However, YMR showed more significance (HR = 3.7, p = 8.7e-12) in stratifying ER+ / node- subgroup than OncotypeDx (HR = 2.7, p = 1.3e-7), MammaPrint (HR = 2.5, p = 5.8e-7), rorS (HR = 2.4, p = 1.4e-6), and NPI (HR = 2.6, p = 1.2e-6).
+27925180_ab9	10	13	YMR	diagnosis
+27925180_ab9	104	114	OncotypeDx	diagnosis
+27925180_ab9	174	178	rorS	diagnosis
+27925180_ab9	207	210	NPI	diagnosis
+
+27925180_ab10|t|
+27925180_ab10|a|YMR signature may be developed as a clinical tool to select a subgroup of low-risk ER+ / node- patients who do not require any adjuvant hormonal therapy (AHT).
+27925180_ab10	1	4	YMR	diagnosis
+
+27933664_ab4|t|
+27933664_ab4|a|Echocardiography was performed within 48 hours of birth or at 36 weeks PMA.
+27933664_ab4	1	17	Echocardiography	diagnosis
+
+27977762_ab10|t|
+27977762_ab10|a|Overall, results suggest that pupillometry provides a viable metric for precisely assessing attentional load and task experience in visuospatial tasks.
+27977762_ab10	31	43	pupillometry	diagnosis
+
+27991454_ab1|t|
+27991454_ab1|a|In intensity-modulated radiation therapy (IMRT), 3D in-room imaging data is typically utilized for accurate patient alignment on the basis of anatomical landmarks.
+27991454_ab1	61	68	imaging	diagnosis
+
+27991454_ab3|t|
+27991454_ab3|a|Thus, dose -guided patient alignment is an interesting approach to use available in-room imaging data for up-to-date dose calculation, aimed at finding the position that yields the optimal dose distribution.
+27991454_ab3	90	97	imaging	diagnosis
+
+27991454_ab10|t|
+27991454_ab10|a|A delineated replanning CT served as surrogate for in-room imaging data.
+27991454_ab10	25	27	CT	diagnosis
+27991454_ab10	60	67	imaging	diagnosis
+
+28009593_ab3|t|
+28009593_ab3|a|This study summarizes the process of re-evaluation of the psychometric properties of the PONS - RN instrument.
+28009593_ab3	59	82	psychometric properties	diagnosis
+
+28009695_ab4|t|
+28009695_ab4|a|Hypertrophic scars were created and assessed weekly using VSS and biopsy procurement.
+28009695_ab4	67	73	biopsy	diagnosis
+
+28017476_ab1|t|
+28017476_ab1|a|Previously we reported that hyper-radiosensitivity (HRS) was evidenced by quantifying DNA double strand break (DSB) foci in epidermis biopsies collected after delivering radiotherapeutic one and five dose fractions.
+28017476_ab1	135	143	biopsies	diagnosis
+
+28017476_ab4|t|
+28017476_ab4|a|Before RT, and at several times throughout treatment, skin biopsies (n=452) were collected at 30min, and 2, 3, 24, and 72h after dose fractions.
+28017476_ab4	55	68	skin biopsies	diagnosis
+
+28017476_ab6|t|
+28017476_ab6|a|Foci were counted both with digital image analysis and manually.
+28017476_ab6	29	51	digital image analysis	diagnosis
+
+28017476_ab11|t|
+28017476_ab11|a|A comparison of γH2AX and 53BP1 quantifications in double-staine d biopsies showed similar HRS dose-response relationships.
+28017476_ab11	68	76	biopsies	diagnosis
+
+28027760_ti1|t|
+28027760_ti1|a|CT angiography for planning transcatheter aortic valve replacement using automated tube voltage selection: Image quality and radiation exposure
+28027760_ti1	1	15	CT angiography	diagnosis
+
+28027760_ab1|t|
+28027760_ab1|a|To assess image quality and accuracy of CT angiography (CTA) for transcatheter aortic valve replacement (TAVR) planning performed with 3rd generation dual-source CT (DSCT).
+28027760_ab1	41	55	CT angiography	diagnosis
+28027760_ab1	57	60	CTA	diagnosis
+28027760_ab1	136	165	3rd generation dual-source CT	diagnosis
+28027760_ab1	167	171	DSCT	diagnosis
+
+28027760_ab2|t|
+28027760_ab2|a|We evaluated 125 patients who underwent TAVR - planning CTA on 3rd generation DSCT.
+28027760_ab2	57	60	CTA	diagnosis
+28027760_ab2	64	83	3rd generation DSCT	diagnosis
+
+28027760_ab3|t|
+28027760_ab3|a|A two-part protocol was performed including retrospectively ECG-gated coronary CTA (CCTA) and prospectively ECG-triggered aortoiliac CTA using 60mL of contrast medium.
+28027760_ab3	61	83	ECG-gated coronary CTA	diagnosis
+28027760_ab3	85	89	CCTA	diagnosis
+28027760_ab3	109	137	ECG-triggered aortoiliac CTA	diagnosis
+
+28027760_ab4|t|
+28027760_ab4|a|Automated tube voltage selection and advanced iterative reconstruction were applied.
+28027760_ab4	38	71	advanced iterative reconstruction	diagnosis
+
+28027760_ab6|t|
+28027760_ab6|a|Five-point scales were used for subjective image quality analysis.
+28027760_ab6	44	66	image quality analysis	diagnosis
+
+28027760_ab8|t|
+28027760_ab8|a|Image quality was rated good to excellent in 97.6% of CCTA and 100% of aortoiliac CTAs.
+28027760_ab8	55	59	CCTA	diagnosis
+28027760_ab8	72	87	aortoiliac CTAs	diagnosis
+
+28027760_ab9|t|
+28027760_ab9|a|CTA studies at >100kV showed decreased objective image quality compared to 70-100kV (SNR, all p≤0.0459; CNR, all p≤0.0462).
+28027760_ab9	1	4	CTA	diagnosis
+
+28027760_ab10|t|
+28027760_ab10|a|Mean ED increased continuously from 70 to >100kV (CCTA: 4.5±1.7mSv-13.6±2.9mSv, all p≤0.0233; aortoiliac CTA: 2.4±0.9mSv-6.8±2.7mSv, all p≤0.0414).
+28027760_ab10	51	55	CCTA	diagnosis
+28027760_ab10	95	109	aortoiliac CTA	diagnosis
+
+28027760_ab13|t|
+28027760_ab13|a|3rd generation DSCT provides diagnostic image quality in TAVR - planning CTA and facilitates reliable assessment of TAVR device and delivery option while reducing radiation dose.
+28027760_ab13	1	20	3rd generation DSCT	diagnosis
+28027760_ab13	74	77	CTA	diagnosis
+
+28035718_ab2|t|
+28035718_ab2|a|We here investigated the role of THSD7A as a new potential tumor antigen by evaluating over 20 000 tissue spots in more than 70 different tumor entities by immunohistochemistry using tissue microarrays.
+28035718_ab2	157	177	immunohistochemistry	diagnosis
+
+28058834_ti1|t|
+28058834_ti1|a|pH -Dependent Transmembrane Activity of Peptide -Functionalized Gold Nanostars for Computed Tomography / Photoacoustic Imaging and Photothermal Therapy
+28058834_ti1	84	103	Computed Tomography	diagnosis
+28058834_ti1	106	127	Photoacoustic Imaging	diagnosis
+
+28058834_ab7|t|
+28058834_ab7|a|Moreover, the tumor accumulation of the GNS - pHLIP was 3-fold higher than that of GNS - mPEG after intravenous injection into MCF-7 breast tumor animal models for 24 h. Furthermore, GNS - pHLIP exhibited stronger signals than the GNS - mPEG through computed tomography (CT) and photoacoustic (PA) imaging.
+28058834_ab7	251	270	computed tomography	diagnosis
+28058834_ab7	272	274	CT	diagnosis
+28058834_ab7	280	306	photoacoustic (PA) imaging	diagnosis
+
+28058834_ab9|t|
+28058834_ab9|a|The results clearly demonstrate that the GNS - pHLIP successfully took advantage of the tumor - targeting ability of pHLIPs and the good characteristics of GNS s, which may contribute to the study of tumor imaging and therapy.
+28058834_ab9	207	214	imaging	diagnosis
+
+28061895_ab4|t|
+28061895_ab4|a|Fifteen laparoscopic RAMPS for well-selected patients with left-sided pancreatic cancer were performed from July 2011 to April 2016.
+28061895_ab4	9	21	laparoscopic	diagnosis
+
+28061895_ab12|t|
+28061895_ab12|a|Our early experience with laparoscopic RAMPS achieved feasible perioperative results accompanied by acceptable survival outcomes.
+28061895_ab12	27	39	laparoscopic	diagnosis
+
+28061895_ab13|t|
+28061895_ab13|a|Laparoscopic RAMPS could be a safe and oncologically feasible procedure in well-selected patients with left-sided pancreatic cancer.
+28061895_ab13	1	13	Laparoscopic	diagnosis
+
+28066591_ab8|t|
+28066591_ab8|a|Compared with those without polycythemia, the polycythemia group had significantly lower forced expiratory volume in one second (FEV1) level (0.9±0.3 vs.
+28066591_ab8	90	141	forced expiratory volume in one second (FEV1) level	diagnosis
+
+28072576_ti1|t|
+28072576_ti1|a|Ultrasonic computed tomography imaging of iron oxide nanoparticles
+28072576_ti1	1	39	Ultrasonic computed tomography imaging	diagnosis
+
+28072576_ab1|t|
+28072576_ab1|a|Iron oxide nanoparticles (IONPs) are becoming increasingly used and intensively investigated in the field of medical imaging.
+28072576_ab1	110	125	medical imaging	diagnosis
+
+28072576_ab2|t|
+28072576_ab2|a|They are currently FDA approved for magnetic resonance imaging (MRI), and it would be highly desirable to visualize them by ultrasound as well.
+28072576_ab2	37	63	magnetic resonance imaging	diagnosis
+28072576_ab2	65	68	MRI	diagnosis
+
+28072576_ab3|t|
+28072576_ab3|a|Previous reports using the conventional ultrasound B-scan (pulse-echo) imaging technique have shown very limited detectability of these particles.
+28072576_ab3	41	89	ultrasound B-scan (pulse-echo) imaging technique	diagnosis
+
+28072576_ab4|t|
+28072576_ab4|a|The aim of this study is to explore the feasibility of imaging IONPs using the through-transmission ultrasound methodology and demonstrate their detectability using ultrasonic computed tomography (UCT).
+28072576_ab4	56	63	imaging	diagnosis
+28072576_ab4	166	196	ultrasonic computed tomography	diagnosis
+28072576_ab4	198	201	UCT	diagnosis
+
+28072576_ab6|t|
+28072576_ab6|a|Next, through-transmission projection and UCT imaging were performed on a breast mimicking phantom and on an ex vivo tissue model, to which IONPs were injected.
+28072576_ab6	7	38	through-transmission projection	diagnosis
+28072576_ab6	43	54	UCT imaging	diagnosis
+
+28072576_ab7|t|
+28072576_ab7|a|Finally, an MRI scan was performed to verify that the same particles examined in the ultrasound experiment can be imaged by magnetic resonance, using the same clinically relevant concentrations.
+28072576_ab7	13	21	MRI scan	diagnosis
+
+28072576_ab9|t|
+28072576_ab9|a|Imaging based on this property has shown a substantial contrast-to-noise ratio improvement (up to 5 fold, p < 0.01).
+28072576_ab9	1	8	Imaging	diagnosis
+
+28072576_ab10|t|
+28072576_ab10|a|The SOS -related effect generated a well discernible image contrast and allowed the detection of the particles existence and location, in both raster-scan projection and UCT imaging.
+28072576_ab10	144	166	raster-scan projection	diagnosis
+28072576_ab10	171	182	UCT imaging	diagnosis
+
+28072576_ab12|t|
+28072576_ab12|a|Based on these findings, it is concluded that IONPs can be used as an effective SOS - based contrast agent, potentially useful for ultrasonic breast imaging.
+28072576_ab12	150	157	imaging	diagnosis
+
+28072576_ab13|t|
+28072576_ab13|a|Furthermore, the particle offers the capacity of significantly enhancing diagnosis accuracy using multimodal MRI - ultrasound imaging capabilities.
+28072576_ab13	99	109	multimodal	diagnosis
+28072576_ab13	110	113	MRI	diagnosis
+28072576_ab13	116	134	ultrasound imaging	diagnosis
+
+28082609_ab7|t|
+28082609_ab7|a|By using two polymorphism-based methods for estimating selection coefficients over different timescales, we show that the selection intensity on codon usage has been rather stable in D. simulans in the recent past, but the long-term estimates in D. melanogaster are much higher than the short-term ones, indicating a continuing decline in selection intensity, to such an extent that the short-term estimates suggest that selection is only active in the most GC -rich parts of the genome.
+28082609_ab7	14	40	polymorphism-based methods	diagnosis
+
+28087237_ab7|t|
+28087237_ab7|a|In addition, incontinent women underwent a 1-hour pad test.
+28087237_ab7	51	59	pad test	diagnosis
+
+28087237_ab17|t|
+28087237_ab17|a|Women with greater urinary leakage during the 1-hour pad test (weight > 11 g) had the worst sexual function (SQ-F) score.
+28087237_ab17	54	62	pad test	diagnosis
+
+28093376_ab6|t|
+28093376_ab6|a|The method of ICC was performed to assess the reproducibility of the two angles, and the absolute value of difference in pre-operative and post-operative radiographs was used to evaluate the uniformity of the two angles.
+28093376_ab6	155	166	radiographs	diagnosis
+
+28093376_ab7|t|
+28093376_ab7|a|These fractures were divided into four groups according to VN angle (VN<0° (n=92), 0°≤VN<10° (n=82), 10°≤VN<15° (n=26), VN≥15° (n=28)), and the short-term (within 6 months) fixation results of radiographs in these fractures were evaluated.
+28093376_ab7	194	205	radiographs	diagnosis
+
+28093376_ab8|t|
+28093376_ab8|a|The ICC of the VN angle and the Pauwels angle in pre-operative radiographs were 0.937 (95% confidence interval (CI): 0.922-0.950) and 0.942 respectively (95% CI: 0.914-0.970), indicating both angles had a good inter-rater reproducibility.
+28093376_ab8	64	75	radiographs	diagnosis
+
+28093376_ab9|t|
+28093376_ab9|a|However, there was a great difference between the Pauwels angle in pre-operative and post-operative radiographs (P=0.037), the absolute difference was 10.66±6.47 (range: 1.72-38.48), while no statistical difference for the VN angle (P=0.084) and the absolute difference was 2.20±1.63 (range: 0.05-7.56).
+28093376_ab9	101	112	radiographs	diagnosis
+
+28105138_ti1|t|
+28105138_ti1|a|Clinical and angiographic correlation of high-sensitivity C-reactive protein with acute ST elevation myocardial infarction
+28105138_ti1	14	26	angiographic	diagnosis
+
+28105138_ab5|t|
+28105138_ab5|a|The present study investigated the correlation of hs-CRP level with clinical and angiographic features of STEMI, various other traditional risk factors, complications of myocardial infarction and angiographically significant CAD.
+28105138_ab5	82	94	angiographic	diagnosis
+
+28106001_ti1|t|
+28106001_ti1|a|Impact of femoral artery puncture using digital subtraction angiography and road mapping on vascular and bleeding complications after transfemoral transcatheter aortic valve implantation
+28106001_ti1	41	72	digital subtraction angiography	diagnosis
+
+28106001_ab2|t|
+28106001_ab2|a|In this analysis, we sought to assess the impact of a modified femoral artery puncture technique using digital subtraction angiography (DSA) and road mapping during transfemoral TAVI on periprocedural vascular and bleeding events.
+28106001_ab2	104	135	digital subtraction angiography	diagnosis
+28106001_ab2	137	140	DSA	diagnosis
+
+28106001_ab4|t|
+28106001_ab4|a|The modified femoral artery puncture technique using DSA -derived road mapping guidance was introduced in October 2012.
+28106001_ab4	54	57	DSA	diagnosis
+
+28106001_ab5|t|
+28106001_ab5|a|Before the introduction of this technique, vascular puncture was acquired based on an integration of angiographic data, the bony iliofemoral landmarks and a radiopaque object.
+28106001_ab5	102	114	angiographic	diagnosis
+
+28106001_ab22|t|
+28106001_ab22|a|A modified femoral artery puncture technique using DSA and road mapping was associated with a reduction in major vascular and bleeding complications after transfemoral TAVI, and provides a simple and effective strategy for potentially improving patient outcomes.
+28106001_ab22	52	55	DSA	diagnosis
+
+28107548_ti1|t|
+28107548_ti1|a|MRI -based prostate cancer detection with high-level representation and hierarchical classification
+28107548_ti1	1	4	MRI	diagnosis
+
+28107548_ab2|t|
+28107548_ab2|a|High-level feature representation is first learned by a deep learning network, where multiparametric MR images are used as the input data.
+28107548_ab2	86	104	multiparametric MR	diagnosis
+
+28113841_ti1|t|
+28113841_ti1|a|Quantitative Susceptibility Mapping using Structural Feature based Collaborative Reconstruction (SFCR) in the Human Brain
+28113841_ti1	1	36	Quantitative Susceptibility Mapping	diagnosis
+
+28113841_ab1|t|
+28113841_ab1|a|The reconstruction of MR quantitative susceptibility mapping (QSM) from local phase measurements is an ill posed inverse problem and different regularization strategies incorporating a priori information extracted from magnitude and phase images have been proposed.
+28113841_ab1	26	61	quantitative susceptibility mapping	diagnosis
+28113841_ab1	63	66	QSM	diagnosis
+
+28113841_ab3|t|
+28113841_ab3|a|In this paper, we develop a structural feature based collaborative reconstruction (SFCR) method for QSM including both magnitude and susceptibility based information.
+28113841_ab3	101	104	QSM	diagnosis
+
+28113841_ab7|t|
+28113841_ab7|a|Simulations and in vivo human experiments at 7T MRI show that the SFCR method provides high quality susceptibility maps with improved RMSE and MSSIM.
+28113841_ab7	49	52	MRI	diagnosis
+
+28121744_ab4|t|
+28121744_ab4|a|Immunohistochemistry showed that mammalian target of rapamycin was expressed in PMH biopsy specimens, which may explain the reduction in PMH tumor size following treatment.
+28121744_ab4	1	21	Immunohistochemistry	diagnosis
+
+28125612_ab7|t|
+28125612_ab7|a|The improved conditions allowed for the recovery of highly purified and biologically active scFv fragments ready to be grafted in a site -directed way to nanoparticles for the imaging of atherosclerotic plaques involving inflammatory processes and thus at high risk of instability.
+28125612_ab7	177	184	imaging	diagnosis
+
+28127863_ab3|t|
+28127863_ab3|a|Assessment of non-verbal and verbal tasks reflecting respiration, phonation, oral motor function, velopharyngeal function, articulation, and prosody was performed as well as the Swedish Test of Intelligibility (STI).
+28127863_ab3	15	42	non-verbal and verbal tasks	diagnosis
+
+28144189_ab4|t|
+28144189_ab4|a|The experimental group consisted of 100 females at postmenopausal age, in which by the DEXA method was diagnosed osteoporosis at the Department of Endocrinology, Diabetes and Metabolic Diseases, University Medical Center of RS during 2015-2016, while the control group consisted of 100 females in a postmenopausal age but without diagnosed osteoporosis.
+28144189_ab4	88	99	DEXA method	diagnosis
+
+28144577_ab4|t|
+28144577_ab4|a|All patients were evaluated radiographicaly for the development of heterotopic ossification during the standard assessment for the nonunion healing.
+28144577_ab4	29	44	radiographicaly	diagnosis
+
+28144577_ab5|t|
+28144577_ab5|a|In all patients (80.9%) with radiographic signs of heterotopic ossification, a CT scan was performed.
+28144577_ab5	80	87	CT scan	diagnosis
+
+28144577_ab6|t|
+28144577_ab6|a|Nonunion site palpation and ROM evaluation of the adjacent joints were also carried out.
+28144577_ab6	15	24	palpation	diagnosis
+
+28145492_ab6|t|
+28145492_ab6|a|This first description of the electrophysiological effects of H/Os upon the TIDA network identifies cellular mechanisms that may contribute to the circadian rhythmicity of prolactin secretion.
+28145492_ab6	31	59	electrophysiological effects	diagnosis
+
+28160457_ab5|t|
+28160457_ab5|a|Infants had body composition measured (using dual-energy X-ray absorptiometry) and HBM collected.
+28160457_ab5	46	78	dual-energy X-ray absorptiometry	diagnosis
+
+28161910_ab3|t|
+28161910_ab3|a|All participants had a causality score of at least ' probable ', a liver biopsy within 30 days of DILI onset, and no prior chronic liver disease.
+28161910_ab3	68	80	liver biopsy	diagnosis
+
+28161910_ab9|t|
+28161910_ab9|a|After adjusting for biochemical injury types, black race and possible ageing effects, more severe interface hepatitis was noted in biopsies of women <50 years compared to those of men and women ≥50 years (P=.009 and P=.055 respectively).
+28161910_ab9	132	140	biopsies	diagnosis
+
+28161910_ab10|t|
+28161910_ab10|a|Compared to those of men, biopsies of women showed greater plasma cell infiltration, hepatocyte apoptosis, hepatocyte rosettes and lobular disarray but less iron - positive hepatocytes and histological cholestasis (P<.05).
+28161910_ab10	27	35	biopsies	diagnosis
+
+28166758_ab10|t|
+28166758_ab10|a|SHG and optical scattering measurements provide sub-resolution information and when combined provide superior diagnostic power over clinical imaging modalities.
+28166758_ab10	133	149	clinical imaging	diagnosis
+
+28166758_ab13|t|
+28166758_ab13|a|These methods could become an in vivo screening tool for earlier detection which is important since ovarian malignancies can metastasize while undetectable by current clinical imaging resolution.
+28166758_ab13	168	184	clinical imaging	diagnosis
+
+28168514_ti1|t|
+28168514_ti1|a|Limits of the possible: diagnostic image quality in coronary angiography with third-generation dual-source CT
+28168514_ti1	53	73	coronary angiography	diagnosis
+28168514_ti1	79	110	third-generation dual-source CT	diagnosis
+
+28168514_ab1|t|
+28168514_ab1|a|The usage of coronary CT angiography (CTA) is appropriate in patients with acute or chronic chest pain; however the diagnostic accuracy may be challenged with increased Agatston score (AS), increased heart rate, arrhythmia and severe obesity.
+28168514_ab1	14	37	coronary CT angiography	diagnosis
+28168514_ab1	39	42	CTA	diagnosis
+
+28168514_ab2|t|
+28168514_ab2|a|Thus, we aim to determine the potential of the recently introduced third-generation dual-source CT (DSCT) for CTA in a 'real-life' clinical setting.
+28168514_ab2	68	99	third-generation dual-source CT	diagnosis
+28168514_ab2	101	105	DSCT	diagnosis
+28168514_ab2	111	114	CTA	diagnosis
+
+28168514_ab3|t|
+28168514_ab3|a|Two hundred and sixty-eight consecutive patients (age: 67 ± 10 years; BMI: 27 ± 5 kg/m²; 61% male) undergoing clinically indicated CTA with DSCT were included in the retrospective single-center analysis.
+28168514_ab3	132	135	CTA	diagnosis
+28168514_ab3	141	145	DSCT	diagnosis
+
+28168514_ab4|t|
+28168514_ab4|a|A contrast-enhanced volume dataset was acquired in sequential (SSM) (n = 151) or helical scan mode (HSM) (n = 117).
+28168514_ab4	64	67	SSM	diagnosis
+28168514_ab4	82	99	helical scan mode	diagnosis
+28168514_ab4	101	104	HSM	diagnosis
+
+28168514_ab6|t|
+28168514_ab6|a|A subset underwent invasive angiography to determine the diagnostic accuracy of CTA.
+28168514_ab6	20	40	invasive angiography	diagnosis
+28168514_ab6	81	84	CTA	diagnosis
+
+28168514_ab7|t|
+28168514_ab7|a|SSM (96.8 ± 6%) and HSM (97.5 ± 8%) provided no significant differences in the overall diagnostic image quality.
+28168514_ab7	1	4	SSM	diagnosis
+28168514_ab7	21	24	HSM	diagnosis
+
+28168514_ab8|t|
+28168514_ab8|a|However, AS had significant influence on diagnostic image quality exclusively in SSM (B = 0.003; p = 0.0001), but not in HSM.
+28168514_ab8	82	85	SSM	diagnosis
+28168514_ab8	122	125	HSM	diagnosis
+
+28168514_ab9|t|
+28168514_ab9|a|Diagnostic image quality significantly decreased in SSM in patients with AS ≥2,000 (p = 0.03).
+28168514_ab9	53	56	SSM	diagnosis
+
+28168514_ab10|t|
+28168514_ab10|a|SSM (sensitivity: 93.9%; specificity: 96.7%; PPV: 88.6%; NPV: 98.3%) and HSM (sensitivity: 97.4%; specificity: 94.3%; PPV: 86.0%; NPV: 99.0%) provided comparable diagnostic accuracy (p = n.s.).
+28168514_ab10	1	4	SSM	diagnosis
+28168514_ab10	74	77	HSM	diagnosis
+
+28168514_ab11|t|
+28168514_ab11|a|SSM yielded significantly lower radiation doses as compared to HSM (2.1 ± 2.0 vs.
+28168514_ab11	1	4	SSM	diagnosis
+28168514_ab11	64	67	HSM	diagnosis
+
+28168514_ab13|t|
+28168514_ab13|a|SSM in third-generation DSCT enables significant dose savings and provides robust diagnostic image quality in patients with AS ≤2000 independent of heart rate, heart rhythm or obesity.
+28168514_ab13	1	4	SSM	diagnosis
+28168514_ab13	8	29	third-generation DSCT	diagnosis
+
+28193256_ab4|t|
+28193256_ab4|a|We defined CSF β-amyloid 1-42 cutoffs by data-driven Gaussian mixture modeling in the total population and in subgroups based on clinical diagnosis, age, and apolipoprotein E (APOE) genotype.
+28193256_ab4	130	148	clinical diagnosis	diagnosis
+
+28193256_ab5|t|
+28193256_ab5|a|We investigated whether abnormal β-amyloid 1-42 as defined by the data-driven cutoff could better predict progression to AD -type dementia than abnormal β-amyloid 1-42 defined by a clinical diagnosis -based cutoff using Cox proportional hazards regression.
+28193256_ab5	182	200	clinical diagnosis	diagnosis
+
+28193256_ab9|t|
+28193256_ab9|a|The data-driven cutoff was higher than our clinical diagnosis -based cutoff and had a better predictive accuracy for progression to AD -type dementia in nondemented subjects (HR 7.6 versus 5.2, p < 0.01).
+28193256_ab9	44	62	clinical diagnosis	diagnosis
+
+28193256_ab11|t|
+28193256_ab11|a|It might better capture biological changes that are related to AD than cutoffs based on clinical diagnosis.
+28193256_ab11	89	107	clinical diagnosis	diagnosis
+
+28203067_ab9|t|
+28203067_ab9|a|A higher level of distress was independently predicted by lower self-evaluation of health; worse self-appraisal of coping well as a caregiver; lower sense of general support; more hours of care per week; and the motor retardation of the cared -for person measured with the speed of the Timed Up and Go (TUG) test.
+28203067_ab9	287	313	Timed Up and Go (TUG) test	diagnosis
+
+28203067_ab10|t|
+28203067_ab10|a|Worse performance on the TUG test was only the patient -related predictor of distress among the variables examined as contributors to the higher NIoC.
+28203067_ab10	26	34	TUG test	diagnosis
+
+28209459_ab1|t|
+28209459_ab1|a|Intracranial dural arteriovenous fistulas (dAVF) are acquired lesions, with the most commonly reported findings on CT haemorrhage or focal oedema.
+28209459_ab1	116	118	CT	diagnosis
+
+28209459_ab2|t|
+28209459_ab2|a|We describe a case of progressive subcortical calcification on CT secondary to venous hypertension from a high grade dAVF.
+28209459_ab2	64	66	CT	diagnosis
+
+28237781_ab3|t|
+28237781_ab3|a|In this study, we conducted chronic toxicity tests and investigated the metabolic changes of the growing Daphna similis with exposure to 0, 0.02, and 1 ppb AgNPs, using non-targeted mass spectrometry -based metabolomics.
+28237781_ab3	29	51	chronic toxicity tests	diagnosis
+
+28239481_ti1|t|
+28239481_ti1|a|Effectiveness of workers ' general health examination in Korea by health examination period and compliance: retrospective cohort study using nationwide data
+28239481_ti1	28	54	general health examination	diagnosis
+
+28239481_ab1|t|
+28239481_ab1|a|Our study evaluated the effectiveness of the Workers ' General Health Examination by health examination period and compliance.
+28239481_ab1	56	82	General Health Examination	diagnosis
+
+28239481_ab9|t|
+28239481_ab9|a|A 1-year period of Workers ' General Health Examinations in non-office workers had a more significant prevention effect on ischemic heart disease than a 2-year period in office workers among working age (40s-50s) men.
+28239481_ab9	30	57	General Health Examinations	diagnosis
+
+28243909_ab1|t|
+28243909_ab1|a|Effect of successive administration vancomycin and amikacin in therapeutic doses on immature auditory organ was compared to single administration of the same drugs in chronic experiments on immature rabbits by recording of short-latency auditory brainstem response (ABR) and distortion product otoacoustic emission (DPOAE).
+28243909_ab1	276	315	distortion product otoacoustic emission	diagnosis
+28243909_ab1	317	322	DPOAE	diagnosis
+
+28243909_ab3|t|
+28243909_ab3|a|Ototoxic antibiotics did not change DPOAE, but selectively affected activity of outer hair cells.
+28243909_ab3	37	42	DPOAE	diagnosis
+
+28244917_ab4|t|
+28244917_ab4|a|Ten normal knees, 10 treated with an LCS-PS (low contact stress-posterior stabilized) TKA (anatomically shaped patellar component), and 10 treated with a PFC Sigma RP-PS (press-fit condylar Sigma rotating platform-posterior stabilized) TKA (domed patellar component) were analyzed under fluoroscopic surveillance while the patient performed a weight-bearing deep knee bend from full knee extension to maximum knee flexion.
+28244917_ab4	288	300	fluoroscopic	diagnosis
+
+28244917_ab5|t|
+28244917_ab5|a|Relevant bone geometries were segmented out from computed tomography (CT) scans, and computer-assisted-design (CAD) models of the implanted components were obtained from the manufacturer.
+28244917_ab5	50	69	computed tomography	diagnosis
+28244917_ab5	71	73	CT	diagnosis
+
+28260547_ti1|t|
+28260547_ti1|a|Surrogate inaccuracy in predicting older adults' desire for life-sustaining interventions in the event of decisional incapacity: is it due in part to erroneous quality-of-life assessments?
+28260547_ti1	161	188	quality-of-life assessments	diagnosis
+
+28260547_ab3|t|
+28260547_ab3|a|We tested the hypothesis that this difficulty could in part be explained by discrepant quality-of-life assessments.
+28260547_ab3	88	115	quality-of-life assessments	diagnosis
+
+28265530_ab4|t|
+28265530_ab4|a|During routine laparoscopic exploration, right vas deferens and testicular vessels were entering the right internal inguinal ring so right inguinal exploration was done, which revealed blind ending vas deferens and testicular vessels and the left testis was found intra-abdominally near the left internal ring with a mass on its upper pole.
+28265530_ab4	16	28	laparoscopic	diagnosis
+
+28265530_ab5|t|
+28265530_ab5|a|Wedge biopsy was taken from the upper pole of the testicle (site of the mass) for tissue diagnosis followed by orchidopexy.
+28265530_ab5	1	13	Wedge biopsy	diagnosis
+
+28268504_ti1|t|
+28268504_ti1|a|Hip segmentation from MRI volumes in infants for DDH diagnosis and treatment planning
+28268504_ti1	23	26	MRI	diagnosis
+
+28268504_ab1|t|
+28268504_ab1|a|Diagnosis and surgical management of Developmental Dysplasia of the Hip (DDH) relies on physical examination and 2D ultrasound scanning.
+28268504_ab1	117	136	ultrasound scanning	diagnosis
+
+28268504_ab2|t|
+28268504_ab2|a|Magnetic Resonance Imaging (MRI) can be used to complement existing techniques and could be advantageous in treatment planning due to its larger field of view.
+28268504_ab2	1	27	Magnetic Resonance Imaging	diagnosis
+28268504_ab2	29	32	MRI	diagnosis
+
+28268504_ab3|t|
+28268504_ab3|a|In this paper we propose a semi-automatic method to segment surface models of the acetabulum from MRI images.
+28268504_ab3	99	102	MRI	diagnosis
+
+28268504_ab6|t|
+28268504_ab6|a|We conducted a pilot study to evaluate the segmentation on a set of 10 infant hip MRI sequences using a 1.5 Tesla MR scanner.
+28268504_ab6	83	86	MRI	diagnosis
+
+28268917_ti1|t|
+28268917_ti1|a|Automated basal cell carcinoma detection in high-definition optical coherence tomography
+28268917_ti1	45	89	high-definition optical coherence tomography	diagnosis
+
+28268917_ab2|t|
+28268917_ab2|a|Conventional diagnosis of BCC requires invasive biopsies.
+28268917_ab2	49	57	biopsies	diagnosis
+
+28268917_ab3|t|
+28268917_ab3|a|Recently, a high-definition optical coherence tomography (HD-OCT) technique has been developed, which provides a non-invasive in vivo imaging method of skin.
+28268917_ab3	13	57	high-definition optical coherence tomography	diagnosis
+28268917_ab3	59	65	HD-OCT	diagnosis
+
+28268917_ab4|t|
+28268917_ab4|a|Good agreements of BCC features between HD-OCT images and histopathological architecture have been found.
+28268917_ab4	41	47	HD-OCT	diagnosis
+
+28268917_ab5|t|
+28268917_ab5|a|Therefore it is possible to automatically detect BCC using HD-OCT.
+28268917_ab5	60	66	HD-OCT	diagnosis
+
+28271342_ab1|t|
+28271342_ab1|a|The aim of this study was to compare the localization of rectal cancers as classified according to the general rules of the Japanese classification of colorectal carcinoma (JCCRC) and also according to the European Society for Medical Oncology (ESMO) and the National Comprehensive Cancer Network (NCCN) guidelines, which are based on rigid endoscopic measurements.
+28271342_ab1	336	352	rigid endoscopic	diagnosis
+
+28271342_ab3|t|
+28271342_ab3|a|Rigid proctoscopy was performed in patients with rectal cancer located in the upper (Ra) or lower (Rb) division using double-contrast barium enema.
+28271342_ab3	1	18	Rigid proctoscopy	diagnosis
+28271342_ab3	119	147	double-contrast barium enema	diagnosis
+
+28271342_ab4|t|
+28271342_ab4|a|The median values of height from the anal verge were 7.5 cm (range 2-12) and 3 cm (0-9.5) on rigid proctoscopy for cancers assigned as Ra and Rb, respectively.
+28271342_ab4	94	111	rigid proctoscopy	diagnosis
+
+28271342_ab5|t|
+28271342_ab5|a|All 159 cancers at Ra or Rb were located within 12 cm from the anal verge by rigid proctoscopy, while only 79.7% of Ra or 82.1% of Rb cancers were located in the mid (5.1-10 cm) or low (≤5 cm) rectum, respectively.
+28271342_ab5	78	95	rigid proctoscopy	diagnosis
+
+28282963_ti1|t|
+28282963_ti1|a|Multimodal brain imaging with magnetoencephalography: A method for measuring blood pressure and cardiorespiratory oscillations
+28282963_ti1	1	25	Multimodal brain imaging	diagnosis
+28282963_ti1	31	53	magnetoencephalography	diagnosis
+
+28282963_ab1|t|
+28282963_ab1|a|Studies with magnetoencephalography (MEG) are still quite rarely combined simultaneously with methods that can provide a metabolic dimension to MEG investigation s. In addition, continuous blood pressure measurements which comply with MEG compatibility requirements are lacking.
+28282963_ab1	14	36	magnetoencephalography	diagnosis
+28282963_ab1	38	41	MEG	diagnosis
+28282963_ab1	145	148	MEG	diagnosis
+28282963_ab1	236	239	MEG	diagnosis
+
+28282963_ab3|t|
+28282963_ab3|a|This paper presents a multimodal brain imaging setup, capable to non-invasively and continuously measure cerebral hemodynamic, cardiorespiratory and blood pressure oscillations simultaneously with MEG.
+28282963_ab3	23	47	multimodal brain imaging	diagnosis
+28282963_ab3	198	201	MEG	diagnosis
+
+28282963_ab4|t|
+28282963_ab4|a|In the setup, all methods apart from MEG rely on the use of fibre optics.
+28282963_ab4	38	41	MEG	diagnosis
+
+28282963_ab5|t|
+28282963_ab5|a|In particular, we present a method for measuring of blood pressure and cardiorespiratory oscillations continuously with MEG.
+28282963_ab5	121	124	MEG	diagnosis
+
+28282963_ab6|t|
+28282963_ab6|a|The potential of this type of multimodal setup for brain research is demonstrated by our preliminary studies on human, showing effects of mild hypercapnia, gathered simultaneously with the presented modalities.
+28282963_ab6	31	41	multimodal	diagnosis
+
+28286021_ti1|t|
+28286021_ti1|a|Role of breast magnetic resonance imaging in predicting residual lobular carcinoma in situ after initial excision
+28286021_ti1	9	42	breast magnetic resonance imaging	diagnosis
+
+28286021_ab1|t|
+28286021_ab1|a|Breast magnetic resonance (MR) imaging is a useful screening modality in detecting suspicious lesions in patients with a history of lobular carcinoma in situ (LCIS).
+28286021_ab1	1	39	Breast magnetic resonance (MR) imaging	diagnosis
+
+28286021_ab2|t|
+28286021_ab2|a|This study aimed to evaluate the effectiveness of breast MR imaging in detecting remnant LCIS lesions after initial excision.
+28286021_ab2	51	68	breast MR imaging	diagnosis
+
+28286021_ab4|t|
+28286021_ab4|a|Breast ultrasonography and breast MR imaging was conducted after initial excision.
+28286021_ab4	1	23	Breast ultrasonography	diagnosis
+28286021_ab4	28	45	breast MR imaging	diagnosis
+
+28286021_ab8|t|
+28286021_ab8|a|Prior to the second operation, these lesions could be detected in seven cases using ultrasonography (sensitivity, 53.3%; specificity, 100%) and in 10 cases using breast MR imaging (sensitivity, 83.3%; specificity, 100%).
+28286021_ab8	85	100	ultrasonography	diagnosis
+28286021_ab8	163	180	breast MR imaging	diagnosis
+
+28286021_ab9|t|
+28286021_ab9|a|Breast MR imaging showed higher sensitivity than breast ultrasonography in detecting remnant LCIS lesions.
+28286021_ab9	1	18	Breast MR imaging	diagnosis
+28286021_ab9	50	72	breast ultrasonography	diagnosis
+
+28286021_ab10|t|
+28286021_ab10|a|If a suspicious lesion was found using breast MR imaging, a second operation should be considered because of the possibility of multifocality, even if LCIS was confirmed at the initial operation.
+28286021_ab10	40	57	breast MR imaging	diagnosis
+
+28289065_ab5|t|
+28289065_ab5|a|GS from initial biopsy and RP were compared and used to allocate cases to GG, defined as: 1 (GS ≤6); 2 (GS 3+4=7); 3 (GS 4+3=7); 4 (GS 4+4=8/5+3=8/3+5=8) and 5 (GS 9-10).
+28289065_ab5	17	23	biopsy	diagnosis
+
+28289065_ab7|t|
+28289065_ab7|a|Our data showed that Kaplan-Meier analysis revealed significant differences in biochemical recurrence within Gleason GG based on either biopsy or prostatectomy scoring.
+28289065_ab7	137	143	biopsy	diagnosis
+
+28289065_ab9|t|
+28289065_ab9|a|This GG system had a higher prognostic discrimination for both initial biopsy and RP than GS.
+28289065_ab9	72	78	biopsy	diagnosis
+
+28319502_ti1|t|
+28319502_ti1|a|Remitting Seronegative Symmetrical Synovitis With Pitting Edema: Appearance on FDG PET/CT
+28319502_ti1	80	90	FDG PET/CT	diagnosis
+
+28319502_ab3|t|
+28319502_ab3|a|Because of the possibility of associated malignancies in RS3PE, FDG PET/CT was performed to exclude occult tumors.
+28319502_ab3	65	75	FDG PET/CT	diagnosis
+
+28331620_ab5|t|
+28331620_ab5|a|Stress was induced by the Mannheim Multicomponent Stress Test (MMST).
+28331620_ab5	27	62	Mannheim Multicomponent Stress Test	diagnosis
+28331620_ab5	64	68	MMST	diagnosis
+
+28334564_ab8|t|
+28334564_ab8|a|Five of the most frequent CVSICU monitor alarm types- pulse oximetry, heart rate, systolic and diastolic blood pressure, pulse oximetry sensor, and ventricular tachycardia > 2-were targeted.
+28334564_ab8	55	69	pulse oximetry	diagnosis
+28334564_ab8	122	136	pulse oximetry	diagnosis
+
+28339345_ab3|t|
+28339345_ab3|a|Retrospective chart review aiming to assess, in PCOS women, the relationship between ALT levels and measures of lipotoxicity consequences that are available clinically, both during fasting and using the oral glucose tolerance test.
+28339345_ab3	204	231	oral glucose tolerance test	diagnosis
+
+28339345_ab5|t|
+28339345_ab5|a|ALT levels were significantly correlated with homeostatic model assessment for insulin resistance (r = 0.42, P < 0.001), HDL-C (r = -0.31, P < 0.001), Matsuda index (-0.45, P < 0.001), insulin secretion-sensitivity index-2 (-0.26, P = 0.043), and free testosterone (0.38, P < 0.001), but not with fasting glucose and triglyceride levels.
+28339345_ab5	186	223	insulin secretion-sensitivity index-2	diagnosis
+
+28342945_ab3|t|
+28342945_ab3|a|The BDNF and GDNF levels of 58 FEDN patients and 55 age - and sex -matched healthy controls were measured and test subjects were examined using several neurocognitive tests including the verbal fluency test (VFT), the trail making test (TMT), the digit span test (DST), and the Stroop test.
+28342945_ab3	153	173	neurocognitive tests	diagnosis
+28342945_ab3	188	207	verbal fluency test	diagnosis
+28342945_ab3	209	212	VFT	diagnosis
+28342945_ab3	279	290	Stroop test	diagnosis
+
+28342945_ab4|t|
+28342945_ab4|a|Patients performed significantly worse than controls in nearly all neurocognitive performances except the forward subscale part of the DST.
+28342945_ab4	68	95	neurocognitive performances	diagnosis
+
+28342945_ab5|t|
+28342945_ab5|a|BDNF levels were inversely correlated to TMT-part B scores and positively correlated to VFT-action in the FEDN group.
+28342945_ab5	89	99	VFT-action	diagnosis
+
+28344199_ti1|t|
+28344199_ti1|a|Association of Toll-Like Receptor 4 on Human Monocyte Subsets and Vulnerability Characteristics of Coronary Plaque as Assessed by 64-Slice Multidetector Computed Tomography
+28344199_ti1	131	173	64-Slice Multidetector Computed Tomography	diagnosis
+
+28344199_ab2|t|
+28344199_ab2|a|We investigated this relationship using 64-slice multidetector computed tomography (MDCT) in patients with stable angina pectoris (SAP).Methods and Results:We enrolled 65 patients with SAP who underwent MDCT.
+28344199_ab2	41	83	64-slice multidetector computed tomography	diagnosis
+28344199_ab2	85	89	MDCT	diagnosis
+28344199_ab2	204	208	MDCT	diagnosis
+
+28344199_ab4|t|
+28344199_ab4|a|Intracoronary plaques were assessed by 64-slice MDCT.
+28344199_ab4	40	53	64-slice MDCT	diagnosis
+
+28344199_ab5|t|
+28344199_ab5|a|We defined vulnerability of intracoronary plaques according to the presence of positive remodeling (remodeling index >1.05) and/or low CT attenuation (<35 HU).
+28344199_ab5	136	138	CT	diagnosis
+
+28344199_ab9|t|
+28344199_ab9|a|In addition, the relative proportion of TLR-4 expression on CD14(++)CD16(+)monocytes positively correlated with the remodeling index (r=0.28, P=0.025) and negatively correlated with CT attenuation value (r=-0.31, P=0.013).
+28344199_ab9	183	185	CT	diagnosis
+
+28351716_ti1|t|
+28351716_ti1|a|Diagnosis of retinal health in digital fundus images using continuous wavelet transform (CWT) and entropies
+28351716_ti1	32	53	digital fundus images	diagnosis
+
+28351716_ab4|t|
+28351716_ab4|a|The use of an automated computer aided diagnosis system will reduce the time taken for analysis and will also reduce the inter-observer subjective variabilities in image interpretation.
+28351716_ab4	15	56	automated computer aided diagnosis system	diagnosis
+
+28351716_ab6|t|
+28351716_ab6|a|We had a total of 404 normal and 1082 abnormal fundus images in our database.
+28351716_ab6	48	61	fundus images	diagnosis
+
+28351716_ab7|t|
+28351716_ab7|a|As the first step, 2D-Continuous Wavelet Transform (CWT) decomposition on the fundus images of two classes was performed.
+28351716_ab7	79	92	fundus images	diagnosis
+
+28351716_ab13|t|
+28351716_ab13|a|This novel system shows promise in detecting abnormal fundus images, and hence, could be a valuable adjunct eye health screening tool that could be employed in polyclinics, and thereby reduce the workload of specialists at hospitals.
+28351716_ab13	55	68	fundus images	diagnosis
+
+28358612_ab3|t|
+28358612_ab3|a|Survey radiographs confirmed presence of gastric enlargement in all 4 birds.
+28358612_ab3	8	19	radiographs	diagnosis
+
+28358612_ab4|t|
+28358612_ab4|a|The kestrel and eagle were treated unsuccessfully with gastroscopy and gastric lavage, respectively, followed by surgical intervention to remove the ventricular impactions.
+28358612_ab4	56	67	gastroscopy	diagnosis
+
+28358612_ab8|t|
+28358612_ab8|a|Radiographs can provide useful diagnostic information in sick raptors that exhibit vomiting or changes in appetite or casting frequency, and may help guide treatment decisions of impacted birds.
+28358612_ab8	1	12	Radiographs	diagnosis
+
+28364434_ab5|t|
+28364434_ab5|a|The status of the false lumen was classified as patent, partially thrombosed, or completely thrombosed based on a computer tomography angiography image.
+28364434_ab5	115	146	computer tomography angiography	diagnosis
+
+28375566_ti1|t|
+28375566_ti1|a|Quantitative analysis of cell proliferation by a dye dilution assay: Application to cell lines and cocultures
+28375566_ti1	50	68	dye dilution assay	diagnosis
+
+28375566_ab4|t|
+28375566_ab4|a|To overcome these shortcomings, a dye dilution assay employing fluorescent cell tracking dyes that are retained within cells was applied and was diluted proportionally by subsequent cell divisions.
+28375566_ab4	35	53	dye dilution assay	diagnosis
+
+28375566_ab6|t|
+28375566_ab6|a|The mean division time estimated by the dye dilution assay is compared with the population doubling time obtained from conventional methods and values from literature.
+28375566_ab6	41	59	dye dilution assay	diagnosis
+
+28375743_ab6|t|
+28375743_ab6|a|In this review, we summarize the methods that have been developed to engineer new riboswitches and highlight applications of natural and synthetic riboswitches in enzyme and strain engineering, in controlling gene expression and cellular physiology, and in real-time imaging of cellular metabolites and signals.
+28375743_ab6	258	275	real-time imaging	diagnosis
+
+28380217_ab3|t|
+28380217_ab3|a|The structural confirmation of all the synthesized compounds was obtained by EI-MS, IR and 1H-NMR spectral data.
+28380217_ab3	92	98	1H-NMR	diagnosis
+
+28386950_ab4|t|
+28386950_ab4|a|A 41- week, 4,165 g, female presented with craniosynostosis, pre-axial polysyndactyly, and cutaneous findings consistent with a clinical diagnosis of CJS.
+28386950_ab4	129	147	clinical diagnosis	diagnosis
+
+28386950_ab6|t|
+28386950_ab6|a|Surgical exploration revealed an intestinal malrotation for which she underwent a Ladd procedure.
+28386950_ab6	1	21	Surgical exploration	diagnosis
+
+28387468_ab3|t|
+28387468_ab3|a|Lateral cephalometric radiographs from 78 patients with impacted canines, 68 with dental agenesis and 17 with hyperdontia were collected.
+28387468_ab3	9	22	cephalometric	diagnosis
+28387468_ab3	23	34	radiographs	diagnosis
+
+28387468_ab5|t|
+28387468_ab5|a|A standardize scoring scale was used to quantify the extent of STB from each radiographs.
+28387468_ab5	78	89	radiographs	diagnosis
+
+28387468_ab8|t|
+28387468_ab8|a|No statistically significant difference has been found in sellar dimensions and STB expression when evaluating radiographs at different ages.
+28387468_ab8	112	123	radiographs	diagnosis
+
+28395912_ti1|t|
+28395912_ti1|a|Dobutamine Stress Echocardiography: Impact of Abnormal Blood Potassium Levels on Cardiac Arrhythmias
+28395912_ti1	1	35	Dobutamine Stress Echocardiography	diagnosis
+
+28395912_ab1|t|
+28395912_ab1|a|Guidelines suggest that an abnormal blood potassium level is a relative contraindication to performing dobutamine stress echocardiography (DSE).
+28395912_ab1	104	138	dobutamine stress echocardiography	diagnosis
+28395912_ab1	140	143	DSE	diagnosis
+
+28395912_ab3|t|
+28395912_ab3|a|We reviewed a consecutive series of patients who had potassium testing within 48 hours of undergoing DSE for the evaluation of myocardial ischemia over a 10- year period (N = 13,198).
+28395912_ab3	102	105	DSE	diagnosis
+
+28395912_ab7|t|
+28395912_ab7|a|The incidence of clinically significant arrhythmias was very low (supraventricular tachycardia / atrial fibrillation, 4.9%; nonsustained ventricular tachycardia, 2.9%; sustained ventricular tachycardia or ventricular fibrillation, 0.1%), confirming the overall safety of DSE.
+28395912_ab7	272	275	DSE	diagnosis
+
+28395912_ab11|t|
+28395912_ab11|a|DSE is safe even in the setting of abnormalities in blood potassium concentrations, and hence cancellation of DSE in patients with potassium abnormalities does not appear warranted.
+28395912_ab11	1	4	DSE	diagnosis
+28395912_ab11	111	114	DSE	diagnosis
+
+28395912_ab13|t|
+28395912_ab13|a|While remaining at relatively low risk, patients with very low potassium levels (≤3.1 mmol/L) at the time of DSE have a modestly increased risk of arrhythmia.
+28395912_ab13	110	113	DSE	diagnosis
+
+28395912_ab14|t|
+28395912_ab14|a|Consideration could be given to correcting severe hypokalemia prior to DSE.
+28395912_ab14	72	75	DSE	diagnosis
+
+28397323_ab1|t|
+28397323_ab1|a|To assess the diagnostic and clinical contribution of in utero magnetic resonance (iuMR) imaging in fetuses diagnosed with abnormalities of the posterior fossa as the only intracranial abnormality recognised on antenatal ultrasonography (USS).
+28397323_ab1	55	97	in utero magnetic resonance (iuMR) imaging	diagnosis
+28397323_ab1	212	237	antenatal ultrasonography	diagnosis
+28397323_ab1	239	242	USS	diagnosis
+
+28397323_ab2|t|
+28397323_ab2|a|We report a sub-group analysis of fetuses with abnormalities of the posterior fossa diagnosed on antenatal USS (with or without ventriculomegaly) from the MERIDIAN cohort who had iuMR imaging within 2 weeks of USS and outcome reference data were available.
+28397323_ab2	98	111	antenatal USS	diagnosis
+28397323_ab2	180	192	iuMR imaging	diagnosis
+28397323_ab2	211	214	USS	diagnosis
+
+28397323_ab3|t|
+28397323_ab3|a|The diagnostic accuracy of USS and iuMR are reported as well as indicators of diagnostic confidence and effects on prognosis and clinical management.
+28397323_ab3	28	31	USS	diagnosis
+28397323_ab3	36	40	iuMR	diagnosis
+
+28397323_ab4|t|
+28397323_ab4|a|Abnormalities confined to the posterior fossa according to USS were found in 81 fetuses (67 with parenchymal and 14 with CSF -containing lesions).
+28397323_ab4	60	63	USS	diagnosis
+
+28397323_ab5|t|
+28397323_ab5|a|The overall diagnostic accuracy for detecting an isolated posterior fossa abnormality was 65% for USS and 88% for iuMR (difference = 22%, 95% CI: 14.0 to 30.5%, p < 0.0001).
+28397323_ab5	99	102	USS	diagnosis
+28397323_ab5	115	119	iuMR	diagnosis
+
+28397323_ab6|t|
+28397323_ab6|a|There was an improvement in ' appropriate ' diagnostic confidence as assessed by a score - based weighted average ' method (p < 0.0001) and a three-fold reduction in 'high confidence but incorrect diagnoses ' was achieved by using iuMR imaging.
+28397323_ab6	232	244	iuMR imaging	diagnosis
+
+28397323_ab7|t|
+28397323_ab7|a|The prognostic information given to the women after iuMR imaging changed in 44% of cases and the overall effect of iuMR on clinical management was considered to be ' significant ', ' major ' or ' decisive ' in 35% of cases.
+28397323_ab7	53	65	iuMR imaging	diagnosis
+28397323_ab7	116	120	iuMR	diagnosis
+
+28397323_ab8|t|
+28397323_ab8|a|Our data suggests that any woman whose fetus has a posterior fossa abnormality as the only intracranial finding on USS should have iuMR imaging for further evaluation.
+28397323_ab8	116	119	USS	diagnosis
+28397323_ab8	132	144	iuMR imaging	diagnosis
+
+28403387_ab5|t|
+28403387_ab5|a|This investigation was a cross-sectional, case-control, functional magnetic resonance imaging study at an academic medical center.
+28403387_ab5	57	94	functional magnetic resonance imaging	diagnosis
+
+28403387_ab11|t|
+28403387_ab11|a|P values reported for the neuroimaging results are all familywise error corrected.
+28403387_ab11	27	39	neuroimaging	diagnosis
+
+28409370_ab8|t|
+28409370_ab8|a|Upon univariate analysis, malignancy was significantly associated with age >60 years, disease -free interval ≥24 months, SPN size >8 mm, upper lobe localization and SUVmax > 2.5 on PET-CT.
+28409370_ab8	182	188	PET-CT	diagnosis
+
+28415987_ti1|t|
+28415987_ti1|a|Validity and reliability of fluoroscopy for digital radiography: a new way to evaluate diaphragmatic mobility
+28415987_ti1	29	40	fluoroscopy	diagnosis
+28415987_ti1	45	64	digital radiography	diagnosis
+
+28415987_ab1|t|
+28415987_ab1|a|Fluoroscopy is considered the most accurate method to evaluate the diaphragm, yet most existing methods for measuring diaphragmatic mobility using fluoroscopy are complex.
+28415987_ab1	1	12	Fluoroscopy	diagnosis
+28415987_ab1	148	159	fluoroscopy	diagnosis
+
+28415987_ab2|t|
+28415987_ab2|a|To assess the validity and reliability of a new evaluation method of diaphragmatic motion using fluoroscopy by digital radiography of healthy adults.
+28415987_ab2	97	108	fluoroscopy	diagnosis
+28415987_ab2	112	131	digital radiography	diagnosis
+
+28415987_ab3|t|
+28415987_ab3|a|Twenty-six adults were evaluated, according to the parameters: anthropometry and pulmonary function test.
+28415987_ab3	82	105	pulmonary function test	diagnosis
+
+28415987_ab4|t|
+28415987_ab4|a|The evaluation of diaphragm mobility by means of fluoroscopy by digital radiography method was randomly conducted by two raters (A and B).
+28415987_ab4	50	61	fluoroscopy	diagnosis
+28415987_ab4	65	84	digital radiography	diagnosis
+
+28415987_ab10|t|
+28415987_ab10|a|There was good intra-rater reliability in the mobility of both hemidiaphragms for raters A and B. The evaluation of diaphragmatic motion using fluoroscopy by digital radiography proved to be a valid and reliable method of healthy adults.
+28415987_ab10	144	155	fluoroscopy	diagnosis
+28415987_ab10	159	178	digital radiography	diagnosis
+
+28424986_ab4|t|
+28424986_ab4|a|Preoperative computed tomography revealed that the right hepatic vein, right hepatic artery, and right portal vein were not involved by the hemangioma.
+28424986_ab4	14	33	computed tomography	diagnosis
+
+28429500_ab6|t|
+28429500_ab6|a|We followed S-wave changes in electrocardiogram altogether with hemodynamic measurements derived from echocardiography.
+28429500_ab6	103	119	echocardiography	diagnosis
+
+28429500_ab7|t|
+28429500_ab7|a|Analysis of echocardiographic parameters, measured in patients before surgery, did not show statistical significance between asymptomatic and symptomatic group.
+28429500_ab7	13	30	echocardiographic	diagnosis
+
+28442859_ab2|t|
+28442859_ab2|a|Given their potential for mimicry and malignancy, MP tumors pose a unique challenge for surgeons and may be overlooked on differential diagnosis.
+28442859_ab2	123	145	differential diagnosis	diagnosis
+
+28442859_ab4|t|
+28442859_ab4|a|Subsequent plain film X-ray showed near-complete bony destruction of his distal phalanx.
+28442859_ab4	12	28	plain film X-ray	diagnosis
+
+28442859_ab5|t|
+28442859_ab5|a|Pathological evaluation of an incisional biopsy showed a benign variant of MP.
+28442859_ab5	31	48	incisional biopsy	diagnosis
+
+28459029_ab6|t|
+28459029_ab6|a|Body fat percentage (%BF) was measured by dual-energy X-ray absorptiometry.
+28459029_ab6	43	75	dual-energy X-ray absorptiometry	diagnosis
+
+28463704_ti1|t|
+28463704_ti1|a|Recovery of orthographic processing after stroke: A longitudinal fMRI study
+28463704_ti1	66	70	fMRI	diagnosis
+
+28463704_ab6|t|
+28463704_ab6|a|To test our hypothesis, we examined longitudinal behavioral and functional magnetic resonance imaging (fMRI) data of reading, spelling, and visual object naming acquired acutely, 3 weeks, 5 months, and one year post stroke.
+28463704_ab6	65	102	functional magnetic resonance imaging	diagnosis
+28463704_ab6	104	108	fMRI	diagnosis
+
+28469263_ab4|t|
+28469263_ab4|a|Micro-CT and immunohistochemistry was employed to assess the morphological and molecular changes in ovariectomy - induced LFJ arthritis.
+28469263_ab4	1	9	Micro-CT	diagnosis
+28469263_ab4	14	34	immunohistochemistry	diagnosis
+
+28471040_ab6|t|
+28471040_ab6|a|Magnetic resonance imaging and histopathologic evaluation on RG2 tumour cells in rat glioma model (49 female Wistar rats, 250-300 g) comparing intravenous and intratumoral injections of the drug have been performed and FTA-loaded nanoparticles reduced tumour size significantly in in-vivo studies, with higher efficiency of intratumoral administration than intravenous route.
+28471040_ab6	1	27	Magnetic resonance imaging	diagnosis
+
+28473083_ab7|t|
+28473083_ab7|a|Transhepatic or transjugular superior mesenteric vein catheterization and thrombolytic infusion can be offered depending on the severity of symptoms, condition of the patient, and response to systemic anticoagulation.
+28473083_ab7	55	96	catheterization and thrombolytic infusion	diagnosis
+
+28473083_ab10|t|
+28473083_ab10|a|The guideline development and revision include an extensive analysis of current medical literature from peer-reviewed journals and the application of well-established methodologies (RAND / UCLA Appropriateness Method and Grading of Recommendations Assessment, Development, and Evaluation or GRADE) to rate the appropriateness of imaging and treatment procedures for specific clinical scenarios.
+28473083_ab10	330	337	imaging	diagnosis
+
+28473083_ab11|t|
+28473083_ab11|a|In those instances where evidence is lacking or equivocal, expert opinion may supplement the available evidence to recommend imaging or treatment.
+28473083_ab11	126	133	imaging	diagnosis
+
+28476060_ab3|t|
+28476060_ab3|a|Monocular and binocular blur discrimination thresholds were measured as a function of pedestal blur using naturalistic stimuli with an adaptive 4AFC procedure.
+28476060_ab3	136	159	adaptive 4AFC procedure	diagnosis
+
+28476060_ab6|t|
+28476060_ab6|a|The adaptive procedure efficiently estimated a dipper shaped blur discrimination threshold function with two parameters: intrinsic blur and blur sensitivity.
+28476060_ab6	5	23	adaptive procedure	diagnosis
+
+28476508_ab9|t|
+28476508_ab9|a|Furthermore, number of diffusion-weighted image (DWI)- positive lesion (≥8), degree of stenosis (>80.0%), and NIHSS score (≥4) were also independent factors associated with ND.
+28476508_ab9	24	48	diffusion-weighted image	diagnosis
+28476508_ab9	50	53	DWI	diagnosis
+
+28476508_ab10|t|
+28476508_ab10|a|High BP, severity of neurological deficit at the time of admission, and radiological findings, such as degree of stenosis and number of DWI - positive lesion, are independently associated with ND in patients with LAA.
+28476508_ab10	137	140	DWI	diagnosis
+
+28484550_ab5|t|
+28484550_ab5|a|Despite the fact that the immediate and 6 month follow up cerebral angiography confirmed a patent bypass, the patient still developed a posterior cerebral artery territory stroke.
+28484550_ab5	59	79	cerebral angiography	diagnosis
+
+28493435_ti1|t|
+28493435_ti1|a|A Fast Peak-Searching Algorithm for Ultrasonic Elastography
+28493435_ti1	37	60	Ultrasonic Elastography	diagnosis
+
+28493435_ab1|t|
+28493435_ab1|a|Tissue axial strain estimation with ultrasound elastography has become a hot field in recent years.
+28493435_ab1	1	60	Tissue axial strain estimation with ultrasound elastography	diagnosis
+
+28494223_ab3|t|
+28494223_ab3|a|Our functional magnetic resonance imaging results demonstrate that the neural mechanisms underlying AV integration and associative memory overlap substantially.
+28494223_ab3	16	42	magnetic resonance imaging	diagnosis
+
+28501028_ab7|t|
+28501028_ab7|a|Investigations showed bicytopenia, nephrotic range proteinuria with hypoalbuminemia, hypogammaglobulinemia, and features of hyaline - vascular type Castleman disease in a lymph node biopsy.
+28501028_ab7	172	189	lymph node biopsy	diagnosis
+
+28501699_ab1|t|
+28501699_ab1|a|Quantitative analyses of brain structures from Magnetic Resonance (MR) image data are often performed using automatic segmentation algorithms.
+28501699_ab1	48	66	Magnetic Resonance	diagnosis
+28501699_ab1	68	70	MR	diagnosis
+
+28503387_ab3|t|
+28503387_ab3|a|A 39-year-old Caucasian female with a past medical history of RSTS diagnosed at age two was found to have a gadolinium -enhancing pituitary mass on magnetic resonance imaging (MRI) of the brain three years ago during workup for migraine-like headaches.
+28503387_ab3	149	175	magnetic resonance imaging	diagnosis
+28503387_ab3	177	180	MRI	diagnosis
+
+28503387_ab4|t|
+28503387_ab4|a|Subsequent serial imaging showed radiographic evidence of growth up to 11.5 x 14.0 x 10.0 mm in size.
+28503387_ab4	19	26	imaging	diagnosis
+
+28505177_ti1|t|
+28505177_ti1|a|The clinico- radiological paradox of cognitive function and MRI burden of white matter lesions in people with multiple sclerosis: A systematic review and meta-analysis
+28505177_ti1	61	64	MRI	diagnosis
+
+28505177_ab8|t|
+28505177_ab8|a|Resolving the persistent clinico- radiological paradox will likely require simultaneous evaluation of multiple components of the complex pathology using optimum measurement techniques for both cognitive and MRI feature quantification.
+28505177_ab8	208	211	MRI	diagnosis
+
+28522288_ti1|t|
+28522288_ti1|a|Grade Group Underestimation in Prostate Biopsy: Predictive Factors and Outcomes in Candidates for Active Surveillance
+28522288_ti1	32	47	Prostate Biopsy	diagnosis
+
+28522288_ab1|t|
+28522288_ab1|a|We intended to analyze the outcomes and predictive factors for underestimating the prostate cancer (PCa) grade group (GG) from prostate biopsies in a large monocentric cohort of patients treated by minimally invasive radical prostatectomy (RP).
+28522288_ab1	128	145	prostate biopsies	diagnosis
+
+28522288_ab3|t|
+28522288_ab3|a|We explored clinicopathologic features and outcomes associated with a GG upgrade from biopsy to RP.
+28522288_ab3	87	93	biopsy	diagnosis
+
+28522288_ab5|t|
+28522288_ab5|a|Biopsy GG was upgraded after RP in 51.5% of cases.
+28522288_ab5	1	7	Biopsy	diagnosis
+
+28522288_ab6|t|
+28522288_ab6|a|Patients upgraded from GG1 to GG2 or GG3 after RP had a longer time to biochemical recurrence than those with GG2 or GG3 respectively, on both biopsy and RP, but a shorter time to biochemical recurrence than those who remained GG1 after RP (P < .0001).
+28522288_ab6	144	150	biopsy	diagnosis
+
+28522288_ab7|t|
+28522288_ab7|a|In multivariate analyses, variables predicting upgrading for GG1 PCa were age (P = .0014), abnormal digital rectal examination (P < .0001), prostate -specific antigen density (P < .0001), percentage of positive cores (P < .0001), and body mass index (P = .037).
+28522288_ab7	92	127	abnormal digital rectal examination	diagnosis
+
+28522288_ab9|t|
+28522288_ab9|a|Biopsy grading system is misleading in approximately 50% of cases.
+28522288_ab9	1	7	Biopsy	diagnosis
+
+28522288_ab10|t|
+28522288_ab10|a|Upgrading GG from biopsy to RP may have consequences on clinical outcomes.
+28522288_ab10	19	25	biopsy	diagnosis
+
+28523425_ti1|t|
+28523425_ti1|a|Characterization of electrocorticogram high - gamma signal in response to varying upper extremity movement velocity
+28523425_ti1	21	39	electrocorticogram	diagnosis
+
+28523425_ab2|t|
+28523425_ab2|a|For example, human electrocorticogram (ECoG) signals have been shown to modulate with upper extremity movement s; however, this relationship has not been explicitly characterized.
+28523425_ab2	20	38	electrocorticogram	diagnosis
+28523425_ab2	40	44	ECoG	diagnosis
+
+28523425_ab3|t|
+28523425_ab3|a|To address this issue, we recorded high - density ECoG signals from patients undergoing epilepsy surgery evaluation as they performed elementary upper extremity movements while systematically varying movement speed and duration.
+28523425_ab3	51	55	ECoG	diagnosis
+
+28526360_ab3|t|
+28526360_ab3|a|FLASHE surveys were developed from a process involving literature reviews, scientific input from experts in the field, cognitive testing, and usability testing.
+28526360_ab3	120	137	cognitive testing	diagnosis
+
+28540429_ab11|t|
+28540429_ab11|a|Adipophilin immunohistochemistry was highly dependent on the preanalytical time interval (PATI) from removal of the tissue to formalin fixation.
+28540429_ab11	13	33	immunohistochemistry	diagnosis
+
+28545365_ti1|t|
+28545365_ti1|a|Role of infrared spectroscopy and imaging in cancer diagnosis
+28545365_ti1	35	42	imaging	diagnosis
+
+28545365_ab1|t|
+28545365_ab1|a|FTIR imaging has been used to diagnose and differentiate the molecular differences between normal and diseased tissues.
+28545365_ab1	6	13	imaging	diagnosis
+
+28545365_ab5|t|
+28545365_ab5|a|Here, we emphasize that FTIR spectroscopy and imaging can be considered as a promising technique and will find its place on the detection of this dreadful disease because of high sensitivity, accuracy and inexpensive technique.
+28545365_ab5	47	54	imaging	diagnosis
+
+28545365_ab8|t|
+28545365_ab8|a|In general, more research is needed in this field and it is necessary to understand the morphology and biology of the sample before using the spectroscopy and imaging because invaluable information to be figured out.
+28545365_ab8	160	167	imaging	diagnosis
+
+

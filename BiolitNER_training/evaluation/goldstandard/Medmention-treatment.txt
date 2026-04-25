@@ -1,0 +1,3267 @@
+27172917_ab5|t|
+27172917_ab5|a|In overall, 427 patients with 449 AUS / FLUS nodules who had undergone surgery, the rate of malignancy was 23.4 % (105/449).
+27172917_ab5	72	79	surgery	treatment
+
+27172917_ab13|t|
+27172917_ab13|a|In Bethesda Category III nodules with higher AP/T ratio and microcalcification, surgery might be considered as a first therapeutic option instead of repeat fine-needle aspiration biopsy or observation.
+27172917_ab13	81	88	surgery	treatment
+
+27234220_ti1|t|
+27234220_ti1|a|Safety of transradial diagnostic cardiac catheterization in patients under oral anticoagulant therapy
+27234220_ti1	81	102	anticoagulant therapy	treatment
+
+27234220_ab1|t|
+27234220_ab1|a|Cardiac catheterization in anticoagulated patients is usually performed after the anticoagulation has been withdrawn, at least in the previous 48h, and sometimes bridging therapy with heparin is used.
+27234220_ab1	83	98	anticoagulation	treatment
+27234220_ab1	163	192	bridging therapy with heparin	treatment
+
+27234220_ab5|t|
+27234220_ab5|a|68±17 years, p<0.01) and the main indication for anticoagulation was atrial fibrillation (58.6%).
+27234220_ab5	50	65	anticoagulation	treatment
+
+27235789_ti1|t|
+27235789_ti1|a|Elective Nephron Sparing Surgery Decreases Other Cause Mortality Relative to Radical Nephrectomy Only in Specific Subgroups of Patients with Renal Cell Carcinoma
+27235789_ti1	10	33	Nephron Sparing Surgery	treatment
+27235789_ti1	78	97	Radical Nephrectomy	treatment
+
+27235789_ab1|t|
+27235789_ab1|a|There is no consensus regarding a protective effect on mortality due to a cause other than cancer in patients treated with elective nephron sparing surgery relative to their radical nephrectomy counterparts.
+27235789_ab1	133	156	nephron sparing surgery	treatment
+27235789_ab1	175	194	radical nephrectomy	treatment
+
+27235789_ab2|t|
+27235789_ab2|a|We test whether the protective effect of nephron sparing surgery relative to radical nephrectomy is universal or present in specific subgroups of patients.
+27235789_ab2	42	65	nephron sparing surgery	treatment
+27235789_ab2	78	97	radical nephrectomy	treatment
+
+27235789_ab3|t|
+27235789_ab3|a|A collaborative database of 5 institutions was queried to evaluate 1,783 patients without chronic kidney disease diagnosed with a clinical T1 renal mass that was treated with nephron sparing surgery or radical nephrectomy.
+27235789_ab3	176	199	nephron sparing surgery	treatment
+27235789_ab3	203	222	radical nephrectomy	treatment
+
+27235789_ab4|t|
+27235789_ab4|a|Multivariable Cox regression analysis was done to assess the impact of surgery type (nephron sparing surgery vs radical nephrectomy) on other cause mortality after adjustment for patient and cancer characteristics.
+27235789_ab4	72	79	surgery	treatment
+27235789_ab4	86	109	nephron sparing surgery	treatment
+27235789_ab4	113	132	radical nephrectomy	treatment
+
+27235789_ab5|t|
+27235789_ab5|a|Interaction terms were used to test the hypothesis that the impact of surgery type varies according to specific subcohorts of patients.
+27235789_ab5	71	78	surgery	treatment
+
+27235789_ab6|t|
+27235789_ab6|a|Ten-year other cause mortality -free survival rates were 90% and 88% after nephron sparing surgery and radical nephrectomy, respectively.
+27235789_ab6	76	99	nephron sparing surgery	treatment
+27235789_ab6	104	123	radical nephrectomy	treatment
+
+27235789_ab7|t|
+27235789_ab7|a|In the overall population radical nephrectomy was not associated with an increased risk of other cause mortality on multivariable analysis compared to nephron sparing surgery (HR 0.91, 95% CI 0.6-1.38, p = 0.6).
+27235789_ab7	27	46	radical nephrectomy	treatment
+27235789_ab7	152	175	nephron sparing surgery	treatment
+
+27235789_ab8|t|
+27235789_ab8|a|However, radical nephrectomy increased the risk of other cause mortality according to the increasing baseline Charlson comorbidity index (interaction test p = 0.0008).
+27235789_ab8	10	29	radical nephrectomy	treatment
+
+27235789_ab9|t|
+27235789_ab9|a|For example, in a patient with a Charlson comorbidity index of 4 the probability of 10-year other cause mortality -free survival was 86% after nephron sparing surgery and 60% after radical nephrectomy.
+27235789_ab9	144	167	nephron sparing surgery	treatment
+27235789_ab9	182	201	radical nephrectomy	treatment
+
+27235789_ab10|t|
+27235789_ab10|a|Elective nephron sparing surgery does not improve other cause survival relative to radical nephrectomy consistently in all patients with kidney cancer.
+27235789_ab10	10	33	nephron sparing surgery	treatment
+27235789_ab10	84	103	radical nephrectomy	treatment
+
+27235789_ab11|t|
+27235789_ab11|a|Patients who are more ill with relevant comorbidities are those who benefit the most from nephron sparing surgery in terms of other cause mortality.
+27235789_ab11	91	114	nephron sparing surgery	treatment
+
+27251800_ti1|t|
+27251800_ti1|a|Early assessment of bilateral inguinal hernia repair: A comparison between the laparoscopic total extraperitoneal and Stoppa approaches
+27251800_ti1	21	53	bilateral inguinal hernia repair	treatment
+27251800_ti1	80	114	laparoscopic total extraperitoneal	treatment
+27251800_ti1	119	136	Stoppa approaches	treatment
+
+27251800_ab1|t|
+27251800_ab1|a|The present clinical trial was designed to compare the results of bilateral inguinal hernia repair between patients who underwent the conventional Stoppa technique and laparoscopic total extraperitoneal repair (LTE) with a single mesh and without staple fixation.
+27251800_ab1	67	99	bilateral inguinal hernia repair	treatment
+27251800_ab1	148	164	Stoppa technique	treatment
+27251800_ab1	169	210	laparoscopic total extraperitoneal repair	treatment
+
+27251800_ab5|t|
+27251800_ab5|a|LTE procedure was longer than the Stoppa procedure (134.6 min ΁ 38.3 vs.
+27251800_ab5	35	51	Stoppa procedure	treatment
+
+27251800_ab7|t|
+27251800_ab7|a|The levels of CRP were higher in the Stoppa group (P < 0.05) but the number of leucocytes, haematocrit, and haemoglobin were similar between the groups (P > 0.05).
+27251800_ab7	38	44	Stoppa	treatment
+
+27251800_ab9|t|
+27251800_ab9|a|Complications occurred in 88% of Stoppa group (22 patients) and 64% in LTE group (16 patients) (P < 0.05).
+27251800_ab9	34	40	Stoppa	treatment
+
+27251800_ab10|t|
+27251800_ab10|a|The comparative study between the Stoppa and LTE approaches for the bilateral inguinal hernia repair demonstrated that: (1) The LTE approach showed less surgical trauma despite the longer operation time; (2) Quality of life during the early post-operative period were similar; and (3) Complication rates were higher in the Stoppa group.
+27251800_ab10	35	41	Stoppa	treatment
+27251800_ab10	69	101	bilateral inguinal hernia repair	treatment
+27251800_ab10	324	330	Stoppa	treatment
+
+27260627_ab2|t|
+27260627_ab2|a|In the present study, we investigated the sexual functioning of BC patients and its association with women's personal characteristics and cancer treatments.
+27260627_ab2	139	156	cancer treatments	treatment
+
+27261587_ab4|t|
+27261587_ab4|a|In the present study, white male rats (N=48) were divided into six groups (8 rats each), the first two groups served as normal control and a control vehicle group while the remaining four groups were rendered diabetic by a single intraperitoneal injection of Streptozotocin (STZ) and being left for 4 weeks to develop DN.
+27261587_ab4	231	256	intraperitoneal injection	treatment
+
+27261587_ab7|t|
+27261587_ab7|a|The combination therapy showed significant decrease in BUN, S.Cr, LDL, TGF-β1, IL-1β, Proteinuria and AGEPs and significant increase in SOD and NO.
+27261587_ab7	5	24	combination therapy	treatment
+
+27261587_ab8|t|
+27261587_ab8|a|The findings showed that combination therapy was able to ameliorate DN and that the effects were superior to the single drugs alone.
+27261587_ab8	26	45	combination therapy	treatment
+
+27273231_ab1|t|
+27273231_ab1|a|The development of vessel-sealing devices will facilitate safety in video-assisted thoracoscopic surgery.
+27273231_ab1	69	105	video-assisted thoracoscopic surgery	treatment
+
+27273231_ab3|t|
+27273231_ab3|a|Pulmonary arteries from beagle dogs (mean body weight 13.1 kg, range 10.5-15.4 kg) were divided into 3 groups according to the in-vivo sealing method used (Enseal, ligation, and proximal ligation plus distal Enseal) and extracted to evaluate the pressure tolerance up to 75 mm Hg at the sealed end.
+27273231_ab3	165	173	ligation	treatment
+27273231_ab3	188	196	ligation	treatment
+
+27273231_ab4|t|
+27273231_ab4|a|A left lower lobectomy was performed to evaluate chronic-phase durability of the sealed stumps in a survival model.
+27273231_ab4	14	23	lobectomy	treatment
+
+27273231_ab9|t|
+27273231_ab9|a|A left lower lobectomy was performed in 13 dogs in which 35 pulmonary artery sections had been allocated into the 3 groups.
+27273231_ab9	14	23	lobectomy	treatment
+
+27273231_ab12|t|
+27273231_ab12|a|Pulmonary artery sealing with the Enseal device is feasible and safe in thoracic surgery settings.
+27273231_ab12	73	89	thoracic surgery	treatment
+
+27273307_ab1|t|
+27273307_ab1|a|Severe ovarian hyperstimulation syndrome (OHSS) is an iatrogenic condition that affects 1% of women that undergo treatment with assisted reproductive technology.
+27273307_ab1	129	161	assisted reproductive technology	treatment
+
+27282845_ti1|t|
+27282845_ti1|a|Assessment of Residual Disease With Molecular Breast Imaging in Patients Undergoing Neoadjuvant Therapy: Association With Molecular Subtypes
+27282845_ti1	85	104	Neoadjuvant Therapy	treatment
+
+27282845_ab1|t|
+27282845_ab1|a|Assessment of residual disease after neoadjuvant therapy for breast cancer is an ongoing challenge of breast imaging.
+27282845_ab1	38	57	neoadjuvant therapy	treatment
+
+27282845_ab2|t|
+27282845_ab2|a|This study evaluates the accuracy of a novel dedicated system for molecular breast imaging (MBI) composed of the new generation of cadmium zinc telluride detectors in assessing residual disease after neoadjuvant therapy in patients with breast cancer.
+27282845_ab2	201	220	neoadjuvant therapy	treatment
+
+27282845_ab3|t|
+27282845_ab3|a|Clinical data, imaging, surgical, and pathological findings of 51 women with breast cancer undergoing neoadjuvant therapy were recorded.
+27282845_ab3	103	122	neoadjuvant therapy	treatment
+
+27282845_ab11|t|
+27282845_ab11|a|The accuracy of MBI in assessing residual disease after neoadjuvant treatment might be related to the molecular subtype.
+27282845_ab11	57	78	neoadjuvant treatment	treatment
+
+27286174_ab1|t|
+27286174_ab1|a|Median historical time to kidney transplant is misleading because it does not convey the competing risks of death or removal from the waiting list.
+27286174_ab1	27	44	kidney transplant	treatment
+
+27286174_ab2|t|
+27286174_ab2|a|We developed and validated a competing risk model to calculate likelihood of outcomes for kidney transplant candidates and demonstrate how this information differs from median time to transplant.
+27286174_ab2	91	108	kidney transplant	treatment
+27286174_ab2	185	195	transplant	treatment
+
+27286174_ab4|t|
+27286174_ab4|a|The retrospective cohort included 163 636 adults listed for kidney transplant before December 31, 2011.
+27286174_ab4	61	78	kidney transplant	treatment
+
+27286174_ab5|t|
+27286174_ab5|a|Predictors were age, sex, blood type, calculated panel-reactive antibodies, donation service area, dialysis duration, comorbid conditions, and body mass index.
+27286174_ab5	100	108	dialysis	treatment
+
+27286174_ab6|t|
+27286174_ab6|a|Outcomes were deceased or living donor transplant, death or removal from the list due to deteriorating medical condition, or removal due to other reasons.
+27286174_ab6	40	50	transplant	treatment
+
+27286174_ab14|t|
+27286174_ab14|a|It illustrates the conversations that should be initiated with transplant candidates.
+27286174_ab14	64	74	transplant	treatment
+
+27297523_ti1|t|
+27297523_ti1|a|A case of bilateral pneumothoraces resulting from tracheostomy for advanced laryngeal cancer
+27297523_ti1	51	63	tracheostomy	treatment
+
+27297523_ab1|t|
+27297523_ab1|a|Pneumothorax is a possible complication of tracheostomy.
+27297523_ab1	44	56	tracheostomy	treatment
+
+27297523_ab2|t|
+27297523_ab2|a|We report a rare case of bilateral pneumothoraces resulting from tracheostomy in an advanced laryngeal cancer patient.
+27297523_ab2	66	78	tracheostomy	treatment
+
+27297523_ab5|t|
+27297523_ab5|a|Three days after the first visit, the patient developed respiratory difficulty, and we elected to perform emergency tracheostomy for airway management.
+27297523_ab5	107	129	emergency tracheostomy	treatment
+
+27297523_ab7|t|
+27297523_ab7|a|We then recognized a mediastinal air leak, and we suspected pneumothorax resulting from the tracheostomy.
+27297523_ab7	93	105	tracheostomy	treatment
+
+27297523_ab9|t|
+27297523_ab9|a|We speculated that the pathogenesis of the bilateral pneumothoraces was weakened alveolar walls secondary to long-term smoking, and a significant rise in airway pressure because of airway constriction by the neck-extended position and hyperventilation, during tracheostomy.
+27297523_ab9	261	273	tracheostomy	treatment
+
+27306834_ab1|t|
+27306834_ab1|a|Despite of the potential implications for cancer immunotherapy, conventional approaches using in vitro expanded CD8(+) T cells have suboptimal outcomes, mostly due to loss of functionality from cellular exhaustion.
+27306834_ab1	43	63	cancer immunotherapy	treatment
+
+27306834_ab5|t|
+27306834_ab5|a|Of CD8(+) T cell pools activated to tumor - specific CTLs, naïve cell generated effectors possessed the most potent cytotoxic activity, validating implications for use in rational design of adoptive immunotherapy.
+27306834_ab5	191	213	adoptive immunotherapy	treatment
+
+27310615_ti1|t|
+27310615_ti1|a|Impact of Chemotherapy on Diet and Nutritional Status of Women with Breast Cancer: A Prospective Study
+27310615_ti1	11	23	Chemotherapy	treatment
+
+27310615_ab1|t|
+27310615_ab1|a|Certain food groups are often rejected during chemotherapy (CT) due to the side effects of treatment, which may interfere with adequate diet and nutritional status.
+27310615_ab1	47	59	chemotherapy	treatment
+
+27310615_ab10|t|
+27310615_ab10|a|Chemotherapy interferes in the patients ' diet generating a negative impact on the quality and intake of micro and macronutrients, as well as an impact on their nutritional status, with an increase in anthropometric measurements.
+27310615_ab10	1	13	Chemotherapy	treatment
+
+27311447_ti1|t|
+27311447_ti1|a|Benefit and risk in short term after total hip arthroplasty by direct anterior approach combined with dual mobility cup
+27311447_ti1	38	60	total hip arthroplasty	treatment
+
+27326810_ab2|t|
+27326810_ab2|a|HPS and POPH have major clinical implications for liver transplantation.
+27326810_ab2	51	72	liver transplantation	treatment
+
+27326810_ab10|t|
+27326810_ab10|a|Implications for liver transplantation; and V. Suggestions for future clinical research.
+27326810_ab10	18	39	liver transplantation	treatment
+
+27328333_ab3|t|
+27328333_ab3|a|It is important to identify children at risk for poor visual outcomes and who are refractory to traditional therapy.
+27328333_ab3	97	116	traditional therapy	treatment
+
+27334669_ti1|t|
+27334669_ti1|a|Self-assembled polymeric vectors mixtures: characterization of the polymorphism and existence of synergistic effects in photodynamic therapy
+27334669_ti1	121	141	photodynamic therapy	treatment
+
+27334669_ab1|t|
+27334669_ab1|a|The objective of this work was to assess the relation between the purity of polymeric self-assemblies vectors solution and their photodynamic therapeutic efficiency.
+27334669_ab1	130	154	photodynamic therapeutic	treatment
+
+27334669_ab7|t|
+27334669_ab7|a|Subsequently, the photodynamic therapy efficiency of various controlled mixtures was assessed using multicellular spheroids when a photosensitizer, pheophorbide a, was encapsulated in the polymer self-assemblies.
+27334669_ab7	19	39	photodynamic therapy	treatment
+
+27335087_ab1|t|
+27335087_ab1|a|Fuzheng Qingjie (FZQJ) granules, a compound Chinese medicine, have been used as an adjuvant therapy for alimentary tract cancers.
+27335087_ab1	84	100	adjuvant therapy	treatment
+
+27346839_ab1|t|
+27346839_ab1|a|Silicone voice prostheses are most frequently used in voice rehabilitation of laryngectomized patients.
+27346839_ab1	55	75	voice rehabilitation	treatment
+27346839_ab1	79	94	laryngectomized	treatment
+
+27349182_ab1|t|
+27349182_ab1|a|This study was designed with the goal of examining the effects of voglibose administration on body weight and lipid metabolism and underlying mechanism high fat diet -induced obese mice.
+27349182_ab1	153	166	high fat diet	treatment
+
+27354201_ab10|t|
+27354201_ab10|a|And the study of Mef2c promoter regulator elements helped to elucidating the regulation mechanisms of Mef2c in muscle differentiation or muscle repair and regeneration.
+27354201_ab10	138	151	muscle repair	treatment
+
+27366176_ab6|t|
+27366176_ab6|a|To our knowledge, this is the first report of necrotizing fasciitis resulting from Streptococcus pneumoniae diagnosed at early phase; the patient recovered well without surgical debridement.
+27366176_ab6	170	190	surgical debridement	treatment
+
+27366491_ti1|t|
+27366491_ti1|a|A Comparative Study of the Efficacy of IV Dexketoprofen, Lornoxicam, and Diclophenac Sodium on Postoperative Analgesia and Tramadol Consumption in Patients Receiving Patient-Controlled Tramadol
+27366491_ti1	96	119	Postoperative Analgesia	treatment
+
+27366491_ab1|t|
+27366491_ab1|a|This study was designed to compare the effects of dexketoprofen, lornoxicam, and diclophenac sodium on postoperative analgesia and tramadol consumption in patients receiving postoperative patient-controlled tramadol after a major abdominal surgery.
+27366491_ab1	104	127	postoperative analgesia	treatment
+27366491_ab1	231	248	abdominal surgery	treatment
+
+27366491_ab3|t|
+27366491_ab3|a|Patients in group dexketoprofen (DT) received IV 50 mg dexketoprofen, group lornoxicam (LR) received IV 8 mg lornoxicam, group diclophenac sodium (DS) received 75 mg IV diclophenac sodium and group saline (S) received 0.9% saline in 2 mL syringes, 20 min before the end of anaesthesia.
+27366491_ab3	274	285	anaesthesia	treatment
+
+27366491_ab4|t|
+27366491_ab4|a|A standardized (1 mg kg(-1)) dose of tramadol was routinely administered to all patients as the loading dose at the end of surgery.
+27366491_ab4	124	131	surgery	treatment
+
+27366491_ab5|t|
+27366491_ab5|a|Postoperatively, whenever patients requested, they were allowed to use a tramadol patient-controlled analgesia device giving a bolus dose (0.2 mg kg(-1)) of tramadol.
+27366491_ab5	128	138	bolus dose	treatment
+
+27366491_ab10|t|
+27366491_ab10|a|After major abdominal surgery, adding IV diclophenac, lornoxicam or dexketoprofen to patient-controlled tramadol resulted in lower pain scores, smaller tramadol consumption, less rescue supplemental analgesic requirement, and fewer side effects compared with the tramadol alone group.
+27366491_ab10	13	30	abdominal surgery	treatment
+
+27366556_ti1|t|
+27366556_ti1|a|Perioperative Management of Severe Hypertension during Laparoscopic Surgery for Pheochromocytoma
+27366556_ti1	56	76	Laparoscopic Surgery	treatment
+
+27366556_ab3|t|
+27366556_ab3|a|Each stage of anaesthesia management has vital importance because of this destructive catecholamine secretion that may occur during induction, perioperative stage and surgical manipulation.
+27366556_ab3	15	37	anaesthesia management	treatment
+27366556_ab3	168	189	surgical manipulation	treatment
+
+27366556_ab4|t|
+27366556_ab4|a|In this study, we report regarding the preoperative preparation and severe, persistent hypertension attack management with a combination of α-adrenergic blockade, β-adrenergic blockade, sodium nitroprusside and remifentanil in a patient who underwent laparoscopic surgery for phaeochromocytoma.
+27366556_ab4	252	272	laparoscopic surgery	treatment
+
+27373772_ab6|t|
+27373772_ab6|a|In addition, Isx-9 treatment was able to completely reverse the marked reduction in these initial stages of the neurogenic process observed in vehicle - treated animals (which were submitted to repeated handling and exposure to daily intraperitoneal injections).
+27373772_ab6	235	261	intraperitoneal injections	treatment
+
+27378175_ti1|t|
+27378175_ti1|a|Optimizing Survival of Patients With Marginally Operable Stage IIIA Non-Small-Cell Lung Cancer Receiving Chemoradiotherapy With or Without Surgery
+27378175_ti1	106	123	Chemoradiotherapy	treatment
+
+27378175_ab1|t|
+27378175_ab1|a|For marginally operable stage IIIA non-small-cell lung cancer (NSCLC), surgery might not be done as planned after neoadjuvant concurrent chemoradiotherapy (CCRT) for reasons (unresectable or medically inoperable conditions, or patient refusal).
+27378175_ab1	115	126	neoadjuvant	treatment
+27378175_ab1	127	155	concurrent chemoradiotherapy	treatment
+27378175_ab1	157	161	CCRT	treatment
+
+27378175_ab2|t|
+27378175_ab2|a|This study aims to investigate the outcomes of a phased CCRT protocol established to maximize the operability of marginally operable stage IIIA NSCLC and to care for reassessed inoperable patients, in comparison with continuous-course definitive CCRT.
+27378175_ab2	50	70	phased CCRT protocol	treatment
+27378175_ab2	218	251	continuous-course definitive CCRT	treatment
+
+27378175_ab3|t|
+27378175_ab3|a|Forty-seven patients with marginally operable stage IIIA NSCLC receiving CCRT were included.
+27378175_ab3	74	78	CCRT	treatment
+
+27378175_ab4|t|
+27378175_ab4|a|Twenty-eight patients were treated with our phased CCRT protocol, including neoadjuvant CCRT followed by surgery (group A, n = 16) or, for reassessed inoperable patients, maintenance chemotherapy and split-course CCRT boost (group B, n = 12).
+27378175_ab4	45	65	phased CCRT protocol	treatment
+27378175_ab4	77	88	neoadjuvant	treatment
+27378175_ab4	89	93	CCRT	treatment
+27378175_ab4	201	218	split-course CCRT	treatment
+
+27378175_ab5|t|
+27378175_ab5|a|The other 19 were treated with continuous-course definitive CCRT (group C).
+27378175_ab5	32	65	continuous-course definitive CCRT	treatment
+
+27378175_ab10|t|
+27378175_ab10|a|The OS of group B (HR, 0.450; 95% confidence interval, 0.118-1.717; P = .243) was not statistically different from that of group C. For marginally operable stage IIIA NSCLC, our phased CCRT strategy may optimize survival by maximizing operability and maintain an acceptable survival for reassessed inoperable patients by split-course CCRT boost following maintenance chemotherapy.
+27378175_ab10	179	199	phased CCRT strategy	treatment
+27378175_ab10	322	339	split-course CCRT	treatment
+
+27383174_ab1|t|
+27383174_ab1|a|The first 10 min of electrically provoked ventricular fibrillation in dogs with ischemic heart disease were characterized by organized myocardial activity evidenced by the dominant ECG frequency structure.
+27383174_ab1	21	42	electrically provoked	treatment
+
+27384676_ab4|t|
+27384676_ab4|a|The interim analysis included data only from March 2011 to September 2013, who received six cycles of DDGP chemotherapy.
+27384676_ab4	108	120	chemotherapy	treatment
+
+27388630_ti1|t|
+27388630_ti1|a|Effect of Hepatitis C Virus Coinfection on the Content of CD4(+) and CD8(+) T Cell Subpopulations in HIV - Infected Patients Receiving Antiretroviral Therapy
+27388630_ti1	136	158	Antiretroviral Therapy	treatment
+
+27388630_ab1|t|
+27388630_ab1|a|We studied the effect of hepatitis C virus coinfection on T cell subpopulations in HIV - infected patients receiving antiretroviral therapy.
+27388630_ab1	118	140	antiretroviral therapy	treatment
+
+27400734_ab4|t|
+27400734_ab4|a|To be included in the study population, patients were required to have had a histological or cytological diagnosis within one year before chemotherapy.
+27400734_ab4	139	151	chemotherapy	treatment
+
+27400734_ab5|t|
+27400734_ab5|a|Patients treated with prior radiotherapy, surgery, or chemotherapy were excluded to reduce heterogeneity.
+27400734_ab5	29	41	radiotherapy	treatment
+27400734_ab5	55	67	chemotherapy	treatment
+
+27435835_ti1|t|
+27435835_ti1|a|An HIV - tailored quit - smoking counselling pilot intervention targeting depressive symptoms plus Nicotine Replacement Therapy
+27435835_ti1	100	128	Nicotine Replacement Therapy	treatment
+
+27435835_ab4|t|
+27435835_ab4|a|The current pilot study examined the effectiveness of a specifically tailored 5- session smoking cessation counselling programme for PHAs, which addressed depression, in combination with Nicotine Replacement Therapy (NRT) in a cohort of PHA smokers (n = 50).
+27435835_ab4	188	216	Nicotine Replacement Therapy	treatment
+27435835_ab4	218	221	NRT	treatment
+
+27442214_ti1|t|
+27442214_ti1|a|Secondary Ossification Center Appearance and Closure in the Pelvis and Proximal Femur
+27442214_ti1	46	67	Closure in the Pelvis	treatment
+
+27442214_ab3|t|
+27442214_ab3|a|This study evaluates the chronology and sex differences for appearance and closure of pelvic and proximal femoral secondary ossification centers using computed tomography (CT).
+27442214_ab3	76	93	closure of pelvic	treatment
+
+27442214_ab14|t|
+27442214_ab14|a|The appearance and closure of the pelvis and proximal femur secondary ossification centers follow a predictable pattern of development, occurring slightly earlier in females than males.
+27442214_ab14	20	41	closure of the pelvis	treatment
+
+27442216_ab11|t|
+27442216_ab11|a|Injury prevention should focus on improved safety mechanisms, protective gear, safe areas for off-road vehicle use and strict laws with minimum age requirements LEVEL OF EVIDENCE:: Level IV.
+27442216_ab11	1	18	Injury prevention	treatment
+
+27443131_ab5|t|
+27443131_ab5|a|Indications for hospitalization included pain control, antibiotic infusion, and need for neurovascular monitoring.
+27443131_ab5	42	54	pain control	treatment
+27443131_ab5	56	75	antibiotic infusion	treatment
+
+27443131_ab12|t|
+27443131_ab12|a|In three of the cases, the surgeon was contacted to discuss pain medication, and one patient woke up agitated from anesthesia, necessitating a visit from the surgeon on the pediatrics floor.
+27443131_ab12	116	126	anesthesia	treatment
+
+27449818_ab2|t|
+27449818_ab2|a|In order to avoid such adverse metabolic effects of oral treatment, estradiol (E2) prodrugs (EP) were designed which bypass the liver tissue as inactive molecules.
+27449818_ab2	53	67	oral treatment	treatment
+
+27449818_ab5|t|
+27449818_ab5|a|Ovariectomized (OVX, day minus 14) rats were orally treated once daily from day 1-3.
+27449818_ab5	46	60	orally treated	treatment
+
+27449818_ab12|t|
+27449818_ab12|a|Preliminary pharmacokinetic studies with EC508 used intravenous and oral administration in male rats.
+27449818_ab12	69	88	oral administration	treatment
+
+27449818_ab17|t|
+27449818_ab17|a|This mechanism avoids the hepatic estrogenic impact of conventional oral estrogen therapy.
+27449818_ab17	74	90	estrogen therapy	treatment
+
+27450789_ti1|t|
+27450789_ti1|a|Differences in pain experience and cooperation between consecutive surgeries in patients undergoing phacoemulsification
+27450789_ti1	56	77	consecutive surgeries	treatment
+27450789_ti1	101	120	phacoemulsification	treatment
+
+27450789_ab1|t|
+27450789_ab1|a|The purpose of this study is to compare pain experience and cooperation between consecutive surgeries in patients undergoing phacoemulsification in both eyes, using sub-Tenon's local anesthesia without sedation.
+27450789_ab1	81	102	consecutive surgeries	treatment
+27450789_ab1	126	145	phacoemulsification	treatment
+27450789_ab1	166	194	sub-Tenon's local anesthesia	treatment
+
+27450789_ab3|t|
+27450789_ab3|a|All operations were performed without sedation, using a clear corneal phacoemulsification technique and sub-Tenon's local anesthesia, by one of four surgeons.
+27450789_ab3	71	100	phacoemulsification technique	treatment
+27450789_ab3	105	133	sub-Tenon's local anesthesia	treatment
+
+27450789_ab4|t|
+27450789_ab4|a|The first surgery was performed on the eye with the higher grade cataract.
+27450789_ab4	11	18	surgery	treatment
+
+27450789_ab6|t|
+27450789_ab6|a|All patients were asked to grade their pain experience during induction and maintenance of anesthesia and also during the phacoemulsification surgery, using a visual analogue scale (VAS) from 0 (no pain) to 10 (unbearable pain) administered after the surgery.
+27450789_ab6	92	102	anesthesia	treatment
+27450789_ab6	123	150	phacoemulsification surgery	treatment
+27450789_ab6	252	259	surgery	treatment
+
+27450789_ab9|t|
+27450789_ab9|a|The mean pain score was 2.11 ± 0.79 in the first eye and 3.33 ± 0.80 in the second eye during the administration of sub-Tenon's anesthesia, and 1.50 ± 0.60 in the first eye and 2.10 ± 0.57 in the second eye during the phacoemulsification surgery.
+27450789_ab9	117	139	sub-Tenon's anesthesia	treatment
+27450789_ab9	219	246	phacoemulsification surgery	treatment
+
+27450789_ab10|t|
+27450789_ab10|a|The patient cooperation score was 1.60 ± 0.75 in the first surgery and 2.08 ± 0.72 in the second surgery.
+27450789_ab10	60	67	surgery	treatment
+27450789_ab10	98	105	surgery	treatment
+
+27450789_ab11|t|
+27450789_ab11|a|The differences between the first and second surgeries were statistically significant for all outcome measures (p < 0.01).
+27450789_ab11	46	55	surgeries	treatment
+
+27450789_ab12|t|
+27450789_ab12|a|Patients who previously underwent phaco surgery in one eye experienced more pain and showed worse cooperation during the phaco surgery in the second eye, especially if there was a short time between the surgeries, viz., less than 3 months.
+27450789_ab12	35	48	phaco surgery	treatment
+27450789_ab12	122	135	phaco surgery	treatment
+27450789_ab12	204	213	surgeries	treatment
+
+27450789_ab13|t|
+27450789_ab13|a|Therefore, if the surgeon has difficulty in the first operation gaining the patient's cooperation, the surgeon must be careful: if contralateral eye surgery is required, the addition of sedation / analgesia should be considered or the surgery postponed for a while to abolish the influence of recent memory on the patient's subsequent pain experience.
+27450789_ab13	132	157	contralateral eye surgery	treatment
+27450789_ab13	198	207	analgesia	treatment
+27450789_ab13	236	243	surgery	treatment
+
+27456018_ti1|t|
+27456018_ti1|a|Hand-Assisted Laparoscopic Versus Standard Laparoscopic Colectomy: Are Outcomes and Operative Time Different?
+27456018_ti1	1	27	Hand-Assisted Laparoscopic	treatment
+27456018_ti1	35	66	Standard Laparoscopic Colectomy	treatment
+
+27456018_ab1|t|
+27456018_ab1|a|HAL colectomy is a technique perceived to provide the benefits of laparoscopic surgery while improving tactile feedback and operative time.
+27456018_ab1	5	14	colectomy	treatment
+27456018_ab1	67	87	laparoscopic surgery	treatment
+
+27456018_ab3|t|
+27456018_ab3|a|The 2012-2013 National Surgical Quality Improvement Program Participant Data Use File was queried for patients undergoing elective SL or HAL colectomy.
+27456018_ab3	142	151	colectomy	treatment
+
+27456018_ab6|t|
+27456018_ab6|a|13,949 patients were identified, of whom 6084 (43.6 %) underwent HAL colectomy.
+27456018_ab6	70	79	colectomy	treatment
+
+27456018_ab7|t|
+27456018_ab7|a|Patients undergoing HAL versus SL colectomy had higher rates of postoperative ileus (8.7 vs.
+27456018_ab7	32	44	SL colectomy	treatment
+
+27456018_ab12|t|
+27456018_ab12|a|Amongst segmental colectomies, HAL remained associated with higher rates of wound complications (8.6 vs.
+27456018_ab12	19	30	colectomies	treatment
+
+27456018_ab17|t|
+27456018_ab17|a|Use of HAL colectomy is associated with increased risk of wound complications, postoperative ileus, and readmissions.
+27456018_ab17	12	21	colectomy	treatment
+
+27458601_ab7|t|
+27458601_ab7|a|Three of them had been treated with plasma exchange with a favorable response.
+27458601_ab7	37	52	plasma exchange	treatment
+
+27459610_ab7|t|
+27459610_ab7|a|Thirty-five patients with T-ALL underwent autologous bone marrow transplantation (BMT).
+27459610_ab7	43	81	autologous bone marrow transplantation	treatment
+27459610_ab7	83	86	BMT	treatment
+
+27459610_ab8|t|
+27459610_ab8|a|Allogeneic BMT was performed in 18 (7%) of the 258 patients who had undergone an induction phase.
+27459610_ab8	1	15	Allogeneic BMT	treatment
+
+27459610_ab11|t|
+27459610_ab11|a|A lower chemotherapeutic load and a small number of allogeneic BMTs did not affect total positive treatment results in adult patients with ALL, by complying with the principle achieving the continuity of cytostatic effects and by preserving the total cytostatic loading dose.
+27459610_ab11	53	68	allogeneic BMTs	treatment
+
+27459610_ab12|t|
+27459610_ab12|a|The results of the Russian investigation casts some doubt on the necessity of using very intensive consolidation cycles and performing a large number of allogeneic BMTs in adult patients with ALL.
+27459610_ab12	154	169	allogeneic BMTs	treatment
+
+27460285_ti1|t|
+27460285_ti1|a|Multidetector CT of expected findings and complications after contemporary inguinal hernia repair surgery
+27460285_ti1	76	98	inguinal hernia repair	treatment
+27460285_ti1	99	106	surgery	treatment
+
+27460285_ab1|t|
+27460285_ab1|a|Inguinal hernia repair (IHR) with prosthetic mesh implantation is the most common procedure in general surgery, and may be performed using either an open or laparoscopic approach.
+27460285_ab1	1	23	Inguinal hernia repair	treatment
+27460285_ab1	51	63	implantation	treatment
+27460285_ab1	96	111	general surgery	treatment
+
+27464853_ab6|t|
+27464853_ab6|a|This concentration -dependent dual effect of [K [Formula: see text]]o was observed using in vivo and in vitro mouse brain preparations as well as in human neocortical tissue resected during epilepsy surgery.
+27464853_ab6	200	207	surgery	treatment
+
+27467655_ti1|t|
+27467655_ti1|a|BJN Awards 2016: IV therapy
+27467655_ti1	18	28	IV therapy	treatment
+
+27467655_ab1|t|
+27467655_ab1|a|Claire Rickard Professor of Nursing, National Health and Medical Research Council (NHMRC) Centre of Research Excellence in Nursing, Griffith University, was awarded second place in the BJN Awards 2016 for IV Therapy Nurse of the Year.
+27467655_ab1	206	216	IV Therapy	treatment
+
+27470609_ab4|t|
+27470609_ab4|a|To determine the relative risk of AD among RA patients and non- RA patients, and whether anti-TNF therapy for RA was associated with a lower risk of AD in RA patients.
+27470609_ab4	90	106	anti-TNF therapy	treatment
+
+27470609_ab6|t|
+27470609_ab6|a|We derived a sub-cohort of subjects with a diagnosis of RA (controls), or RA and AD (cases), matching cases and controls based on age, sex, exposure assessment period, and methotrexate treatment.
+27470609_ab6	173	195	methotrexate treatment	treatment
+
+27470609_ab15|t|
+27470609_ab15|a|Anti-TNF therapy with etanercept shows promise as a potential treatment for AD.
+27470609_ab15	1	17	Anti-TNF therapy	treatment
+
+27473375_ti1|t|
+27473375_ti1|a|Intensive social cognitive treatment (can do treatment) with participation of support partners in persons with relapsing remitting multiple sclerosis: observation of improved self-efficacy, quality of life, anxiety and depression 1 year later
+27473375_ti1	18	37	cognitive treatment	treatment
+
+27473375_ab2|t|
+27473375_ab2|a|In a previous study we observed that 6 months after an intensive 3- day social cognitive treatment (Can Do treatment) with the participation of support partners, self-efficacy and HRQoL had improved in persons with relapsing remitting MS (RRMS).
+27473375_ab2	80	99	cognitive treatment	treatment
+
+27473375_ab10|t|
+27473375_ab10|a|The findings suggest that a 3- day intensive social cognitive treatment (Can Do treatment) with the participation of support partners may have long lasting beneficial effects on the self-efficacy and HRQoL in persons with RRMS; and that improvements in anxiety and depression, not seen in the 6- month study, may yet develop at 12 months.
+27473375_ab10	53	72	cognitive treatment	treatment
+
+27473380_ab2|t|
+27473380_ab2|a|The objective of this study was to describe the prevalence of perineal injuries of different severity in a low-risk population of women who planned to give birth at home and to compare the prevalence of perineal injuries, SPT and episiotomy in different birth positions in four Nordic countries.
+27473380_ab2	231	241	episiotomy	treatment
+
+27473380_ab7|t|
+27473380_ab7|a|The prevalence of SPT was 0.7 % and the prevalence of episiotomy was 1.0 %.
+27473380_ab7	55	65	episiotomy	treatment
+
+27473380_ab10|t|
+27473380_ab10|a|Flexible sacrum positions were associated with fewer episiotomies (OR 0.20; CI 95 % 0.10-0.54).
+27473380_ab10	54	66	episiotomies	treatment
+
+27473380_ab11|t|
+27473380_ab11|a|A low prevalence of SPT and episiotomy was found among women opting for a home birth in four Nordic countries.
+27473380_ab11	29	39	episiotomy	treatment
+
+27473380_ab14|t|
+27473380_ab14|a|Flexible sacrum positions were associated with fewer episiotomies.
+27473380_ab14	54	66	episiotomies	treatment
+
+27473951_ti1|t|
+27473951_ti1|a|Assessing sex-differences and the effect of timing of vaccination on immunogenicity, reactogenicity and efficacy of vaccines in young children: study protocol for an individual participant data meta-analysis of randomised controlled trials
+27473951_ti1	55	66	vaccination	treatment
+
+27473951_ab4|t|
+27473951_ab4|a|Factors other than sex, such as timing or coadministration of other vaccines, can also influence the immune response to vaccination.
+27473951_ab4	43	59	coadministration	treatment
+27473951_ab4	121	132	vaccination	treatment
+
+27473951_ab8|t|
+27473951_ab8|a|Data from trials of vaccines containing similar components will be combined in hierarchical models and the effect of sex and timing of vaccinations estimated for each outcome separately.
+27473951_ab8	136	148	vaccinations	treatment
+
+27480410_ab1|t|
+27480410_ab1|a|Compare the efficacy and safety of Plasma-Lyte A (PLA) versus 0.9 % sodium chloride (NaCl) intravenous (IV) fluid replacement in children with moderate to severe dehydration secondary to acute gastroenteritis (AGE).
+27480410_ab1	92	126	intravenous (IV) fluid replacement	treatment
+
+27481539_ti1|t|
+27481539_ti1|a|The relationships between symptoms and quality of life over the course of cognitive-behavioral therapy for panic disorder in Japan
+27481539_ti1	75	103	cognitive-behavioral therapy	treatment
+
+27481539_ab1|t|
+27481539_ab1|a|This study examined the relationships between changes in symptoms and changes in quality of life (QOL) during cognitive-behavioral therapy (CBT) for panic disorder (PD).
+27481539_ab1	111	139	cognitive-behavioral therapy	treatment
+
+27481714_ab11|t|
+27481714_ab11|a|In vivo perfusion of the cauda epididymal tubule shows a substantial rate of Ca(2+) reabsorption from the luminal side, which is dose-dependently suppressed by ruthenium red, a putative blocker of epithelial Ca(2+) channels and CaCC.
+27481714_ab11	9	18	perfusion	treatment
+
+27484604_ti1|t|
+27484604_ti1|a|Evaluation of Spontaneous Bone Regeneration after Enucleation of Large Cysts of the Jaws using Radiographic Computed Software
+27484604_ti1	51	62	Enucleation	treatment
+
+27484604_ab1|t|
+27484604_ab1|a|Spontaneous regeneration of bone is commonly seen in the small surgical defects caused by enucleation of cysts.
+27484604_ab1	91	102	enucleation	treatment
+
+27484604_ab2|t|
+27484604_ab2|a|However, in case of large surgical defects caused by the enucleation, spontaneous regeneration of bone is a rare phenomenon and it depends on factors, such as age of the patient, intact periosteum, and proper stabilization.
+27484604_ab2	58	69	enucleation	treatment
+
+27484604_ab5|t|
+27484604_ab5|a|Panoramic radiographs were taken pre- and postoperatively on day 2 of the enucleation.
+27484604_ab5	75	86	enucleation	treatment
+
+27484604_ab11|t|
+27484604_ab11|a|The present study depicted that spontaneous bone regeneration can occur with accepted results after simple enucleation of jaw cyst without the aid of any graft material.
+27484604_ab11	108	119	enucleation	treatment
+
+27484604_ab12|t|
+27484604_ab12|a|Hence, simple enucleation may be considered as a first line of treatment modality for cystic lesion of the jaws.
+27484604_ab12	15	26	enucleation	treatment
+27484604_ab12	50	73	first line of treatment	treatment
+
+27484604_ab13|t|
+27484604_ab13|a|This simplifies the surgical procedure, decreases the economic and biologic costs, and reduces the risk of postoperative complications.
+27484604_ab13	21	39	surgical procedure	treatment
+
+27487357_ti1|t|
+27487357_ti1|a|Medication Intervention for Chronic Kidney Disease Patients Transitioning from Hospital to Home: Study Design and Baseline Characteristics
+27487357_ti1	1	24	Medication Intervention	treatment
+
+27487357_ab2|t|
+27487357_ab2|a|The CKD - Medication Intervention Trial (CKD - MIT; www.clinicaltrials.gov; NCTO1459770) is a single-blind (investigators), randomized, clinical trial conducted at Providence Health Care in Spokane, Washington.
+27487357_ab2	11	40	Medication Intervention Trial	treatment
+
+27487357_ab3|t|
+27487357_ab3|a|Study participants are hospitalized patients with CKD stages 3-5 (not treated with kidney replacement therapy) and acute illness.
+27487357_ab3	84	110	kidney replacement therapy	treatment
+
+27488290_ab2|t|
+27488290_ab2|a|The aim of this study was to investigate the efficacy and safety of direct screw repair by using minimally invasive surgery for the lumbar pars interarticulars defects in a pilot study.
+27488290_ab2	98	124	minimally invasive surgery	treatment
+
+27488290_ab4|t|
+27488290_ab4|a|Reports concerning direct repair by minimally invasive techniques for pars interarticulars defects are quite rare.
+27488290_ab4	37	66	minimally invasive techniques	treatment
+
+27488290_ab6|t|
+27488290_ab6|a|Debridement and autograft of pars interarticularis defects was performed under microendoscopic procedure.
+27488290_ab6	1	12	Debridement	treatment
+27488290_ab6	17	26	autograft	treatment
+
+27488290_ab11|t|
+27488290_ab11|a|Autograft was used in all cases.
+27488290_ab11	1	10	Autograft	treatment
+
+27488290_ab16|t|
+27488290_ab16|a|One patient with bilateral fusion failure refused revision surgery because of mild complaint.
+27488290_ab16	51	67	revision surgery	treatment
+
+27488290_ab18|t|
+27488290_ab18|a|Minimally invasive direct repair of the pars interarticularis defects with intralaminar screws by using microendoscopic system and navigation procedure can provide safe and effective treatment of spondylolysis with satisfactory clinical and radiological outcomes, which need some special tools with steep learning curve.
+27488290_ab18	1	19	Minimally invasive	treatment
+
+27488293_ab2|t|
+27488293_ab2|a|To provide surgeons and other health care professionals with guidelines for surgical reconstruction of metastatic spine disease based on evidence and expert opinion.
+27488293_ab2	77	100	surgical reconstruction	treatment
+
+27488293_ab3|t|
+27488293_ab3|a|The surgical treatment of spinal metastases is controversial.
+27488293_ab3	5	23	surgical treatment	treatment
+
+27488293_ab4|t|
+27488293_ab4|a|Specifically two aspects of surgical reconstruction are addressed in this study: (i) choice of bone graft used during surgery for metastatic spine tumors and (ii) the design of reconstruction or construct to stabilize.
+27488293_ab4	29	52	surgical reconstruction	treatment
+27488293_ab4	96	106	bone graft	treatment
+27488293_ab4	119	126	surgery	treatment
+
+27488293_ab6|t|
+27488293_ab6|a|There is very little evidence in the literature to provide guidance on the use of bone graft in metastatic tumor reconstruction.
+27488293_ab6	83	93	bone graft	treatment
+
+27488293_ab8|t|
+27488293_ab8|a|Approximately, 41% of respondents said they used bone graft or bone graft substitutes to accomplish fusion.
+27488293_ab8	50	60	bone graft	treatment
+27488293_ab8	64	74	bone graft	treatment
+
+27488293_ab9|t|
+27488293_ab9|a|There were 17 studies that described the use of a prefabricated prosthetic, 10 studies describing the use of polymethyl methacrylate (PMMA) bone cement, and only three studies describing the use of bone graft for anterior column reconstruction.
+27488293_ab9	199	209	bone graft	treatment
+
+27488293_ab10|t|
+27488293_ab10|a|The use of structural allograft was most popular among the experts for anterior reconstruction, followed by cage reconstruction, and PMMA bone cement.
+27488293_ab10	12	32	structural allograft	treatment
+
+27488293_ab14|t|
+27488293_ab14|a|It also supports the use of an anterior construct reinforced with bilateral posterior instrumentation when performing a three-column reconstruction.
+27488293_ab14	121	148	three-column reconstruction	treatment
+
+27488602_ab3|t|
+27488602_ab3|a|We also performed a systematic review and meta-analysis estimating the cumulative effect of TEE findings on therapeutic management for secondary stroke prevention among different IS subgroups.
+27488602_ab3	136	163	secondary stroke prevention	treatment
+
+27488602_ab6|t|
+27488602_ab6|a|TEE findings changed management (initiation of anticoagulation therapy, administration of IV antibiotic therapy, and patent foramen ovale closure) in 10 (16% [95% CI: 9%-28%]) patients.
+27488602_ab6	48	71	anticoagulation therapy	treatment
+27488602_ab6	91	112	IV antibiotic therapy	treatment
+27488602_ab6	118	146	patent foramen ovale closure	treatment
+
+27488602_ab7|t|
+27488602_ab7|a|The pooled rate of reported anticoagulation therapy attributed to abnormal TEE findings among 3,562 acute IS patients included in the meta-analysis (12 studies) was 8.7% (95% CI: 7.3%-10.4%).
+27488602_ab7	29	52	anticoagulation therapy	treatment
+
+27488602_ab8|t|
+27488602_ab8|a|In subgroup analysis, the rates of initiation of anticoagulation therapy on the basis of TEE investigation did not differ (p = 0.315) among patients with cryptogenic stroke (6.9% [95% CI: 4.9%-9.6%]), ESUS (8.1% [95% CI: 3.4%-18.1%]), and IS (9.4% [95% CI: 7.5%-11.8%]).
+27488602_ab8	50	73	anticoagulation therapy	treatment
+
+27492869_ab10|t|
+27492869_ab10|a|This study highlights a clear need for public health educational programs for parents regarding prevention of unintentional injuries in children as a valuable tool to increase safety and injury prevention and to reduce risks, because the majority of such injuries occur at home.
+27492869_ab10	188	205	injury prevention	treatment
+
+27500205_ab9|t|
+27500205_ab9|a|In view of many correlations of kindlin expression levels and neoplasia and the known association of integrins with tumor progression and metastasis, we consider whether regulation of kindlins or their function would be attractive targets for treatment of cancer.
+27500205_ab9	244	263	treatment of cancer	treatment
+
+27503306_ab1|t|
+27503306_ab1|a|In the current guidelines for the treatment of patients with ST-segment elevation myocardial infarction (STEMI), the European Society of Cardiology (ESC) recommends preclinical fibrinolysis as a reperfusion therapy if, due to long transportation times, no cardiac catheterisation is available within 90-120 min.
+27503306_ab1	196	215	reperfusion therapy	treatment
+
+27503306_ab3|t|
+27503306_ab3|a|In a rural area in southwestern Germany, where an emergency primary percutaneous coronary intervention was not routinely available within 90-120 min, 156 STEMI patients underwent fibrinolysis with the plasminogen activator reteplase, performed by trained emergency physicians.
+27503306_ab3	51	103	emergency primary percutaneous coronary intervention	treatment
+
+27506220_ab9|t|
+27506220_ab9|a|Nearly all patients had at least one type of rehabilitation, 87.2% had physiotherapy, 78% used at least one mobility aid and 69.5% used at least one orthotic device.
+27506220_ab9	72	85	physiotherapy	treatment
+
+27506220_ab12|t|
+27506220_ab12|a|participants with GMFCS level IV and V had a high level of medical input and a greater use of trunk-supporting devices, antireflux and laxative.
+27506220_ab12	121	131	antireflux	treatment
+
+27510000_ti1|t|
+27510000_ti1|a|Effects of Application of Social Marketing Theory and the Health Belief Model in Promoting Cervical Cancer Screening among Targeted Women in Sisaket Province, Thailand
+27510000_ti1	92	117	Cervical Cancer Screening	treatment
+
+27510000_ab2|t|
+27510000_ab2|a|Thai women have been reported to have a low rate of cervical cancer screening (27.7% of the 80% goal of WHO).
+27510000_ab2	53	78	cervical cancer screening	treatment
+
+27510000_ab3|t|
+27510000_ab3|a|We therefore aimed to apply the social marketing theory and health belief model in promoting cervical cancer screening in Kanthararom District, Sisaket Province.
+27510000_ab3	94	119	cervical cancer screening	treatment
+
+27510000_ab5|t|
+27510000_ab5|a|The experimental group underwent application of social marketing theory and a health belief model program promoting cervical cancer screening while the control group received normal services.
+27510000_ab5	117	142	cervical cancer screening	treatment
+
+27510000_ab12|t|
+27510000_ab12|a|It can be recommended that this program featuring social marketing and the health belief model be used to promote cervical cancer screening in targeted women and it can be promoted as a guideline for other health services, especially in health promotion and disease prevention.
+27510000_ab12	115	140	cervical cancer screening	treatment
+
+27513357_ab1|t|
+27513357_ab1|a|Mesenchymal stromal cells are being investigated as a cell-based therapy for a number of disease processes, with promising results in animal models of systemic inflammation and sepsis.
+27513357_ab1	55	73	cell-based therapy	treatment
+
+27513357_ab8|t|
+27513357_ab8|a|Polymicrobial sepsis was induced by cecal ligation and puncture.
+27513357_ab8	43	51	ligation	treatment
+
+27515772_ti1|t|
+27515772_ti1|a|Laparoscopic radical lymph node dissection for advanced colon cancer close to the hepatic flexure
+27515772_ti1	14	43	radical lymph node dissection	treatment
+
+27515772_ab1|t|
+27515772_ab1|a|Complete mesocolic excision is currently recognized as a standard procedure for colon cancer.
+27515772_ab1	1	28	Complete mesocolic excision	treatment
+
+27515772_ab5|t|
+27515772_ab5|a|All patients with T2 or deeper invasive colon cancer in the relevant tumor location who underwent laparoscopic right hemicolectomy or extended right hemicolectomy at our institution between 1 April 2011 and 31 March 2015 were included.
+27515772_ab5	99	131	laparoscopic right hemicolectomy	treatment
+27515772_ab5	135	163	extended right hemicolectomy	treatment
+
+27515772_ab6|t|
+27515772_ab6|a|Lymph node dissection in the gastrocolic ligament was performed in 35 cases.
+27515772_ab6	1	22	Lymph node dissection	treatment
+
+27515772_ab11|t|
+27515772_ab11|a|Laparoscopy was feasible and useful during gastrocolic ligament resection.
+27515772_ab11	1	12	Laparoscopy	treatment
+27515772_ab11	44	74	gastrocolic ligament resection	treatment
+
+27516747_ti1|t|
+27516747_ti1|a|Smartphone -Based Psychotherapeutic Micro-Interventions to Improve Mood in a Real-World Setting
+27516747_ti1	19	36	Psychotherapeutic	treatment
+27516747_ti1	37	56	Micro-Interventions	treatment
+
+27516747_ab2|t|
+27516747_ab2|a|Knowledge about intervention components that target key psychopathological processes in terms of transdiagnostic psychotherapy approaches is urgently needed.
+27516747_ab2	114	127	psychotherapy	treatment
+
+27516747_ab3|t|
+27516747_ab3|a|We explored the use of smartphone -based micro-interventions based on psychotherapeutic techniques, guided by short video-clips, to elicit mood changes.
+27516747_ab3	42	61	micro-interventions	treatment
+
+27516747_ab4|t|
+27516747_ab4|a|As part of a larger neurofeedback study, all subjects -after being randomly assigned to an experimental or control neurofeedback condition -underwent daily smartphone -based micro-interventions for 13 consecutive days.
+27516747_ab4	175	194	micro-interventions	treatment
+
+27516747_ab11|t|
+27516747_ab11|a|Our findings provide evidence for the applicability of smartphone -based micro-interventions eliciting short-term mood changes, based on techniques used in psychotherapeutic approaches, such as mindfulness -based psychotherapy, transcendental meditation, and other contemplative therapies.
+27516747_ab11	74	93	micro-interventions	treatment
+27516747_ab11	157	174	psychotherapeutic	treatment
+27516747_ab11	214	227	psychotherapy	treatment
+
+27516747_ab13|t|
+27516747_ab13|a|Smartphone -based micro-interventions are promising to modify mood in real-world settings, complementing other psychotherapeutic interventions, in line with the precision medicine approach.
+27516747_ab13	19	38	micro-interventions	treatment
+27516747_ab13	112	143	psychotherapeutic interventions	treatment
+
+27518527_ab4|t|
+27518527_ab4|a|Despite medical treatment, the patient had persistent elevation of IGF-1.
+27518527_ab4	9	26	medical treatment	treatment
+
+27518527_ab6|t|
+27518527_ab6|a|After stereo-tactic radiation therapy in combination with chemotherapy, she is currently in remission from her lymphoma and has normalized IGF-1 levels without medical therapy, 8 months after her histopathological diagnosis.
+27518527_ab6	7	38	stereo-tactic radiation therapy	treatment
+27518527_ab6	59	71	chemotherapy	treatment
+27518527_ab6	161	176	medical therapy	treatment
+
+27525549_ab1|t|
+27525549_ab1|a|To assess the impact of undisclosed HIV infection and antiretroviral (ARV) therapy (ART) on national estimates of diagnosed HIV and ART coverage in Kenya.
+27525549_ab1	55	83	antiretroviral (ARV) therapy	treatment
+
+27533401_ab1|t|
+27533401_ab1|a|After many delays, the public consultation on HIV prevention tool PrEP (pre-exposure prophylaxis) is finally here.
+27533401_ab1	47	61	HIV prevention	treatment
+27533401_ab1	73	97	pre-exposure prophylaxis	treatment
+
+27534399_ab4|t|
+27534399_ab4|a|At 4 weeks and 8 weeks after implantation, animals were euthanized, respectively.
+27534399_ab4	30	42	implantation	treatment
+
+27536475_ti1|t|
+27536475_ti1|a|Breast Augmentation after Conservation Surgery and Radiation Therapy
+27536475_ti1	1	20	Breast Augmentation	treatment
+27536475_ti1	27	47	Conservation Surgery	treatment
+27536475_ti1	52	69	Radiation Therapy	treatment
+
+27536475_ab1|t|
+27536475_ab1|a|There is a paucity of data regarding outcomes for patients undergoing breast augmentation with implants after breast conservation surgery (BCS) and radiotherapy.
+27536475_ab1	71	90	breast augmentation	treatment
+27536475_ab1	111	138	breast conservation surgery	treatment
+27536475_ab1	149	161	radiotherapy	treatment
+
+27536475_ab2|t|
+27536475_ab2|a|This retrospective study examined outcomes for patients with breast implant -only augmentation after BCS and radiotherapy.
+27536475_ab2	110	122	radiotherapy	treatment
+
+27536475_ab3|t|
+27536475_ab3|a|Between June 1998 and December 2010, 671 women underwent prosthetic breast reconstruction.
+27536475_ab3	69	90	breast reconstruction	treatment
+
+27536475_ab4|t|
+27536475_ab4|a|Nineteen patients (2.8%) underwent an augmentation after BCS and radiotherapy.
+27536475_ab4	66	78	radiotherapy	treatment
+
+27536475_ab6|t|
+27536475_ab6|a|Sixteen of these patients underwent one-stage implant -only breast augmentation, whereas 3 patients underwent two-stage expander and then implant augmentation.
+27536475_ab6	37	54	one-stage implant	treatment
+27536475_ab6	61	80	breast augmentation	treatment
+27536475_ab6	111	129	two-stage expander	treatment
+27536475_ab6	139	159	implant augmentation	treatment
+
+27536475_ab7|t|
+27536475_ab7|a|All surgeries were successful.
+27536475_ab7	5	14	surgeries	treatment
+
+27536475_ab12|t|
+27536475_ab12|a|The breasts of selected patients with breast cancer after BCS and radiotherapy.
+27536475_ab12	67	79	radiotherapy	treatment
+
+27539945_ab14|t|
+27539945_ab14|a|The strategy may provide an efficient and alternative approach for stimuli-responsive gene therapy and drug release.
+27539945_ab14	68	99	stimuli-responsive gene therapy	treatment
+
+27540584_ti1|t|
+27540584_ti1|a|A novel mechanical simulator for cannulation and sphincterotomy after Billroth II or Roux-en-Y reconstruction
+27540584_ti1	34	45	cannulation	treatment
+27540584_ti1	50	64	sphincterotomy	treatment
+27540584_ti1	71	82	Billroth II	treatment
+27540584_ti1	86	110	Roux-en-Y reconstruction	treatment
+
+27540584_ab1|t|
+27540584_ab1|a|In patients with Billroth II (B II) or Roux-en-Y anatomy, endoscopic retrograde cholangiopancreatography (ERCP) is demanding.
+27540584_ab1	18	29	Billroth II	treatment
+27540584_ab1	31	35	B II	treatment
+27540584_ab1	40	49	Roux-en-Y	treatment
+
+27540584_ab2|t|
+27540584_ab2|a|Here, we describe a novel simulator with simulated fluoroscopy for cannulation and sphincterotomy training in such situations.
+27540584_ab2	68	79	cannulation	treatment
+27540584_ab2	84	98	sphincterotomy	treatment
+
+27540584_ab6|t|
+27540584_ab6|a|The ERCP B II / Roux-en-Y simulation system was first evaluated during an ERCP course.
+27540584_ab6	10	14	B II	treatment
+27540584_ab6	17	26	Roux-en-Y	treatment
+
+27540584_ab8|t|
+27540584_ab8|a|After sphincterotomy, the organic papillae could easily be exchanged within a few seconds.
+27540584_ab8	7	21	sphincterotomy	treatment
+
+27540584_ab9|t|
+27540584_ab9|a|Overall, the novel B II / Roux-en-Y simulator achieved favorable results by trainees and expert endoscopists in all categories assessed.
+27540584_ab9	20	24	B II	treatment
+27540584_ab9	27	36	Roux-en-Y	treatment
+
+27540584_ab10|t|
+27540584_ab10|a|The new B II / Roux-en-Y mechanical simulator is simple and practicable.
+27540584_ab10	9	13	B II	treatment
+27540584_ab10	16	25	Roux-en-Y	treatment
+
+27546367_ab1|t|
+27546367_ab1|a|Ischemia/reperfusion (I/R) injury is a complex event frequently observed in vascular surgery and can cause functional and structural cell damage.
+27546367_ab1	77	93	vascular surgery	treatment
+
+27546367_ab8|t|
+27546367_ab8|a|In the control group no drug injections or ischemia reperfusion were performed in animals.
+27546367_ab8	25	40	drug injections	treatment
+
+27549420_ab11|t|
+27549420_ab11|a|There is also a robust academic program, which includes once- weekly geriatric pharmacotherapy seminars, once- weekly interdisciplinary seminars, and 2- weekly journal club meetings alternating with seminars on geriatric assessment tools.
+27549420_ab11	80	95	pharmacotherapy	treatment
+
+27552906_ab12|t|
+27552906_ab12|a|Calculated depositions confirmed appropriate lung deposition of Symbicort(®) Turbuhaler(®) for both genders, however more effort for optimal inhalation technique is advised for persons with low vital capacity.
+27552906_ab12	134	162	optimal inhalation technique	treatment
+
+27553875_ab1|t|
+27553875_ab1|a|One of the serious threats facing the administration of antiretroviral therapy to human immunodeficiency virus (HIV-1) infected patients is the reported increasing prevalence of transmitted drug resistance.
+27553875_ab1	57	79	antiretroviral therapy	treatment
+
+27570140_ti1|t|
+27570140_ti1|a|Request and fulfillment of postpartum tubal ligation in patients after high-risk pregnancy
+27570140_ti1	39	53	tubal ligation	treatment
+
+27570140_ab1|t|
+27570140_ab1|a|Female sterilization is one of the most prevalent methods of contraception in the United States.
+27570140_ab1	1	21	Female sterilization	treatment
+27570140_ab1	62	75	contraception	treatment
+
+27570140_ab2|t|
+27570140_ab2|a|Prior studies have shown that nearly half of postpartum tubal ligation (PPTL) requests go unfulfilled.
+27570140_ab2	57	71	tubal ligation	treatment
+
+27570140_ab6|t|
+27570140_ab6|a|Documentation of contraceptive plan and administration of contraceptive methods was abstracted from patient records.
+27570140_ab6	59	80	contraceptive methods	treatment
+
+27572277_ti1|t|
+27572277_ti1|a|Gut microbiota after Roux-en-Y gastric bypass and sleeve gastrectomy in a diabetic rat model: Increased diversity and associations of discriminant genera with metabolic changes
+27572277_ti1	22	46	Roux-en-Y gastric bypass	treatment
+27572277_ti1	51	69	sleeve gastrectomy	treatment
+
+27572277_ab1|t|
+27572277_ab1|a|Recent work with gut microbiota after bariatric surgery is limited, and the results have not been in agreement.
+27572277_ab1	39	56	bariatric surgery	treatment
+
+27572277_ab2|t|
+27572277_ab2|a|Given the role of the gut microbiota in regulating host metabolism, we explored the effect of Roux-en-Y gastric bypass (RYGB) and sleeve gastrectomy (SG) on the modifications of gut microbiota with regard to the potential influence of food intake and/or weight loss and examined their links with host metabolism.
+27572277_ab2	95	119	Roux-en-Y gastric bypass	treatment
+27572277_ab2	131	149	sleeve gastrectomy	treatment
+
+27572277_ab3|t|
+27572277_ab3|a|Zucker diabetic fatty rats were divided into the following groups: RYGB; sham-operated with pair-fed as RYGB; sham-operated fed ad libitum; and SG.
+27572277_ab3	74	87	sham-operated	treatment
+27572277_ab3	111	124	sham-operated	treatment
+
+27572277_ab6|t|
+27572277_ab6|a|The 2 procedures induced similar glucose improvement and increased flora diversity after 10 weeks compared with sham-operated groups.
+27572277_ab6	113	126	sham-operated	treatment
+
+27576608_ab9|t|
+27576608_ab9|a|The 2- hour infusion of AUY922 at 100mg/kg caused disorganization of the outer segment photoreceptor morphology in male Brown Norway rats; the severity of the disorganization increased with the number of administrations, but was reversible during a 4- week posttreatment period.
+27576608_ab9	13	21	infusion	treatment
+
+27576608_ab11|t|
+27576608_ab11|a|No changes in serum iron levels, and no changes in rhodopsin, PDE6α, β-transducin concentrations, or retinal pigment epithelium-specific protein RPE65 expression were observed after single and multiple infusions of AUY922 at 100mg/kg compared to vehicle-treated controls.
+27576608_ab11	203	212	infusions	treatment
+
+27583176_ab1|t|
+27583176_ab1|a|Intracerebral hemorrhage (ICH) is a life threatening entity, and an early outcome assessment is mandatory for optimizing therapeutic efforts.
+27583176_ab1	122	141	therapeutic efforts	treatment
+
+27583176_ab5|t|
+27583176_ab5|a|From 342 patients (mean age: 67 years, mean Glasgow Coma Scale [GCS] on admission: 9, mean ICH volume: 62.19 ml, most common hematoma location: basal ganglia [43.9%]), 102 received surgical and 240 conservative treatment.
+27583176_ab5	199	221	conservative treatment	treatment
+
+27593786_ab3|t|
+27593786_ab3|a|Eighteen patients suffering from AIS who were scheduled to undergo posterior instrumented spinal fusion in our clinic were recruited in this study.
+27593786_ab3	78	104	instrumented spinal fusion	treatment
+
+27601594_ti1|t|
+27601594_ti1|a|Neoadjuvant Chemotherapy of Ovarian Cancer Results in Three Patterns of Tumor-Infiltrating Lymphocyte Response with Distinct Implications for Immunotherapy
+27601594_ti1	1	25	Neoadjuvant Chemotherapy	treatment
+27601594_ti1	143	156	Immunotherapy	treatment
+
+27601594_ab1|t|
+27601594_ab1|a|Purpose: Some forms of chemotherapy can enhance antitumor immunity through immunogenic cell death, resulting in increased T-cell activation and tumor infiltration.
+27601594_ab1	24	36	chemotherapy	treatment
+
+27601594_ab2|t|
+27601594_ab2|a|Such effects could potentially sensitize tumors to immunotherapies, including checkpoint blockade.
+27601594_ab2	52	67	immunotherapies	treatment
+
+27601594_ab3|t|
+27601594_ab3|a|We investigated whether platinum - and taxane -based chemotherapy for ovarian cancer induces immunologic changes consistent with this possibility.
+27601594_ab3	54	66	chemotherapy	treatment
+
+27601594_ab4|t|
+27601594_ab4|a|Experimental Design: Matched pre - and post - neoadjuvant chemotherapy tumor samples from 26 high-grade serous carcinoma (HGSC) patients were analyzed by immunohistochemistry (IHC) for a large panel of immune cells and associated factors.
+27601594_ab4	47	71	neoadjuvant chemotherapy	treatment
+
+27601594_ab5|t|
+27601594_ab5|a|The prognostic significance of post - chemotherapy TIL patterns was assessed in an expanded cohort (n = 90).Results: Neoadjuvant chemotherapy was associated with increased densities of CD3 (+), CD8 (+), CD8 (+) TIA-1 (+), PD-1 (+) and CD20 (+) TIL.
+27601594_ab5	39	51	chemotherapy	treatment
+27601594_ab5	118	142	Neoadjuvant chemotherapy	treatment
+
+27601594_ab8|t|
+27601594_ab8|a|Hierarchical clustering revealed three response patterns: (i) TIL (high) tumors showed increases in multiple immune markers after chemotherapy; (ii) TIL (low) tumors underwent similar increases, achieving patterns indistinguishable from the first group; and (iii) TIL (negative) cases generally remained negative.
+27601594_ab8	131	143	chemotherapy	treatment
+
+27601594_ab9|t|
+27601594_ab9|a|Despite the dramatic increases seen in the first two patterns, post- chemotherapy TIL showed limited prognostic significance.Conclusions: Chemotherapy augments pre-existing TIL responses but fails to relieve major immune-suppressive mechanisms or confer significant prognostic benefit.
+27601594_ab9	70	82	chemotherapy	treatment
+27601594_ab9	139	151	Chemotherapy	treatment
+
+27601594_ab10|t|
+27601594_ab10|a|Our findings provide rationale for multipronged approaches to immunotherapy tailored to the baseline features of the tumor microenvironment.
+27601594_ab10	63	76	immunotherapy	treatment
+
+27607871_ab2|t|
+27607871_ab2|a|The Perspective database, an all-payer database that collects data from more than 500 hospitals, was used to perform a retrospective cohort study of women with vulvar cancer who underwent vulvectomy and lymph node assessment from 2006 to 2015.
+27607871_ab2	189	199	vulvectomy	treatment
+
+27607871_ab4|t|
+27607871_ab4|a|Length of stay and cost were compared between women who underwent sentinel node biopsy and lymphadenectomy.
+27607871_ab4	92	107	lymphadenectomy	treatment
+
+27607871_ab5|t|
+27607871_ab5|a|Among 2,273 women, sentinel node biopsy was utilized in 618 (27.2%) and 1,655 (72.8%) underwent inguinofemoral lymphadenectomy.
+27607871_ab5	97	127	inguinofemoral lymphadenectomy	treatment
+
+27607871_ab8|t|
+27607871_ab8|a|The median length of stay was shorter for those undergoing sentinel node biopsy (median 2 days, interquartile range 1-3) compared with women who underwent inguinofemoral lymphadenectomy (median 3 days, interquartile range 2-4).
+27607871_ab8	156	186	inguinofemoral lymphadenectomy	treatment
+
+27607871_ab9|t|
+27607871_ab9|a|The cost of sentinel node biopsy was $7,599 (interquartile range $5,739-9,922) compared with $8,095 (interquartile range $5,917-11,281) for lymphadenectomy.
+27607871_ab9	141	156	lymphadenectomy	treatment
+
+27607871_ab11|t|
+27607871_ab11|a|Sentinel lymph node biopsy is associated with a shorter hospital stay and decreased cost compared with inguinofemoral lymphadenectomy.
+27607871_ab11	104	134	inguinofemoral lymphadenectomy	treatment
+
+27608968_ab3|t|
+27608968_ab3|a|Due to severe respiratory distress and atresia of the anus, the neonate was admitted to a neonatal intensive care unit and underwent reconstructive surgery.
+27608968_ab3	134	156	reconstructive surgery	treatment
+
+27622027_ab12|t|
+27622027_ab12|a|We identified novel activated / cytolytic CD169(+)CD8(+) T cells selectively present in regional LNs, potentially serving as a powerful prognostic factor and indicator for selecting patients for immunotherapy.
+27622027_ab12	196	209	immunotherapy	treatment
+
+27622771_ab11|t|
+27622771_ab11|a|Optical principles applied to important clinical appearance attributes are described which characterize inherent appearance attributes and provide aid in the appearance matching process for dental composite resins used in restorative and operative dental procedures.
+27622771_ab11	239	266	operative dental procedures	treatment
+
+27623277_ab7|t|
+27623277_ab7|a|Respondents were most willing to accept minimally invasive operations for treatment of their hypothetical lung cancer, followed by stereotactic body radiation therapy (SBRT); they were least willing to accept thoracotomy.
+27623277_ab7	51	70	invasive operations	treatment
+27623277_ab7	132	167	stereotactic body radiation therapy	treatment
+27623277_ab7	169	173	SBRT	treatment
+27623277_ab7	210	221	thoracotomy	treatment
+
+27623277_ab10|t|
+27623277_ab10|a|Survey respondents preferred minimally invasive operations over SBRT or thoracotomy for treatment of early-stage non-small cell lung cancer.
+27623277_ab10	40	59	invasive operations	treatment
+27623277_ab10	65	69	SBRT	treatment
+27623277_ab10	73	84	thoracotomy	treatment
+
+27634305_ab2|t|
+27634305_ab2|a|We hypothesized that surgery rates have decreased while outcomes have worsened due to operating on " sicker " patients since the introduction of biologic medications.
+27634305_ab2	22	29	surgery	treatment
+27634305_ab2	146	166	biologic medications	treatment
+
+27634305_ab4|t|
+27634305_ab4|a|Trends in IBD nutrition, surgeries, and postoperative complications were determined.
+27634305_ab4	26	35	surgeries	treatment
+
+27634305_ab6|t|
+27634305_ab6|a|Surgery rates were largely unchanged over the study period, ranging from 9 to 12 % of admissions in both Crohn's disease and ulcerative colitis.
+27634305_ab6	1	8	Surgery	treatment
+
+27634305_ab10|t|
+27634305_ab10|a|Rates of IBD surgery have remained stable while postoperative infectious complications have remained stable or decreased since the implementation of biologic therapies.
+27634305_ab10	150	168	biologic therapies	treatment
+
+27635073_ab5|t|
+27635073_ab5|a|The most common diagnosis was single ventricle physiology (52%), 9 palliated by Fontan operation and 2 by aortopulmonary shunts: d-transposition of the great arteries after Mustard / Senning (n=2), tetralogy of Fallot (n=2), aortic valve disease (n=2), and other biventricular surgery (n=4).
+27635073_ab5	81	97	Fontan operation	treatment
+27635073_ab5	107	128	aortopulmonary shunts	treatment
+27635073_ab5	278	285	surgery	treatment
+
+27635073_ab12|t|
+27635073_ab12|a|Subcutaneous ICD implantation is feasible for adults with congenital heart disease patients.
+27635073_ab12	18	30	implantation	treatment
+
+27645371_ab4|t|
+27645371_ab4|a|Of the 77 (of 418) children abandoning therapy, 17 (22%) refused upfront, whereas the rest abandoned during various phases of chemotherapy.
+27645371_ab4	127	139	chemotherapy	treatment
+
+27645763_ti1|t|
+27645763_ti1|a|Effect of New-Onset Left Bundle Branch Block After Transcatheter Aortic Valve Implantation (CoreValve) on Mortality, Frequency of Re-Hospitalization, and Need for Pacemaker
+27645763_ti1	52	91	Transcatheter Aortic Valve Implantation	treatment
+
+27645763_ab1|t|
+27645763_ab1|a|New-onset conduction disturbances are common after transcatheter aortic valve implantation (TAVI).
+27645763_ab1	52	91	transcatheter aortic valve implantation	treatment
+
+27645763_ab5|t|
+27645763_ab5|a|From April 2008 to December 2014, 220 patients who had severe aortic stenosis were treated with the implantation of a CoreValve prosthesis.
+27645763_ab5	101	113	implantation	treatment
+
+27645763_ab6|t|
+27645763_ab6|a|Sixty-seven of these patients were excluded from the analysis, including 22 patients with pre-existing LBBB and 45 with a permanent pacemaker, implanted previously or within 72 hours of implantation.
+27645763_ab6	187	199	implantation	treatment
+
+27645763_ab13|t|
+27645763_ab13|a|Group 1 did not require pacemaker implantation more often at follow-up (10% vs 13%, p = 0.38) than group 2.
+27645763_ab13	25	47	pacemaker implantation	treatment
+
+27645763_ab14|t|
+27645763_ab14|a|In conclusion, new-onset LBBB was not associated with a higher incidence of late need for a permanent pacemaker after CoreValve implantation.
+27645763_ab14	129	141	implantation	treatment
+
+27650462_ti1|t|
+27650462_ti1|a|Minimally invasive treatment of difficult bleeding lesions of the small bowel
+27650462_ti1	1	29	Minimally invasive treatment	treatment
+
+27650462_ab3|t|
+27650462_ab3|a|The Double-balloon enteroscopy (DBE) could be used to precisely localize and mark lesions, so that a minimally invasive surgical treatment could be performed.
+27650462_ab3	102	139	minimally invasive surgical treatment	treatment
+
+27650462_ab4|t|
+27650462_ab4|a|Twenty robot - assisted small bowel procedures are presented using a combination of DBE for localization and robotic resection.
+27650462_ab4	25	47	small bowel procedures	treatment
+27650462_ab4	110	127	robotic resection	treatment
+
+27650462_ab5|t|
+27650462_ab5|a|There were 10 jejunal resections and 10 ileal resections.
+27650462_ab5	15	33	jejunal resections	treatment
+27650462_ab5	41	57	ileal resections	treatment
+
+27653010_ti1|t|
+27653010_ti1|a|Application of Laparoscopic Lumbar Discectomy and Artificial Disc Replacement: At Least Two Years of Follow-Up
+27653010_ti1	29	46	Lumbar Discectomy	treatment
+27653010_ti1	51	78	Artificial Disc Replacement	treatment
+
+27653010_ab1|t|
+27653010_ab1|a|This prospective observational study included 22 patients who were diagnosed with symptomatic degenerative disc disease treated via artificial disc replacement (ADR) with a laparoscopic technique.
+27653010_ab1	133	160	artificial disc replacement	treatment
+
+27653010_ab5|t|
+27653010_ab5|a|However, the traditional approach to spinal surgery carries the risk of catastrophic bleeding from injury to major vessels, as well as iatrogenic injury to the viscera and associated structures.
+27653010_ab5	38	52	spinal surgery	treatment
+
+27653010_ab6|t|
+27653010_ab6|a|Therefore, laparoscopic lumbar discectomy and ADR may represent a useful alternative.
+27653010_ab6	25	42	lumbar discectomy	treatment
+
+27653010_ab9|t|
+27653010_ab9|a|All patients were ineffective after at least 6 months of conservative treatments; all patients were informed of the surgery before the operation and provided consent.
+27653010_ab9	58	81	conservative treatments	treatment
+27653010_ab9	117	124	surgery	treatment
+
+27653010_ab10|t|
+27653010_ab10|a|Three-dimensional computed tomographic angiography (3D - CTA) of the iliac great blood vessels was completed before the surgery.
+27653010_ab10	121	128	surgery	treatment
+
+27653010_ab11|t|
+27653010_ab11|a|All surgical procedures were performed under a laparoscope.
+27653010_ab11	5	24	surgical procedures	treatment
+
+27653010_ab13|t|
+27653010_ab13|a|All surgeries were successfully completed.
+27653010_ab13	5	14	surgeries	treatment
+
+27659183_ti1|t|
+27659183_ti1|a|Performance and safety of collagenated xenogeneic bone block for lateral alveolar ridge augmentation and staged implant placement.
+27659183_ti1	66	101	lateral alveolar ridge augmentation	treatment
+27659183_ti1	106	130	staged implant placement	treatment
+
+27659183_ab1|t|
+27659183_ab1|a|To assess the clinical safety and performance of collagenated xenogeneic bone block (CXBB) for lateral alveolar ridge augmentation and two-stage implant placement.
+27659183_ab1	96	131	lateral alveolar ridge augmentation	treatment
+27659183_ab1	146	163	implant placement	treatment
+
+27659183_ab2|t|
+27659183_ab2|a|In ten patients exhibiting a single - tooth gap, the surgical procedure included the preparation of mucoperiosteal flaps, a rigid fixation of CXBB (Geistlich Bio-Graft(®)) using an osteosynthesis screw, and contour augmentation.
+27659183_ab2	54	72	surgical procedure	treatment
+
+27659183_ab3|t|
+27659183_ab3|a|After 24 weeks of submerged healing, the primary endpoint was defined as the final ridge width sufficient to place an adequately dimensioned titanium implant at the respective sites.
+27659183_ab3	142	158	titanium implant	treatment
+
+27659183_ab5|t|
+27659183_ab5|a|Clinical parameters (e.g., bleeding on probing - BOP, probing depth - PD, mucosal recession - MR) were assessed immediately after the cementation of the crown and at the final visit.
+27659183_ab5	135	159	cementation of the crown	treatment
+
+27659183_ab6|t|
+27659183_ab6|a|At 24 weeks, implant placement could be achieved in 8 of 10 patients exhibiting a mean gain in ridge width (mean ± SD) of 3.88 ± 1.75 mm.
+27659183_ab6	14	31	implant placement	treatment
+
+27659183_ab9|t|
+27659183_ab9|a|CXBB may be successfully used to support lateral alveolar ridge augmentation and two-stage implant placement.
+27659183_ab9	42	77	lateral alveolar ridge augmentation	treatment
+27659183_ab9	92	109	implant placement	treatment
+
+27659602_ti1|t|
+27659602_ti1|a|The Aortic Root: Natural History After Root-Sparing Ascending Replacement in Nonsyndromic Aneurysmal Patients
+27659602_ti1	40	74	Root-Sparing Ascending Replacement	treatment
+
+27659602_ab1|t|
+27659602_ab1|a|Leaving native aortic tissue in situ in root-sparing ascending aortic replacement raises concern regarding potential later need for root reoperation or for the potential occurrence of localized dissections or rupture in the residual root.
+27659602_ab1	41	82	root-sparing ascending aortic replacement	treatment
+27659602_ab1	138	149	reoperation	treatment
+
+27659602_ab2|t|
+27659602_ab2|a|The purpose of this study was to evaluate the natural growth of the aortic root after root-sparing aortic replacement.
+27659602_ab2	87	118	root-sparing aortic replacement	treatment
+
+27659602_ab3|t|
+27659602_ab3|a|In all, 102 consecutive patients (mean age 61.8 ± 12.5 years; 60% male) who had undergone root-sparing aortic replacement had sufficient retrievable information regarding their aortic root diameter at postoperative baseline and follow-up imaging by computed tomography or echocardiography.
+27659602_ab3	91	122	root-sparing aortic replacement	treatment
+
+27659602_ab4|t|
+27659602_ab4|a|The annual growth rate was evaluated and also compared according to the influence of valve morphology and concomitant aortic valve replacement.
+27659602_ab4	119	143	aortic valve replacement	treatment
+
+27659602_ab6|t|
+27659602_ab6|a|The estimated growth rate of the aortic root after root-sparing aortic replacement is between 0.27 and 0.51 mm per year (mean 0.41 mm, varying according to the underlying diameter) and therefore fivefold less than other aortic regions.
+27659602_ab6	52	83	root-sparing aortic replacement	treatment
+
+27659602_ab7|t|
+27659602_ab7|a|Accordingly, a root aneurysm indicating reoperation would not be expected for 29.1 years on average.
+27659602_ab7	41	52	reoperation	treatment
+
+27659602_ab8|t|
+27659602_ab8|a|Only patients with a diameter of 45 mm or more are at risk for reoperation, and not until at least after 10.4 years have passed.
+27659602_ab8	64	75	reoperation	treatment
+
+27659602_ab9|t|
+27659602_ab9|a|Neither the valve morphology (p = 0.62) nor concomitant aortic valve replacement (p = 0.86) influenced rate of root dilation.
+27659602_ab9	57	81	aortic valve replacement	treatment
+
+27659602_ab11|t|
+27659602_ab11|a|Leaving the native root, as in root-sparing ascending aortic replacement, is a safe approach regarding secondary root intervention for aortic root diameters of 45 mm or less.
+27659602_ab11	32	73	root-sparing ascending aortic replacement	treatment
+
+27669669_ab4|t|
+27669669_ab4|a|Nonsurgical treatment most often resolves the symptoms; however, in some cases surgical treatment is necessary to repair the subluxation.
+27669669_ab4	1	22	Nonsurgical treatment	treatment
+27669669_ab4	80	98	surgical treatment	treatment
+
+27669669_ab9|t|
+27669669_ab9|a|Despite conservative treatment, the patient's symptoms continued to progress.
+27669669_ab9	9	31	conservative treatment	treatment
+
+27669669_ab10|t|
+27669669_ab10|a|After two failed closed reduction attempts, open reduction and C1-C2 fusion were performed with atlas laminar hook and axis pedicle polyaxial screws.
+27669669_ab10	18	34	closed reduction	treatment
+27669669_ab10	45	59	open reduction	treatment
+27669669_ab10	64	76	C1-C2 fusion	treatment
+
+27669669_ab11|t|
+27669669_ab11|a|A literature review of the surgical treatment of GS was also performed.
+27669669_ab11	28	46	surgical treatment	treatment
+
+27676724_ab10|t|
+27676724_ab10|a|Team members must be as neutral as possible in their assessments in order to let the couple take the final decision: the continuation of the pregnancy or a request of voluntary termination of pregnancy.
+27676724_ab10	178	202	termination of pregnancy	treatment
+
+27680598_ab2|t|
+27680598_ab2|a|Surgery has significant morbidity.
+27680598_ab2	1	8	Surgery	treatment
+
+27680598_ab3|t|
+27680598_ab3|a|We hypothesized that delivering chemotherapy directly into tumors through sustained release silk systems could slow tumor growth.
+27680598_ab3	33	45	chemotherapy	treatment
+
+27680598_ab7|t|
+27680598_ab7|a|When volume reached >250mm(3,) interventions included: implantation of drug-free silk foam (Control -F), doxorubicin 400μg foam (Dox400 -F), vincristine 50μg foam (Vin50 -F), drug-free silk gel (Control -G), vincristine 50μg gel (Vin50 -G), or single dose intravenous vincristine 50μg (Vin50 -IV).
+27680598_ab7	56	68	implantation	treatment
+
+27680598_ab15|t|
+27680598_ab15|a|Applying this intratumoral treatment strategy may potentially decrease the extent of surgical excision.
+27680598_ab15	15	37	intratumoral treatment	treatment
+27680598_ab15	86	103	surgical excision	treatment
+
+27685187_ab4|t|
+27685187_ab4|a|anaesthesia and analgesia are monitored, even overnight, and 'humane' euthanasia, optimal statistical design, comprehensive literature review, randomisation and blinding, are performed), and costs and difficulty are not acceptable justifications for lower quality (e.g.
+27685187_ab4	1	12	anaesthesia	treatment
+27685187_ab4	17	26	analgesia	treatment
+
+27689491_ab1|t|
+27689491_ab1|a|To evaluate the Teen Outreach Program, a pregnancy prevention program, in 2 community -based settings.
+27689491_ab1	42	62	pregnancy prevention	treatment
+
+27694780_ti2|t|
+27694780_ti2|a|Guidelines to follow in oral surgery procedures.
+27694780_ti2	25	48	oral surgery procedures	treatment
+
+27694780_ab5|t|
+27694780_ab5|a|We excluded articles dealing with all anticoagulants other than dabigatran, and works about surgical treatments in anatomical locations other than the oral cavity.
+27694780_ab5	93	112	surgical treatments	treatment
+
+27694780_ab10|t|
+27694780_ab10|a|Also, it is necessary to perform minimally invasive interventions, and take the appropriate local anti-hemolytic measures.
+27694780_ab10	44	66	invasive interventions	treatment
+27694780_ab10	99	122	anti-hemolytic measures	treatment
+
+27699590_ti1|t|
+27699590_ti1|a|High-fructose diet is as detrimental as high-fat diet in the induction of insulin resistance and diabetes mediated by hepatic / pancreatic endoplasmic reticulum (ER) stress
+27699590_ti1	1	19	High-fructose diet	treatment
+27699590_ti1	41	54	high-fat diet	treatment
+
+27699590_ab2|t|
+27699590_ab2|a|While evidence exists for a relationship between high - fat - induced insulin resistance and metabolic disorders, there is lack of studies in relation to high-fructose diet.
+27699590_ab2	155	173	high-fructose diet	treatment
+
+27699590_ab3|t|
+27699590_ab3|a|Therefore, we attempted to study the effect of different diets viz., high-fat diet (HFD), high-fructose diet (HFS), and a combination (HFS + HFD) diet on glucose homeostasis and insulin sensitivity in male Wistar rats compared to control animals fed with normal pellet diet.
+27699590_ab3	70	83	high-fat diet	treatment
+27699590_ab3	91	109	high-fructose diet	treatment
+
+27699590_ab5|t|
+27699590_ab5|a|Rats subjected to high-fat / fructose diets became glucose intolerant, insulin-resistant, and dyslipidemic.
+27699590_ab5	30	44	fructose diets	treatment
+
+27699590_ab6|t|
+27699590_ab6|a|Compared to control animals, rats subjected to different combination of fat / fructose diets showed increased mRNA and protein expression of a battery of ER stress markers both in pancreas and liver.
+27699590_ab6	79	93	fructose diets	treatment
+
+27699590_ab8|t|
+27699590_ab8|a|The convergence of chronic ER stress towards apoptosis in pancreas / liver was also indicated by increased levels of CHOP mRNA & increased activity of both JNK and Caspase-3 in rats subjected to high-fat / fructose diets.
+27699590_ab8	207	221	fructose diets	treatment
+
+27699590_ab9|t|
+27699590_ab9|a|Our study exposes the experimental support in that high-fructose diet is equally detrimental in causing metabolic disorders.
+27699590_ab9	52	70	high-fructose diet	treatment
+
+27702870_ab3|t|
+27702870_ab3|a|Procedure -related data were collected prospectively for the first 100 ablation procedures performed in our department using the STSF catheter.
+27702870_ab3	72	91	ablation procedures	treatment
+
+27715500_ab14|t|
+27715500_ab14|a|Worker self-reports may illustrate key areas for injury prevention.
+27715500_ab14	50	67	injury prevention	treatment
+
+27723907_ab1|t|
+27723907_ab1|a|Despite sophisticated physical examination and laboratory support, diagnosis of acute appendicitis remained challenging in clinical practice with a negative appendectomy rate of 15 - 30 %.
+27723907_ab1	149	170	negative appendectomy	treatment
+
+27729085_ti1|t|
+27729085_ti1|a|Chordoma dedifferentiation after proton beam therapy: a case report and review of the literature
+27729085_ti1	34	53	proton beam therapy	treatment
+
+27729085_ab3|t|
+27729085_ab3|a|We report a case of an 8-year-old white girl who presented with conventional chordoma, was treated with surgical resection and mixed proton and photon beam therapy, and had a recurrence in the resection cavity 2.5 years later with dedifferentiated morphology.
+27729085_ab3	105	123	surgical resection	treatment
+27729085_ab3	145	164	photon beam therapy	treatment
+
+27729085_ab5|t|
+27729085_ab5|a|The short time period between radiation therapy and dedifferentiation, low dose of photons, and rarity of dedifferentiated skull base chordomas in pediatric patients should alert clinicians to the possibility of chordoma dedifferentiation after proton beam therapy.
+27729085_ab5	31	48	radiation therapy	treatment
+27729085_ab5	246	265	proton beam therapy	treatment
+
+27750105_ti1|t|
+27750105_ti1|a|Discordance in pathology report after central pathology review: Implications for breast cancer adjuvant treatment
+27750105_ti1	96	114	adjuvant treatment	treatment
+
+27750105_ab1|t|
+27750105_ab1|a|Pathological predictive factors are the most important markers when selecting early breast cancer adjuvant therapy.
+27750105_ab1	99	115	adjuvant therapy	treatment
+
+27757318_ab1|t|
+27757318_ab1|a|Natural killer (NK) cell infusions can induce remissions in subsets of patients with different types of cancer.
+27757318_ab1	26	35	infusions	treatment
+
+27757318_ab2|t|
+27757318_ab2|a|The optimal strategies for NK cell activation prior to infusion are still under debate.
+27757318_ab2	56	64	infusion	treatment
+
+27757318_ab11|t|
+27757318_ab11|a|In addition, our results support combination of cytokine -preactivated NK cells with CD4(+) T cell activation upon lymphopenic conditioning to achieve long-term NK cell effector function for cancer immunotherapy.
+27757318_ab11	192	212	cancer immunotherapy	treatment
+
+27759568_ti1|t|
+27759568_ti1|a|Survey of Neonatal Intensive Care Unit Nurse Attitudes Toward Therapeutic Hypothermia Treatment
+27759568_ti1	63	96	Therapeutic Hypothermia Treatment	treatment
+
+27759568_ab1|t|
+27759568_ab1|a|The traumatic experiences of parent s of babies treated with therapeutic hypothermia (TH) have been described.
+27759568_ab1	62	85	therapeutic hypothermia	treatment
+
+27759877_ti1|t|
+27759877_ti1|a|Pharmacological Venous Thromboembolism Prophylaxis in Meningioma Patients: Should It Be Earlier Than Clinical Practice?
+27759877_ti1	1	51	Pharmacological Venous Thromboembolism Prophylaxis	treatment
+
+27759877_ab2|t|
+27759877_ab2|a|In this single-center retrospective study, they analysed 449 intracranial meningioma patients underwent open surgery.
+27759877_ab2	105	117	open surgery	treatment
+
+27759877_ab4|t|
+27759877_ab4|a|This is an important issue because VTE, including deep vein thrombosis (DVT) and pulmonary embolism (PE), is the most common overall complication in meningioma surgery and is fatal in up to one third of patients (2).
+27759877_ab4	150	168	meningioma surgery	treatment
+
+27759877_ab5|t|
+27759877_ab5|a|We suppose that prophylaxis of VTE is most effective when mechanical and pharmacological prophylaxis are combined.
+27759877_ab5	74	101	pharmacological prophylaxis	treatment
+
+27768206_ab1|t|
+27768206_ab1|a|The saphenous vein is commonly used as a vascular graft in peripheral artery surgery but rarely used for vascular access.
+27768206_ab1	78	85	surgery	treatment
+
+27768206_ab4|t|
+27768206_ab4|a|Two young men, aged 29 and 36 years, were chosen for lower-limb vascular access for hemodialysis.
+27768206_ab4	85	97	hemodialysis	treatment
+
+27768206_ab8|t|
+27768206_ab8|a|Both patients received autologous lower extremity straight configuration saphenous vein transpositions to the popliteal artery under spinal anesthesia in May and October 2012, respectively.
+27768206_ab8	134	151	spinal anesthesia	treatment
+
+27768206_ab9|t|
+27768206_ab9|a|Cannulation of the fistula was allowed after one month.
+27768206_ab9	1	12	Cannulation	treatment
+
+27768206_ab13|t|
+27768206_ab13|a|The straight configuration saphenous vein transposition to popliteal artery is simple to perform, offers a long and straight segment for cannulation and may be a suitable autologous vascular access in selected patients.
+27768206_ab13	138	149	cannulation	treatment
+
+27772556_ab7|t|
+27772556_ab7|a|Items did not have any differential functioning (DIF) across educational level, age, indication for ICD implantation, and severity of heart failure that influence depression outcomes in patients with an ICD.
+27772556_ab7	105	117	implantation	treatment
+
+27773614_ab5|t|
+27773614_ab5|a|The incidence of HCC, access to surgery, and survival, at both the national level and two geographical levels (the 21 French regions and 95 French departments into which France is divided administratively), were determined.
+27773614_ab5	33	40	surgery	treatment
+
+27778231_ab3|t|
+27778231_ab3|a|Hence, we aimed to find drug targets using the 2DE / MS proteomics study of a DEXA - resistant cell line (REH) as a model for poor DEXA responding patients before and after drug treatment.
+27778231_ab3	174	188	drug treatment	treatment
+
+27778231_ab13|t|
+27778231_ab13|a|In conclusion, our proteomic study in DEXA resistant leukemic cells revealed VDAC1, SNX3, and PFDN6 are promising proteins that might serve as potential biomarkers of prognosis and chemotherapy in childhood ALL.
+27778231_ab13	182	194	chemotherapy	treatment
+
+27779702_ab16|t|
+27779702_ab16|a|Collectively, through drug efficacy identification and pharmacological revealing, we have obtained a promising candidate for the interference of breast metastasis by suppressing TCIPA, which will be beneficial for clinical cancer treatment.
+27779702_ab16	224	240	cancer treatment	treatment
+
+27791364_ti1|t|
+27791364_ti1|a|Albumin -Bioinspired Gd: CuS Nanotheranostic Agent for In Vivo Photoacoustic / Magnetic Resonance Imaging -Guided Tumor -Targeted Photothermal Therapy
+27791364_ti1	64	151	Photoacoustic / Magnetic Resonance Imaging -Guided Tumor -Targeted Photothermal Therapy	treatment
+
+27791364_ab1|t|
+27791364_ab1|a|Photothermal therapy (PTT) is attracting increasing interest and becoming more widely used for skin cancer therapy in the clinic, as a result of its noninvasiveness and low systemic adverse effects.
+27791364_ab1	1	21	Photothermal therapy	treatment
+27791364_ab1	96	115	skin cancer therapy	treatment
+
+27791364_ab11|t|
+27791364_ab11|a|This study highlights the practicality and versatility of albumin -mediated biomimetic mineralization of a nanotheranostic agent and also suggests that bioinspired Gd: CuS @ BSA NPs possess promising imaging guidance and effective tumor ablation properties, with high spatial resolution and deep tissue penetration.
+27791364_ab11	201	217	imaging guidance	treatment
+27791364_ab11	232	257	tumor ablation properties	treatment
+
+27798219_ab4|t|
+27798219_ab4|a|De-escalation therapy was considered when the initial antibiotic therapy was narrowed to penicillin, amoxicillin or amoxicillin/clavulanate within the first 72 h after admission.
+27798219_ab4	1	22	De-escalation therapy	treatment
+27798219_ab4	55	73	antibiotic therapy	treatment
+
+27798906_ti1|t|
+27798906_ti1|a|Radiation - induced Parotid Gland Atrophy in Patients with Head and Neck Cancer After Carbon-ion Radiotherapy
+27798906_ti1	87	110	Carbon-ion Radiotherapy	treatment
+
+27798906_ab1|t|
+27798906_ab1|a|This study aimed to clarify the relationship between dosimetric factors and parotid gland (PG) atrophy after carbon ion radiotherapy (C-ion RT).
+27798906_ab1	110	133	carbon ion radiotherapy	treatment
+
+27799834_ti1|t|
+27799834_ti1|a|A comparison of functional outcomes in patients undergoing revision arthroscopic repair of massive rotator cuff tears with and without arthroscopic suprascapular nerve release
+27799834_ti1	60	88	revision arthroscopic repair	treatment
+
+27799834_ab1|t|
+27799834_ab1|a|This study was designed to compare functional outcomes in patients undergoing revision repair of massive rotator cuff tears (retracted medial to the glenoid) with Goutallier Grade 4 atrophy and concomitant release of the suprascapular nerve to a similar group of patients with Grade 3 atrophy undergoing revision rotator cuff repair (RTCR) without nerve release.
+27799834_ab1	207	241	release of the suprascapular nerve	treatment
+27799834_ab1	305	333	revision rotator cuff repair	treatment
+
+27799834_ab3|t|
+27799834_ab3|a|Twenty-two patients underwent revision repair of massive rotator cuff tears with release of the suprascapular nerve at the suprascapular notch.
+27799834_ab3	82	116	release of the suprascapular nerve	treatment
+
+27799834_ab10|t|
+27799834_ab10|a|Patients who underwent concomitant release of the suprascapular nerve during revision RTCR had greater overall improvement as noted in pain relief, active forward flexion, and strength, than a comparable group without nerve release.
+27799834_ab10	36	70	release of the suprascapular nerve	treatment
+
+27812530_ti1|t|
+27812530_ti1|a|Modification of Mechanical Properties, Polymerization Temperature, and Handling Time of Polymethylmethacrylate Cement for Enhancing Applicability in Vertebroplasty
+27812530_ti1	150	164	Vertebroplasty	treatment
+
+27812530_ab1|t|
+27812530_ab1|a|Polymethylmethacrylate (PMMA) bone cement is a popular bone void filler for vertebroplasty.
+27812530_ab1	77	91	vertebroplasty	treatment
+
+27812530_ab10|t|
+27812530_ab10|a|In conclusion, the addition of castor oil to PMMA followed by precooling created an ideal modified bone cement with a low modulus, low polymerization temperature, and long handling time, enhancing its applicability and safety for vertebroplasty.
+27812530_ab10	231	245	vertebroplasty	treatment
+
+27813022_ti1|t|
+27813022_ti1|a|A case of retrograde intussusception at Roux-en-Y anastomosis 10 years after total gastrectomy: review of the literature
+27813022_ti1	41	62	Roux-en-Y anastomosis	treatment
+27813022_ti1	78	95	total gastrectomy	treatment
+
+27813022_ab1|t|
+27813022_ab1|a|A 63-year- old man, who had undergone total gastrectomy and Roux-en-Y reconstruction for gastric cancer 10 years previously, was admitted to our hospital with complaints of abdominal pain, palpable abdominal tumor, and hematemesis.
+27813022_ab1	39	56	total gastrectomy	treatment
+27813022_ab1	61	85	Roux-en-Y reconstruction	treatment
+
+27813022_ab5|t|
+27813022_ab5|a|The patient was diagnosed with intestinal obstruction secondary to intussusception, and surgery was performed.
+27813022_ab5	89	96	surgery	treatment
+
+27813022_ab6|t|
+27813022_ab6|a|Retrograde intussusception was found at the site of the Y anastomosis.
+27813022_ab6	57	70	Y anastomosis	treatment
+
+27813022_ab7|t|
+27813022_ab7|a|We conducted manual reduction using the Hutchinson procedure.
+27813022_ab7	41	61	Hutchinson procedure	treatment
+
+27813022_ab8|t|
+27813022_ab8|a|The intestinal color after the reduction was good, and no intestinal resection was required.
+27813022_ab8	59	79	intestinal resection	treatment
+
+27813022_ab9|t|
+27813022_ab9|a|Postoperative recovery was uneventful, and the patient was discharged 12 days after surgery.
+27813022_ab9	85	92	surgery	treatment
+
+27813022_ab10|t|
+27813022_ab10|a|Reports of jejunal intussusception after total gastrectomy with Roux-en-Y reconstruction are relatively rare.
+27813022_ab10	42	59	total gastrectomy	treatment
+27813022_ab10	65	89	Roux-en-Y reconstruction	treatment
+
+27813022_ab11|t|
+27813022_ab11|a|Here, we report a case of jejunal intussusception after total gastrectomy with Roux-en-Y reconstruction.
+27813022_ab11	57	74	total gastrectomy	treatment
+27813022_ab11	80	104	Roux-en-Y reconstruction	treatment
+
+27818984_ab2|t|
+27818984_ab2|a|In one of the patients closed reduction was accomplished by keeping the limb in a sling.
+27818984_ab2	24	40	closed reduction	treatment
+
+27818984_ab3|t|
+27818984_ab3|a|The second patient, after reduction was done, presented recurrence of the dislocation, thus requiring surgical treatment.
+27818984_ab3	103	121	surgical treatment	treatment
+
+27831982_ab7|t|
+27831982_ab7|a|Twelve RCTs were included in the analysis: 5 total disk replacement (TDR) versus fusion; 1 TDR versus exercise and cognitive behavioral therapy (CBT); 5 fusion versus exercise and CBT; and 1 fusion versus physical therapy (PT).
+27831982_ab7	116	144	cognitive behavioral therapy	treatment
+27831982_ab7	206	222	physical therapy	treatment
+
+27832581_ab10|t|
+27832581_ab10|a|In conclusion, substitution of saturated fat with omega-3 fat in a high-caloric diet induced hyperlipidaemia with an FA profile yielding similar rates and quality of blastocysts compared with normolipidaemic controls.
+27832581_ab10	68	85	high-caloric diet	treatment
+
+27834754_ti1|t|
+27834754_ti1|a|Impact of Clinical Trial Results on the Temporal Trends of Carotid Endarterectomy and Stenting From 2002 to 2014
+27834754_ti1	60	82	Carotid Endarterectomy	treatment
+27834754_ti1	87	95	Stenting	treatment
+
+27834754_ab1|t|
+27834754_ab1|a|Randomized trials provide conflicting data for the efficacy of carotid-artery stenting compared with endarterectomy.
+27834754_ab1	64	87	carotid-artery stenting	treatment
+27834754_ab1	102	116	endarterectomy	treatment
+
+27834754_ab2|t|
+27834754_ab2|a|The purpose of this study was to examine the impact of conflicting clinical trial publications on the utilization rates of carotid revascularization procedures.
+27834754_ab2	124	160	carotid revascularization procedures	treatment
+
+27834754_ab3|t|
+27834754_ab3|a|We conducted a population-level time-series analysis of all individuals who underwent carotid endarterectomy and stenting in Ontario, Canada (2002-2014).
+27834754_ab3	87	109	carotid endarterectomy	treatment
+27834754_ab3	114	122	stenting	treatment
+
+27834754_ab4|t|
+27834754_ab4|a|The primary analysis examined temporal changes in the rates of carotid revascularization procedures after publications of major randomized trials.
+27834754_ab4	64	100	carotid revascularization procedures	treatment
+
+27834754_ab6|t|
+27834754_ab6|a|A total of 16 772 patients were studied (14 394 endarterectomy [86%]; 2378 stenting [14%]).
+27834754_ab6	49	63	endarterectomy	treatment
+27834754_ab6	76	84	stenting	treatment
+
+27834754_ab7|t|
+27834754_ab7|a|The overall rate of carotid revascularization decreased from 6.0 procedures per 100 000 individuals ≥40 years old in April 2002 to 4.3 procedures in the first quarter of 2014 (29% decrease; P<0.001).
+27834754_ab7	21	46	carotid revascularization	treatment
+
+27834754_ab8|t|
+27834754_ab8|a|The rate of endarterectomy decreased by 36% (P<0.001), whereas the rate of carotid-artery stenting increased by 72% (P=0.006).
+27834754_ab8	13	27	endarterectomy	treatment
+27834754_ab8	76	99	carotid-artery stenting	treatment
+
+27834754_ab9|t|
+27834754_ab9|a|We observed a marked increase (P=0.01) in stenting after publication of the SAPPHIRE trial (Stenting and Angioplasty With Protection in Patients at High Risk for Endarterectomy) in 2004, whereas stenting remained relatively unchanged after subsequent randomized trials published in 2006 (P=0.11) and 2010 (P=0.34).
+27834754_ab9	43	51	stenting	treatment
+27834754_ab9	196	204	stenting	treatment
+
+27834754_ab10|t|
+27834754_ab10|a|In contrast, endarterectomy decreased after trials published in 2006 (P=0.04) and 2010 (P=0.005).
+27834754_ab10	14	28	endarterectomy	treatment
+
+27834754_ab11|t|
+27834754_ab11|a|Although the overall rates of carotid revascularization and endarterectomy have fallen since 2002, the rate of carotid-artery stenting has risen since the publication of stenting -favorable SAPPHIRE trial.
+27834754_ab11	31	56	carotid revascularization	treatment
+27834754_ab11	61	75	endarterectomy	treatment
+27834754_ab11	112	135	carotid-artery stenting	treatment
+27834754_ab11	171	179	stenting	treatment
+
+27834754_ab12|t|
+27834754_ab12|a|Subsequent conflicting randomized trials were associated with a decreasing rate of carotid endarterectomy.
+27834754_ab12	84	106	carotid endarterectomy	treatment
+
+27842161_ab4|t|
+27842161_ab4|a|After 3 hours, fluorescent microspheres were added to perfusion media to trace the outflow patterns before perfusion - fixation.
+27842161_ab4	55	64	perfusion	treatment
+27842161_ab4	108	117	perfusion	treatment
+
+27842161_ab7|t|
+27842161_ab7|a|Perfusion with netarsudil-M1 significantly increased C when compared to baseline (51%, P < 0.01) and to paired controls (102%, P < 0.01), as well as significantly increased PEFL in both IW (P < 0.05) and ESVs (P < 0.01).
+27842161_ab7	1	10	Perfusion	treatment
+
+27845771_ab10|t|
+27845771_ab10|a|Furthermore, we identified that miR-9600 augmented paclitaxel and cisplatin sensitivity by downregulating STAT3 and promoting chemotherapy - induced apoptosis.
+27845771_ab10	127	139	chemotherapy	treatment
+
+27857788_ab3|t|
+27857788_ab3|a|The aims of the study were to evaluate Spinal dysraphisms using USG and MRI and to correlate imaging findings with operative findings in patients undergoing surgery.
+27857788_ab3	158	165	surgery	treatment
+
+27857970_ti1|t|
+27857970_ti1|a|BORA -dependent PLK1 regulation: A new weapon for cancer therapy?
+27857970_ti1	51	65	cancer therapy	treatment
+
+27859268_ab6|t|
+27859268_ab6|a|Overall, colorectal cancer risk was significantly associated with height, body mass index (BMI), smoking, alcohol intake, physical activity, parity and menopausal hormone therapy use.
+27859268_ab6	153	179	menopausal hormone therapy	treatment
+
+27861593_ti1|t|
+27861593_ti1|a|Neutrophil and Monocyte Function in Patients with Chronic Hepatitis C Undergoing Antiviral Therapy with Regimens Containing Protease Inhibitors with and without Interferon
+27861593_ti1	82	99	Antiviral Therapy	treatment
+
+27861593_ab5|t|
+27861593_ab5|a|Forty patients with chronic HCV (80% with cirrhosis) were enrolled in the study, 28 received triple therapy (Group A) with pegylated-interferon and ribavirin for 4 weeks followed by the addition of a PI (telaprevir, boceprevir or simeprevir), and 12 patients received an interferon -free regimen (Group B) with simeprevir and sofosbuvir.
+27861593_ab5	94	108	triple therapy	treatment
+
+27864317_ab1|t|
+27864317_ab1|a|Prednisolone is used as glucocorticoid replacement therapy for adrenal insufficiency (AI).
+27864317_ab1	40	59	replacement therapy	treatment
+
+27866508_ti1|t|
+27866508_ti1|a|New directions for psychiatric rehabilitation in the USA
+27866508_ti1	20	46	psychiatric rehabilitation	treatment
+
+27866508_ab1|t|
+27866508_ab1|a|American researchers have led the world in developing, evaluating, and disseminating evidence -based psychiatric rehabilitation practices for people with serious mental illness.
+27866508_ab1	102	128	psychiatric rehabilitation	treatment
+
+27866595_ab5|t|
+27866595_ab5|a|Behaviors that most significantly affected future outcomes were low-fat diet, aerobic exercise, nonsmoking, and adequate sleep.
+27866595_ab5	65	77	low-fat diet	treatment
+27866595_ab5	79	95	aerobic exercise	treatment
+
+27866595_ab7|t|
+27866595_ab7|a|After dietary fat intake, aerobic exercise was the next most significant behavior associated with development of outcomes.
+27866595_ab7	27	43	aerobic exercise	treatment
+
+27866595_ab9|t|
+27866595_ab9|a|Low-fat diet and adequate sleep were more significant than commonly promoted healthy behaviors, such as eating a daily breakfast.
+27866595_ab9	1	13	Low-fat diet	treatment
+
+27866595_ab11|t|
+27866595_ab11|a|Top priorities for workplace health promotion should include low-fat diet, aerobic exercise, nonsmoking, and adequate sleep.
+27866595_ab11	62	74	low-fat diet	treatment
+27866595_ab11	76	92	aerobic exercise	treatment
+
+27871510_ti1|t|
+27871510_ti1|a|Anticholinergic premedication to prevent bradycardia in combined spinal anesthesia and dexmedetomidine sedation: a randomized, double-blind, placebo-controlled study
+27871510_ti1	17	30	premedication	treatment
+27871510_ti1	66	83	spinal anesthesia	treatment
+
+27871510_ab1|t|
+27871510_ab1|a|When dexmedetomidine is used in patients undergoing spinal anesthesia, high incidence of bradycardia in response to parasympathetic activation is reported.
+27871510_ab1	53	70	spinal anesthesia	treatment
+
+27871510_ab2|t|
+27871510_ab2|a|Therefore, we aimed to evaluate the effectiveness of atropine premedication for preventing the incidence of bradycardia and the hemodynamic effect on patients undergoing spinal anesthesia with sedation by dexmedetomidine.
+27871510_ab2	63	76	premedication	treatment
+27871510_ab2	171	188	spinal anesthesia	treatment
+
+27871510_ab5|t|
+27871510_ab5|a|One hundred fourteen patients (age range, 2-65 years; American Society of Anesthesiology class I-II) participated in this study, willing to be sedated and to undergo spinal anesthesia.
+27871510_ab5	167	184	spinal anesthesia	treatment
+
+27871510_ab6|t|
+27871510_ab6|a|The patients were divided into 2 groups: group A and group C. After performing spinal anesthesia, dexmedetomidine was infused at a loading dose of 0.6 μg/kg for 10 minutes, followed by an infusion at 0.25 μg/(kg h).
+27871510_ab6	80	97	spinal anesthesia	treatment
+27871510_ab6	189	197	infusion	treatment
+
+27871510_ab7|t|
+27871510_ab7|a|Simultaneously with the loading dose of dexmedetomidine, patients in group A received an intravenous bolus of 0.5 mg atropine, whereas patients in group C received an intravenous normal saline bolus.
+27871510_ab7	168	193	intravenous normal saline	treatment
+
+27871510_ab14|t|
+27871510_ab14|a|Prophylactic atropine reduces the incidence of bradycardia in patients undergoing spinal anesthesia with dexmedetomidine sedation.
+27871510_ab14	83	100	spinal anesthesia	treatment
+
+27871510_ab16|t|
+27871510_ab16|a|Therefore, atropine premedication should be administered cautiously.
+27871510_ab16	21	34	premedication	treatment
+
+27876084_ab1|t|
+27876084_ab1|a|Current pediatric septic shock resuscitation guidelines from the American College of Critical Care Medicine focus on the early and goal-directed administration of intravascular fluid followed by vasoactive medication infusions for persistent and fluid-refractory shock.
+27876084_ab1	218	227	infusions	treatment
+
+27896576_ab1|t|
+27896576_ab1|a|The aim of this study was to evaluate the efficacy of the endoscopic injection of calcium hydroxyapatite (CaHA) into the bladder neck (BN) region of patients with urinary incontinence and bladder exstrophy-epispadias complex (BEEC).
+27896576_ab1	59	79	endoscopic injection	treatment
+
+27896576_ab3|t|
+27896576_ab3|a|Sixteen incontinent patients with a mean ± SD age of 8.09 ± 3.5 years received an endoscopic submucosal injection of 5.4 ml of pure CaHA powder with autologous plasma (group A).
+27896576_ab3	83	114	endoscopic submucosal injection	treatment
+
+27902690_ab2|t|
+27902690_ab2|a|In the active state, the catalytic core oscillates between open, intermediate, and closed conformations.
+27902690_ab2	41	51	oscillates	treatment
+
+27903185_ti1|t|
+27903185_ti1|a|Acute clinical adverse radiation effects after Gamma Knife surgery for vestibular schwannomas
+27903185_ti1	48	67	Gamma Knife surgery	treatment
+
+27903185_ab1|t|
+27903185_ab1|a|OBJECTIVE Vestibular schwannomas (VSs) represent a common indication of Gamma Knife surgery (GKS).
+27903185_ab1	73	92	Gamma Knife surgery	treatment
+27903185_ab1	94	97	GKS	treatment
+
+27903185_ab4|t|
+27903185_ab4|a|METHODS The included patients were treated between July 2010 and March 2016, underwent at least 6 months of follow-up, and presented with a disabling symptom during the first 6 months after GKS that affected their quality of life.
+27903185_ab4	191	194	GKS	treatment
+
+27903185_ab17|t|
+27903185_ab17|a|CONCLUSIONS Acute effects after radiosurgery for VS are not rare.
+27903185_ab17	33	45	radiosurgery	treatment
+
+27903185_ab20|t|
+27903185_ab20|a|In most cases, none of these effects are permanent, and they will ultimately improve or disappear with steroid therapy.
+27903185_ab20	104	119	steroid therapy	treatment
+
+27905324_ab4|t|
+27905324_ab4|a|Four patients underwent quadrantectomy and in two cases axillary nodal dissection and only one to mastectomy with axillary nodal dissection.
+27905324_ab4	25	39	quadrantectomy	treatment
+27905324_ab4	57	82	axillary nodal dissection	treatment
+27905324_ab4	99	109	mastectomy	treatment
+27905324_ab4	115	140	axillary nodal dissection	treatment
+
+27905324_ab9|t|
+27905324_ab9|a|Adjuvant chemotherapy was administrated in patients with Ki-67 >10%; every patients were treated with radiotherapy and with hormonal therapy too.
+27905324_ab9	1	22	Adjuvant chemotherapy	treatment
+27905324_ab9	103	115	radiotherapy	treatment
+27905324_ab9	125	141	hormonal therapy	treatment
+
+27910818_ab1|t|
+27910818_ab1|a|Human particulate dentin (HPD) shows potential as an alternative bone grafting material.
+27910818_ab1	66	79	bone grafting	treatment
+
+27910818_ab11|t|
+27910818_ab11|a|New bone formation was observed after HPD implantation compared to the controls, as shown on hematoxylin and eosin staining and micro-CT.
+27910818_ab11	43	55	implantation	treatment
+
+27910818_ab18|t|
+27910818_ab18|a|These results suggested that HPD provided potential as a bone graft resource during the bone healing process.
+27910818_ab18	58	68	bone graft	treatment
+
+27921401_ab6|t|
+27921401_ab6|a|Collectively, these results show that dietary supplementation of ISF could partly alleviate the negative effect of oxidized fish oil by improving the intestinal morphology as well as the antioxidant capacity and immune function in young piglets.
+27921401_ab6	39	62	dietary supplementation	treatment
+
+27925180_ab5|t|
+27925180_ab5|a|Using the METABRIC cohort we identified a16- gene signature capable of stratifying breast cancer patients into four risk levels with intention that low-risk patients would not undergo adjuvant systemic therapy, intermediate - low-risk patients will be treated with hormonal therapy only, and intermediate -high- and high-risk groups will be treated by chemotherapy in addition to the hormonal therapy.
+27925180_ab5	194	210	systemic therapy	treatment
+27925180_ab5	266	282	hormonal therapy	treatment
+27925180_ab5	353	365	chemotherapy	treatment
+27925180_ab5	385	401	hormonal therapy	treatment
+
+27925180_ab7|t|
+27925180_ab7|a|Notably, the low-risk group (n = 51) of 205 estrogen receptor-positive and node negative (ER+ / node-) patients from three different datasets who had not had any systemic adjuvant therapy had 100% 15- year disease-specific survival rate.
+27925180_ab7	172	188	adjuvant therapy	treatment
+
+27925180_ab10|t|
+27925180_ab10|a|YMR signature may be developed as a clinical tool to select a subgroup of low-risk ER+ / node- patients who do not require any adjuvant hormonal therapy (AHT).
+27925180_ab10	137	153	hormonal therapy	treatment
+
+27925484_ab6|t|
+27925484_ab6|a|Increasing availability of HIV testing outside traditional health care settings, including at-home testing kits, in conjunction with targeted behavioral interventions and biomedical treatment preventions is needed.
+27925484_ab6	183	204	treatment preventions	treatment
+
+27975020_ab2|t|
+27975020_ab2|a|However, primary closure of the donor site is not easy when the size of the necessary skin island is relatively large.
+27975020_ab2	10	25	primary closure	treatment
+
+27975020_ab4|t|
+27975020_ab4|a|We have solved this issue by applying the divided and sliding flap technique, which was first reported for primary donor-site closure of a latissimus dorsi musculocutaneous flap.
+27975020_ab4	108	134	primary donor-site closure	treatment
+
+27975020_ab5|t|
+27975020_ab5|a|We applied this technique to the hair-bearing STA flap, where primary donor-site closure is extremely beneficial for preventing baldness consequent to skin grafting.
+27975020_ab5	63	89	primary donor-site closure	treatment
+27975020_ab5	152	165	skin grafting	treatment
+
+27977439_ti1|t|
+27977439_ti1|a|Bilateral sternal infusion of ropivacaine and length of stay in ICU after cardiac surgery with increased respiratory risk: A randomised controlled trial
+27977439_ti1	19	27	infusion	treatment
+27977439_ti1	75	90	cardiac surgery	treatment
+
+27977439_ab1|t|
+27977439_ab1|a|The continuous bilateral infusion of a local anaesthetic solution around the sternotomy wound (bilateral sternal) is an innovative technique for reducing pain after sternotomy.
+27977439_ab1	26	34	infusion	treatment
+27977439_ab1	78	88	sternotomy	treatment
+27977439_ab1	166	176	sternotomy	treatment
+
+27977439_ab5|t|
+27977439_ab5|a|In total, 120 adults scheduled for open-heart surgery, with one of the following conditions: age more than 75 years, BMI >30 kg m, chronic obstructive pulmonary disease, active smoking habit.
+27977439_ab5	36	54	open-heart surgery	treatment
+
+27977439_ab6|t|
+27977439_ab6|a|Either a bilateral sternal infusion of 0.2% ropivacaine (3 ml h through each catheter; 'intervention' group), or standardised care only ('control' group).
+27977439_ab6	28	36	infusion	treatment
+
+27977439_ab7|t|
+27977439_ab7|a|Analgesia was provided with paracetamol and self-administered intravenous morphine.
+27977439_ab7	1	10	Analgesia	treatment
+
+27991454_ab1|t|
+27991454_ab1|a|In intensity-modulated radiation therapy (IMRT), 3D in-room imaging data is typically utilized for accurate patient alignment on the basis of anatomical landmarks.
+27991454_ab1	4	41	intensity-modulated radiation therapy	treatment
+27991454_ab1	43	47	IMRT	treatment
+
+27994448_ti1|t|
+27994448_ti1|a|Clinical and radiological outcome following pneumothorax after endoscopic lung volume reduction with valves
+27994448_ti1	64	96	endoscopic lung volume reduction	treatment
+
+27994448_ab1|t|
+27994448_ab1|a|Valve implantation has evolved as a therapy for patients with advanced emphysema.
+27994448_ab1	7	19	implantation	treatment
+
+27994448_ab2|t|
+27994448_ab2|a|Although it is a minimally invasive treatmen t, it is associated with complications, the most common being pneumothorax.
+27994448_ab2	18	45	minimally invasive treatmen	treatment
+
+27994448_ab4|t|
+27994448_ab4|a|The objective of this study was to conduct an exploratory data analysis of patients who developed a pneumothorax following endoscopic valve therapy for emphysema.
+27994448_ab4	124	148	endoscopic valve therapy	treatment
+
+27994448_ab5|t|
+27994448_ab5|a|This study performed a retrospective evaluation of pneumothorax management and the impact of pneumothorax on clinical outcomes in 70 patients following valve therapy in 381 consecutive patients.
+27994448_ab5	153	166	valve therapy	treatment
+
+27994448_ab6|t|
+27994448_ab6|a|Pneumothorax rate following valve therapy was 18%.
+27994448_ab6	29	42	valve therapy	treatment
+
+27994448_ab7|t|
+27994448_ab7|a|Pneumothorax management consisted of chest tube insertion, valve removal, and surgical intervention in 87% (61/70), 44% (31/70), and 19% (13/70) of the patients, respectively.
+27994448_ab7	38	58	chest tube insertion	treatment
+
+27994448_ab10|t|
+27994448_ab10|a|Pneumothorax is a frequent severe complication following valve therapy that requires further intervention.
+27994448_ab10	58	71	valve therapy	treatment
+
+27994535_ti1|t|
+27994535_ti1|a|3Mo: A Model for Music - Based Biofeedback
+27994535_ti1	32	43	Biofeedback	treatment
+
+27994535_ab3|t|
+27994535_ab3|a|However, the use of music in biofeedback systems has been much less explored.
+27994535_ab3	30	41	biofeedback	treatment
+
+27994535_ab8|t|
+27994535_ab8|a|This 3Mo model is intended to provide a conceptual framework that guides future research on musical biofeedback systems in the domain of sports and motor rehabilitation.
+27994535_ab8	101	112	biofeedback	treatment
+
+28000391_ab2|t|
+28000391_ab2|a|Interstage home monitoring for children with hypoplastic left heart syndrome reduces interstage mortality between Norwood stages I and II.
+28000391_ab2	115	138	Norwood stages I and II	treatment
+
+28005193_ab8|t|
+28005193_ab8|a|In a preclinical therapeutic approach, pigs were randomized to either atrial Ad-TREK-1 gene therapy or sham treatment.
+28005193_ab8	71	100	atrial Ad-TREK-1 gene therapy	treatment
+28005193_ab8	104	118	sham treatment	treatment
+
+28005193_ab12|t|
+28005193_ab12|a|Functional correction of ionic remodeling through TREK-1 gene therapy represents a novel paradigm to optimize and specify AF management.
+28005193_ab12	51	70	TREK-1 gene therapy	treatment
+
+28009695_ti1|t|
+28009695_ti1|a|Elastin Is Differentially Regulated by Pressure Therapy in a Porcine Model of Hypertrophic Scar
+28009695_ti1	40	56	Pressure Therapy	treatment
+
+28009695_ab1|t|
+28009695_ab1|a|Beneficial effects of pressure therapy for hypertrophic scars have been reported, but the mechanisms of action are not fully understood.
+28009695_ab1	23	39	pressure therapy	treatment
+
+28009695_ab3|t|
+28009695_ab3|a|The relationship between changes in Vancouver Scar Scale (VSS) scores of pressure-treated scars and differential regulation of elastin was assessed.
+28009695_ab3	74	90	pressure-treated	treatment
+
+28009695_ab5|t|
+28009695_ab5|a|Pressure treatment began on day 70 postinjury.
+28009695_ab5	1	19	Pressure treatment	treatment
+
+28009695_ab9|t|
+28009695_ab9|a|Pressure treatment resulted in lower VSS scores compared with sham-treated scars.
+28009695_ab9	1	19	Pressure treatment	treatment
+28009695_ab9	63	75	sham-treated	treatment
+
+28009695_ab12|t|
+28009695_ab12|a|Without treatment, sham-treated scars became less pliable, while pressure-treated scars became more pliable.
+28009695_ab12	20	32	sham-treated	treatment
+28009695_ab12	66	82	pressure-treated	treatment
+
+28009695_ab17|t|
+28009695_ab17|a|Pressure treatment results in increased protein level expression of elastin compared with sham -untreated scars.
+28009695_ab17	1	19	Pressure treatment	treatment
+
+28017476_ti1|t|
+28017476_ti1|a|Double strand break induction and kinetics indicate preserved hypersensitivity in keratinocytes to subtherapeutic doses for 7 weeks of radiotherapy
+28017476_ti1	136	148	radiotherapy	treatment
+
+28017476_ab2|t|
+28017476_ab2|a|The aim of this study was to determine whether HRS was preserved throughout a 7- week radiotherapy treatment, and also to examine the rate of foci decline and foci persistence between dose fractions.
+28017476_ab2	87	99	radiotherapy	treatment
+
+28017476_ab3|t|
+28017476_ab3|a|42 patients with prostate cancer received 7- week fractionated radiotherapy treatment (RT) with daily dose fractions of 0.05-1.10Gy to the skin.
+28017476_ab3	64	86	radiotherapy treatment	treatment
+
+28027760_ti1|t|
+28027760_ti1|a|CT angiography for planning transcatheter aortic valve replacement using automated tube voltage selection: Image quality and radiation exposure
+28027760_ti1	29	67	transcatheter aortic valve replacement	treatment
+
+28027760_ab1|t|
+28027760_ab1|a|To assess image quality and accuracy of CT angiography (CTA) for transcatheter aortic valve replacement (TAVR) planning performed with 3rd generation dual-source CT (DSCT).
+28027760_ab1	66	104	transcatheter aortic valve replacement	treatment
+28027760_ab1	106	110	TAVR	treatment
+
+28027760_ab2|t|
+28027760_ab2|a|We evaluated 125 patients who underwent TAVR - planning CTA on 3rd generation DSCT.
+28027760_ab2	41	45	TAVR	treatment
+
+28027760_ab7|t|
+28027760_ab7|a|In patients who underwent TAVR, sizing parameters were obtained.
+28027760_ab7	27	31	TAVR	treatment
+
+28027760_ab11|t|
+28027760_ab11|a|In 39 patients TAVR was performed and annulus diameter was within the recommended range in all patients.
+28027760_ab11	16	20	TAVR	treatment
+
+28027760_ab13|t|
+28027760_ab13|a|3rd generation DSCT provides diagnostic image quality in TAVR - planning CTA and facilitates reliable assessment of TAVR device and delivery option while reducing radiation dose.
+28027760_ab13	58	62	TAVR	treatment
+28027760_ab13	117	121	TAVR	treatment
+
+28033191_ab4|t|
+28033191_ab4|a|This patient was treated with surgical resection of the affected bone and immediate mandibular reconstruction using autologous bone.
+28033191_ab4	31	49	surgical resection	treatment
+28033191_ab4	85	110	mandibular reconstruction	treatment
+
+28042600_ab11|t|
+28042600_ab11|a|The use of synbiotics as an adjuvant therapy to the standard treatment of dysentery significantly reduces the duration of dysentery, fever, and rate of weight losses.
+28042600_ab11	29	45	adjuvant therapy	treatment
+
+28050885_ab3|t|
+28050885_ab3|a|pl-VEGF165, a gene therapy drug, was approved in Russia for the treatment of atherosclerotic peripheral arterial disease (PAD) after clinical studies in 2011.
+28050885_ab3	15	27	gene therapy	treatment
+
+28050885_ab5|t|
+28050885_ab5|a|This postmarketing surveillance study was undertaken to evaluate the safety (identification of uncommon side effects) and efficacy of gene therapy in patients in routine clinical practice.
+28050885_ab5	135	147	gene therapy	treatment
+
+28050885_ab7|t|
+28050885_ab7|a|The control group (n = 60) received conservative therapy without prostaglandins and prostacyclins, and the treatment group (n = 150) received treatment with pl-VEGF165 as two intramuscular injections for a total dose of 2.4 mg.
+28050885_ab7	37	57	conservative therapy	treatment
+
+28050885_ab13|t|
+28050885_ab13|a|No angiogenic therapy -related AEs or side effects were recorded, and target limb salvage was 96 and 97% in the treatment and control groups, respectively.
+28050885_ab13	4	22	angiogenic therapy	treatment
+28050885_ab13	78	90	limb salvage	treatment
+
+28058834_ti1|t|
+28058834_ti1|a|pH -Dependent Transmembrane Activity of Peptide -Functionalized Gold Nanostars for Computed Tomography / Photoacoustic Imaging and Photothermal Therapy
+28058834_ti1	132	152	Photothermal Therapy	treatment
+
+28058834_ab4|t|
+28058834_ab4|a|Here, we innovatively decorated gold nanostars (GNSs) with pHLIPs (GNS - pHLIP) to improve their targeting ability and photothermal therapeutic (PTT) efficiency.
+28058834_ab4	120	144	photothermal therapeutic	treatment
+
+28061895_ti1|t|
+28061895_ti1|a|Initial experience with laparoscopic radical antegrade modular pancreatosplenectomy for left-sided pancreatic cancer in a single institution: technical aspects and oncological outcomes
+28061895_ti1	25	84	laparoscopic radical antegrade modular pancreatosplenectomy	treatment
+
+28061895_ab1|t|
+28061895_ab1|a|Laparoscopic surgery has been performed less frequently in the era of pancreatic cancer due to technical difficulties and concerns about oncological safety.
+28061895_ab1	1	21	Laparoscopic surgery	treatment
+
+28061895_ab2|t|
+28061895_ab2|a|Radical antegrade modular pancreatosplenectomy (RAMPS) is expected to be helpful to obtain a negative margin during radical lymph node dissection.
+28061895_ab2	1	47	Radical antegrade modular pancreatosplenectomy	treatment
+28061895_ab2	49	54	RAMPS	treatment
+28061895_ab2	117	146	radical lymph node dissection	treatment
+
+28061895_ab4|t|
+28061895_ab4|a|Fifteen laparoscopic RAMPS for well-selected patients with left-sided pancreatic cancer were performed from July 2011 to April 2016.
+28061895_ab4	22	27	RAMPS	treatment
+
+28061895_ab5|t|
+28061895_ab5|a|Five trocars were usually used, and the operative procedures and range of dissection were similar to or the same as those of open RAMPS described by Strasberg.
+28061895_ab5	41	61	operative procedures	treatment
+28061895_ab5	131	136	RAMPS	treatment
+
+28061895_ab12|t|
+28061895_ab12|a|Our early experience with laparoscopic RAMPS achieved feasible perioperative results accompanied by acceptable survival outcomes.
+28061895_ab12	40	45	RAMPS	treatment
+
+28061895_ab13|t|
+28061895_ab13|a|Laparoscopic RAMPS could be a safe and oncologically feasible procedure in well-selected patients with left-sided pancreatic cancer.
+28061895_ab13	14	19	RAMPS	treatment
+
+28083459_ti1|t|
+28083459_ti1|a|A Case of Koch's Spine Treated with Modified Transpedicular Vertebral Curettage and Posterior Fixation: A Novel Technique
+28083459_ti1	46	80	Transpedicular Vertebral Curettage	treatment
+
+28083459_ab6|t|
+28083459_ab6|a|We report a case of a young female with tuberculosis of D12-L1 who was treated with posterior decompression using a modified transpedicular approach and posterior instrumentation with a successful outcome.
+28083459_ab6	126	149	transpedicular approach	treatment
+
+28105138_ab6|t|
+28105138_ab6|a|Out of 190 patients with STEMI that were analyzed, the interval between symptom onset and reperfusion therapy (window period) varied from 0.5 to 24 h. The hs-CRP value was found to be higher in non-diabetic patients (0.61 mg/dl) compared with diabetic patients (0.87 mg/dl).
+28105138_ab6	91	110	reperfusion therapy	treatment
+
+28106001_ti1|t|
+28106001_ti1|a|Impact of femoral artery puncture using digital subtraction angiography and road mapping on vascular and bleeding complications after transfemoral transcatheter aortic valve implantation
+28106001_ti1	148	187	transcatheter aortic valve implantation	treatment
+
+28106001_ab1|t|
+28106001_ab1|a|The use of large - diameter sheaths carries the risk of significant vascular and bleeding complications after transfemoral transcatheter aortic valve implantation (TAVI).
+28106001_ab1	124	163	transcatheter aortic valve implantation	treatment
+
+28106001_ab7|t|
+28106001_ab7|a|A standardised strategy of periprocedural anticoagulation was adopted in both groups as well as the use of a single suture-based closure device.
+28106001_ab7	28	58	periprocedural anticoagulation	treatment
+
+28106001_ab14|t|
+28106001_ab14|a|1.8%, p<0.001, respectively) associated with the more frequent implantation of the 29 mm Edwards SAPIEN XT valve in the RM group (43.8% vs.
+28106001_ab14	64	76	implantation	treatment
+
+28117535_ab1|t|
+28117535_ab1|a|To study how metabolic control at onset of type 1 diabetes correlates to metabolic control and clinical parameters during childhood until transition from pediatric care to adult diabetes care.
+28117535_ab1	155	169	pediatric care	treatment
+28117535_ab1	179	192	diabetes care	treatment
+
+28117535_ab3|t|
+28117535_ab3|a|Of these patients, 26% had been referred to adult diabetes care by 2014.
+28117535_ab3	51	64	diabetes care	treatment
+
+28117965_ab4|t|
+28117965_ab4|a|With doxorubicin (DOX), a typical chemotherapy drug, as the model, we engineer a unique type of light-responsive RBC-based DDS by decorating Ce6 on the cell membrane and loading DOX inside cells.
+28117965_ab4	35	47	chemotherapy	treatment
+
+28117965_ab5|t|
+28117965_ab5|a|The light triggered cell membrane break down would thus trigger instant release of DOX, enabling light-controlled chemotherapy with great specificity.
+28117965_ab5	98	127	light-controlled chemotherapy	treatment
+
+28117965_ab7|t|
+28117965_ab7|a|Our work thus presents a unique type of biocompatible cell-based DDS that can be precisely controlled by mild external stimuli, promising not only for cancer therapy but also for other potential applications in biotechnologies.
+28117965_ab7	152	166	cancer therapy	treatment
+
+28123739_ab3|t|
+28123739_ab3|a|Following surgical resection, the two patients were diagnosed with urachal adenocarcinoma (mixed type) and urachal mucinous adenocarcinoma, respectively, based on the histopathological examination.
+28123739_ab3	11	29	surgical resection	treatment
+
+28129238_ti1|t|
+28129238_ti1|a|Impact of Blood Transfusions on Survival of Locally Advanced Cervical Cancer Patients Undergoing Neoadjuvant Chemotherapy Plus Radical Surgery
+28129238_ti1	11	29	Blood Transfusions	treatment
+28129238_ti1	98	122	Neoadjuvant Chemotherapy	treatment
+28129238_ti1	128	143	Radical Surgery	treatment
+
+28129238_ab1|t|
+28129238_ab1|a|Transfusions represent one of the main progresses of modern medicine.
+28129238_ab1	1	13	Transfusions	treatment
+
+28129238_ab2|t|
+28129238_ab2|a|However, accumulating evidence supports that transfusions correlate with worse survival outcomes in patients affected by solid cancers.
+28129238_ab2	46	58	transfusions	treatment
+
+28129238_ab3|t|
+28129238_ab3|a|In the present study, we aimed to investigate the effects of perioperative blood transfusion in locally advanced cervical cancer.
+28129238_ab3	76	93	blood transfusion	treatment
+
+28129238_ab4|t|
+28129238_ab4|a|Data of consecutive patients affected by locally advanced cervical cancer scheduled to undergo neoadjuvant chemotherapy plus radical surgery were retrospectively searched to test the impact of perioperative transfusions on survival outcomes.
+28129238_ab4	96	120	neoadjuvant chemotherapy	treatment
+28129238_ab4	126	141	radical surgery	treatment
+28129238_ab4	208	220	transfusions	treatment
+
+28129238_ab7|t|
+28129238_ab7|a|Overall, 170 (62%) patients had blood transfusion.
+28129238_ab7	33	50	blood transfusion	treatment
+
+28129238_ab9|t|
+28129238_ab9|a|Other factors associated with 5- year disease-free survival were noncomplete clinical response after neoadjuvant chemotherapy (HR, 2.99; 95% CI, 0.92-9.63; P = 0.06) and pathological (P = 0.03) response at neoadjuvant chemotherapy as well as parametrial (P = 0.004), vaginal (P < 0.001), and lymph node (P = 0.002) involvements.
+28129238_ab9	102	126	neoadjuvant chemotherapy	treatment
+28129238_ab9	207	231	neoadjuvant chemotherapy	treatment
+
+28129238_ab11|t|
+28129238_ab11|a|No association with worse outcomes was observed for patients undergoing blood transfusion (HR, 2.71; 95% CI, 0.91-8.03; P = 0.07).
+28129238_ab11	73	90	blood transfusion	treatment
+
+28129238_ab13|t|
+28129238_ab13|a|The role of blood transfusions in increasing the risk of developing recurrence in LAAC patients treated by neoadjuvant chemotherapy plus radical surgery remains unclear; further prospective studies are warranted.
+28129238_ab13	13	31	blood transfusions	treatment
+28129238_ab13	108	132	neoadjuvant chemotherapy	treatment
+28129238_ab13	138	153	radical surgery	treatment
+
+28135040_ab5|t|
+28135040_ab5|a|Background Knowledge of risk factors for recurrent venous thrombosis may guide decisions on duration of anticoagulation.
+28135040_ab5	105	120	anticoagulation	treatment
+
+28135040_ab10|t|
+28135040_ab10|a|Follow-up started at the date of end of anticoagulant treatment.
+28135040_ab10	41	64	anticoagulant treatment	treatment
+
+28135040_ab12|t|
+28135040_ab12|a|Lipids were measured at least 3 months after discontinuing anticoagulation.
+28135040_ab12	60	75	anticoagulation	treatment
+
+28135040_ab15|t|
+28135040_ab15|a|the reference, we found no association across percentile categories between recurrence and lipid levels in age- and sex -adjusted models, nor after further adjustments for body mass index, diabetes, estrogen and statin use, and duration of anticoagulation.
+28135040_ab15	241	256	anticoagulation	treatment
+
+28135040_ab17|t|
+28135040_ab17|a|Conclusions Testing lipid levels did not identify patients at an increased risk of recurrent venous thrombosis in this study, including those with unprovoked first events, and these should not influence decisions on duration of anticoagulation.
+28135040_ab17	229	244	anticoagulation	treatment
+
+28143560_ab14|t|
+28143560_ab14|a|Alternative insect control methods, in addition to vaccination, may be needed to protect Indian livestock from BTV transmission.
+28143560_ab14	52	63	vaccination	treatment
+
+28144577_ab7|t|
+28144577_ab7|a|Factors related to the patient (age, gender), the nonunion (location, size, chronicity, number of previous procedures, infection, surrounding tissues condition) and the surgical procedure (graft and fixation type, amount of rhBMP-7) were correlated with the development of heterotopic ossification and statistical analysis with Pearsons χ (2) test was performed.
+28144577_ab7	170	188	surgical procedure	treatment
+
+28149591_ti1|t|
+28149591_ti1|a|Non-intubated subxiphoid uniportal video-assisted thoracoscopic thymectomy using glasses-free 3D vision
+28149591_ti1	26	75	uniportal video-assisted thoracoscopic thymectomy	treatment
+28149591_ti1	65	75	thymectomy	treatment
+
+28149591_ab1|t|
+28149591_ab1|a|Trans-sternal thymectomy has long been accepted as the standard surgical procedure for thymic masses.
+28149591_ab1	1	25	Trans-sternal thymectomy	treatment
+28149591_ab1	65	83	surgical procedure	treatment
+
+28149591_ab2|t|
+28149591_ab2|a|Recently, minimally invasive methods, such as video-assisted thoracoscopic surgery (VATS) and, even more recently, non-intubated anesthesia, have emerged.
+28149591_ab2	47	83	video-assisted thoracoscopic surgery	treatment
+28149591_ab2	85	89	VATS	treatment
+28149591_ab2	130	140	anesthesia	treatment
+
+28149591_ab3|t|
+28149591_ab3|a|These methods provide advantages including reductions in surgical trauma, postoperative associated pain, and in regards to VATS, provide certain cosmetic benefits.
+28149591_ab3	124	128	VATS	treatment
+
+28149591_ab4|t|
+28149591_ab4|a|Considering these advantages, we herein present a case of subxiphoid uniportal VATS for thymic mass using a glasses-free 3D thoracoscopic display system.
+28149591_ab4	70	84	uniportal VATS	treatment
+
+28150347_ab1|t|
+28150347_ab1|a|Dietary recommendations for adults with diabetes are to follow a healthy diet in appropriate portion sizes.
+28150347_ab1	66	78	healthy diet	treatment
+
+28152097_ti1|t|
+28152097_ti1|a|Minimally invasive percutaneous nephrolithotomy improves stone-free rates for impacted proximal ureteral stones: A systematic review and meta-analysis
+28152097_ti1	20	48	percutaneous nephrolithotomy	treatment
+
+28152097_ab2|t|
+28152097_ab2|a|The aim of this study was to compare the efficacy and safety of minimally invasive percutaneous nephrolithotomy (MI - PCNL) and ureteroscopic lithotripsy (URL) in the treatment of IPUS via a meta-analysis.
+28152097_ab2	84	112	percutaneous nephrolithotomy	treatment
+28152097_ab2	119	123	PCNL	treatment
+28152097_ab2	129	154	ureteroscopic lithotripsy	treatment
+28152097_ab2	156	159	URL	treatment
+
+28152097_ab6|t|
+28152097_ab6|a|Five prospective studies were included in our meta-analysis, with 242 MI - PCNL and 256 URL cases.
+28152097_ab6	76	80	PCNL	treatment
+28152097_ab6	89	92	URL	treatment
+
+28152097_ab7|t|
+28152097_ab7|a|MI - PCNL was associated with a longer postoperative hospital stay than URL (SMD, 3.14; 95% CI, 1.27 to 5.55).
+28152097_ab7	6	10	PCNL	treatment
+28152097_ab7	73	76	URL	treatment
+
+28152097_ab9|t|
+28152097_ab9|a|In addition, MI - PCNL had higher initial (OR, 11.12; 95% CI, 5.56 to 22.24) and overall stone-free rates (OR, 8.70; 95% CI, 3.23 to 23.45) than URL, along with lower possibilities of surgical conversion (OR, 0.11; 95% CI, 0.03 to 0.49) and postoperative shock wave lithotripsy (OR, 0.06; 95% CI, 0.02 to 0.18).
+28152097_ab9	19	23	PCNL	treatment
+28152097_ab9	146	149	URL	treatment
+28152097_ab9	185	204	surgical conversion	treatment
+28152097_ab9	256	278	shock wave lithotripsy	treatment
+
+28152097_ab10|t|
+28152097_ab10|a|Regarding complications, no significant differences were observed between MI - PCNL and URL (OR, 1.39; 95% CI, 0.93 to 2.10), except for hematuria (OR, 4.80; 95% CI, 1.45 to 15.94).
+28152097_ab10	80	84	PCNL	treatment
+28152097_ab10	89	92	URL	treatment
+
+28152097_ab11|t|
+28152097_ab11|a|MI - PCNL is optimal and should be considered as the preferred treatment method for IPUS, as it has better efficacy and a safety profile similar to that of URL.
+28152097_ab11	6	10	PCNL	treatment
+28152097_ab11	157	160	URL	treatment
+
+28154341_ti1|t|
+28154341_ti1|a|Predictive Factors for Long-term Outcome of Subthalamic Nucleus Deep Brain Stimulation for Parkinson's Disease
+28154341_ti1	65	87	Deep Brain Stimulation	treatment
+
+28154341_ab1|t|
+28154341_ab1|a|Despite the recognition of the usefulness of subthalamic nucleus deep brain stimulation (STN - DBS) for the treatment of Parkinson's disease (PD), preoperative predictive factors for the long-term outcome of STN - DBS are not sufficiently established.
+28154341_ab1	66	88	deep brain stimulation	treatment
+28154341_ab1	96	99	DBS	treatment
+28154341_ab1	215	218	DBS	treatment
+
+28154341_ab3|t|
+28154341_ab3|a|The subjects were 66 patients who were classified into two groups on the basis of their activities of daily living (ADL) evaluated five years after the STN - DBS surgery: 33 patients were assigned to the independent ADL group (group I) and the remaining 33 patients to the dependent ADL group (group D).
+28154341_ab3	159	162	DBS	treatment
+28154341_ab3	163	170	surgery	treatment
+
+28154341_ab7|t|
+28154341_ab7|a|Statistically significant differences were noted in PD onset age, age at surgery, preoperative unified Parkinson's disease rating scale (UPDRS) part I score, part II score, total subscore for axial symptoms in part III, mini-mental state examination (MMSE) score and S&E score.
+28154341_ab7	74	81	surgery	treatment
+
+28154341_ab8|t|
+28154341_ab8|a|Multiple logistic regression analysis showed that the significant independent variables related to long-term independent ADL were the age at surgery, MMSE score and preoperative S&E scale score during the off-period.
+28154341_ab8	142	149	surgery	treatment
+
+28154341_ab9|t|
+28154341_ab9|a|The PD onset age, age at surgery, preoperative high - level ADL, cognitive function, and axial symptoms are important predictive factors for the long-term outcome of STN - DBS.
+28154341_ab9	26	33	surgery	treatment
+28154341_ab9	173	176	DBS	treatment
+
+28165738_ab2|t|
+28165738_ab2|a|However, the application of oridonin for cancer therapy was hampered primarily by its moderate potency.
+28165738_ab2	42	56	cancer therapy	treatment
+
+28167866_ti1|t|
+28167866_ti1|a|The Role of Metal-on-Metal Bearings in Total Hip Arthroplasty and Hip Resurfacing: Review Article
+28167866_ti1	40	62	Total Hip Arthroplasty	treatment
+28167866_ti1	67	82	Hip Resurfacing	treatment
+
+28167866_ab1|t|
+28167866_ab1|a|The current role of metal-on-metal (MoM) bearings in hip arthroplasty remains controversial.
+28167866_ab1	54	70	hip arthroplasty	treatment
+
+28167866_ab4|t|
+28167866_ab4|a|The purpose of this paper is to provide an update on the use of MoM bearings and address the following issues: (1) the reintroduction of metal-on-metal bearings in total hip arthroplasty, (2) the failure of metal-on-metal bearings in stemmed total hip arthroplasty, (3) the role of metal-on-metal hip resurfacing in modern orthopaedics and (4) metal-on-metal hip resurfacing versus total hip arthroplasty.
+28167866_ab4	165	187	total hip arthroplasty	treatment
+28167866_ab4	235	265	stemmed total hip arthroplasty	treatment
+28167866_ab4	283	313	metal-on-metal hip resurfacing	treatment
+28167866_ab4	345	375	metal-on-metal hip resurfacing	treatment
+28167866_ab4	383	405	total hip arthroplasty	treatment
+
+28167866_ab7|t|
+28167866_ab7|a|Key search terms included ' metal-on-metal ', ' total hip arthroplasty ' and ' hip resurfacing '.
+28167866_ab7	49	71	total hip arthroplasty	treatment
+28167866_ab7	80	95	hip resurfacing	treatment
+
+28167866_ab11|t|
+28167866_ab11|a|Continued follow-up of patients undergoing metal-on-metal hip resurfacing is critical in order to further understand the long-term outcomes of these patients and why certain complications tend to occur with this procedure.
+28167866_ab11	44	74	metal-on-metal hip resurfacing	treatment
+
+28197965_ti1|t|
+28197965_ti1|a|Allogeneic stem cell transplantation for adult patients with acute lymphoblastic leukemia who had central nervous system involvement: a study from the Adult ALL Working Group of the Japan Society for Hematopoietic Cell Transplantation
+28197965_ti1	1	37	Allogeneic stem cell transplantation	treatment
+28197965_ti1	201	235	Hematopoietic Cell Transplantation	treatment
+
+28197965_ab1|t|
+28197965_ab1|a|The prognosis for adult acute lymphoblastic leukemia (ALL) patients with central nervous system (CNS) involvement (CNS+) who received allogeneic hematopoietic stem cell transplantation (allo-SCT) remains unclear.
+28197965_ab1	135	185	allogeneic hematopoietic stem cell transplantation	treatment
+28197965_ab1	187	195	allo-SCT	treatment
+
+28197965_ab2|t|
+28197965_ab2|a|We retrospectively compared the outcomes of allo-SCT for patients with CNS involvement and for patients without CNS involvement (CNS-) using a database in Japan.
+28197965_ab2	45	53	allo-SCT	treatment
+
+28197965_ab3|t|
+28197965_ab3|a|The eligibility criteria for this study were as follows: diagnosis of ALL, aged more than 16 years, allo-SCT between 2005 and 2012, and first SCT.
+28197965_ab3	101	109	allo-SCT	treatment
+28197965_ab3	143	146	SCT	treatment
+
+28197965_ab5|t|
+28197965_ab5|a|As compared with CNS- patients, CNS+ patients were younger, had worse disease status at SCT and had poorer performance status (PS) at SCT (P < 0.01).
+28197965_ab5	89	92	SCT	treatment
+28197965_ab5	135	138	SCT	treatment
+
+28197965_ab8|t|
+28197965_ab8|a|However, in patients who received SCT in CR, there was no difference in the probability of OS between CNS+ and CNS- patients (P = 0.38) and CNS involvement did not have an unfavorable effect on OS by multivariate analysis.
+28197965_ab8	35	38	SCT	treatment
+
+28203067_ab11|t|
+28203067_ab11|a|Enhancing the mobility of geriatric patients through suitably tailored kinesitherapeutic methods during their hospital stay may mitigate the burden endured by FCs.
+28203067_ab11	72	97	kinesitherapeutic methods	treatment
+
+28208923_ti1|t|
+28208923_ti1|a|Long Term Outcome in Patients with Esophageal Stenting for Cancer Esophagus - Our Experience at a Rural Hospital of Punjab, India
+28208923_ti1	36	55	Esophageal Stenting	treatment
+
+28208923_ab3|t|
+28208923_ab3|a|Palliative procedures have important roles in this setting.
+28208923_ab3	1	22	Palliative procedures	treatment
+
+28208923_ab4|t|
+28208923_ab4|a|Stenting is the best option to palliate the symptoms of dysphagia, from which patient is suffering the most.
+28208923_ab4	1	9	Stenting	treatment
+
+28208923_ab5|t|
+28208923_ab5|a|To know the success rate, early and long term complications and mortality in esophageal stenting, when it was done in malignant esophageal stricture patients.
+28208923_ab5	78	97	esophageal stenting	treatment
+
+28208923_ab6|t|
+28208923_ab6|a|One hundred patients, who had undergone esophageal stenting from January 2012 to January 2015, were included in the study.
+28208923_ab6	41	60	esophageal stenting	treatment
+
+28208923_ab8|t|
+28208923_ab8|a|Out of 100 patients, indications for stenting were locally advanced disease not amenable to surgery (52%), metastatic disease (35%), CVA (1%), cardiac and respiratory problem (8%), un-willing for surgery in 5% of patients.
+28208923_ab8	38	46	stenting	treatment
+28208923_ab8	93	100	surgery	treatment
+28208923_ab8	197	204	surgery	treatment
+
+28208923_ab12|t|
+28208923_ab12|a|After stenting 93% had significant improvement in dysphagia score from median of 3 to 1.
+28208923_ab12	7	15	stenting	treatment
+
+28208923_ab14|t|
+28208923_ab14|a|One patient had procedure related major complication in the form of post procedural bleed (after 16 days of stenting) leading to death of that patient.
+28208923_ab14	109	117	stenting	treatment
+
+28208923_ab16|t|
+28208923_ab16|a|These include pain after stenting (38%), stent obstruction (23%) and stent migration (6%).
+28208923_ab16	26	34	stenting	treatment
+
+28208923_ab17|t|
+28208923_ab17|a|All the minor complications were treated conservatively except in six patients in whom re-stenting was done.
+28208923_ab17	88	99	re-stenting	treatment
+
+28208923_ab18|t|
+28208923_ab18|a|Esophageal stenting is relatively safe procedure with short stay of the patient in the hospital.
+28208923_ab18	1	20	Esophageal stenting	treatment
+
+28209454_ti1|t|
+28209454_ti1|a|Treatment of Carcinoma In Situ of the Glans Penis With Topical Imiquimod Followed by Carbon Dioxide Laser Excision
+28209454_ti1	107	115	Excision	treatment
+
+28209454_ab1|t|
+28209454_ab1|a|Different approaches have been described in published studies for carcinoma in situ (CIS) of the glans penis (erythroplasia of Queyrat), including topical chemotherapy or immunotherapy and laser or surgical excision.
+28209454_ab1	148	168	topical chemotherapy	treatment
+28209454_ab1	172	185	immunotherapy	treatment
+28209454_ab1	199	216	surgical excision	treatment
+
+28209454_ab8|t|
+28209454_ab8|a|The 2 patients with progressive disease underwent total penectomy.
+28209454_ab8	57	66	penectomy	treatment
+
+28209945_ti1|t|
+28209945_ti1|a|Effects of Static Cold Storage and Hypothermic Machine Perfusion on Oxidative Stress Factors, Adhesion Molecules, and Zinc Finger Transcription Factor Proteins Before and After Liver Transplantation
+28209945_ti1	36	65	Hypothermic Machine Perfusion	treatment
+28209945_ti1	178	199	Liver Transplantation	treatment
+
+28209945_ab1|t|
+28209945_ab1|a|BACKGROUND This study aimed to investigate the effects of static cold storage (SCS) and hypothermic machine perfusion (HMP) on the oxidative stress factors (OSF), adhesion molecules (AM), and zinc finger transcription factor (Snail) before and after liver transplantation.
+28209945_ab1	89	118	hypothermic machine perfusion	treatment
+28209945_ab1	120	123	HMP	treatment
+28209945_ab1	251	272	liver transplantation	treatment
+
+28209945_ab2|t|
+28209945_ab2|a|MATERIAL AND METHODS Experimental dogs were randomly divided into donor (group A), SCS (group B), and HMP (group C) (n=30) groups.
+28209945_ab2	103	106	HMP	treatment
+
+28209945_ab3|t|
+28209945_ab3|a|Livers retrieved from group A were transplanted into group B after SCS, and the livers sampled from group B were transplanted into group C after HMP.
+28209945_ab3	146	149	HMP	treatment
+
+28209945_ab5|t|
+28209945_ab5|a|Twenty dogs with successful liver transplants were randomly selected from groups B and C for analysis.
+28209945_ab5	29	46	liver transplants	treatment
+
+28209945_ab6|t|
+28209945_ab6|a|RESULTS During the liver sampling process, the levels of OSF, AM, and Snail between the 2 groups showed no significant differences (P>0.05); before the transplantation, the levels of chemokine CXCL14 and Snail between the 2 groups showed no significant differences (P>0.05), and compared with group B, HIF-1α and P-selectin in group C were lower (P<0.01); 60 min after the transplantation, HIF-1α, chemokine CXCL14, P-selectin, and Snail in group C were lower than that in group B (P<0.01).
+28209945_ab6	153	168	transplantation	treatment
+28209945_ab6	374	389	transplantation	treatment
+
+28209945_ab7|t|
+28209945_ab7|a|CONCLUSIONS HMP can significantly reduce the levels of OSF and inflammatory factors, which is conducive for liver transplantation.
+28209945_ab7	13	16	HMP	treatment
+28209945_ab7	109	130	liver transplantation	treatment
+
+28215507_ab1|t|
+28215507_ab1|a|To examine characteristics and survival outcomes of women with surgically-treated cervical cancer exhibiting uterine corpus tumor invasion.
+28215507_ab1	64	82	surgically-treated	treatment
+
+28215507_ab2|t|
+28215507_ab2|a|We utilized The Surveillance, Epidemiology, and End Results Program to identify cervical cancer patients who underwent hysterectomy between 1973 and 2003.
+28215507_ab2	120	132	hysterectomy	treatment
+
+28221291_ab12|t|
+28221291_ab12|a|Despite early and appropriate surgical management, complications and the need for revision surgery are relatively common.
+28221291_ab12	83	99	revision surgery	treatment
+
+28229061_ab12|t|
+28229061_ab12|a|All patients had jaw resections, and these consisted of mandibulectomies in nine (60.0%) patients and maxillectomies in six (40.0%) patients.
+28229061_ab12	18	32	jaw resections	treatment
+28229061_ab12	57	73	mandibulectomies	treatment
+28229061_ab12	103	117	maxillectomies	treatment
+
+28234635_ab1|t|
+28234635_ab1|a|Although liver disease is a major complication of parenteral nutrition (PN) for intestinal failure (IF), its pathogenesis remains unclear.
+28234635_ab1	51	71	parenteral nutrition	treatment
+28234635_ab1	73	75	PN	treatment
+
+28234635_ab3|t|
+28234635_ab3|a|Liver expression of canalicular phospholipid (ABCB4), bile acid (ABCB11), and sterol (ABCG5/8) transporters, their upstream regulators LXR and FXR as well as pro-inflammatory cytokines interleukin-6 (IL6) and tumor necrosis factor (TNF) were investigated among patients with IF [age median 3.8 (IQR 1.2 to 11)] in relation to biochemical and histologic liver injury, PN, serum plant sterols, fibroblast growth factor 19, and α-tocopherol.
+28234635_ab3	368	370	PN	treatment
+
+28234635_ab4|t|
+28234635_ab4|a|Patients receiving PN currently (n = 18) showed more advanced liver injury than patients after weaning off PN (n = 30).
+28234635_ab4	20	22	PN	treatment
+28234635_ab4	108	110	PN	treatment
+
+28234635_ab5|t|
+28234635_ab5|a|Histologic portal inflammation strongly segregated PN - dependent (44%) from weaned off patients (3%, P = 0.001) and coupled with progression of cholestasis and liver fibrosis.
+28234635_ab5	52	54	PN	treatment
+
+28234635_ab8|t|
+28234635_ab8|a|Current PN, increased serum levels of plant sterols stigmasterol, avenasterol, and sitosterol along with serum citrulline, a marker of enterocyte mass, predicted portal inflammation.
+28234635_ab8	9	11	PN	treatment
+
+28234635_ab9|t|
+28234635_ab9|a|In pediatric onset IF, current PN delivery synergistically with intestinal compromise promote liver inflammation, which associates with progression of biochemical and histologic liver injury, while reducing expression of canalicular bile transporters.
+28234635_ab9	32	34	PN	treatment
+
+28236586_ab13|t|
+28236586_ab13|a|Disability was highly prevalent in older cancer outpatients before cancer treatment but was not associated with oncologic factors.
+28236586_ab13	68	84	cancer treatment	treatment
+
+28236586_ab15|t|
+28236586_ab15|a|Identifying these factors prior to cancer treatment could enable the implementation of corrective actions to improve patient autonomy before treatment and during follow-up.
+28236586_ab15	36	52	cancer treatment	treatment
+
+28237953_ti1|t|
+28237953_ti1|a|Evaluating the relative effectiveness of high-intensity and low-intensity models of behaviour change communication interventions for abortion care-seeking in Bihar and Jharkhand, India: a cross-sectional study
+28237953_ti1	102	129	communication interventions	treatment
+
+28237953_ab1|t|
+28237953_ab1|a|This study aimed to compare the effectiveness of a high-intensity model (HIM) and a low-intensity model (LIM) of behaviour change communication interventions in Bihar and Jharkhand states of India designed to improve women's knowledge and usage of safe abortion services, as well as the dose effect of intervention exposure.
+28237953_ab1	131	158	communication interventions	treatment
+
+28241859_ti1|t|
+28241859_ti1|a|Human amnion epithelial cells rescue cell death via immunomodulation of microglia in a mouse model of perinatal brain injury
+28241859_ti1	53	69	immunomodulation	treatment
+
+28241859_ab3|t|
+28241859_ab3|a|The immunomodulatory properties of hAECs have been shown in other animal models, but a detailed investigation of the effects on brain immune cells following injury has not been undertaken.
+28241859_ab3	5	21	immunomodulatory	treatment
+
+28243201_ti1|t|
+28243201_ti1|a|Identification of Predictive DNA Methylation Biomarkers for Chemotherapy Response in Colorectal Cancer
+28243201_ti1	61	73	Chemotherapy	treatment
+
+28243201_ab3|t|
+28243201_ab3|a|This study aimed to determine the methylation phenotype in CRC for identification of predictive markers for chemotherapy response.
+28243201_ab3	109	121	chemotherapy	treatment
+
+28244917_ab1|t|
+28244917_ab1|a|Patellofemoral complications are a major cause of revision surgery following total knee arthroplasty (TKA).
+28244917_ab1	51	67	revision surgery	treatment
+28244917_ab1	78	101	total knee arthroplasty	treatment
+28244917_ab1	103	106	TKA	treatment
+
+28244917_ab4|t|
+28244917_ab4|a|Ten normal knees, 10 treated with an LCS-PS (low contact stress-posterior stabilized) TKA (anatomically shaped patellar component), and 10 treated with a PFC Sigma RP-PS (press-fit condylar Sigma rotating platform-posterior stabilized) TKA (domed patellar component) were analyzed under fluoroscopic surveillance while the patient performed a weight-bearing deep knee bend from full knee extension to maximum knee flexion.
+28244917_ab4	38	90	LCS-PS (low contact stress-posterior stabilized) TKA	treatment
+28244917_ab4	155	240	PFC Sigma RP-PS (press-fit condylar Sigma rotating platform-posterior stabilized) TKA	treatment
+
+28244917_ab9|t|
+28244917_ab9|a|The contact areas in the TKA groups peaked at 60° of knee flexion (mean and standard deviation, 201 ± 63.4 mm for the LCS-PS group and 218 ± 95.4 mm for the Sigma RP-PS group), and the areas were substantially smaller than those previously reported for the normal patella.
+28244917_ab9	26	29	TKA	treatment
+
+28244917_ab10|t|
+28244917_ab10|a|Contact points in the TKA groups stayed close to the center of the patellar components.
+28244917_ab10	23	26	TKA	treatment
+
+28245342_ti1|t|
+28245342_ti1|a|Assessment of the Extravascular Implantable Defibrillator: Feasibility of Substernal Ventricular Pacing
+28245342_ti1	75	104	Substernal Ventricular Pacing	treatment
+
+28245342_ab1|t|
+28245342_ab1|a|The objective of this study was to assess feasibility of ventricular pacing and thresholds from within the substernal space to examine a new extravascular ICD configuration with pacing capabilities.
+28245342_ab1	58	76	ventricular pacing	treatment
+
+28245342_ab2|t|
+28245342_ab2|a|In patients undergoing midline sternotomy, a duodecapolar diagnostic pacing catheter was positioned in the substernal space anterior to the pericardium, and a cutaneous patch in left lateral position.
+28245342_ab2	24	42	midline sternotomy	treatment
+
+28245342_ab10|t|
+28245342_ab10|a|Ventricular pacing from the substernal space in patients with midline sternotomy is feasible.
+28245342_ab10	1	19	Ventricular pacing	treatment
+28245342_ab10	63	81	midline sternotomy	treatment
+
+28251683_ti1|t|
+28251683_ti1|a|Limb remote ischaemic postconditioning - induced elevation of fibulin-5 confers neuroprotection to rats with cerebral ischaemia / reperfusion injury: Activation of the AKT pathway
+28251683_ti1	6	39	remote ischaemic postconditioning	treatment
+
+28251683_ab1|t|
+28251683_ab1|a|Limb remote ischaemic postconditioning (RIPostC) is an effective and well-acknowledged treatment for brain ischaemia injury.
+28251683_ab1	6	39	remote ischaemic postconditioning	treatment
+28251683_ab1	41	48	RIPostC	treatment
+
+28251683_ab2|t|
+28251683_ab2|a|The present study aimed to evaluate the role of fibulin-5 in the neuroprotection of RIPostC against cerebral ischaemia / reperfusion (I/R) injury in rats.
+28251683_ab2	85	92	RIPostC	treatment
+
+28251683_ab3|t|
+28251683_ab3|a|The middle cerebral artery occlusion (MCAO) model was established in rats and then RIPostC was carried out by three cycles of 10 minutes occlusion /10 minutes release of the bilateral femoral artery at the beginning of the reperfusion.
+28251683_ab3	84	91	RIPostC	treatment
+28251683_ab3	224	235	reperfusion	treatment
+
+28251683_ab5|t|
+28251683_ab5|a|According to our present study, RIPostC attenuated cerebral I / R injury by decreasing infarct volume, improving neurobehavioral score and suppressing blood brain barrier (BBB) leakage.
+28251683_ab5	33	40	RIPostC	treatment
+
+28251683_ab6|t|
+28251683_ab6|a|Moreover, the mRNA and protein levels of fibulin-5 were upregulated by RIPostC at 24 hours and 72 hours after reperfusion.
+28251683_ab6	72	79	RIPostC	treatment
+28251683_ab6	111	122	reperfusion	treatment
+
+28251683_ab7|t|
+28251683_ab7|a|Downregulation of fibulin-5 attenuated the neuroprotection of RIPostC.
+28251683_ab7	63	70	RIPostC	treatment
+
+28251683_ab8|t|
+28251683_ab8|a|Finally, the result showed that fibulin-5 was upregulated by RIPostC via activation of the PI3K/AKT pathway.
+28251683_ab8	62	69	RIPostC	treatment
+
+28251683_ab9|t|
+28251683_ab9|a|Taken together, these results provide evidence that upregulation of fibulin-5 is involved in the beneficial effect of RIPostC against cerebral I / R injury.
+28251683_ab9	119	126	RIPostC	treatment
+
+28260547_ti1|t|
+28260547_ti1|a|Surrogate inaccuracy in predicting older adults' desire for life-sustaining interventions in the event of decisional incapacity: is it due in part to erroneous quality-of-life assessments?
+28260547_ti1	61	90	life-sustaining interventions	treatment
+
+28260547_ab10|t|
+28260547_ab10|a|Discrepant quality-of-life ratings are associated with surrogates' difficulty in predicting desire for life-sustaining interventions in hypothetical situations.
+28260547_ab10	104	133	life-sustaining interventions	treatment
+
+28265530_ab5|t|
+28265530_ab5|a|Wedge biopsy was taken from the upper pole of the testicle (site of the mass) for tissue diagnosis followed by orchidopexy.
+28265530_ab5	112	123	orchidopexy	treatment
+
+28265530_ab7|t|
+28265530_ab7|a|Although splenogonadal fusion is a rare condition, surgeons should be aware of this rare disease entity to avoid unnecessary aggressive interventions such as orchiectomy.
+28265530_ab7	159	170	orchiectomy	treatment
+
+28269453_ab4|t|
+28269453_ab4|a|The proposed model provides a device to predict future endurance of a test subject following particular exercise regime.
+28269453_ab4	105	120	exercise regime	treatment
+
+28269453_ab5|t|
+28269453_ab5|a|This facilitates a test user with a fitness planner with the provision to fix exercise regimes to reach a set fitness goal.
+28269453_ab5	79	95	exercise regimes	treatment
+
+28271342_ab2|t|
+28271342_ab2|a|The medical records of patients scheduled to receive curative surgery for histologically proven rectal adenocarcinoma during 2009-2015 were investigated (n = 230).
+28271342_ab2	54	70	curative surgery	treatment
+
+28271600_ti1|t|
+28271600_ti1|a|Natural orifice transluminal endoscopic surgery with a snake-mechanism using a movable pulley
+28271600_ti1	1	48	Natural orifice transluminal endoscopic surgery	treatment
+
+28271600_ab1|t|
+28271600_ab1|a|Natural orifice transluminal endoscopic surgery is an emerging technique.
+28271600_ab1	1	48	Natural orifice transluminal endoscopic surgery	treatment
+
+28271600_ab2|t|
+28271600_ab2|a|We aimed to develop an advanced surgical robot mechanism for natural orifice surgery.
+28271600_ab2	62	85	natural orifice surgery	treatment
+
+28271600_ab6|t|
+28271600_ab6|a|Using prototypes and ex vivo experiments, we confirmed that the mechanism was suitable for a snake-like robotic platform for natural orifice surgery.
+28271600_ab6	126	149	natural orifice surgery	treatment
+
+28271600_ab8|t|
+28271600_ab8|a|This new mechanism can be an alternative platform for natural orifice surgery.
+28271600_ab8	55	78	natural orifice surgery	treatment
+
+28273482_ab6|t|
+28273482_ab6|a|While digestive enzyme supplementation was ineffective, treatments constraining bacterial outgrowth (purified liquid diet, broad-spectrum antibiotics) rescued survival, feeding, and weight gain.
+28273482_ab6	111	122	liquid diet	treatment
+
+28274077_ti1|t|
+28274077_ti1|a|Palliative Care with Attachment Hybrid Removable Prosthesis
+28274077_ti1	33	60	Hybrid Removable Prosthesis	treatment
+
+28282592_ab1|t|
+28282592_ab1|a|Atrial fibrillation (AF) is difficult to treat effectively, owing to uncertainty in where to best ablate to eliminate arrhythmogenic substrate.
+28282592_ab1	99	105	ablate	treatment
+
+28282592_ab2|t|
+28282592_ab2|a|A model providing insight into the electrical activation events would be useful to guide catheter ablation strategy.
+28282592_ab2	90	116	catheter ablation strategy	treatment
+
+28283668_ab1|t|
+28283668_ab1|a|A prospective, randomised, non-blinded, clinical study to assess the effect of peritoneal lavage using warmed fluid on body temperature in anesthetised cats and dogs of less than 10 kg body mass undergoing coeliotomy.
+28283668_ab1	207	217	coeliotomy	treatment
+
+28283668_ab4|t|
+28283668_ab4|a|At the end of surgery, group 1 patients (n=10) were lavaged with 200 ml/kg sterile isotonic saline at 34±1°C and group 2 (n=10) at 40±1°C.
+28283668_ab4	15	22	surgery	treatment
+
+28283668_ab6|t|
+28283668_ab6|a|Duration of anaesthesia, surgical procedures and peritoneal lavage was similar between groups.
+28283668_ab6	13	24	anaesthesia	treatment
+28283668_ab6	26	45	surgical procedures	treatment
+
+28283668_ab7|t|
+28283668_ab7|a|Linear regression showed no significant change in oesophageal temperature during the lavage period for group 1 (P=0.64), but a significant increase for group 2 patients (P<0.0001), with mean temperature changes of -0.5°C (from (36.3°C to 35.9°C) and +0.9°C (from 35.4°C to 36.3°C), respectively.
+28283668_ab7	86	92	lavage	treatment
+
+28283668_ab9|t|
+28283668_ab9|a|The use of isotonic crystalloid solution for peritoneal lavage at a temperature of 40±1°C significantly warms small animal patients, when applied in a clinical setting, compared with lavage solution at 34±1°C.
+28283668_ab9	184	190	lavage	treatment
+
+28286021_ti1|t|
+28286021_ti1|a|Role of breast magnetic resonance imaging in predicting residual lobular carcinoma in situ after initial excision
+28286021_ti1	106	114	excision	treatment
+
+28286021_ab2|t|
+28286021_ab2|a|This study aimed to evaluate the effectiveness of breast MR imaging in detecting remnant LCIS lesions after initial excision.
+28286021_ab2	117	125	excision	treatment
+
+28286021_ab3|t|
+28286021_ab3|a|Between 2011 and 2015, 29 patients with LCIS who underwent initial excision were enrolled.
+28286021_ab3	68	76	excision	treatment
+
+28286021_ab4|t|
+28286021_ab4|a|Breast ultrasonography and breast MR imaging was conducted after initial excision.
+28286021_ab4	74	82	excision	treatment
+
+28286021_ab6|t|
+28286021_ab6|a|There were nine (31.0%) cases with positive margins after initial excision; they were LCIS (n=8) and atypical lobular hyperplasia (n=1).
+28286021_ab6	67	75	excision	treatment
+
+28287035_ti1|t|
+28287035_ti1|a|Biological basis of radiation protection needs rejuvenation
+28287035_ti1	21	41	radiation protection	treatment
+
+28287035_ab2|t|
+28287035_ab2|a|Limits for radiation exposures are legally regulated; however, current radiation protection policy does not explicitly acknowledge that biological, cellular and molecular effects of low doses and low dose rates of radiation differ from effects induced by medium and high dose radiation exposures.
+28287035_ab2	72	92	radiation protection	treatment
+
+28287035_ab5|t|
+28287035_ab5|a|Mechanistic understanding of radiation effects at low doses is necessary in order to develop better radiation protection policy.
+28287035_ab5	101	121	radiation protection	treatment
+
+28289065_ab4|t|
+28289065_ab4|a|A total of 680 radical prostatectomies (RPs) from 2005 to 2014 were included.
+28289065_ab4	16	39	radical prostatectomies	treatment
+28289065_ab4	41	44	RPs	treatment
+
+28289065_ab5|t|
+28289065_ab5|a|GS from initial biopsy and RP were compared and used to allocate cases to GG, defined as: 1 (GS ≤6); 2 (GS 3+4=7); 3 (GS 4+3=7); 4 (GS 4+4=8/5+3=8/3+5=8) and 5 (GS 9-10).
+28289065_ab5	28	30	RP	treatment
+
+28289065_ab6|t|
+28289065_ab6|a|Biochemical recurrence was defined as two consecutive post- RP prostate-specific antigen (PSA) levels of >0.2 ng/mL after post- RP PSA reaching the nadir of <0.1 ng/mL.
+28289065_ab6	61	63	RP	treatment
+28289065_ab6	129	131	RP	treatment
+
+28289065_ab7|t|
+28289065_ab7|a|Our data showed that Kaplan-Meier analysis revealed significant differences in biochemical recurrence within Gleason GG based on either biopsy or prostatectomy scoring.
+28289065_ab7	147	160	prostatectomy	treatment
+
+28289065_ab9|t|
+28289065_ab9|a|This GG system had a higher prognostic discrimination for both initial biopsy and RP than GS.
+28289065_ab9	83	85	RP	treatment
+
+28294559_ti1|t|
+28294559_ti1|a|The platelet-activating receptor C-type lectin receptor-2 plays an essential role in liver regeneration after partial hepatectomy in mice
+28294559_ti1	111	130	partial hepatectomy	treatment
+
+28294559_ab1|t|
+28294559_ab1|a|Essentials Regeneration role of C-type lectin receptor-2 (CLEC-2) after 70% hepatectomy (HPx) was investigated.
+28294559_ab1	73	88	70% hepatectomy	treatment
+28294559_ab1	90	93	HPx	treatment
+
+28294559_ab2|t|
+28294559_ab2|a|Wild-type or CLEC-2 deleted from platelets of chimeric mice (flKO) underwent HPx.
+28294559_ab2	78	81	HPx	treatment
+
+28294559_ab4|t|
+28294559_ab4|a|CLEC-2 plays an essential role in liver regeneration after HPx.
+28294559_ab4	60	63	HPx	treatment
+
+28294559_ab5|t|
+28294559_ab5|a|Background and aim The aim of the present study was to investigate the role of C-type lectin receptor (CLEC)-2 in liver regeneration following partial liver resection in mice.
+28294559_ab5	144	167	partial liver resection	treatment
+
+28294559_ab7|t|
+28294559_ab7|a|Mice underwent 70% partial hepatectomy (PH).
+28294559_ab7	16	39	70% partial hepatectomy	treatment
+28294559_ab7	41	43	PH	treatment
+
+28294559_ab16|t|
+28294559_ab16|a|Conclusion CLEC-2 was involved in hepatic regeneration after liver resection and CLEC-2 -related liver regeneration was attributed to the interaction between platelets and sinusoidal endothelial cells.
+28294559_ab16	62	77	liver resection	treatment
+
+28301911_ti1|t|
+28301911_ti1|a|The Prevalence and Clinical Relevance of ASA Nonresponse After Cardiac Surgery
+28301911_ti1	64	79	Cardiac Surgery	treatment
+
+28301911_ab1|t|
+28301911_ab1|a|We aimed to identify the prevalence of acetylsalicylic acid (ASA) nonresponse in patients after coronary artery bypass graft (CABG) surgery and the possible consequences for the rate of major cardiovascular events.
+28301911_ab1	97	140	coronary artery bypass graft (CABG) surgery	treatment
+
+28301911_ab3|t|
+28301911_ab3|a|A total of 400 patients (200 in each study center) undergoing elective CABG surgery were enrolled after written informed consent.
+28301911_ab3	72	84	CABG surgery	treatment
+
+28301911_ab10|t|
+28301911_ab10|a|This study indicates a high incidence of perioperative ASA nonresponse in patients following CABG.
+28301911_ab10	94	98	CABG	treatment
+
+28301911_ab12|t|
+28301911_ab12|a|Therefore, a randomized dosage adjustment trial should elucidate whether a tailored ASA treatment after CABG surgery represents a useful concept.
+28301911_ab12	105	117	CABG surgery	treatment
+
+28326653_ti1|t|
+28326653_ti1|a|The impact of childhood maltreatment on the differential efficacy of CBASP versus escitalopram in patients with chronic depression: A secondary analysis
+28326653_ti1	70	75	CBASP	treatment
+
+28326653_ab1|t|
+28326653_ab1|a|Childhood maltreatment (CM) has been indicated as a predictor of a differential response to antidepressant treatment with psychotherapy compared to medication.
+28326653_ab1	93	117	antidepressant treatment	treatment
+28326653_ab1	123	136	psychotherapy	treatment
+
+28326653_ab2|t|
+28326653_ab2|a|In this secondary analysis, we investigated whether the presence of CM results in a differential indication for the Cognitive Behavioral Analysis System of Psychotherapy (CBASP) or escitalopram plus clinical management (ESC).
+28326653_ab2	117	170	Cognitive Behavioral Analysis System of Psychotherapy	treatment
+28326653_ab2	172	177	CBASP	treatment
+
+28326653_ab3|t|
+28326653_ab3|a|Sixty patients with chronic depression were randomized to either 22 sessions of CBASP or ESC over the course of 8 weeks of acute and 20 weeks of extended treatment at 2 German treatment sites.
+28326653_ab3	81	86	CBASP	treatment
+
+28326653_ab6|t|
+28326653_ab6|a|The presence of CM did not result in significant differences in treatment response to CBASP or ESC on any outcome measure after 28 weeks of treatment independent of the type of CM assessment.
+28326653_ab6	87	92	CBASP	treatment
+
+28326653_ab8|t|
+28326653_ab8|a|Patients with a history of CM receiving CBASP had a significantly lower response rate compared to patients without CM and to those receiving ESC after 8 weeks.
+28326653_ab8	41	46	CBASP	treatment
+
+28326653_ab9|t|
+28326653_ab9|a|Conclusively, CBASP and ESC are equally effective treatment options for the difficult to treat subgroup of patients with chronic depression and a history of CM.
+28326653_ab9	15	20	CBASP	treatment
+
+28326653_ab10|t|
+28326653_ab10|a|CM may be a predictor of a longer latency of treatment response in the case of psychotherapy.
+28326653_ab10	80	93	psychotherapy	treatment
+
+28326653_ab11|t|
+28326653_ab11|a|CBASP and escitalopram are equally effective treatment options for chronic depression.
+28326653_ab11	1	6	CBASP	treatment
+
+28326653_ab13|t|
+28326653_ab13|a|Childhood maltreatment may result in a longer latency of treatment response in the case of psychotherapy.
+28326653_ab13	92	105	psychotherapy	treatment
+
+28326936_ab6|t|
+28326936_ab6|a|This analgesic efficacy is blocked by systemic injection of a group II mGluR antagonist, by intrathecal (spinal) injection of an alpha 2 adrenergic receptor antagonist and by microinjection of an α-amino-3-hydroxy-5-methylisoxazole-4-propionic acid (AMPA) receptor antagonist directly into the contralateral locus coeruleus.
+28326936_ab6	93	123	intrathecal (spinal) injection	treatment
+28326936_ab6	176	190	microinjection	treatment
+
+28326936_ab8|t|
+28326936_ab8|a|Direct injection of GCPII inhibitors into the contralateral or ipsilatera l locus coeruleus reduces both phases of the inflammatory pain response in a dose-dependent manner and the contralateral effect also is blocked by intrathecal injection of an alpha 2 adrenergic receptor antagonist.
+28326936_ab8	222	243	intrathecal injection	treatment
+
+28330678_ti1|t|
+28330678_ti1|a|Acute macular edema and peripapillary soft exudate after pancreas transplantation with accelerated progression of diabetic retinopathy
+28330678_ti1	58	82	pancreas transplantation	treatment
+
+28330678_ab1|t|
+28330678_ab1|a|The effect of pancreas transplantation on diabetic retinopathy remains inconclusive.
+28330678_ab1	15	39	pancreas transplantation	treatment
+
+28330678_ab2|t|
+28330678_ab2|a|Herein, we report six patients with type 1 diabetes mellitus (DM) who underwent pancreas transplantation and developed acute macular edema and peripapillary soft exudate with rapid progression to proliferative diabetic retinopathy.
+28330678_ab2	81	105	pancreas transplantation	treatment
+
+28330678_ab3|t|
+28330678_ab3|a|In this retrospective observational study, diabetic patients who underwent pancreas transplantation in a single medical center and developed symptomatic acute macular edema and peripapillary soft exudate within 3 months after the operation were enrolled.
+28330678_ab3	76	100	pancreas transplantation	treatment
+
+28330678_ab5|t|
+28330678_ab5|a|Diabetic retinopathy and progression following treatment after pancreas transplantation were measured.
+28330678_ab5	64	88	pancreas transplantation	treatment
+
+28330678_ab7|t|
+28330678_ab7|a|Mean hemoglobin (Hb) A1c was 13.4% prior to transplantation and decreased rapidly to 6.5% within 2 months postsurgery.
+28330678_ab7	45	60	transplantation	treatment
+
+28330678_ab8|t|
+28330678_ab8|a|The patients had no or mild pretransplant diabetic retinopathy and developed acute symptomatic macular edema and peripapillary soft exudate in both eyes after pancreas transplantation.
+28330678_ab8	160	184	pancreas transplantation	treatment
+
+28330678_ab10|t|
+28330678_ab10|a|Five cases progressed to proliferative diabetic retinopathy and received panretinal photocoagulation.
+28330678_ab10	74	101	panretinal photocoagulation	treatment
+
+28330678_ab12|t|
+28330678_ab12|a|Acute macular edema after pancreas transplantation has a favorable treatment outcome despite rapid progression to proliferative diabetic retinopathy.
+28330678_ab12	27	51	pancreas transplantation	treatment
+
+28338247_ab4|t|
+28338247_ab4|a|The primary outcome was a composite administration of intravenous fluid resuscitation in the first 24 h, insulin bolus and initial insulin infusion rate.
+28338247_ab4	55	86	intravenous fluid resuscitation	treatment
+
+28338247_ab7|t|
+28338247_ab7|a|Compliance for individual components was 26.7% versus 70.9% for fluid resuscitation (P = 0.0001), 55% versus 49.1% for insulin bolus (P = 0.58) and 60% versus 81.3% for initial insulin infusion rate (P = 0.014), respectively.
+28338247_ab7	65	84	fluid resuscitation	treatment
+
+28338247_ab9|t|
+28338247_ab9|a|Implementation of a computerised DKA order set and protocol was associated with improved compliance to the 2009 ADA DKA guidelines, 24-h fluid resuscitation, initial insulin infusion rate, time to DKA resolution and appropriate transition to subcutaneous insulin.
+28338247_ab9	138	157	fluid resuscitation	treatment
+
+28339928_ab4|t|
+28339928_ab4|a|The review highlights methodological quality assessment of the selected studies; prevalence of pain; type, dose, and reason for opioid use; effectiveness of pain control and associated adverse effects of opioids in CKD patients.
+28339928_ab4	158	170	pain control	treatment
+
+28353042_ab6|t|
+28353042_ab6|a|Co-administration of PAAE along with HF diet significantly ameliorated all these alterations.
+28353042_ab6	1	18	Co-administration	treatment
+
+28358612_ab4|t|
+28358612_ab4|a|The kestrel and eagle were treated unsuccessfully with gastroscopy and gastric lavage, respectively, followed by surgical intervention to remove the ventricular impactions.
+28358612_ab4	72	86	gastric lavage	treatment
+
+28358612_ab6|t|
+28358612_ab6|a|The peregrine falcon died before medical or surgical intervention was started, and the owl was managed successfully with oral mineral oil and liquid diet to facilitate egestion of the foreign material as a pellet.
+28358612_ab6	143	154	liquid diet	treatment
+
+28373959_ab2|t|
+28373959_ab2|a|More awareness about urogenital trauma from urinary catheterization is needed, as it is as common as symptomatic urinary tract infections.
+28373959_ab2	45	68	urinary catheterization	treatment
+
+28373959_ab3|t|
+28373959_ab3|a|There are a number of preventable measures that can be taken to decrease the risk of mechanical trauma to the urethra and glans penis caused by chronic catheterization.
+28373959_ab3	153	168	catheterization	treatment
+
+28375449_ti1|t|
+28375449_ti1|a|Modified anastomotic technique for thoracolaparoscopic Ivor-Lewis esophagectomy: early outcomes and technical details
+28375449_ti1	10	31	anastomotic technique	treatment
+28375449_ti1	36	80	thoracolaparoscopic Ivor-Lewis esophagectomy	treatment
+
+28375449_ab1|t|
+28375449_ab1|a|Thoracoscopic intrathoracic esophagogastrostomy is a technically demanding operation; these technical requirements restrict the extensive application of minimally invasive Ivor-Lewis esophagectomy.
+28375449_ab1	1	48	Thoracoscopic intrathoracic esophagogastrostomy	treatment
+28375449_ab1	173	197	Ivor-Lewis esophagectomy	treatment
+
+28375449_ab2|t|
+28375449_ab2|a|In an attempt to reduce the difficulty of this surgical procedure, this study developed a modified anastomotic technique for thoracolaparoscopic Ivor-Lewis esophagectomy.
+28375449_ab2	48	66	surgical procedure	treatment
+28375449_ab2	100	121	anastomotic technique	treatment
+28375449_ab2	126	170	thoracolaparoscopic Ivor-Lewis esophagectomy	treatment
+
+28375449_ab3|t|
+28375449_ab3|a|During the entirety of this modified approach, neither technically challenging operations such as intrathoracic suturing or knotting, nor special instruments such as an OrVil system or a reverse-puncture head are required.
+28375449_ab3	99	121	intrathoracic suturing	treatment
+
+28375449_ab4|t|
+28375449_ab4|a|Between October 2015 and January 2016, 15 consecutive patients with cancer in the distal third of the esophagus or the gastric cardia underwent this modified surgical procedure.
+28375449_ab4	159	177	surgical procedure	treatment
+
+28375449_ab5|t|
+28375449_ab5|a|The good short-term outcomes that were achieved suggest that the modified anastomotic technique is safe and feasible for thoracolaparoscopic Ivor-Lewis esophagectomy.
+28375449_ab5	75	96	anastomotic technique	treatment
+28375449_ab5	122	166	thoracolaparoscopic Ivor-Lewis esophagectomy	treatment
+
+28386950_ab6|t|
+28386950_ab6|a|Surgical exploration revealed an intestinal malrotation for which she underwent a Ladd procedure.
+28386950_ab6	83	97	Ladd procedure	treatment
+
+28390176_ab3|t|
+28390176_ab3|a|Aortic banding (AB) was performed to induce cardiac hypertrophy.
+28390176_ab3	1	15	Aortic banding	treatment
+28390176_ab3	17	19	AB	treatment
+
+28390176_ab4|t|
+28390176_ab4|a|After 1 week of surgery, mice were receive cucurbitacin B treatment (Gavage, 0.2 mg/kg body weight /2 day).
+28390176_ab4	17	24	surgery	treatment
+
+28390176_ab5|t|
+28390176_ab5|a|After 4 weeks of AB, cucurbitacin B demonstrated a strong anti-hypertrophy and -fibrosis ability as evidenced by decreased of heart weight, myocardial cell cross-sectional area and interstitial fibrosis, ameliorated of systolic and diastolic abnormalities, normalized in gene expression of hypertrophic and fibrotic markers, reserved microvascular density in pressure overload induced hypertrophic mice.
+28390176_ab5	18	20	AB	treatment
+
+28400033_ab5|t|
+28400033_ab5|a|From November 2014 to May 2016, we searched for publicly available emergency care guidelines and legislation addressing pre-hospital ACS care in all 29 Indian states and 7 Union Territories via Internet search and direct correspondence.
+28400033_ab5	68	82	emergency care	treatment
+
+28407355_ab1|t|
+28407355_ab1|a|Hepatic ischemia-reperfusion injury (IRI) and associated inflammation contributes to liver dysfunction and complications after liver surgery and transplantation.
+28407355_ab1	128	141	liver surgery	treatment
+28407355_ab1	146	161	transplantation	treatment
+
+28407355_ab4|t|
+28407355_ab4|a|The effects of systemically administered mouse bone marrow derived MSC - EV were evaluated in an experimental murine model of hepatic IRI induced by cross clamping the hepatic artery and portal vein for 90 minutes followed by reperfusion for periods of upto 6 hours.
+28407355_ab4	227	238	reperfusion	treatment
+
+28424986_ab2|t|
+28424986_ab2|a|He received arterial embolization twice in order to shrink the tumor; however, no effect was obtained.
+28424986_ab2	13	34	arterial embolization	treatment
+
+28424986_ab5|t|
+28424986_ab5|a|Resection of the giant liver hemangioma was successfully performed after intraoperative intentional bloodletting with concurrent blood salvage.
+28424986_ab5	101	113	bloodletting	treatment
+28424986_ab5	130	143	blood salvage	treatment
+
+28429500_ti1|t|
+28429500_ti1|a|Electrocardiographic appearance of aortic stenosis before and after aortic valve replacement
+28429500_ti1	69	93	aortic valve replacement	treatment
+
+28429500_ab3|t|
+28429500_ab3|a|In a single-center, prospective study, we included a total number of 1.175 patients who underwent surgical aortic valve replacement (AVR).
+28429500_ab3	108	132	aortic valve replacement	treatment
+28429500_ab3	134	137	AVR	treatment
+
+28429500_ab5|t|
+28429500_ab5|a|We evaluated the impact of S-wave magnitude in right precordial leads before and after AVR in all patients.
+28429500_ab5	88	91	AVR	treatment
+
+28429500_ab6|t|
+28429500_ab6|a|We followed S-wave changes in electrocardiogram altogether with hemodynamic measurements derived from echocardiography.
+28429500_ab6	65	89	hemodynamic measurements	treatment
+
+28429500_ab7|t|
+28429500_ab7|a|Analysis of echocardiographic parameters, measured in patients before surgery, did not show statistical significance between asymptomatic and symptomatic group.
+28429500_ab7	71	78	surgery	treatment
+
+28429500_ab8|t|
+28429500_ab8|a|The statistical significance was observed in the change in S-wave magnitude in the right precordial leads in both subsets of patients before AVR.
+28429500_ab8	142	145	AVR	treatment
+
+28429500_ab10|t|
+28429500_ab10|a|S-wave changes in right precordial leads can predict increase in PG and critical narrowing of AVA, suggestive of timely referral for AVR.
+28429500_ab10	134	137	AVR	treatment
+
+28436493_ab1|t|
+28436493_ab1|a|Although Mycobacterium tuberculosis (M.tb) DK9897 is an attenuated strain, it was isolated from a patient with extrapulmonary tuberculosis and vaccination with a subunit vaccine (H56) induced poor protection against it.
+28436493_ab1	144	155	vaccination	treatment
+
+28440108_ab1|t|
+28440108_ab1|a|Objective To evaluate the microbiology of the upper and lower airways in pediatric cystic fibrosis (CF) patients who underwent sinus surgery.
+28440108_ab1	128	141	sinus surgery	treatment
+
+28440461_ab2|t|
+28440461_ab2|a|The invasive nature of GBM complicates surgical resection and restricts chemotherapeutic access, contributing to poor patient prognosis.
+28440461_ab2	40	58	surgical resection	treatment
+
+28442401_ab9|t|
+28442401_ab9|a|In sum, our findings indicate that TRIB3 plays an anti-apoptotic role in doxorubicin -treated gastric cancer cell lines, perhaps indicating that the status of TRIB3 expression in response to anticancer drugs, such as doxorubicin, irinotecan or oxaliplatin, may reflect the efficiency for cancer therapy.
+28442401_ab9	289	303	cancer therapy	treatment
+
+28442859_ab6|t|
+28442859_ab6|a|The lesion was treated by excision with tumor shelling, and there was no evidence of recurrence 81 days postoperatively.
+28442859_ab6	27	35	excision	treatment
+
+28445938_ti1|t|
+28445938_ti1|a|Pirfenidone normalizes the tumor microenvironment to improve chemotherapy
+28445938_ti1	62	74	chemotherapy	treatment
+
+28445938_ab1|t|
+28445938_ab1|a|Normalization of the tumor microenvironment by selectively targeting components of the tumor extracellular matrix has been recently proposed to have the potential to decompress tumor blood vessels, increase vessel perfusion and thus, improve drug delivery and the efficacy of cancer therapy.
+28445938_ab1	243	256	drug delivery	treatment
+28445938_ab1	277	291	cancer therapy	treatment
+
+28445938_ab2|t|
+28445938_ab2|a|Therefore, we now need to identify safe and well tolerated pharmaceutical agents that are able to remodel the microenvironment of solid tumors and enhance chemotherapy.
+28445938_ab2	156	168	chemotherapy	treatment
+
+28445938_ab6|t|
+28445938_ab6|a|Our findings provide evidence that repurposing Pirfenidone could be used as a promising strategy to enhance drug delivery to solid tumors by normalizing the tumor microenvironment.
+28445938_ab6	109	122	drug delivery	treatment
+
+28456611_ab1|t|
+28456611_ab1|a|Post-transplant lymphoproliferative disease (PTLD) is an important cause of morbidity and mortality following lung transplantation.
+28456611_ab1	111	131	lung transplantation	treatment
+
+28456611_ab3|t|
+28456611_ab3|a|Our primary aim is to examine PTLD in an adult lung transplant population by utilizing the International Society for Heart and Lung Transplantation Registry.
+28456611_ab3	48	63	lung transplant	treatment
+
+28456611_ab4|t|
+28456611_ab4|a|We studied 30,598 adult recipients of lung transplants performed between 1999 and 2011.
+28456611_ab4	39	55	lung transplants	treatment
+
+28456611_ab6|t|
+28456611_ab6|a|In addition to indication for transplant, other predictors examined included Epstein-Barr virus (EBV) and cytomegalovirus (CMV) serostatus, gender, and age.
+28456611_ab6	31	41	transplant	treatment
+
+28457334_ab2|t|
+28457334_ab2|a|Therefore, our study investigated the influence of plasmatic nucleic acids on coagulation in septic patients in comparison to patients after major abdominal surgery.
+28457334_ab2	148	165	abdominal surgery	treatment
+
+28457334_ab4|t|
+28457334_ab4|a|Blood was collected at sepsis onset and after surgery respectively, as well as after 24, 72 and 168 h. Levels of cfDNA and exRNA were measured by quantitative probe-based polymerase chain reaction.
+28457334_ab4	47	54	surgery	treatment
+
+28461000_ab3|t|
+28461000_ab3|a|To our knowledge, this is the first time that a coronary dissection potentially associated with a TKI treatment has been described.
+28461000_ab3	99	112	TKI treatment	treatment
+
+28464907_ab3|t|
+28464907_ab3|a|All 578 patients undergoing esophagectomy for thoracic esophageal squamous cell carcinoma at the Center for Esophageal Diseases located in Padova between January 1992 and December 2010 were retrospectively evaluated.
+28464907_ab3	29	42	esophagectomy	treatment
+
+28464907_ab5|t|
+28464907_ab5|a|Patients receiving neoadjuvant therapy were excluded.
+28464907_ab5	20	39	neoadjuvant therapy	treatment
+
+28466814_ab4|t|
+28466814_ab4|a|It has been suggested that the initial lower expression of LIF in proliferative phase may be one of the causes for multiple failure of implantation.
+28466814_ab4	136	148	implantation	treatment
+
+28466814_ab5|t|
+28466814_ab5|a|The aim of this study was to evaluate the association between maternal genotype of SNP 3951C/T LIF and in vitro fertilization and embryo transfer (IVF - ET) outcome in infertile women.
+28466814_ab5	104	126	in vitro fertilization	treatment
+28466814_ab5	131	146	embryo transfer	treatment
+28466814_ab5	148	151	IVF	treatment
+28466814_ab5	154	156	ET	treatment
+
+28466814_ab11|t|
+28466814_ab11|a|In conclusion, the results of this study indicate that SNP 3951C/T of LIF may not be associated with IVF - ET outcome in this population.
+28466814_ab11	102	105	IVF	treatment
+28466814_ab11	108	110	ET	treatment
+
+28468980_ab2|t|
+28468980_ab2|a|Vaccination of mice with PbSEA-1A decreases parasitemia and prolongs survival following Plasmodium berghei ANKA challenge.
+28468980_ab2	1	12	Vaccination	treatment
+
+28469263_ab4|t|
+28469263_ab4|a|Micro-CT and immunohistochemistry was employed to assess the morphological and molecular changes in ovariectomy - induced LFJ arthritis.
+28469263_ab4	101	112	ovariectomy	treatment
+
+28469263_ab6|t|
+28469263_ab6|a|Severe cartilage degradation was observed in ovariectomy - induced LFJ arthritis.
+28469263_ab6	46	57	ovariectomy	treatment
+
+28469263_ab11|t|
+28469263_ab11|a|Collapsed subchondral bone may be the initiation of this process, and estrogen replacement therapy can effectively prevent degeneration of LFJ under estrogen - deficient conditions.
+28469263_ab11	71	99	estrogen replacement therapy	treatment
+
+28470100_ti1|t|
+28470100_ti1|a|Dexmedetomidine Effect on Emergence Agitation and Delirium in Children Undergoing Laparoscopic Hernia Repair: a Preliminary Study
+28470100_ti1	83	109	Laparoscopic Hernia Repair	treatment
+
+28470100_ab1|t|
+28470100_ab1|a|Objective To evaluate the safety and efficacy of dexmedetomidine (Dex) to prevent emergence agitation (EA) and delirium (ED) in children undergoing laparoscopic hernia repair under general anesthesia.
+28470100_ab1	149	175	laparoscopic hernia repair	treatment
+28470100_ab1	182	200	general anesthesia	treatment
+
+28470100_ab3|t|
+28470100_ab3|a|Dex / saline infusion was started following anesthesia.
+28470100_ab3	14	22	infusion	treatment
+
+28471656_ab1|t|
+28471656_ab1|a|Multidrug resistance (MDR) mediated by ATP-binding cassette (ABC) transport proteins remains a major problem in the chemotherapeutic treatment of cancer and might be overcome by inhibition of the transporter.
+28471656_ab1	117	143	chemotherapeutic treatment	treatment
+
+28472521_ab1|t|
+28472521_ab1|a|Evidence is emerging that certain genotypes and biomarkers are associated with smoking cessation success and efficacy of smoking cessation treatments.
+28472521_ab1	122	150	smoking cessation treatments	treatment
+
+28472521_ab2|t|
+28472521_ab2|a|We review key findings that open potential avenues for personalizing smoking cessation treatment according to an individual's genetic or metabolic profile.
+28472521_ab2	70	97	smoking cessation treatment	treatment
+
+28473083_ab2|t|
+28473083_ab2|a|Recommended therapy for acute mesenteric ischemia includes aspiration embolectomy, transcatheter thrombolysis, and angioplasty with or without stenting for the treatment of underlying arterial stenosis.
+28473083_ab2	71	82	embolectomy	treatment
+28473083_ab2	84	97	transcatheter	treatment
+28473083_ab2	98	110	thrombolysis	treatment
+28473083_ab2	116	127	angioplasty	treatment
+28473083_ab2	144	152	stenting	treatment
+
+28473083_ab3|t|
+28473083_ab3|a|Nonocclusive mesenteric ischemia may respond to transarterial infusion of vasodilators such as nitroglycerin, papaverine, glucagon, and prostaglandin E1.
+28473083_ab3	49	71	transarterial infusion	treatment
+
+28473083_ab4|t|
+28473083_ab4|a|Recommended therapy for chronic mesenteric ischemia includes angioplasty with or without stent placement and, if an endovascular approach is not possible, surgical bypass or endarterectomy.
+28473083_ab4	62	73	angioplasty	treatment
+28473083_ab4	90	105	stent placement	treatment
+28473083_ab4	117	138	endovascular approach	treatment
+28473083_ab4	156	171	surgical bypass	treatment
+28473083_ab4	175	189	endarterectomy	treatment
+
+28473083_ab6|t|
+28473083_ab6|a|Venous mesenteric ischemia may respond to systemic anticoagulation alone.
+28473083_ab6	52	67	anticoagulation	treatment
+
+28473083_ab7|t|
+28473083_ab7|a|Transhepatic or transjugular superior mesenteric vein catheterization and thrombolytic infusion can be offered depending on the severity of symptoms, condition of the patient, and response to systemic anticoagulation.
+28473083_ab7	202	217	anticoagulation	treatment
+
+28473083_ab8|t|
+28473083_ab8|a|Adjunct transjugular intrahepatic portosystemic shunt creation can be considered for outflow improvement.
+28473083_ab8	9	63	transjugular intrahepatic portosystemic shunt creation	treatment
+
+28478636_ab1|t|
+28478636_ab1|a|Arteriovenous fistulas (AVFs) are the recommended form of vascular access for hemodialysis.
+28478636_ab1	79	91	hemodialysis	treatment
+
+28484550_ti1|t|
+28484550_ti1|a|Distal posterior cerebral artery revascularization for a fusiform PCA aneurysm: A lesson learned
+28484550_ti1	34	51	revascularization	treatment
+
+28484550_ab1|t|
+28484550_ab1|a|The need for revascularization with proximal posterior cerebral artery occlusion in the treatment of giant and fusiform aneurysms is unclear.
+28484550_ab1	14	31	revascularization	treatment
+
+28484550_ab2|t|
+28484550_ab2|a|While early series demonstrated only about a 10% chance of infarction following posterior cerebral artery occlusion, recently several authors have advocated a bypass prior to parent vessel sacrifice in all cases.
+28484550_ab2	160	166	bypass	treatment
+
+28484550_ab4|t|
+28484550_ab4|a|He clinically failed a balloon test occlusion preoperatively and therefore underwent an occipital artery to distal posterior cerebral artery bypass with subsequent endovascular occlusion of the parent vessel and aneurysm.
+28484550_ab4	142	148	bypass	treatment
+28484550_ab4	165	208	endovascular occlusion of the parent vessel	treatment
+
+28484550_ab5|t|
+28484550_ab5|a|Despite the fact that the immediate and 6 month follow up cerebral angiography confirmed a patent bypass, the patient still developed a posterior cerebral artery territory stroke.
+28484550_ab5	99	105	bypass	treatment
+
+28484550_ab6|t|
+28484550_ab6|a|We believe this case demonstrates that successful distal revascularization in the setting of proximal posterior cerebral artery occlusion does not guarantee against cerebral ischemia and infarction even in those patients that fail a test occlusion.
+28484550_ab6	58	75	revascularization	treatment
+
+28501028_ab10|t|
+28501028_ab10|a|Medical professionals need to be familiar with this spectrum because timely diagnosis and aggressive targeted therapy are the cornerstones of managing these patients.
+28501028_ab10	91	118	aggressive targeted therapy	treatment
+
+28520994_ab8|t|
+28520994_ab8|a|Human epidemiological studies and experimental infections of laboratory animals both demonstrate that antibiotic treatment can alter the gut microbial community and thereby reduce colonization resistance against diarrheal pathogens.
+28520994_ab8	103	123	antibiotic treatment	treatment
+
+28522288_ab1|t|
+28522288_ab1|a|We intended to analyze the outcomes and predictive factors for underestimating the prostate cancer (PCa) grade group (GG) from prostate biopsies in a large monocentric cohort of patients treated by minimally invasive radical prostatectomy (RP).
+28522288_ab1	199	239	minimally invasive radical prostatectomy	treatment
+28522288_ab1	241	243	RP	treatment
+
+28522288_ab2|t|
+28522288_ab2|a|Using a monocentric prospectively maintained database, we included 3062 patients who underwent minimally invasive RP between 2006 and 2013.
+28522288_ab2	96	117	minimally invasive RP	treatment
+
+28522288_ab3|t|
+28522288_ab3|a|We explored clinicopathologic features and outcomes associated with a GG upgrade from biopsy to RP.
+28522288_ab3	97	99	RP	treatment
+
+28522288_ab5|t|
+28522288_ab5|a|Biopsy GG was upgraded after RP in 51.5% of cases.
+28522288_ab5	30	32	RP	treatment
+
+28522288_ab6|t|
+28522288_ab6|a|Patients upgraded from GG1 to GG2 or GG3 after RP had a longer time to biochemical recurrence than those with GG2 or GG3 respectively, on both biopsy and RP, but a shorter time to biochemical recurrence than those who remained GG1 after RP (P < .0001).
+28522288_ab6	48	50	RP	treatment
+28522288_ab6	155	157	RP	treatment
+
+28522288_ab10|t|
+28522288_ab10|a|Upgrading GG from biopsy to RP may have consequences on clinical outcomes.
+28522288_ab10	29	31	RP	treatment
+
+28523425_ab3|t|
+28523425_ab3|a|To address this issue, we recorded high - density ECoG signals from patients undergoing epilepsy surgery evaluation as they performed elementary upper extremity movements while systematically varying movement speed and duration.
+28523425_ab3	98	105	surgery	treatment
+
+28528555_ab7|t|
+28528555_ab7|a|With additional study, the ACS may be useful to identify and track maladaptive ADHD -related cognitions during cognitive-behavioral treatment, and to further study the role of these thoughts in ADHD -related impairment.
+28528555_ab7	112	142	cognitive-behavioral treatment	treatment
+
+28545365_ab4|t|
+28545365_ab4|a|The sensitivity of chemotherapy drugs on individual specific was also discussed.
+28545365_ab4	20	32	chemotherapy	treatment
+
+

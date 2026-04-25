@@ -1,0 +1,5468 @@
+test_0001|t|
+test_0001|a|SOCCER - JAPAN GET LUCKY WIN , CHINA IN SURPRISE DEFEAT .
+test_0001	10	15	JAPAN	location
+
+test_0002|t|
+test_0002|a|AL-AIN , United Arab Emirates 1996-12-06
+test_0002	1	7	AL-AIN	location
+test_0002	10	30	United Arab Emirates	location
+
+test_0003|t|
+test_0003|a|Japan began the defence of their Asian Cup title with a lucky 2-1 win against Syria in a Group C championship match on Friday .
+test_0003	1	6	Japan	location
+test_0003	79	84	Syria	location
+
+test_0004|t|
+test_0004|a|But China saw their luck desert them in the second match of the group , crashing to a surprise 2-0 defeat to newcomers Uzbekistan .
+test_0004	5	10	China	location
+test_0004	120	130	Uzbekistan	location
+
+test_0005|t|
+test_0005|a|China controlled most of the match and saw several chances missed until the 78th minute when Uzbek striker Igor Shkvyrin took advantage of a misdirected defensive header to lob the ball over the advancing Chinese keeper and into an empty net .
+test_0005	1	6	China	location
+
+test_0006|t|
+test_0006|a|Despite winning the Asian Games title two years ago , Uzbekistan are in the finals as outsiders .
+test_0006	55	65	Uzbekistan	location
+
+test_0007|t|
+test_0007|a|Two goals from defensive errors in the last six minutes allowed Japan to come from behind and collect all three points from their opening meeting against Syria .
+test_0007	65	70	Japan	location
+test_0007	155	160	Syria	location
+
+test_0008|t|
+test_0008|a|It was the second costly blunder by Syria in four minutes .
+test_0008	37	42	Syria	location
+
+test_0009|t|
+test_0009|a|Nader Jokhadar had given Syria the lead with a well-struck header in the seventh minute .
+test_0009	26	31	Syria	location
+
+test_0010|t|
+test_0010|a|Japan then laid siege to the Syrian penalty area for most of the game but rarely breached the Syrian defence .
+test_0010	1	6	Japan	location
+
+test_0011|t|
+test_0011|a|Japan coach Shu Kamo said : ' ' The Syrian own goal proved lucky for us .
+test_0011	1	6	Japan	location
+
+test_0012|t|
+test_0012|a|Japan , co-hosts of the World Cup in 2002 and ranked 20th in the world by FIFA , are favourites to regain their title here .
+test_0012	1	6	Japan	location
+
+test_0013|t|
+test_0013|a|Hosts UAE play Kuwait and South Korea take on Indonesia on Saturday in Group A matches .
+test_0013	7	10	UAE	location
+test_0013	16	22	Kuwait	location
+test_0013	27	38	South Korea	location
+test_0013	47	56	Indonesia	location
+
+test_0014|t|
+test_0014|a|RUGBY UNION - CUTTITTA BACK FOR ITALY AFTER A YEAR .
+test_0014	33	38	ITALY	location
+
+test_0015|t|
+test_0015|a|ROME 1996-12-06
+test_0015	1	5	ROME	location
+
+test_0016|t|
+test_0016|a|Italy recalled Marcello Cuttitta
+test_0016	1	6	Italy	location
+
+test_0017|t|
+test_0017|a|on Friday for their friendly against Scotland at Murrayfield more than a year after the 30-year-old wing announced he was retiring following differences over selection .
+test_0017	38	46	Scotland	location
+test_0017	50	61	Murrayfield	location
+
+test_0018|t|
+test_0018|a|Cuttitta , who trainer George Coste said was certain to play on Saturday week , was named in a 21-man squad lacking only two of the team beaten 54-21 by England at Twickenham last month .
+test_0018	154	161	England	location
+test_0018	165	175	Twickenham	location
+
+test_0019|t|
+test_0019|a|Stefano Bordon is out through illness and Coste said he had dropped back row Corrado Covi , who had been recalled for the England game after five years out of the national team .
+test_0019	123	130	England	location
+
+test_0020|t|
+test_0020|a|Cuttitta announced his retirement after the 1995 World Cup , where he took issue with being dropped from the Italy side that faced England in the pool stages .
+test_0020	110	115	Italy	location
+test_0020	132	139	England	location
+
+test_0021|t|
+test_0021|a|SOCCER - LATE GOALS GIVE JAPAN WIN OVER SYRIA .
+test_0021	26	31	JAPAN	location
+test_0021	41	46	SYRIA	location
+
+test_0022|t|
+test_0022|a|AL-AIN , United Arab Emirates 1996-12-06
+test_0022	1	7	AL-AIN	location
+test_0022	10	30	United Arab Emirates	location
+
+test_0023|t|
+test_0023|a|Two goals in the last six minutes gave holders Japan an uninspiring 2-1 Asian Cup victory over Syria on Friday .
+test_0023	48	53	Japan	location
+test_0023	96	101	Syria	location
+
+test_0024|t|
+test_0024|a|Syria had taken the lead from their first serious attack in the seventh minute .
+test_0024	1	6	Syria	location
+
+test_0025|t|
+test_0025|a|Japan then laid siege to the Syrian penalty area and had a goal disallowed for offside in the 16th minute .
+test_0025	1	6	Japan	location
+
+test_0026|t|
+test_0026|a|Japan started the second half brightly but Bitar denied them an equaliser when he dived to his right to save Naoki Soma 's low drive in the 53rd minute .
+test_0026	1	6	Japan	location
+
+test_0027|t|
+test_0027|a|Japan : 19 - Kenichi Shimokawa , 2 - Hiroshige Yanagimoto , 3 - Naoki Soma , 4 - Masami Ihara , 5 - Norio Omura , 6 - Motohiro Yamaguchi , 8 - Masakiyo Maezono ( 7 - Yasuto Honda 71 ) , 9 - Takuya Takagi , 10 - Hiroshi Nanami , 11 - Kazuyoshi Miura , 15 - Hiroaki Morishima ( 14 - Masayuki Okano 75 ) .
+test_0027	1	6	Japan	location
+
+test_0028|t|
+test_0028|a|Syria : 24 - Salem Bitar , 3 - Bachar Srour ; 4 - Hassan Abbas , 5 - Tarek Jabban , 6 - Ammar Awad ( 9 - Louay Taleb 69 ) , 8 - Nihad al-Boushi , 10 - Mohammed Afash , 12 - Ali Dib , 13 - Abdul Latif Helou ( 17 - Ammar Rihawiy 46 ) , 14 - Khaled Zaher ; 16 - Nader Jokhadar .
+test_0028	1	6	Syria	location
+
+test_0029|t|
+test_0029|a|TIGNES , France 1996-12-06
+test_0029	1	7	TIGNES	location
+test_0029	10	16	France	location
+
+test_0030|t|
+test_0030|a|1. Jesper Ronnback ( Sweden ) 25.76 points
+test_0030	22	28	Sweden	location
+
+test_0031|t|
+test_0031|a|2. Andrei Ivanov ( Russia ) 24.88
+test_0031	20	26	Russia	location
+
+test_0032|t|
+test_0032|a|3. Ryan Johnson ( Canada ) 24.57
+test_0032	19	25	Canada	location
+
+test_0033|t|
+test_0033|a|4. Jean-Luc Brassard ( Canada ) 24.40
+test_0033	24	30	Canada	location
+
+test_0034|t|
+test_0034|a|5. Korneilus Hole ( Norway ) 23.92
+test_0034	21	27	Norway	location
+
+test_0035|t|
+test_0035|a|6. Jeremie Collomb-Patton ( France ) 23.87
+test_0035	29	35	France	location
+
+test_0036|t|
+test_0036|a|7. Jim Moran ( U.S. ) 23.25
+test_0036	16	20	U.S.	location
+
+test_0037|t|
+test_0037|a|8. Dominick Gauthier ( Canada ) 22.73
+test_0037	24	30	Canada	location
+
+test_0038|t|
+test_0038|a|9. Johann Gregoire ( France ) 22.58
+test_0038	22	28	France	location
+
+test_0039|t|
+test_0039|a|10. Troy Benson ( U.S. ) 22.56
+test_0039	19	23	U.S.	location
+
+test_0040|t|
+test_0040|a|1. Tatjana Mittermayer ( Germany ) 24.32
+test_0040	26	33	Germany	location
+
+test_0041|t|
+test_0041|a|2. Candice Gilg ( France ) 24.31
+test_0041	19	25	France	location
+
+test_0042|t|
+test_0042|a|3. Minna Karhu ( Finland ) 24.05
+test_0042	18	25	Finland	location
+
+test_0043|t|
+test_0043|a|4. Tae Satoya ( Japan ) 23.75
+test_0043	17	22	Japan	location
+
+test_0044|t|
+test_0044|a|5. Ann Battellle ( U.S. ) 23.56
+test_0044	20	24	U.S.	location
+
+test_0045|t|
+test_0045|a|6. Donna Weinbrecht ( U.S. ) 22.48
+test_0045	23	27	U.S.	location
+
+test_0046|t|
+test_0046|a|7. Liz McIntyre ( U.S. ) 22.00
+test_0046	19	23	U.S.	location
+
+test_0047|t|
+test_0047|a|8. Elena Koroleva ( Russia ) 21.77
+test_0047	21	27	Russia	location
+
+test_0048|t|
+test_0048|a|9. Ljudmila Dymchenko ( Russia ) 21.59
+test_0048	25	31	Russia	location
+
+test_0049|t|
+test_0049|a|10. Katleen Allais ( France ) 21.58
+test_0049	22	28	France	location
+
+test_0050|t|
+test_0050|a|AL-AIN , United Arab Emirates 1996-12-06
+test_0050	1	7	AL-AIN	location
+test_0050	10	30	United Arab Emirates	location
+
+test_0051|t|
+test_0051|a|Japan 2 Syria 1 ( halftime 0-1 )
+test_0051	1	6	Japan	location
+test_0051	9	14	Syria	location
+
+test_0052|t|
+test_0052|a|Japan - Hassan Abbas 84 own goal , Takuya Takagi 88 .
+test_0052	1	6	Japan	location
+
+test_0053|t|
+test_0053|a|Syria - Nader Jokhadar 7
+test_0053	1	6	Syria	location
+
+test_0054|t|
+test_0054|a|China 0 Uzbekistan 2 ( halftime 0-0 )
+test_0054	1	6	China	location
+test_0054	9	19	Uzbekistan	location
+
+test_0055|t|
+test_0055|a|Uzbekistan 1 1 0 0 2 0 3
+test_0055	1	11	Uzbekistan	location
+
+test_0056|t|
+test_0056|a|Japan 1 1 0 0 2 1 3
+test_0056	1	6	Japan	location
+
+test_0057|t|
+test_0057|a|Syria 1 0 0 1 1 2 0
+test_0057	1	6	Syria	location
+
+test_0058|t|
+test_0058|a|China 1 0 0 1 0 2 0
+test_0058	1	6	China	location
+
+test_0059|t|
+test_0059|a|CRICKET - PAKISTAN V NEW ZEALAND ONE-DAY SCOREBOARD .
+test_0059	11	19	PAKISTAN	location
+test_0059	22	33	NEW ZEALAND	location
+
+test_0060|t|
+test_0060|a|SIALKOT , Pakistan 1996-12-06
+test_0060	1	8	SIALKOT	location
+test_0060	11	19	Pakistan	location
+
+test_0061|t|
+test_0061|a|one-day cricket international between Pakistan and New Zealand
+test_0061	39	47	Pakistan	location
+test_0061	52	63	New Zealand	location
+
+test_0062|t|
+test_0062|a|Pakistan
+test_0062	1	9	Pakistan	location
+
+test_0063|t|
+test_0063|a|New Zealand innings
+test_0063	1	12	New Zealand	location
+
+test_0064|t|
+test_0064|a|Result : Pakistan won by 46 runs .
+test_0064	10	18	Pakistan	location
+
+test_0065|t|
+test_0065|a|Third one-day match : December 8 , in Karachi .
+test_0065	39	46	Karachi	location
+
+test_0066|t|
+test_0066|a|LONDON 1996-12-06
+test_0066	1	7	LONDON	location
+
+test_0067|t|
+test_0067|a|LONDON 1996-12-06
+test_0067	1	7	LONDON	location
+
+test_0068|t|
+test_0068|a|FIFA 's players ' status committee , meeting in Barcelona , decided that although the Udinese document was basically valid , it could not be legally protected .
+test_0068	49	58	Barcelona	location
+
+test_0069|t|
+test_0069|a|LONDON 1996-12-06
+test_0069	1	7	LONDON	location
+
+test_0070|t|
+test_0070|a|Leeds ' England under-21 striker Lee Bowyer was fined 4,500 pounds ( $ 7,400 ) on Friday for hurling chairs at restaurant staff during a disturbance at a McDonald 's fast-food restaurant .
+test_0070	9	16	England	location
+
+test_0071|t|
+test_0071|a|Bowyer , 19 , who was caught in the act by security cameras , pleaded guilty to a charge of affray at a court in London .
+test_0071	114	120	London	location
+
+test_0072|t|
+test_0072|a|He was fined and ordered to pay a total of 175 pounds to two members of staff injured in the fracas in an east London restaurant in October .
+test_0072	112	118	London	location
+
+test_0073|t|
+test_0073|a|Bowyer , who moved to the Yorkshire club in August for 3.5 million pounds ( $ 5.8 million ) , was expected to play against Middlesbrough on Saturday .
+test_0073	27	36	Yorkshire	location
+
+test_0074|t|
+test_0074|a|LONDON 1996-12-06
+test_0074	1	7	LONDON	location
+
+test_0075|t|
+test_0075|a|CSKA Moscow ( Russia 9 6 3 15
+test_0075	15	21	Russia	location
+
+test_0076|t|
+test_0076|a|Stefanel Milan ( Italy ) 9 6 3 15
+test_0076	18	23	Italy	location
+
+test_0077|t|
+test_0077|a|Maccabi Tel Aviv ( Israel ) 9 5 4 14
+test_0077	20	26	Israel	location
+
+test_0078|t|
+test_0078|a|Ulker Spor ( Turkey ) 9 4 5 13
+test_0078	14	20	Turkey	location
+
+test_0079|t|
+test_0079|a|Limoges ( France ) 9 3 6 12
+test_0079	11	17	France	location
+
+test_0080|t|
+test_0080|a|Panionios ( Greece ) 9 3 6 12
+test_0080	13	19	Greece	location
+
+test_0081|t|
+test_0081|a|Teamsystem Bologna ( Italy ) 9 7 2 16
+test_0081	22	27	Italy	location
+
+test_0082|t|
+test_0082|a|Olympiakos ( Greece ) 9 5 4 14
+test_0082	14	20	Greece	location
+
+test_0083|t|
+test_0083|a|Cibona Zagreb ( Croatia ) 9 5 4 14
+test_0083	17	24	Croatia	location
+
+test_0084|t|
+test_0084|a|Alba Berlin ( Germany ) 9 5 4 14
+test_0084	15	22	Germany	location
+
+test_0085|t|
+test_0085|a|Estudiantes Madrid ( Spain ) 9 5 4 14
+test_0085	22	27	Spain	location
+
+test_0086|t|
+test_0086|a|Charleroi ( Belgium ) 9 0 9 9
+test_0086	13	20	Belgium	location
+
+test_0087|t|
+test_0087|a|Panathinaikos ( Greece ) 9 7 2 16
+test_0087	17	23	Greece	location
+
+test_0088|t|
+test_0088|a|Ljubljana ( Slovenia ) 9 6 3 15
+test_0088	13	21	Slovenia	location
+
+test_0089|t|
+test_0089|a|Villeurbanne ( France ) 9 6 3 15
+test_0089	16	22	France	location
+
+test_0090|t|
+test_0090|a|Barcelona ( Spain ) 9 4 5 13
+test_0090	13	18	Spain	location
+
+test_0091|t|
+test_0091|a|Split ( Croatia ) 9 4 5 13
+test_0091	9	16	Croatia	location
+
+test_0092|t|
+test_0092|a|Bayer Leverkusen ( Germany ) 9 0 9 9
+test_0092	20	27	Germany	location
+
+test_0093|t|
+test_0093|a|Efes Pilsen ( Turkey ) 9 7 2 16
+test_0093	15	21	Turkey	location
+
+test_0094|t|
+test_0094|a|Pau-Orthez ( France ) 9 5 4 14
+test_0094	14	20	France	location
+
+test_0095|t|
+test_0095|a|Partizan Belgrade ( Yugoslavia ) 9 5 4 14
+test_0095	21	31	Yugoslavia	location
+
+test_0096|t|
+test_0096|a|Kinder Bologna ( Italy ) 9 4 5 13
+test_0096	18	23	Italy	location
+
+test_0097|t|
+test_0097|a|Sevilla ( Spain ) 9 4 5 13
+test_0097	11	16	Spain	location
+
+test_0098|t|
+test_0098|a|Dynamo Moscow ( Russia ) 9 2 7 11
+test_0098	17	23	Russia	location
+
+test_0099|t|
+test_0099|a|LONDON 1996-12-06
+test_0099	1	7	LONDON	location
+
+test_0100|t|
+test_0100|a|Centre Jason Little will miss Australia 's end-of-tour fixture against the Barbarians at Twickenham on Saturday .
+test_0100	31	40	Australia	location
+test_0100	90	100	Twickenham	location
+
+test_0101|t|
+test_0101|a|Owen Finegan has recovered from the knocks he took in last weekend 's test against Wales and retains his place in the back-row ahead of Daniel Manu .
+test_0101	84	89	Wales	location
+
+test_0102|t|
+test_0102|a|Campese will be up against a familiar foe in the shape of Barbarians captain Rob Andrew , the man who kicked Australia to defeat with a last-ditch drop-goal in the World Cup quarter-final in Cape Town .
+test_0102	110	119	Australia	location
+test_0102	192	201	Cape Town	location
+
+test_0103|t|
+test_0103|a|" Campo has a massive following in this country and has had the public with him ever since he first played here in 1984 , " said Andrew , also likely to be making his final Twickenham appearance .
+test_0103	174	184	Twickenham	location
+
+test_0104|t|
+test_0104|a|On tour , Australia have won all four tests against Italy , Scotland , Ireland and Wales , and scored 414 points at an average of almost 35 points a game .
+test_0104	11	20	Australia	location
+test_0104	53	58	Italy	location
+test_0104	61	69	Scotland	location
+test_0104	72	79	Ireland	location
+test_0104	84	89	Wales	location
+
+test_0105|t|
+test_0105|a|League duties restricted the Barbarians ' selectorial options but they still boast 13 internationals including England full-back Tim Stimpson and recalled wing Tony Underwood , plus All Black forwards Ian Jones and Norm Hewitt .
+test_0105	112	119	England	location
+
+test_0106|t|
+test_0106|a|Barbarians - 15 - Tim Stimpson ( England ) ; 14 - Nigel Walker ( Wales ) , 13 - Allan Bateman ( Wales ) , 12 - Gregor Townsend ( Scotland ) , 11 - Tony Underwood ( England ) ; 10 - Rob Andrew ( England ) , 9 - Rob Howley ( Wales ) ; 8 - Scott Quinnell ( Wales ) , 7 - Neil Back ( England ) , 6 - Dale McIntosh ( Pontypridd ) , 5 - Ian Jones ( New Zealand ) , 4 - Craig Quinnell ( Wales ) , 3 - Darren Garforth ( Leicester ) , 2 - Norm Hewitt ( New Zealand ) , 1 - Nick Popplewell ( Ireland ) .
+test_0106	34	41	England	location
+test_0106	66	71	Wales	location
+test_0106	97	102	Wales	location
+test_0106	130	138	Scotland	location
+test_0106	165	172	England	location
+test_0106	195	202	England	location
+test_0106	224	229	Wales	location
+test_0106	255	260	Wales	location
+test_0106	281	288	England	location
+test_0106	313	323	Pontypridd	location
+test_0106	344	355	New Zealand	location
+test_0106	381	386	Wales	location
+test_0106	413	422	Leicester	location
+test_0106	445	456	New Zealand	location
+test_0106	483	490	Ireland	location
+
+test_0107|t|
+test_0107|a|Australia - 15 - Matthew Burke ; 14 - Joe Roff , 13 - Daniel Herbert , 12 - Tim Horan ( captain ) , 11 - David Campese ; 10 - Pat Howard , 9 - Sam Payne ; 8 - Michael Brial , 7 - David Wilson , 6 - Owen Finegan , 5 - David Giffin , 4 - Tim Gavin , 3 - Andrew Blades , 2 - Marco Caputo , 1 - Dan Crowley .
+test_0107	1	10	Australia	location
+
+test_0108|t|
+test_0108|a|HARARE 1996-12-06
+test_0108	1	7	HARARE	location
+
+test_0109|t|
+test_0109|a|Leading second round scores in the Zimbabwe Open at the par-72 Chapman Golf Club on Friday ( South African unless stated ) : 132 Des Terblanche 65 67 133 Mark McNulty ( Zimbabwe ) 72 61 134 Steve van Vuuren 65 69 136 Nick Price ( Zimbabwe ) 68 68 , Justin Hobday 71 65 ,
+test_0109	64	81	Chapman Golf Club	location
+test_0109	170	178	Zimbabwe	location
+test_0109	231	239	Zimbabwe	location
+
+test_0110|t|
+test_0110|a|Andrew Pitts ( U.S. ) 69 67 138 Mark Cayeux ( Zimbabwe ) 69 69 , Mark Murless 71 67 139 Hennie Swart 75 64 , Andrew Park 72 67 140 Schalk van der Merwe ( Namibia ) 67 73 , Desvonde
+test_0110	16	20	U.S.	location
+test_0110	47	55	Zimbabwe	location
+test_0110	155	162	Namibia	location
+
+test_0111|t|
+test_0111|a|70 , Brett Liddle 75 65 , Hugh Baiocchi 73 67 141 Adilson da Silva ( Brazil ) 72 69 , Sammy Daniels 73
+test_0111	70	76	Brazil	location
+
+test_0112|t|
+test_0112|a|68 , Trevor Dodds ( Namibia ) 72 69 142 Don Robertson ( U.S. ) 73 69 , Dion Fourie 69 73 ,
+test_0112	21	28	Namibia	location
+test_0112	57	61	U.S.	location
+
+test_0113|t|
+test_0113|a|SOCCER - UNCAPPED PLAYERS CALLED TO FACE MACEDONIA .
+test_0113	42	51	MACEDONIA	location
+
+test_0114|t|
+test_0114|a|BUCHAREST 1996-12-06
+test_0114	1	10	BUCHAREST	location
+
+test_0115|t|
+test_0115|a|Romania trainer Anghel Iordanescu called up three uncapped players on Friday in his squad to face Macedonia next week in a World Cup qualifier .
+test_0115	1	8	Romania	location
+test_0115	99	108	Macedonia	location
+
+test_0116|t|
+test_0116|a|Midfielder Valentin Stefan and striker Viorel Ion of Otelul Galati and defender Liviu Ciobotariu of National Bucharest are the newcomers for the European group eight clash in Macedonia on December 14 .
+test_0116	176	185	Macedonia	location
+
+test_0117|t|
+test_0117|a|RIO DE JANEIRO 1996-12-05
+test_0117	1	15	RIO DE JANEIRO	location
+
+test_0118|t|
+test_0118|a|MELBOURNE 1996-12-06
+test_0118	1	10	MELBOURNE	location
+
+test_0119|t|
+test_0119|a|Australia gave Brian Lara another reason to be miserable when they beat West Indies by five wickets in the opening World Series limited overs match on Friday .
+test_0119	1	10	Australia	location
+test_0119	73	84	West Indies	location
+
+test_0120|t|
+test_0120|a|Australia , who hold a 2-0 lead in the five-match test series , overhauled West Indies ' total of 172 all out with eight balls to spare to end a run of six successive one-day defeats .
+test_0120	1	10	Australia	location
+test_0120	76	87	West Indies	location
+
+test_0121|t|
+test_0121|a|West Indies tour manager Clive Lloyd has apologised for Lara 's behaviour on Tuesday .
+test_0121	1	12	West Indies	location
+
+test_0122|t|
+test_0122|a|He ( Lara ) had told Australia coach Geoff Marsh that wicketkeeper Ian Healy was unwelcome in the visitors ' dressing room .
+test_0122	22	31	Australia	location
+
+test_0123|t|
+test_0123|a|The Melbourne crowd were clearly angered by the incident , loudly jeering the West Indies vice-captain as he walked to the middle .
+test_0123	5	14	Melbourne	location
+test_0123	79	90	West Indies	location
+
+test_0124|t|
+test_0124|a|Pakistan , who arrive in Australia later this month , are the other team competing in the World Series tournament .
+test_0124	1	9	Pakistan	location
+test_0124	26	35	Australia	location
+
+test_0125|t|
+test_0125|a|CRICKET - AUSTRALIA V WEST INDIES WORLD SERIES SCOREBOARD .
+test_0125	11	20	AUSTRALIA	location
+test_0125	23	34	WEST INDIES	location
+
+test_0126|t|
+test_0126|a|MELBOURNE 1996-12-06
+test_0126	1	10	MELBOURNE	location
+
+test_0127|t|
+test_0127|a|limited overs match between Australia and West Indies on Friday :
+test_0127	29	38	Australia	location
+test_0127	43	54	West Indies	location
+
+test_0128|t|
+test_0128|a|West Indies
+test_0128	1	12	West Indies	location
+
+test_0129|t|
+test_0129|a|Australia
+test_0129	1	10	Australia	location
+
+test_0130|t|
+test_0130|a|Result : Australia won by five wickets .
+test_0130	10	19	Australia	location
+
+test_0131|t|
+test_0131|a|CRICKET - AUSTRALIA BEAT WEST INDIES BY FIVE WICKETS .
+test_0131	11	20	AUSTRALIA	location
+test_0131	26	37	WEST INDIES	location
+
+test_0132|t|
+test_0132|a|MELBOURNE 1996-12-06
+test_0132	1	10	MELBOURNE	location
+
+test_0133|t|
+test_0133|a|Australia beat West Indies by five wickets in a World Series limited overs match at the Melbourne Cricket Ground on Friday .
+test_0133	1	10	Australia	location
+test_0133	16	27	West Indies	location
+test_0133	89	113	Melbourne Cricket Ground	location
+
+test_0134|t|
+test_0134|a|Scores : West Indies 172 all out in 49.2 overs ( Shivnarine Chanderpaul 54 ) ; Australia 173-5 in 48.4 overs ( Greg Blewett 57 not out ) .
+test_0134	10	21	West Indies	location
+test_0134	80	89	Australia	location
+
+test_0135|t|
+test_0135|a|CRICKET - WEST INDIES 172 ALL OUT IN 49.2 OVERS V AUSTRALIA .
+test_0135	11	22	WEST INDIES	location
+test_0135	51	60	AUSTRALIA	location
+
+test_0136|t|
+test_0136|a|MELBOURNE 1996-12-06
+test_0136	1	10	MELBOURNE	location
+
+test_0137|t|
+test_0137|a|West Indies were all out for 172 off 49.2 overs in the World Series limited overs match against Australia on Friday .
+test_0137	1	12	West Indies	location
+test_0137	97	106	Australia	location
+
+test_0138|t|
+test_0138|a|HOBART , Australia 1996-12-06
+test_0138	1	7	HOBART	location
+test_0138	10	19	Australia	location
+
+test_0139|t|
+test_0139|a|Score on the first day of the four-day Sheffield Shield match between Tasmania and Victoria at Bellerive Oval on Friday :
+test_0139	71	79	Tasmania	location
+test_0139	84	92	Victoria	location
+test_0139	96	110	Bellerive Oval	location
+
+test_0140|t|
+test_0140|a|Tasmania 352 for three ( David Boon 106 not out , Shaun Young 86 not out , Michael DiVenuto 119 ) v Victoria .
+test_0140	1	9	Tasmania	location
+
+test_0141|t|
+test_0141|a|MELBOURNE 1996-12-06
+test_0141	1	10	MELBOURNE	location
+
+test_0142|t|
+test_0142|a|West Indies batsman Brian Lara suffered another blow to his Australian tour , after already being disciplined for misconduct , when he was dismissed cheaply in the first limited overs match against Australia on Friday .
+test_0142	1	12	West Indies	location
+test_0142	199	208	Australia	location
+
+test_0143|t|
+test_0143|a|Lara , who earned a stern rebuke from his own tour management after an angry outburst against Australia wicketkeeper Ian Healy , scored five to prolong a run of poor form with the bat .
+test_0143	95	104	Australia	location
+
+test_0144|t|
+test_0144|a|The West Indies vice-captain struggled for timing during his 36-minute stay at the crease before chipping a ball from medium pacer Tom Moody straight to Shane Warne at mid-wicket .
+test_0144	5	16	West Indies	location
+
+test_0145|t|
+test_0145|a|West Indies were 53 for two in 15 overs when rain stopped play at the Melbourne Cricket Ground after captain Courtney Walsh won the toss and elected to bat .
+test_0145	1	12	West Indies	location
+test_0145	71	95	Melbourne Cricket Ground	location
+
+test_0146|t|
+test_0146|a|Tour manager Clive Lloyd on Wednesday apologised for Lara 's behaviour in confronting Australia coach Geoff Marsh in the opposition dressing room to protest against his dismissal in the second test on Tuesday .
+test_0146	87	96	Australia	location
+
+test_0147|t|
+test_0147|a|Lara , who holds the record for the highest score in test and first-class cricket , was unhappy about Healy 's role in the incident and questioned whether the ball had carried to the Australia keeper .
+test_0147	184	193	Australia	location
+
+test_0148|t|
+test_0148|a|Australia went on to win the match at the Sydney Cricket Ground by 124 runs to take a two-nil lead in the five-test series after Lara failed in both innings .
+test_0148	1	10	Australia	location
+test_0148	43	64	Sydney Cricket Ground	location
+
+test_0149|t|
+test_0149|a|Lara has yet to score a century since West Indies arrived in Australia five weeks ago .
+test_0149	39	50	West Indies	location
+test_0149	62	71	Australia	location
+
+test_0150|t|
+test_0150|a|Both West Indies and Australia team management have played down the incident , stressing that relations between the two sides have not been adversely affected .
+test_0150	6	17	West Indies	location
+test_0150	22	31	Australia	location
+
+test_0151|t|
+test_0151|a|Pakistan , who arrive next week , are the third team in the triangular World Series tournament .
+test_0151	1	9	Pakistan	location
+
+test_0152|t|
+test_0152|a|CRICKET - WEST INDIES TO BAT AFTER WINNING THE TOSS .
+test_0152	11	22	WEST INDIES	location
+
+test_0153|t|
+test_0153|a|MELBOURNE 1996-12-06
+test_0153	1	10	MELBOURNE	location
+
+test_0154|t|
+test_0154|a|West Indies captain Courtney Walsh elected to bat after winning the toss in the first match in the World Series limited overs competition against Australia at the Melbourne Cricket Ground on Friday .
+test_0154	1	12	West Indies	location
+test_0154	147	156	Australia	location
+test_0154	164	173	Melbourne	location
+
+test_0155|t|
+test_0155|a|Australia - Mark Taylor ( captain ) , Mark Waugh , Ricky Ponting , Greg Blewett , Michael Bevan , Stuart Law , Tom Moody , Ian Healy , Paul Reiffel , Shane Warne , Jason Gillespie , Glenn McGrath 12th man .
+test_0155	1	10	Australia	location
+
+test_0156|t|
+test_0156|a|West Indies - Sherwin Campbell , Robert Samuels , Brian Lara , Shivnarine Chanderpaul , Carl Hooper , Jimmy Adams , Junior Murray , Nixon McLean , Kenneth Benjamin , Curtly Ambrose , Courtney Walsh ( captain ) , Roland Holder 12th man .
+test_0156	1	12	West Indies	location
+
+test_0157|t|
+test_0157|a|BALI 1996-12-06
+test_0157	1	5	BALI	location
+
+test_0158|t|
+test_0158|a|Chen Gang ( China ) beat Martin Londgaard Hansen ( Denmark ) 15-12 15-6
+test_0158	13	18	China	location
+test_0158	52	59	Denmark	location
+
+test_0159|t|
+test_0159|a|Dong Jiong ( China ) beat Thomas Stuer-Lauridsen ( Denmark ) 15-10 15-6
+test_0159	14	19	China	location
+test_0159	52	59	Denmark	location
+
+test_0160|t|
+test_0160|a|Indra Wijaya ( Indonesia ) beat Ong Ewe Hock ( Malaysia ) 5-15 15-11 15-11
+test_0160	16	25	Indonesia	location
+test_0160	48	56	Malaysia	location
+
+test_0161|t|
+test_0161|a|Sun Jun ( China ) beat Rashid Sidek ( Malaysia ) 15-12 17-14
+test_0161	11	16	China	location
+test_0161	39	47	Malaysia	location
+
+test_0162|t|
+test_0162|a|Hermawan Susanto ( Indonesia ) beat Soren B. Nielsen ( Denmark ) 15-8 15-2
+test_0162	20	29	Indonesia	location
+test_0162	56	63	Denmark	location
+
+test_0163|t|
+test_0163|a|Allan Budi Kuksuma ( Indonesia ) beat Poul-Erik Hoyer-Larsen ( Denmark ) 15-7 15-4
+test_0163	22	31	Indonesia	location
+test_0163	64	71	Denmark	location
+
+test_0164|t|
+test_0164|a|Budi Santoso ( Indonesia ) beat Hu Zhilan ( China ) 15-4 15-5
+test_0164	16	25	Indonesia	location
+test_0164	45	50	China	location
+
+test_0165|t|
+test_0165|a|Semifinals ( on Saturday ) : Fung Permadi ( Taiwan ) v Indra
+test_0165	45	51	Taiwan	location
+
+test_0166|t|
+test_0166|a|Wijaya ( Indonesia ) ; Sun Jun ( China ) v Allan Budi Kusuma
+test_0166	10	19	Indonesia	location
+test_0166	34	39	China	location
+
+test_0167|t|
+test_0167|a|( Indonesia )
+test_0167	3	12	Indonesia	location
+
+test_0168|t|
+test_0168|a|Gong Zhichao ( China ) beat Mia Audina ( Indonesia ) 11-2 12-10
+test_0168	16	21	China	location
+test_0168	42	51	Indonesia	location
+
+test_0169|t|
+test_0169|a|Ye Zhaoying ( China ) beat Meiluawati ( Indonesia ) 11-6 12-10
+test_0169	15	20	China	location
+test_0169	41	50	Indonesia	location
+
+test_0170|t|
+test_0170|a|Camilla Martin ( Denmark ) beat Wang Chen ( China ) 11-0 12-10
+test_0170	18	25	Denmark	location
+test_0170	45	50	China	location
+
+test_0171|t|
+test_0171|a|Susi Susanti ( Indonesia ) beat Han Jingna ( China ) 11-5 11-4 .
+test_0171	16	25	Indonesia	location
+test_0171	46	51	China	location
+
+test_0172|t|
+test_0172|a|Semifinals ( on Saturday ) : Susi Susanti ( Indonesia ) v Camilla Martin ( Denmark ) ; Ye Zhaoying ( China ) v Gong Zichao ( China ) .
+test_0172	45	54	Indonesia	location
+test_0172	76	83	Denmark	location
+test_0172	102	107	China	location
+test_0172	126	131	China	location
+
+test_0173|t|
+test_0173|a|CAIRO 1996-12-06
+test_0173	1	6	CAIRO	location
+
+test_0174|t|
+test_0174|a|Result of the second leg of the African Cup Winners ' Cup final at the National stadium on Friday : Arab Contractors ( Egypt ) 4 Sodigraf ( Zaire ) 0 ( halftime 2-0 )
+test_0174	72	88	National stadium	location
+test_0174	120	125	Egypt	location
+test_0174	141	146	Zaire	location
+
+test_0175|t|
+test_0175|a|NEW YORK 1996-12-06
+test_0175	1	9	NEW YORK	location
+
+test_0176|t|
+test_0176|a|ATLANTIC DIVISION
+test_0176	1	9	ATLANTIC	location
+
+test_0177|t|
+test_0177|a|PACIFIC DIVISION
+test_0177	1	8	PACIFIC	location
+
+test_0178|t|
+test_0178|a|ANAHEIM AT BUFFALO
+test_0178	12	19	BUFFALO	location
+
+test_0179|t|
+test_0179|a|PITTSBURGH AT WASHINGTON
+test_0179	15	25	WASHINGTON	location
+
+test_0180|t|
+test_0180|a|MONTREAL AT CHICAGO
+test_0180	13	20	CHICAGO	location
+
+test_0181|t|
+test_0181|a|PHILADELPHIA AT DALLAS
+test_0181	17	23	DALLAS	location
+
+test_0182|t|
+test_0182|a|ST LOUIS AT COLORADO
+test_0182	13	21	COLORADO	location
+
+test_0183|t|
+test_0183|a|OTTAWA AT EDMONTON
+test_0183	11	19	EDMONTON	location
+
+test_0184|t|
+test_0184|a|NEW YORK 1996-12-06
+test_0184	1	9	NEW YORK	location
+
+test_0185|t|
+test_0185|a|INDIANAPOLIS 1996-12-06
+test_0185	1	13	INDIANAPOLIS	location
+
+test_0186|t|
+test_0186|a|Indianapolis closes with games at Kansas City and Cincinnati .
+test_0186	1	13	Indianapolis	location
+test_0186	35	46	Kansas City	location
+test_0186	51	61	Cincinnati	location
+
+test_0187|t|
+test_0187|a|Philadelphia , which fell from an NFC East tie with the Dallas Cowboys and Washington Redskins , go on the road against the New York Jets and then entertain Arizona .
+test_0187	1	13	Philadelphia	location
+
+test_0188|t|
+test_0188|a|A 39-yard interference penalty against Philadelphia 's Troy Vincent set up Faulk 's first score around left end that capped an 80-yard march 5:17 into the game and the rout was on .
+test_0188	40	52	Philadelphia	location
+
+test_0189|t|
+test_0189|a|NEW YORK 1996-12-06
+test_0189	1	9	NEW YORK	location
+
+test_0190|t|
+test_0190|a|ATLANTIC DIVISION
+test_0190	1	9	ATLANTIC	location
+
+test_0191|t|
+test_0191|a|PACIFIC DIVISION
+test_0191	1	8	PACIFIC	location
+
+test_0192|t|
+test_0192|a|NEW JERSEY AT BOSTON
+test_0192	15	21	BOSTON	location
+
+test_0193|t|
+test_0193|a|CLEVELAND AT DETROIT
+test_0193	14	21	DETROIT	location
+
+test_0194|t|
+test_0194|a|NEW YORK AT MIAMI
+test_0194	13	18	MIAMI	location
+
+test_0195|t|
+test_0195|a|PHOENIX AT SACRAMENTO
+test_0195	12	22	SACRAMENTO	location
+
+test_0196|t|
+test_0196|a|VANCOUVER AT SAN ANTONIO
+test_0196	14	25	SAN ANTONIO	location
+
+test_0197|t|
+test_0197|a|MINNESOTA AT UTAH
+test_0197	14	18	UTAH	location
+
+test_0198|t|
+test_0198|a|CHARLOTTE AT PORTLAND
+test_0198	14	22	PORTLAND	location
+
+test_0199|t|
+test_0199|a|INDIANA AT GOLDEN STATE
+test_0199	12	24	GOLDEN STATE	location
+
+test_0200|t|
+test_0200|a|ORLANDO AT LA LAKERS
+test_0200	12	21	LA LAKERS	location
+
+test_0201|t|
+test_0201|a|NEW YORK 1996-12-05
+test_0201	1	9	NEW YORK	location
+
+test_0202|t|
+test_0202|a|ST LOUIS AT CHICAGO
+test_0202	13	20	CHICAGO	location
+
+test_0203|t|
+test_0203|a|BALTIMORE AT CINCINNATI
+test_0203	14	24	CINCINNATI	location
+
+test_0204|t|
+test_0204|a|DENVER AT GREEN BAY
+test_0204	11	20	GREEN BAY	location
+
+test_0205|t|
+test_0205|a|JACKSONVILLE AT HOUSTON
+test_0205	17	24	HOUSTON	location
+
+test_0206|t|
+test_0206|a|NY GIANTS AT MIAMI
+test_0206	14	19	MIAMI	location
+
+test_0207|t|
+test_0207|a|ATLANTA AT NEW ORLEANS
+test_0207	12	23	NEW ORLEANS	location
+
+test_0208|t|
+test_0208|a|SAN DIEGO AT PITTSBURGH
+test_0208	14	24	PITTSBURGH	location
+
+test_0209|t|
+test_0209|a|WASHINGTON AT TAMPA BAY
+test_0209	15	24	TAMPA BAY	location
+
+test_0210|t|
+test_0210|a|DALLAS AT ARIZONA
+test_0210	11	18	ARIZONA	location
+
+test_0211|t|
+test_0211|a|NY JETS AT NEW ENGLAND
+test_0211	12	23	NEW ENGLAND	location
+
+test_0212|t|
+test_0212|a|BUFFALO AT SEATTLE
+test_0212	12	19	SEATTLE	location
+
+test_0213|t|
+test_0213|a|CAROLINA AT SAN FRANCISCO
+test_0213	13	26	SAN FRANCISCO	location
+
+test_0214|t|
+test_0214|a|MINNESOTA AT DETROIT
+test_0214	14	21	DETROIT	location
+
+test_0215|t|
+test_0215|a|KANSAS CITY AT OAKLAND
+test_0215	16	23	OAKLAND	location
+
+test_0216|t|
+test_0216|a|NEW YORK 1996-12-05
+test_0216	1	9	NEW YORK	location
+
+test_0217|t|
+test_0217|a|Result of National Football
+test_0217	20	28	Football	location
+
+test_0218|t|
+test_0218|a|League game on Thursday ( home team in CAPS ) :
+test_0218	1	7	League	location
+
+test_0219|t|
+test_0219|a|HOUSTON 1996-12-05
+test_0219	1	8	HOUSTON	location
+
+test_0220|t|
+test_0220|a|Ohio State left tackle Orlando Pace became the first repeat winner of the Lombardi Award Thursday night when the Rotary Club of Houston again honoured him as college football 's lineman of the year .
+test_0220	129	136	Houston	location
+
+test_0221|t|
+test_0221|a|AMSTERDAM 1996-12-06
+test_0221	1	10	AMSTERDAM	location
+
+test_0222|t|
+test_0222|a|BONN 1996-12-06
+test_0222	1	5	BONN	location
+
+test_0223|t|
+test_0223|a|PARIS 1996-12-06
+test_0223	1	6	PARIS	location
+
+test_0224|t|
+test_0224|a|AMSTERDAM 1996-12-06
+test_0224	1	10	AMSTERDAM	location
+
+test_0225|t|
+test_0225|a|PARIS 1996-12-06
+test_0225	1	6	PARIS	location
+
+test_0226|t|
+test_0226|a|PARIS 1996-12-06
+test_0226	1	6	PARIS	location
+
+test_0227|t|
+test_0227|a|BONN 1996-12-06
+test_0227	1	5	BONN	location
+
+test_0228|t|
+test_0228|a|Karlsruhe 3 ( Reich 29th , Carl 44th , Dundee 69th ) Freiburg 0 .
+test_0228	1	10	Karlsruhe	location
+test_0228	54	62	Freiburg	location
+
+test_0229|t|
+test_0229|a|MUNICH , Germany 1996-12-06
+test_0229	1	7	MUNICH	location
+test_0229	10	17	Germany	location
+
+test_0230|t|
+test_0230|a|Quarter-final results at the $ 6 million Grand Slam Cup tennis tournament on Friday : Goran Ivanisevic ( Croatia ) beat Mark Woodforde ( Australia ) 6-4 6-4
+test_0230	106	113	Croatia	location
+test_0230	138	147	Australia	location
+
+test_0231|t|
+test_0231|a|Yevgeny Kafelnikov ( Russia ) beat Jim Courier ( U.S. ) 2-6 6-4 8-6
+test_0231	22	28	Russia	location
+test_0231	50	54	U.S.	location
+
+test_0232|t|
+test_0232|a|SOCCER - WEAH HEAD-BUTT DEPRIVES PORTUGAL OF COSTA .
+test_0232	34	42	PORTUGAL	location
+
+test_0233|t|
+test_0233|a|LISBON 1996-12-06
+test_0233	1	7	LISBON	location
+
+test_0234|t|
+test_0234|a|Portugal called up Porto central defender Joao Manuel Pinto on Friday to face Germany in a World Cup qualifier in place of injured club colleague Jorge Costa , who is still nursing a broken nose after being head-butted by Liberian striker Georg Weah .
+test_0234	1	9	Portugal	location
+test_0234	79	86	Germany	location
+
+test_0235|t|
+test_0235|a|Portugal lead European qualifying group nine with seven points from four games , one more than Ukraine and three more than Germany , who have only played twice .
+test_0235	1	9	Portugal	location
+test_0235	96	103	Ukraine	location
+test_0235	124	131	Germany	location
+
+test_0236|t|
+test_0236|a|The Portuguese host Germany on December 14 .
+test_0236	21	28	Germany	location
+
+test_0237|t|
+test_0237|a|Goalkeepers - Vitor Baia ( Barcelona , Spain ) , Rui Correia ( Braga ) :
+test_0237	40	45	Spain	location
+
+test_0238|t|
+test_0238|a|Defenders - Paulinho Santos ( Porto ) , Sergio Conceicao ( Porto ) , Joao Manuel Pinto ( Porto ) , Oceano Cruz ( Sporting ) , Fernando Couto ( Barcelona ) , Helder Cristovao ( Deportivo Coruna , Spain ) , Dimas Teixeira ( Juventus , Italy ) , Carlos Secretario ( Real Madrid , Spain ) :
+test_0238	196	201	Spain	location
+test_0238	234	239	Italy	location
+test_0238	278	283	Spain	location
+
+test_0239|t|
+test_0239|a|Midfielders - Rui Barros ( Porto ) , Jose Barroso ( Porto ) , Luis Figo ( Barcelona ) , Paulo Bento ( Oviedo , Spain ) , Jose Taira ( Salamanca , Spain ) :
+test_0239	112	117	Spain	location
+test_0239	147	152	Spain	location
+
+test_0240|t|
+test_0240|a|Forwards - Antonio Folha ( Porto ) , Joao Vieira Pinto ( Benfica ) , Paulo Alves ( Sporting ) , Rui Costa ( Fiorentina , Italy ) , Jorge Cadete ( Celtic Glasgow , Scotland ) .
+test_0240	122	127	Italy	location
+test_0240	164	172	Scotland	location
+
+test_0241|t|
+test_0241|a|MADRID 1996-12-06
+test_0241	1	7	MADRID	location
+
+test_0242|t|
+test_0242|a|MADRID 1996-12-06
+test_0242	1	7	MADRID	location
+
+test_0243|t|
+test_0243|a|Spanish police will breathalyse fans at the gates of the Santiago Bernabeu stadium and ban drunk supporters from Saturday 's big Real Madrid-Barcelona game , the Madrid daily El Mundo said on Friday .
+test_0243	58	83	Santiago Bernabeu stadium	location
+test_0243	163	169	Madrid	location
+
+test_0244|t|
+test_0244|a|MADRID 1996-12-06
+test_0244	1	7	MADRID	location
+
+test_0245|t|
+test_0245|a|SOCCER - SPAIN PICK UNCAPPED ARMANDO FOR WORLD CUP CLASH .
+test_0245	10	15	SPAIN	location
+
+test_0246|t|
+test_0246|a|MADRID 1996-12-06
+test_0246	1	7	MADRID	location
+
+test_0247|t|
+test_0247|a|Spain coach Javier Clemente has added uncapped Deportivo Coruna midfielder Armando Alvarez to his squad for the World Cup qualifier against Yugoslavia on December 14 .
+test_0247	1	6	Spain	location
+test_0247	141	151	Yugoslavia	location
+
+test_0248|t|
+test_0248|a|ROME 1996-12-06
+test_0248	1	5	ROME	location
+
+test_0249|t|
+test_0249|a|" I will be happy to give him the award personally on January 20 in Lisbon and I 'm confident that Costa himself will be there beside me on that day to shake his hand . "
+test_0249	69	75	Lisbon	location
+
+test_0250|t|
+test_0250|a|Weah served out his suspension during Milan 's 2-1 home defeat by Rosenborg of Norway on Wednesday .
+test_0250	80	86	Norway	location
+
+test_0251|t|
+test_0251|a|GUNMEN WOUND TWO MANCHESTER UNITED FANS IN AUSTRIA .
+test_0251	44	51	AUSTRIA	location
+
+test_0252|t|
+test_0252|a|VIENNA 1996-12-06
+test_0252	1	7	VIENNA	location
+
+test_0253|t|
+test_0253|a|The fans , in Austria to watch their team play Rapid Vienna last Wednesday , may have been involved in a pub brawl earlier , the spokeswoman said .
+test_0253	15	22	Austria	location
+
+test_0254|t|
+test_0254|a|ROME 1996-12-06
+test_0254	1	5	ROME	location
+
+test_0255|t|
+test_0255|a|Poor man 's Roman derby in what has been a miserable season for both Rome teams , already eliminated from the Italian and UEFA Cups .
+test_0255	70	74	Rome	location
+
+test_0256|t|
+test_0256|a|Lazio have injury doubts about striker Pierluigi Casiraghi , Czech midfielder Pavel Nedved and defender Paolo Negro , while Roma present a full strength side led by Argentine Abel Balbo , Marco Delvecchio and Francesco Totti in attack .
+test_0256	62	67	Czech	location
+
+test_0257|t|
+test_0257|a|BRUSSELS 1996-12-06
+test_0257	1	9	BRUSSELS	location
+
+test_0258|t|
+test_0258|a|In Charleroi :
+test_0258	4	13	Charleroi	location
+
+test_0259|t|
+test_0259|a|Charleroi ( Belgium ) 75 Estudiantes Madrid ( Spain ) 82 ( 34-35 )
+test_0259	13	20	Belgium	location
+test_0259	47	52	Spain	location
+
+test_0260|t|
+test_0260|a|In Belgrade :
+test_0260	4	12	Belgrade	location
+
+test_0261|t|
+test_0261|a|Partizan Belgrade ( Yugoslavia ) 78 Kinder Bologna ( Italy ) 70 ( halftime 44-35 )
+test_0261	21	31	Yugoslavia	location
+test_0261	54	59	Italy	location
+
+test_0262|t|
+test_0262|a|BOMBAY , India 1996-12-06
+test_0262	1	7	BOMBAY	location
+test_0262	10	15	India	location
+
+test_0263|t|
+test_0263|a|Top-seeded Eyles now meets titleholder Peter Nicol of Scotland who overcame Simon Parke of England 15-7 15-12 15-12 .
+test_0263	55	63	Scotland	location
+test_0263	92	99	England	location
+
+test_0264|t|
+test_0264|a|BOMBAY , India 1996-12-06
+test_0264	1	7	BOMBAY	location
+test_0264	10	15	India	location
+
+test_0265|t|
+test_0265|a|Peter Nicol ( Scotland ) beat Simon Parke ( England ) 15-7 15-12 15-12 Rodney Eyles ( Australia ) beat Mark Cairns ( England ) 15-7 15-6 15-8 .
+test_0265	15	23	Scotland	location
+test_0265	45	52	England	location
+test_0265	87	96	Australia	location
+test_0265	118	125	England	location
+
+test_0266|t|
+test_0266|a|DURBAN , South Africa 1996-12-06
+test_0266	10	22	South Africa	location
+
+test_0267|t|
+test_0267|a|At least four people have been shot dead in two suspected political attacks in South Africa 's volatile Zulu heartland , police said on Friday .
+test_0267	80	92	South Africa	location
+
+test_0268|t|
+test_0268|a|A police spokesman said two youths believed to be supporters of President Nelson Mandela 's African National Congress ( ANC ) had been killed when unknown gunmen opened fire at the rural settlement of Izingolweni on KwaZulu-Natal province 's south coast on Thursday night .
+test_0268	202	213	Izingolweni	location
+test_0268	217	230	KwaZulu-Natal	location
+
+test_0269|t|
+test_0269|a|In another attack , also on the province 's south coast on Thursday night , two men were shot dead near Umkomaas .
+test_0269	105	113	Umkomaas	location
+
+test_0270|t|
+test_0270|a|The killings came just hours after violence monitors said they were not optimistic of a peaceful festive season in KwaZulu-Natal and pointed the south coast region where 18 people were massacred last Christmas as one of potential hot spots .
+test_0270	116	129	KwaZulu-Natal	location
+
+test_0271|t|
+test_0271|a|PRAGUE 1996-12-06
+test_0271	1	7	PRAGUE	location
+
+test_0272|t|
+test_0272|a|Czech President Vaclav Havel on Friday welcomed the appointment of Madeleine Albright , who is of Czech extraction , as the United States ' first woman Secretary of State .
+test_0272	1	6	Czech	location
+test_0272	99	104	Czech	location
+test_0272	125	138	United States	location
+
+test_0273|t|
+test_0273|a|with the United States and with the first woman ever to hold the position of Secretary of State .
+test_0273	10	23	United States	location
+
+test_0274|t|
+test_0274|a|Havel , who helped lead the " velvet revolution " that ousted the Communist regime in Prague in 1989 , invited Albright , then working for a private foreign policy think tank , to advise his new democratic government in 1990 .
+test_0274	87	93	Prague	location
+
+test_0275|t|
+test_0275|a|Albright , born Marie Korbelova to a Czechoslovak diplomat in 1937 , fled with her family to the United States after the Communists came to power in a coup in 1948 .
+test_0275	98	111	United States	location
+
+test_0276|t|
+test_0276|a|As an academic , Albright studied and lectured on Europe 's 20th century problems before becoming U.S. ambassador to the United Nations .
+test_0276	51	57	Europe	location
+test_0276	99	103	U.S.	location
+
+test_0277|t|
+test_0277|a|Czech diplomats , seeking to have their country included in the expected expansion of NATO , praised the selection of Albright , known to be a strong supporter of alliance 's integration of former Soveit-bloc countries .
+test_0277	1	6	Czech	location
+
+test_0278|t|
+test_0278|a|is a clear signal that one key of the lines of foreign policy will be the strengthening of the trans-Atlantic cooperation , a creation of strategic partnership between Europe and the US , " Foreign Minister Josef Zieleniec told Reuters .
+test_0278	169	175	Europe	location
+test_0278	184	186	US	location
+
+test_0279|t|
+test_0279|a|Czech ambassador to the United Nations , Karel Kovanda , told the daily Mlada Fronta Dnes that Albright " is a little light in our diplomatic heaven , " but warned against expecting her to exert any influence in favour of the Czechs .
+test_0279	1	6	Czech	location
+
+test_0280|t|
+test_0280|a|BUCHAREST 1996-12-06
+test_0280	1	10	BUCHAREST	location
+
+test_0281|t|
+test_0281|a|* The three parties in the government coalition have committed themselves to a real reform of Romania 's economy , Constantinescu said after the ceremony .
+test_0281	95	102	Romania	location
+
+test_0282|t|
+test_0282|a|* The UDMR wants to contribute to social reform and economic revival in Romania , union leader Marko Bela said .
+test_0282	73	80	Romania	location
+
+test_0283|t|
+test_0283|a|* The international airport in Timisoara and the domestic airports in Arad , Oradea and Sibiu were closed due to fog .
+test_0283	32	41	Timisoara	location
+test_0283	71	75	Arad	location
+test_0283	78	84	Oradea	location
+test_0283	89	94	Sibiu	location
+
+test_0284|t|
+test_0284|a|PRAGUE 1996-12-06
+test_0284	1	7	PRAGUE	location
+
+test_0285|t|
+test_0285|a|He said after June general elections in which the ruling three-party coalition lost its parliamentary majority , the ODS executive , led by Prime Minister Vaclav Klaus , had developed proposals on these subjects to present at the congress on Saturday in the Czech second city Brno .
+test_0285	259	264	Czech	location
+test_0285	277	281	Brno	location
+
+test_0286|t|
+test_0286|a|The ODS , a party in which Klaus often tries to emulate the style of former British Prime Minister Margaret Thatcher , has been in control of Czech politics since winning general elections in 1992 .
+test_0286	143	148	Czech	location
+
+test_0287|t|
+test_0287|a|The party , led by the vigorously-confident Klaus , took 32 of 81 seats after late November runoff elections to the new upper house of Czech parliament .
+test_0287	136	141	Czech	location
+
+test_0288|t|
+test_0288|a|POLAND GOT MONEY FROM POST-WAR SWISS ACCOUNTS .
+test_0288	1	7	POLAND	location
+
+test_0289|t|
+test_0289|a|WARSAW 1996-12-06
+test_0289	1	7	WARSAW	location
+
+test_0290|t|
+test_0290|a|Poland said on Friday that Swiss bank accounts , which in many cases belonged to Polish Jews who died in the Holocaust , were used in debt settlements between the two countries after the World War Two .
+test_0290	1	7	Poland	location
+
+test_0291|t|
+test_0291|a|Foreign Minister Dariusz Rosati , unveiling first findings of a special government commission , said that in 1970s the then communist Poland received 460,000 Swiss francs from the accounts .
+test_0291	135	141	Poland	location
+
+test_0292|t|
+test_0292|a|" In 1970s , Poland received from unclaimed accounts in Switzerland a sum of 460,000 francs .
+test_0292	14	20	Poland	location
+test_0292	57	68	Switzerland	location
+
+test_0293|t|
+test_0293|a|Switzerland stands accused by Senator Alfonse D'Amato , chairman of the powerful U.S. Senate Banking Committee , of agreeing to give money to Poland from unclaimed bank accounts of Polish citizens , as part of an accord on compensating Swiss nationals whose assets had been seized in communist Poland .
+test_0293	1	12	Switzerland	location
+test_0293	143	149	Poland	location
+test_0293	295	301	Poland	location
+
+test_0294|t|
+test_0294|a|Many of these citizens were Jews murdered during the war , when Nazi German invaders killed most of Poland 's 3.5 million Jews .
+test_0294	101	107	Poland	location
+
+test_0295|t|
+test_0295|a|Rosati did not say whether the payment in 1970s was part of the 1949 agreement between Warsaw and Switzerland on compensation to Swiss citizens whose assets were seized by the Soviet-imposed communists authorities after World War Two .
+test_0295	88	94	Warsaw	location
+test_0295	99	110	Switzerland	location
+
+test_0296|t|
+test_0296|a|Rosati confirmed that the 1949 agreement had provided for granting Switzerland about 53 million francs and most of this sum was repaid with coal exports .
+test_0296	68	79	Switzerland	location
+
+test_0297|t|
+test_0297|a|He said , however , that Switzerland did get about 16,000 francs from the so-called " dead accounts " as part of the compensation .
+test_0297	26	37	Switzerland	location
+
+test_0298|t|
+test_0298|a|WARSAW 1996-12-06
+test_0298	1	7	WARSAW	location
+
+test_0299|t|
+test_0299|a|He said the 65-80-litre level could be reached in the next ten years and make Poland , with its 40-million population , Europe 's third largest beer market after Germany and Britain .
+test_0299	79	85	Poland	location
+test_0299	121	127	Europe	location
+test_0299	163	170	Germany	location
+test_0299	175	182	Britain	location
+
+test_0300|t|
+test_0300|a|Van Boxmeer said Poland 's top five brewers , which produce about 55 percent of the country 's beer , could all raise market share as some of the numerous small brewers fall to competition from the large brewers with foreign investors .
+test_0300	18	24	Poland	location
+
+test_0301|t|
+test_0301|a|Earlier this year South African Breweries Ltd ( SAB ) bought strategic stakes in the unlisted Lech and Tychy brewers , which together hold more than 20 percent of the market , and Australia 's Brewpole BV has a controlling stake in Poland 's larges t brewery , Elbrewery Company Ltd. ( EB ) .
+test_0301	181	190	Australia	location
+test_0301	233	239	Poland	location
+
+test_0302|t|
+test_0302|a|But he said the company 's investment of more than $ 100 million already this decade , largely in production , would help position it to compete with such competitors as brewers from the neighbouring Czech Republic .
+test_0302	201	215	Czech Republic	location
+
+test_0303|t|
+test_0303|a|Some analysts say cheaper but high-quality Czech imports could invade Poland once tariffs for CEFTA countries are lifted in 1998 , but van Boxmeer says such a threat might be exaggerated despite the Czech beer market 's overcapacity .
+test_0303	44	49	Czech	location
+test_0303	71	77	Poland	location
+test_0303	200	205	Czech	location
+
+test_0304|t|
+test_0304|a|I think that this fidelity to our beers is a factor which can limit the Czech beers , " he said .
+test_0304	73	78	Czech	location
+
+test_0305|t|
+test_0305|a|" You will not win the war of the Polish beer market with imported international brands , " van Boxmeer said , adding that Heineken would remain an up-market import in Poland .
+test_0305	169	175	Poland	location
+
+test_0306|t|
+test_0306|a|PRAGUE 1996-12-06
+test_0306	1	7	PRAGUE	location
+
+test_0307|t|
+test_0307|a|Doctors performed an emergency tracheotomy to help Czech President Vaclav Havel breathe after cancer surgery on his lungs earlier this week , a spokesman said on Friday .
+test_0307	52	57	Czech	location
+
+test_0308|t|
+test_0308|a|LONDON 1996-12-06
+test_0308	1	7	LONDON	location
+
+test_0309|t|
+test_0309|a|The UK Department of Transport on Friday said that the latest round of " open skies " talks with the U.S. had ended with no deal on liberalising the transatlantic flight market and no date set for when talks would restart .
+test_0309	5	7	UK	location
+test_0309	102	106	U.S.	location
+
+test_0310|t|
+test_0310|a|Tambang Timah at $ 15.575 in London .
+test_0310	30	36	London	location
+
+test_0311|t|
+test_0311|a|LONDON 1996-12-07
+test_0311	1	7	LONDON	location
+
+test_0312|t|
+test_0312|a|PT Tambang Timah closed at $ 15.575 per GDR in London on Friday .
+test_0312	48	54	London	location
+
+test_0313|t|
+test_0313|a|-- Jakarta newsroom +6221 384-6364
+test_0313	4	11	Jakarta	location
+
+test_0314|t|
+test_0314|a|Telkom at $ 35 in London .
+test_0314	19	25	London	location
+
+test_0315|t|
+test_0315|a|LONDON 1996-12-07
+test_0315	1	7	LONDON	location
+
+test_0316|t|
+test_0316|a|PT Telekomunikasi Indonesia ( Telkom ) closed at $ 35 in London on Friday .
+test_0316	58	64	London	location
+
+test_0317|t|
+test_0317|a|One ADS represents 20 ordinary shares -- Jakarta newsroom +6221 384-6364 .
+test_0317	42	49	Jakarta	location
+
+test_0318|t|
+test_0318|a|Woman charged over N. Ireland arms find .
+test_0318	20	30	N. Ireland	location
+
+test_0319|t|
+test_0319|a|BELFAST 1996-12-06
+test_0319	1	8	BELFAST	location
+
+test_0320|t|
+test_0320|a|A woman was charged on Friday with terrorist offences after three Irish Republican Army mortar bombs were found in a Belfast house , police said .
+test_0320	118	125	Belfast	location
+
+test_0321|t|
+test_0321|a|Security forces said the bombs may have been intended for use in a pre-Christmas bombing campaign by the guerrilla group that is battling to oust Britain from Northern Ireland .
+test_0321	147	154	Britain	location
+test_0321	160	176	Northern Ireland	location
+
+test_0322|t|
+test_0322|a|Britain sets conditions to clear American alliance .
+test_0322	1	8	Britain	location
+
+test_0323|t|
+test_0323|a|LONDON 1996-12-06
+test_0323	1	7	LONDON	location
+
+test_0324|t|
+test_0324|a|The British government warned Friday that it would refer the proposed trans-Atlantic alliance between British Airways Plc and American Airlines to Britain 's Monopolies and Mergers Commission unless the carriers complied with a number of conditions .
+test_0324	148	155	Britain	location
+
+test_0325|t|
+test_0325|a|Trade and Industry Secretary Ian Lang added that even if the conditions were met by both airlines , final clearance would hinge on an open skies deal between Britain and the United States to liberalise trans-Atlantic air traffic , which would create greater competition on the routes .
+test_0325	159	166	Britain	location
+test_0325	175	188	United States	location
+
+test_0326|t|
+test_0326|a|Lang said he supported conditions proposed by Britain 's Office of Fair Trading , which was asked to examine the case last month .
+test_0326	47	54	Britain	location
+
+test_0327|t|
+test_0327|a|" I agree ... that without suitable undertakings the alliance would be likely to lead to a significant loss of actual and potential passengers , on those routes where BA and AA currently compete and for all passengers on the trans-Atlantic market route between the UK and U.S. , " he said .
+test_0327	266	268	UK	location
+test_0327	273	277	U.S.	location
+
+test_0328|t|
+test_0328|a|His comments came just minutes after the latest set of open skies talks ended in London with no deal signed .
+test_0328	82	88	London	location
+
+test_0329|t|
+test_0329|a|The conditions for clearance of the alliance were that British Airways and American drop 168 slots at London Heathrow airport , the busiest in Europe .
+test_0329	103	118	London Heathrow	location
+test_0329	144	150	Europe	location
+
+test_0330|t|
+test_0330|a|The government also wants British Airways to drop a clause in its agreement with USAir that bars it from competing on trans-Atlantic routes , and said both British Airways and American should be prepared to reduce services on the London to Dallas - Fort Worth route in the event that a new entrant wishes to enter .
+test_0330	231	237	London	location
+test_0330	241	247	Dallas	location
+test_0330	250	260	Fort Worth	location
+
+test_0331|t|
+test_0331|a|LONDON 1996-12-06
+test_0331	1	7	LONDON	location
+
+test_0332|t|
+test_0332|a|Trades were discussed in 0.2 , 0.5 and one percent heating oil into Syria and Lebanon and there were fresh inquiries from France and Spain for low sulphur diesel .
+test_0332	69	74	Syria	location
+test_0332	79	86	Lebanon	location
+test_0332	123	129	France	location
+test_0332	134	139	Spain	location
+
+test_0333|t|
+test_0333|a|Interest remains focussed on a tender by India for a second purchase of high speed diesel for January delivery .
+test_0333	42	47	India	location
+
+test_0334|t|
+test_0334|a|The chance of material heading north , talked earlier this week , may be in jeopardy now since American fuel oil is expected to head transatlantic following outages at two coking units in the U.S .
+test_0334	193	196	U.S	location
+
+test_0335|t|
+test_0335|a|Up to 165,000 tonnes of fuel will have to find a new home and with the arbitrage from the U.S. to Europe open Rotterdam is a prime candidate .
+test_0335	91	95	U.S.	location
+test_0335	99	105	Europe	location
+test_0335	111	120	Rotterdam	location
+
+test_0336|t|
+test_0336|a|But an open arbitrage to the U.S. and tight Italian supplies after Elf scooped up Med material over the last week , continued to underpin prices into next week .
+test_0336	30	34	U.S.	location
+
+test_0337|t|
+test_0337|a|New meningitis scare hits Britain .
+test_0337	27	34	Britain	location
+
+test_0338|t|
+test_0338|a|LONDON 1996-12-06
+test_0338	1	7	LONDON	location
+
+test_0339|t|
+test_0339|a|A boy has died from meningitis and a girl from the same school has contracted the disease in the second such scare to hit Britain in as many weeks , health authorities said on Friday .
+test_0339	123	130	Britain	location
+
+test_0340|t|
+test_0340|a|The 16-year-old who attended Sale Grammar School in the northern England city of Manchester died less than a day after becoming ill .
+test_0340	66	73	England	location
+test_0340	82	92	Manchester	location
+
+test_0341|t|
+test_0341|a|Wales grappled with its own cluster of meningitis cases on a university campus in Cardiff .
+test_0341	1	6	Wales	location
+test_0341	83	90	Cardiff	location
+
+test_0342|t|
+test_0342|a|In Scotland , eight people have died and hundreds more are fighting a widespread food-poisoning outbreak .
+test_0342	4	12	Scotland	location
+
+test_0343|t|
+test_0343|a|More than 290 people have reported symptoms in Lanarkshire county , the worst-hit area , since the outbreak first came to light after people ate tainted meat pies at a pensioners ' lunch .
+test_0343	48	59	Lanarkshire	location
+
+test_0344|t|
+test_0344|a|LONDON 1996-12-06
+test_0344	1	7	LONDON	location
+
+test_0345|t|
+test_0345|a|The government still has a majority , " a spokesman from Major 's office in Downing Street said .
+test_0345	77	91	Downing Street	location
+
+test_0346|t|
+test_0346|a|LONDON 1996-12-06
+test_0346	1	7	LONDON	location
+
+test_0347|t|
+test_0347|a|The contract involved upgrading the flight data processing system at the Oceanic Control Centre in Prestwick in south west Scotland for National Air Traffic Services Ltd ( NATS ) , subsidiary of the Civil Aviation Authority .
+test_0347	74	96	Oceanic Control Centre	location
+test_0347	100	109	Prestwick	location
+test_0347	124	132	Scotland	location
+
+test_0348|t|
+test_0348|a|The system is responsible for the control of aircraft flying transatlantic routes from Europe and North America .
+test_0348	88	94	Europe	location
+test_0348	99	112	North America	location
+
+test_0349|t|
+test_0349|a|MELBOURNE 1996-12-06
+test_0349	1	10	MELBOURNE	location
+
+test_0350|t|
+test_0350|a|Play restarted in the first World Series limited overs match between West Indies and Australia after a rain delay of 50 minutes on Friday .
+test_0350	70	81	West Indies	location
+test_0350	86	95	Australia	location
+
+test_0351|t|
+test_0351|a|West Indies resumed their innings on 53 for two with opener Sherwin Campbell on 25 and Shivnarine Chanderpaul 10 .
+test_0351	1	12	West Indies	location
+
+test_0352|t|
+test_0352|a|Cricket - Pakistan beat New Zealand by 46 runs .
+test_0352	11	19	Pakistan	location
+test_0352	25	36	New Zealand	location
+
+test_0353|t|
+test_0353|a|SIALKOT , Pakistan 1996-12-06
+test_0353	1	8	SIALKOT	location
+test_0353	11	19	Pakistan	location
+
+test_0354|t|
+test_0354|a|Pakistan beat New Zealand by 46 runs on Friday to take an unbeatable 2-0 lead in the three-match one-day series .
+test_0354	1	9	Pakistan	location
+test_0354	15	26	New Zealand	location
+
+test_0355|t|
+test_0355|a|Scores : Pakistan 277-9 , New Zealand 231
+test_0355	10	18	Pakistan	location
+test_0355	27	38	New Zealand	location
+
+test_0356|t|
+test_0356|a|WINNIPEG 1996-12-06
+test_0356	1	9	WINNIPEG	location
+
+test_0357|t|
+test_0357|a|CAN / U.S. DOLLAR EXCHANGE RATE : 1.3570
+test_0357	1	4	CAN	location
+test_0357	7	11	U.S.	location
+
+test_0358|t|
+test_0358|a|( ( Winnipeg bureau 204-947-3548 ) )
+test_0358	5	13	Winnipeg	location
+
+test_0359|t|
+test_0359|a|WINNIPEG 1996-12-06
+test_0359	1	9	WINNIPEG	location
+
+test_0360|t|
+test_0360|a|Two ship loaded in Thunder Bay , one waited and seven were due .
+test_0360	20	31	Thunder Bay	location
+
+test_0361|t|
+test_0361|a|Vancouver 5 7
+test_0361	1	10	Vancouver	location
+
+test_0362|t|
+test_0362|a|Prince Rupert 1 3
+test_0362	1	14	Prince Rupert	location
+
+test_0363|t|
+test_0363|a|New York timecharter fixtures - Dec 6 .
+test_0363	1	9	New York	location
+
+test_0364|t|
+test_0364|a|NEW YORK 1996-12-06
+test_0364	1	9	NEW YORK	location
+
+test_0365|t|
+test_0365|a|No new fixtures reported from New York .
+test_0365	31	39	New York	location
+
+test_0366|t|
+test_0366|a|New York coal / ore / scrap fixtures - Dec 6 .
+test_0366	1	9	New York	location
+
+test_0367|t|
+test_0367|a|NEW YORK 1996-12-06
+test_0367	1	9	NEW YORK	location
+
+test_0368|t|
+test_0368|a|ORE - Maritime Queen 70,000 tonnes Dampier / Kaohsiung 20-30/12 $ 5.25 fio 35,000 / 30,000 China Steel .
+test_0368	36	43	Dampier	location
+test_0368	46	55	Kaohsiung	location
+
+test_0369|t|
+test_0369|a|NEW YORK 1996-12-06
+test_0369	1	9	NEW YORK	location
+
+test_0370|t|
+test_0370|a|Danila 28.5 16/12 Caribs / up W224 Mobil .
+test_0370	19	25	Caribs	location
+
+test_0371|t|
+test_0371|a|NEW YORK 1996-12-06
+test_0371	1	9	NEW YORK	location
+
+test_0372|t|
+test_0372|a|MIDEAST / RED SEA -
+test_0372	11	18	RED SEA	location
+
+test_0373|t|
+test_0373|a|Thai Resource 264 31/12 Ras Tanura / Red Sea W46.50 Mobil .
+test_0373	25	35	Ras Tanura	location
+test_0373	38	45	Red Sea	location
+
+test_0374|t|
+test_0374|a|Lula I 85 25/12 Sidi Kreir / Augusta W100 Exxon .
+test_0374	17	27	Sidi Kreir	location
+test_0374	30	37	Augusta	location
+
+test_0375|t|
+test_0375|a|Spetses 139 17/12 Sidi Kreir / Augusta W97.50 Exxon .
+test_0375	19	29	Sidi Kreir	location
+test_0375	32	39	Augusta	location
+
+test_0376|t|
+test_0376|a|Mesipia 77.5 17/12 Bajaia / Fos W105 Exxon .
+test_0376	20	26	Bajaia	location
+test_0376	29	32	Fos	location
+
+test_0377|t|
+test_0377|a|NEW YORK 1996-12-06
+test_0377	1	9	NEW YORK	location
+
+test_0378|t|
+test_0378|a|New York City on Friday said that it planned a $ 775 million refunding for January that will include its first floating rate issue of taxable debt for European investors .
+test_0378	1	14	New York City	location
+
+test_0379|t|
+test_0379|a|In November , New York City said it became the first U.S. municipality to offer bonds for sale in European markets by competitive bidding as it listed taxable bonds on the London Stock Exchange .
+test_0379	15	28	New York City	location
+test_0379	54	58	U.S.	location
+
+test_0380|t|
+test_0380|a|DES MOINES 1996-12-06
+test_0380	1	11	DES MOINES	location
+
+test_0381|t|
+test_0381|a|Wall St speculates about Santa Fe savior .
+test_0381	1	8	Wall St	location
+test_0381	26	34	Santa Fe	location
+
+test_0382|t|
+test_0382|a|NEW YORK 1996-12-06
+test_0382	1	9	NEW YORK	location
+
+test_0383|t|
+test_0383|a|Homestake Mining Co tops Wall Street 's list as the most likely white knight buyer for Santa Fe Pacific Gold Corp if Santa Fe rejects unsolicited suitor Newmont Mining Corp .
+test_0383	26	37	Wall Street	location
+
+test_0384|t|
+test_0384|a|Wall Street , since the bid , has speculated that any deal between Newmont and Santa Fe would be a " bear hug , " or a reluctantly negotiated agreement where the buyer is not necessarily a friendly suitor .
+test_0384	1	12	Wall Street	location
+
+test_0385|t|
+test_0385|a|They said the Santa Fe deal , which includes desirable Nevada mining territory , would only payoff for Newmont longer term .
+test_0385	56	62	Nevada	location
+
+test_0386|t|
+test_0386|a|Analysts and arbitrageurs immediately ruled out Barrick Gold Corp and Bre-X Minerals Ltd as Santa Fe saviors because they are locked in negotiations over their splitting Indonesia 's Busang vast gold deposit .
+test_0386	171	180	Indonesia	location
+
+test_0387|t|
+test_0387|a|Placer Dome Inc too was considered unlikley because it is focusing on geographic expansion in areas that do match Santa Fe 's Nevada , South America and Central Asia presence , they said .
+test_0387	127	133	Nevada	location
+test_0387	136	149	South America	location
+test_0387	154	166	Central Asia	location
+
+test_0388|t|
+test_0388|a|Homestake , based in San Francisco , operates gold mines in the United States , Australia , Chile and Canada .
+test_0388	22	35	San Francisco	location
+test_0388	65	78	United States	location
+test_0388	81	90	Australia	location
+test_0388	93	98	Chile	location
+test_0388	103	109	Canada	location
+
+test_0389|t|
+test_0389|a|Santa Fe is headquartered Albuquerque , N.M. and reported 1995 earnings of $ 0.30 per share , or $ 40 million , on revenues of $ 350 million .
+test_0389	27	38	Albuquerque	location
+test_0389	41	45	N.M.	location
+
+test_0390|t|
+test_0390|a|Santa Fe has mining and exploration operations in Nevada , California , Montana , Canada , Brazil , Australia , Chile , Kazakstan , Mexico and Ghana .
+test_0390	51	57	Nevada	location
+test_0390	60	70	California	location
+test_0390	73	80	Montana	location
+test_0390	83	89	Canada	location
+test_0390	92	98	Brazil	location
+test_0390	101	110	Australia	location
+test_0390	113	118	Chile	location
+test_0390	121	130	Kazakstan	location
+test_0390	133	139	Mexico	location
+test_0390	144	149	Ghana	location
+
+test_0391|t|
+test_0391|a|Newmont proposed to Santa Fe a stock-swap merger at a ratio of 0.33 Newmont shares for each Santa Fe shares .
+test_0391	21	29	Santa Fe	location
+
+test_0392|t|
+test_0392|a|OAKLAND , N.J. 1996-12-06
+test_0392	1	8	OAKLAND	location
+test_0392	11	15	N.J.	location
+
+test_0393|t|
+test_0393|a|Zimbabwe executes convicted murderer .
+test_0393	1	9	Zimbabwe	location
+
+test_0394|t|
+test_0394|a|HARARE 1996-12-06
+test_0394	1	7	HARARE	location
+
+test_0395|t|
+test_0395|a|Zimbabwe hanged a convicted murderer on Friday , bringing to eight the number of executions carried out in the past year .
+test_0395	1	9	Zimbabwe	location
+
+test_0396|t|
+test_0396|a|Multinational commander going back to east Zaire .
+test_0396	44	49	Zaire	location
+
+test_0397|t|
+test_0397|a|NAIROBI 1996-12-06
+test_0397	1	8	NAIROBI	location
+
+test_0398|t|
+test_0398|a|The Canadian general in charge of a multinational force for eastern Zaire said on Friday he was going back to Zaire for more information about the plight of about 165,000 Rwandan refugees adrift in the countryside .
+test_0398	69	74	Zaire	location
+test_0398	111	116	Zaire	location
+
+test_0399|t|
+test_0399|a|Lieutenant-General Maurice Baril told a news conference in Nairobi his main concern was for a large group of about 150,000 refugees living off the land in a valley about 65 km ( 40 miles ) west of the eastern city of Goma .
+test_0399	60	67	Nairobi	location
+test_0399	218	222	Goma	location
+
+test_0400|t|
+test_0400|a|If he decided it was necessary and safe for the aircrew , he would not hesitate to order airdrops of food for the refugees , even against the wishes of the government in Kinshasa and the Zairean rebels who control much of eastern Zaire , he said .
+test_0400	171	179	Kinshasa	location
+test_0400	231	236	Zaire	location
+
+test_0401|t|
+test_0401|a|" Tomorrow I 'm going into Rwanda and my intention is to go across into eastern Zaire and try to find out for the second time what the situation is on the ground , " he said .
+test_0401	28	34	Rwanda	location
+test_0401	81	86	Zaire	location
+
+test_0402|t|
+test_0402|a|General Baril saw rebel leader Laurent Kabila in Goma last week but the rebels told him the crisis was over because most of the Rwandan refugees have already gone home .
+test_0402	50	54	Goma	location
+
+test_0403|t|
+test_0403|a|Kinshasa opposes airdrops , apparently because the food could fall into the hands of the rebels and their local supporters .
+test_0403	1	9	Kinshasa	location
+
+test_0404|t|
+test_0404|a|" It does n't look as though they ( airdrops ) are going to be required in any significant way because the NGOs ( non-governmental organisations ) are in that area on the border between Zaire and Rwanda , " Young told reporters .
+test_0404	187	192	Zaire	location
+test_0404	197	203	Rwanda	location
+
+test_0405|t|
+test_0405|a|And my mandate is also under Chapter Seven to operate in eastern Zaire . "
+test_0405	66	71	Zaire	location
+
+test_0406|t|
+test_0406|a|He denied that his contacts , criticised by Kinshasa , with the Zairean rebels amounted to negotiations .
+test_0406	45	53	Kinshasa	location
+
+test_0407|t|
+test_0407|a|Baril said that apart from the group of 150,000 , U.S. and British reconnaissance plans had tracked two much smaller groups of refugees -- one of up to 1,000 north of the town of Masisi and one of up to 8,000 on the road from Bukavu west to Kindu .
+test_0407	51	55	U.S.	location
+test_0407	227	233	Bukavu	location
+test_0407	242	247	Kindu	location
+
+test_0408|t|
+test_0408|a|The Kisangani office of the medical charity Medecins sans Frontieres said on Friday that more than 100,000 refugees were trekking northwest from the Goma - Bukavu area and many of them were now in the town of Walikale .
+test_0408	5	14	Kisangani	location
+test_0408	150	154	Goma	location
+test_0408	157	163	Bukavu	location
+test_0408	210	218	Walikale	location
+
+test_0409|t|
+test_0409|a|Mauritius put on cyclone alert .
+test_0409	1	10	Mauritius	location
+
+test_0410|t|
+test_0410|a|PORT LOUIS 1996-12-06
+test_0410	1	11	PORT LOUIS	location
+
+test_0411|t|
+test_0411|a|Mauritian authorities put the Indian Ocean island on cyclone alert on Friday .
+test_0411	31	43	Indian Ocean	location
+
+test_0412|t|
+test_0412|a|Although not threatening Mauritius directly , it is coming closer to the island and could change direction , it added .
+test_0412	26	35	Mauritius	location
+
+test_0413|t|
+test_0413|a|Winds up to 75 km an hour ( 40 knots ) could blow over Mauritius during the night of Friday to Saturday , it said .
+test_0413	56	65	Mauritius	location
+
+test_0414|t|
+test_0414|a|The weather in the capital Port Louis was heavily cloudy on Friday afternoon with occasional showers .
+test_0414	28	38	Port Louis	location
+
+test_0415|t|
+test_0415|a|The northeastern coast of the nearby island of Madagascar has also gone on alert .
+test_0415	48	58	Madagascar	location
+
+test_0416|t|
+test_0416|a|U.N. evacuates staff from Central African Republic .
+test_0416	27	51	Central African Republic	location
+
+test_0417|t|
+test_0417|a|ABIDJAN 1996-12-06
+test_0417	1	8	ABIDJAN	location
+
+test_0418|t|
+test_0418|a|The United Nations evacuated its staff in the Central African Republic on Friday because of mounting violence in a two-week-old army mutiny in the capital , a U.N. official said .
+test_0418	47	71	Central African Republic	location
+
+test_0419|t|
+test_0419|a|The official from the U.N. refugee agency UNHCR said a chartered plane had picked up the staff from Bangui and was heading for Abidjan , Ivory Coast .
+test_0419	101	107	Bangui	location
+test_0419	128	135	Abidjan	location
+test_0419	138	149	Ivory Coast	location
+
+test_0420|t|
+test_0420|a|Senegal proposes foreign minister for U.N. post .
+test_0420	1	8	Senegal	location
+
+test_0421|t|
+test_0421|a|DAKAR 1996-12-06
+test_0421	1	6	DAKAR	location
+
+test_0422|t|
+test_0422|a|Senegal 's President Abdou Diouf said on Friday he was proposing his foreign minister Moustapha Niasse for the post of United Nations secretary-general .
+test_0422	1	8	Senegal	location
+
+test_0423|t|
+test_0423|a|Diouf announced his intention to reporters when he returned from the Franco-African summit in Burkina Faso where an African successor to Secretary-General Boutros Boutros-Ghali was discussed .
+test_0423	95	107	Burkina Faso	location
+
+test_0424|t|
+test_0424|a|The United States has vetoed a second term for the Egyptian but left the door open for another African candidate .
+test_0424	5	18	United States	location
+
+test_0425|t|
+test_0425|a|" If Africa does not wish to lose its turn we have to act fast , " Diouf said . "
+test_0425	6	12	Africa	location
+
+test_0426|t|
+test_0426|a|Ex-minister , son killed in Central Africa unrest .
+test_0426	29	43	Central Africa	location
+
+test_0427|t|
+test_0427|a|BANGUI 1996-12-06
+test_0427	1	7	BANGUI	location
+
+test_0428|t|
+test_0428|a|A former cabinet minister in Central African Republic and his son were abducted from their home and murdered in growing ethnic violence in the capital Bangui , a government minister said on Friday .
+test_0428	30	54	Central African Republic	location
+test_0428	152	158	Bangui	location
+
+test_0429|t|
+test_0429|a|With violence spiralling out of control , France voiced backing for the elected Bangui government but said its troops based in the former colony under defence pacts would not help it combat army mutineers .
+test_0429	43	49	France	location
+test_0429	81	87	Bangui	location
+
+test_0430|t|
+test_0430|a|" France cannot be involved in the domestic political debate , " President Jacques Chirac told a news conference at the end of a Franco-African summit in Burkina Faso .
+test_0430	3	9	France	location
+test_0430	155	167	Burkina Faso	location
+
+test_0431|t|
+test_0431|a|The former minister and his son had been taken from their home close to the presidential palace , which is guarded by loyalist soldiers backed by French troops based in Bangui .
+test_0431	170	176	Bangui	location
+
+test_0432|t|
+test_0432|a|Roadblocks have been erected in city districts while central Bangui , which is patrolled by French troops with tanks , is deserted .
+test_0432	62	68	Bangui	location
+
+test_0433|t|
+test_0433|a|The Franco-African summit decided to send a mission Bangui to seek ways of containing the mutiny and a threat of civil war .
+test_0433	53	59	Bangui	location
+
+test_0434|t|
+test_0434|a|Chirac said Burkina Faso President Blaise Compaore would visit Bangui " in the coming hours " with the heads of state of Gabon , Mali and Chad to try and establish dialogue between authorities and rebels .
+test_0434	13	25	Burkina Faso	location
+test_0434	64	70	Bangui	location
+test_0434	122	127	Gabon	location
+test_0434	130	134	Mali	location
+test_0434	139	143	Chad	location
+
+test_0435|t|
+test_0435|a|Patasse , who won Central Africa 's first multi-party elections , refuses to resign .
+test_0435	19	33	Central Africa	location
+
+test_0436|t|
+test_0436|a|Rebels accuse Patasse of tribalism and of arming his civilian supporters and hired guns from Sudan and Chad .
+test_0436	94	99	Sudan	location
+test_0436	104	108	Chad	location
+
+test_0437|t|
+test_0437|a|JOHANNESBURG 1996-12-06
+test_0437	1	13	JOHANNESBURG	location
+
+test_0438|t|
+test_0438|a|Five people were killed when a crop-spraying plane preparing for takeoff crashed into a light delivery vehicle in South Africa 's North West region , state radio reported on Friday .
+test_0438	115	127	South Africa	location
+test_0438	131	141	North West	location
+
+test_0439|t|
+test_0439|a|The freak accident occurred in Mafikeng on Thursday .
+test_0439	32	40	Mafikeng	location
+
+test_0440|t|
+test_0440|a|WEATHER - Conditions at CIS airports - Dec 6 .
+test_0440	25	28	CIS	location
+
+test_0441|t|
+test_0441|a|MOSCOW 1996-12-06
+test_0441	1	7	MOSCOW	location
+
+test_0442|t|
+test_0442|a|No weather-related closures of CIS airports are expected on December 7 and 8 , the Russian Weather Service said on Friday .
+test_0442	32	35	CIS	location
+
+test_0443|t|
+test_0443|a|Skinheads attack Bratislava Rabbi - police .
+test_0443	18	28	Bratislava	location
+
+test_0444|t|
+test_0444|a|BRATISLAVA 1996-12-06
+test_0444	1	11	BRATISLAVA	location
+
+test_0445|t|
+test_0445|a|Four skinheads attacked and insulted the rabbi of Bratislava , Baruch Meyers , in the city centre on Friday , but he escaped unharmed , a police spokesman told Reuters .
+test_0445	51	61	Bratislava	location
+
+test_0446|t|
+test_0446|a|TIRANA 1996-12-06
+test_0446	1	7	TIRANA	location
+
+test_0447|t|
+test_0447|a|" Evaluating all the conditions of the case the court thinks the sentence should be lower than the minimum ( 15 years ) , " Tirana judge Qazim Gjonaj added .
+test_0447	125	131	Tirana	location
+
+test_0448|t|
+test_0448|a|WARSAW 1996-12-06
+test_0448	1	7	WARSAW	location
+
+test_0449|t|
+test_0449|a|Poland 's ex-communist President Aleksander Kwasniewski is likely to visit Polish-born Pope John Paul in early 1997 despite uneasy relations between the Vatican and Warsaw , the foreign minister said on Friday .
+test_0449	1	7	Poland	location
+test_0449	154	161	Vatican	location
+test_0449	166	172	Warsaw	location
+
+test_0450|t|
+test_0450|a|" President Kwasniewski plans to visit Italy on a invitation from President Oscar Scalfaro .
+test_0450	40	45	Italy	location
+
+test_0451|t|
+test_0451|a|Rosati said that the atmosphere of the meeting , if it takes place , would largely depend on the progress in talks on ratification of a treaty between Warsaw and the Vatican .
+test_0451	152	158	Warsaw	location
+test_0451	167	174	Vatican	location
+
+test_0452|t|
+test_0452|a|The party , the Democratic Left Alliance , says the agreement would give the Catholic Church too much influence over life in Poland and could infringe on rights of other religious groups and non-believers .
+test_0452	126	132	Poland	location
+
+test_0453|t|
+test_0453|a|The relations with the Vatican have also been soured by a recent relaxation of Poland 's anti-abortion rules , which Kwasniewski signed into law last month .
+test_0453	24	31	Vatican	location
+test_0453	80	86	Poland	location
+
+test_0454|t|
+test_0454|a|Russia warns Norilsk , not expected to liquidate it .
+test_0454	1	7	Russia	location
+
+test_0455|t|
+test_0455|a|MOSCOW 1996-12-06
+test_0455	1	7	MOSCOW	location
+
+test_0456|t|
+test_0456|a|" Norilsk really is a big debtor , both to the federal and regional budgets , " said Konstantin Chernyshev , equities analyst at Moscow brokerage Rinaco Plus and a Norilsk watcher . "
+test_0456	130	136	Moscow	location
+
+test_0457|t|
+test_0457|a|" If it was an unsolicited statement and a bolt out of the blue , then it obviously means something , " said Christopher Granville , chief economist at United City Bank in Moscow .
+test_0457	173	179	Moscow	location
+
+test_0458|t|
+test_0458|a|Russian tax and cabinet authorities , under pressure from the International Monetary Fund to boost tax revenues as a condition for receiving payments of a $ 10 billion , three-year loan to Moscow , have been striking fear into the hearts of some of Russia 's most prominent industrial firms by saying they must pay up or face liquidation .
+test_0458	190	196	Moscow	location
+test_0458	250	256	Russia	location
+
+test_0459|t|
+test_0459|a|Entire social infrastructures in the icy Far North where Norilsk is based depend on the company , and Moscow has said it has no finances to resettle hundreds of thousands of people -- an expenditure which could far outstrip Norilsk 's debts .
+test_0459	103	109	Moscow	location
+
+test_0460|t|
+test_0460|a|He estimated the company 's regional debts at least one trillion roubles and said 30 percent of the giant Krasnoyarsk regional budget was fuelled by Norilsk money .
+test_0460	107	118	Krasnoyarsk	location
+
+test_0461|t|
+test_0461|a|TALLINN 1996-12-06
+test_0461	1	8	TALLINN	location
+
+test_0462|t|
+test_0462|a|Tallinna Pank , one of the largest banks in Estonia , made a 11-month 1996 net profit of 46.6 million kroons , the bank said on Friday .
+test_0462	45	52	Estonia	location
+
+test_0463|t|
+test_0463|a|Russia ready for constructive work with Albright .
+test_0463	1	7	Russia	location
+
+test_0464|t|
+test_0464|a|MOSCOW 1996-12-06
+test_0464	1	7	MOSCOW	location
+
+test_0465|t|
+test_0465|a|Russia said on Friday it expected a constructive relationship with Madeleine Albright , nominated by U.S. President Bill Clinton to be Secretary of State .
+test_0465	1	7	Russia	location
+test_0465	102	106	U.S.	location
+
+test_0466|t|
+test_0466|a|Interfax news agency quoted First Deputy Foreign Minister Igor Ivanov as saying Moscow was ready for " most active and constructive " work with Albright .
+test_0466	81	87	Moscow	location
+
+test_0467|t|
+test_0467|a|Interfax , outlining Albright 's biography , pointed out that she had defended Washington 's interests fiercely as U.S. ambassador to the United Nations and that this had included actively supporting NATO 's plans to expand eastwards .
+test_0467	80	90	Washington	location
+test_0467	116	120	U.S.	location
+
+test_0468|t|
+test_0468|a|Russia opposes NATO 's plans to take in countries of eastern and central Europe which used to be part of the Soviet-led Warsaw Pact , saying such moves would threaten its security .
+test_0468	1	7	Russia	location
+test_0468	74	80	Europe	location
+
+test_0469|t|
+test_0469|a|Yeltsin plans return to Kremlin for Dec 25 - speaker .
+test_0469	25	32	Kremlin	location
+
+test_0470|t|
+test_0470|a|MOSCOW 1996-12-06
+test_0470	1	7	MOSCOW	location
+
+test_0471|t|
+test_0471|a|December 25 , a normal working day in Russia , is the fifth anniversary of Yeltsin 's arrival in the Kremlin .
+test_0471	39	45	Russia	location
+test_0471	102	109	Kremlin	location
+
+test_0472|t|
+test_0472|a|He took over there , and took control of the red button controlling nuclear arms , in December 1991 when Mikhail Gorbachev resigned , marking the end of the Soviet Union .
+test_0472	158	170	Soviet Union	location
+
+test_0473|t|
+test_0473|a|BRATISLAVA 1996-12-06
+test_0473	1	11	BRATISLAVA	location
+
+test_0474|t|
+test_0474|a|The official TASR news agency said the explosion blew out all ground floor windows of Frantisek Gaulieder 's family home in Galanta , western Slovakia , and damaged the main entrance , but no-one was injured .
+test_0474	125	132	Galanta	location
+test_0474	143	151	Slovakia	location
+
+test_0475|t|
+test_0475|a|Bomb explodes at mosque in central Bulgaria .
+test_0475	36	44	Bulgaria	location
+
+test_0476|t|
+test_0476|a|SOFIA 1996-12-06
+test_0476	1	6	SOFIA	location
+
+test_0477|t|
+test_0477|a|A bomb exploded on Friday at a mosque in the central Bulgarian town of Kazanluk , causing damage but no injuries , state radio said .
+test_0477	72	80	Kazanluk	location
+
+test_0478|t|
+test_0478|a|Violent crime has soared since the collapse of communism in 1989 as Bulgaria moves to a market economy .
+test_0478	69	77	Bulgaria	location
+
+test_0479|t|
+test_0479|a|Some residents of the Kazanluk area are Moslems who converted to Islam during Ottoman Turkish rule .
+test_0479	23	31	Kazanluk	location
+
+test_0480|t|
+test_0480|a|The majority in Bulgaria are Christians .
+test_0480	17	25	Bulgaria	location
+
+test_0481|t|
+test_0481|a|Hungary o / n rates end up before Dec 10 tax payment .
+test_0481	1	8	Hungary	location
+
+test_0482|t|
+test_0482|a|BUDAPEST 1996-12-06
+test_0482	1	9	BUDAPEST	location
+
+test_0483|t|
+test_0483|a|" The banks are already preparing for the December 10 tax payment , " said Budapest Bank 's Sandor Tolonics . "
+test_0483	76	84	Budapest	location
+
+test_0484|t|
+test_0484|a|-- Sandor Peto , Budapest newsroom ( 36 1 ) 327 4040
+test_0484	18	26	Budapest	location
+
+test_0485|t|
+test_0485|a|Mexico stocks off lows but still hit by Greenspan .
+test_0485	1	7	Mexico	location
+
+test_0486|t|
+test_0486|a|MEXICO CITY
+test_0486	1	12	MEXICO CITY	location
+
+test_0487|t|
+test_0487|a|Mexican stocks were also hurt by U.S. long bond rates which had begun to rise before Greenspan 's comments and were inflated by employment data released before trade began in Mexico .
+test_0487	34	38	U.S.	location
+test_0487	176	182	Mexico	location
+
+test_0488|t|
+test_0488|a|Yields on U.S. 30-year Treasury bonds were 6.51 percent when stock trading closed in Mexico , unchanged from Thursday .
+test_0488	11	15	U.S.	location
+test_0488	86	92	Mexico	location
+
+test_0489|t|
+test_0489|a|Traders also remarked that Mexican ADRs suffered in New York .
+test_0489	53	61	New York	location
+
+test_0490|t|
+test_0490|a|" Falling share prices in New York do n't hurt Mexico as long as it happens gradually , as earlier this week .
+test_0490	27	35	New York	location
+test_0490	48	54	Mexico	location
+
+test_0491|t|
+test_0491|a|It 's a sudden plunge that takes its toll , " said Carlos Ponce , research director at Santander .
+test_0491	88	97	Santander	location
+
+test_0492|t|
+test_0492|a|Ponce said shares were certainly attractively priced in Mexico , but would not appreciate until foreign buyers stepped in , which they had yet to do . '
+test_0492	57	63	Mexico	location
+
+test_0493|t|
+test_0493|a|Plastic surgery gets boost in Brazil .
+test_0493	31	37	Brazil	location
+
+test_0494|t|
+test_0494|a|RIO DE JANEIRO 1996-12-06
+test_0494	1	15	RIO DE JANEIRO	location
+
+test_0495|t|
+test_0495|a|The number of plastic surgeries in Brazil has jumped 30 percent to an estimated 150,000 this year since an anti-inflation plan was introduced in July 1994 , Farid Hakme , the president of the Brazilian Plastic Surgery Society ( SBCP ) , said .
+test_0495	36	42	Brazil	location
+
+test_0496|t|
+test_0496|a|" Brazil ranks right at the top for plastic surgery with respect to the number of surgeons , the number of patients , number of operations , number of conferences .
+test_0496	3	9	Brazil	location
+
+test_0497|t|
+test_0497|a|People need to have a more youthful look to compete in the job market , given the profound changes in Latin America 's economy . "
+test_0497	103	116	Latin America	location
+
+test_0498|t|
+test_0498|a|Brazil has been at the forefront in plastic surgery for decades and is home to one of the most famous surgeons , Ivo Pitangy .
+test_0498	1	7	Brazil	location
+
+test_0499|t|
+test_0499|a|Every year , 500 new plastic surgeons graduate in Brazil and medical students from all over the world come to study there .
+test_0499	51	57	Brazil	location
+
+test_0500|t|
+test_0500|a|Hakme attributes Brazil 's fascination with plastic surgery not to excessive vanity but to the country 's mix and match of different races , which can create physical disharmonies . "
+test_0500	18	24	Brazil	location
+
+test_0501|t|
+test_0501|a|Brazil 's most sought-after beauty treatment is liposuction in which fat is sucked away from areas of the body , with about 30,000 operations a year at a cost of $ 3,000 to $ 4,000 each .
+test_0501	1	7	Brazil	location
+
+test_0502|t|
+test_0502|a|" The women who want to reduce their breasts here would probably want to increase them in the United States , " SBCP Vice-President Oswaldo Saldanha said . "
+test_0502	95	108	United States	location
+
+test_0503|t|
+test_0503|a|BUENOS AIRES 1996-12-06
+test_0503	1	13	BUENOS AIRES	location
+
+test_0504|t|
+test_0504|a|Buenos Aires Quequen Rosario Bahia Blanca
+test_0504	1	13	Buenos Aires	location
+test_0504	14	21	Quequen	location
+test_0504	22	29	Rosario	location
+test_0504	30	42	Bahia Blanca	location
+
+test_0505|t|
+test_0505|a|MEXICO CITY 1996-12-06
+test_0505	1	12	MEXICO CITY	location
+
+test_0506|t|
+test_0506|a|Tampico port authorities said fishing restrictions were in place in an area adjacent to the port because of a geophysical study being carried out in deep waters of the region from the ship Kenda .
+test_0506	1	8	Tampico	location
+
+test_0507|t|
+test_0507|a|The ministry updated port conditions and shipping warnings for the Gulf of Mexico , Caribbean and Pacific Coast .
+test_0507	68	82	Gulf of Mexico	location
+test_0507	85	94	Caribbean	location
+test_0507	99	112	Pacific Coast	location
+
+test_0508|t|
+test_0508|a|- Pacific Coast :
+test_0508	3	16	Pacific Coast	location
+
+test_0509|t|
+test_0509|a|Light rains along the coast of southern Baja California and Sinaloa , with the rest of the coast seeing clear skies .
+test_0509	41	56	Baja California	location
+test_0509	61	68	Sinaloa	location
+
+test_0510|t|
+test_0510|a|A new front is seen emerging during the course of Friday , affecting the north of the Baja California peninsula and Sonora state , bringing lower temperatures , light rains and waves up to six feet .
+test_0510	87	102	Baja California	location
+test_0510	117	123	Sonora	location
+
+test_0511|t|
+test_0511|a|- Gulf of Mexico :
+test_0511	3	17	Gulf of Mexico	location
+
+test_0512|t|
+test_0512|a|Cold front bringing light rains to the coast of Tamaulipas , but with the rest of the Gulf in clear skies .
+test_0512	49	59	Tamaulipas	location
+test_0512	87	91	Gulf	location
+
+test_0513|t|
+test_0513|a|- Caribbean :
+test_0513	3	12	Caribbean	location
+
+test_0514|t|
+test_0514|a|Tropical air carrying sporadic light rains over the coast of Quintana Roo state .
+test_0514	62	74	Quintana Roo	location
+
+test_0515|t|
+test_0515|a|-- Chris Aspin , Mexico City newsroom +525 728-7903
+test_0515	18	29	Mexico City	location
+
+test_0516|t|
+test_0516|a|Brazil exam cheats caught using " pager " watches .
+test_0516	1	7	Brazil	location
+
+test_0517|t|
+test_0517|a|RIO DE JANEIRO 1996-12-06
+test_0517	1	15	RIO DE JANEIRO	location
+
+test_0518|t|
+test_0518|a|Rio de Janeiro state university officials discovered students were paying 15,000 reais ( $ 14,563 ) for the special watches , which operated like a telephone pager to receive correct answers , O Globo said .
+test_0518	1	15	Rio de Janeiro	location
+
+test_0519|t|
+test_0519|a|Chile , Mexico to seek to broaden trade deal .
+test_0519	1	6	Chile	location
+test_0519	9	15	Mexico	location
+
+test_0520|t|
+test_0520|a|Chile and Mexico will start negotiations next year to broaden their free trade agreement to include services and investments , Finance Minister Eduardo Aninat said .
+test_0520	1	6	Chile	location
+test_0520	11	17	Mexico	location
+
+test_0521|t|
+test_0521|a|Chile hopes to broaden the treaty signed in 1994 beyond reduction of tariffs on imports and exports and add provisions covering services and investment codes , said Aninat .
+test_0521	1	6	Chile	location
+
+test_0522|t|
+test_0522|a|' ' In January or February , we 'll have some very close contacts with Mexico to add the issue of services and advance on the issue of investments , ' ' Aninat told reporters after signing a free trade deal with Canada .
+test_0522	72	78	Mexico	location
+test_0522	213	219	Canada	location
+
+test_0523|t|
+test_0523|a|' ' We want to give the treaty between Mexico and Chile greater depth and coverage than it has now .
+test_0523	40	46	Mexico	location
+test_0523	51	56	Chile	location
+
+test_0524|t|
+test_0524|a|-- Roger Atwood , Santiago newsroom +56-2-699-5595 x211
+test_0524	19	27	Santiago	location
+
+test_0525|t|
+test_0525|a|Indonesia 's Belo leaves for Nobel award ceremony .
+test_0525	1	10	Indonesia	location
+
+test_0526|t|
+test_0526|a|DILI , East Timor 1996-12-06
+test_0526	1	5	DILI	location
+test_0526	8	18	East Timor	location
+
+test_0527|t|
+test_0527|a|East Timorese Roman Catholic Bishop Carlos Belo left Dili on Friday on his way to Norway for the awards ceremony as co-recipient of the 1996 Nobel Peace Prize .
+test_0527	54	58	Dili	location
+test_0527	83	89	Norway	location
+
+test_0528|t|
+test_0528|a|Witnesses said Belo left the territory for the Indonesian capital Jakarta accompanied by five other people .
+test_0528	67	74	Jakarta	location
+
+test_0529|t|
+test_0529|a|It was not immediately known when he would arrive in Oslo .
+test_0529	54	58	Oslo	location
+
+test_0530|t|
+test_0530|a|The bishop will jointly receive the Nobel award next Tuesday with East Timorese-born activist Jose Ramos Horta , who lives in self-exile in Australia .
+test_0530	141	150	Australia	location
+
+test_0531|t|
+test_0531|a|The Indonesian government has condemned the inclusion of Ramos Horta in the award , and Foreign Minister Ali Alatas said on Friday that Indonesia would not be represented officially at the ceremony in the Norwegian capital .
+test_0531	137	146	Indonesia	location
+
+test_0532|t|
+test_0532|a|will exacerbate the problem in finding a solution ( to East Timor ) , " Alatas said on Friday .
+test_0532	56	66	East Timor	location
+
+test_0533|t|
+test_0533|a|He was responding to questions at a news conference called to discuss next week 's ministerial meeting of the Organisation of the Islamic Conference ( OIC ) in Jakarta .
+test_0533	161	168	Jakarta	location
+
+test_0534|t|
+test_0534|a|Ramos Horta has been a vocal leader of the opposition to Jakarta 's rule in the territory .
+test_0534	58	65	Jakarta	location
+
+test_0535|t|
+test_0535|a|Belo and Ramos Horta were awared the prize for their efforts to secure a peaceful solution to the issue of East Timor , a former Portuguese colony which Indonesia invaded in 1975 and annexed the following year .
+test_0535	108	118	East Timor	location
+test_0535	154	163	Indonesia	location
+
+test_0536|t|
+test_0536|a|The United Nations has never recognised Jakarta 's move .
+test_0536	41	48	Jakarta	location
+
+test_0537|t|
+test_0537|a|Asked if the Indonesian ambassador to Norway would have attended the ceremony if only Belo had been involved , Alatas replied : " Probably , yes , but that is a hypothetical question . "
+test_0537	39	45	Norway	location
+
+test_0538|t|
+test_0538|a|Alatas said on Tuesday that on his way back from Oslo , Belo would visit the Vatican to see the Pope , and would also meet German Chancellor Helmut Kohl in Bonn .
+test_0538	50	54	Oslo	location
+test_0538	78	85	Vatican	location
+test_0538	157	161	Bonn	location
+
+test_0539|t|
+test_0539|a|Kohl had wanted to meet Belo during the chancellor 's official visit to Indonesia last month , but the bishop was too busy in East Timor to come to Jakarta .
+test_0539	73	82	Indonesia	location
+test_0539	127	137	East Timor	location
+test_0539	149	156	Jakarta	location
+
+test_0540|t|
+test_0540|a|China to open port in Hainan to foreign ships .
+test_0540	1	6	China	location
+test_0540	23	29	Hainan	location
+
+test_0541|t|
+test_0541|a|BEIJING 1996-12-06
+test_0541	1	8	BEIJING	location
+
+test_0542|t|
+test_0542|a|China 's State Council , or cabinet , has given a port in the southern province of Hainan permission to open to foreign vessels , the Xinhua news agency said on Friday .
+test_0542	1	6	China	location
+test_0542	84	90	Hainan	location
+
+test_0543|t|
+test_0543|a|Xinhua did not say when Qinglan port in Wenchang city would be opened to foreign vessels .
+test_0543	25	32	Qinglan	location
+test_0543	41	49	Wenchang	location
+
+test_0544|t|
+test_0544|a|Wenchang has built a berth for 5,000 deadweight-tonne container ships at the port and invested 34 million yuan ( $ 4.1 million ) to dredge the harbour , Xinhua said .
+test_0544	1	9	Wenchang	location
+
+test_0545|t|
+test_0545|a|RANGOON 1996-12-07
+test_0545	1	8	RANGOON	location
+
+test_0546|t|
+test_0546|a|The students , who had staged an 11-hour protest at the junction in northern Rangoon , were taken away in three vehicles .
+test_0546	78	85	Rangoon	location
+
+test_0547|t|
+test_0547|a|The witnesses said some of the students were hit with batons while they were herded onto the vehicles and it was believed they were taken to the Insein prison in suburban Rangoon .
+test_0547	146	152	Insein	location
+test_0547	172	179	Rangoon	location
+
+test_0548|t|
+test_0548|a|RANGOON 1996-12-06
+test_0548	1	8	RANGOON	location
+
+test_0549|t|
+test_0549|a|About 200 Burmese students marched briefly from troubled Yangon Institute of Technology in northern Rangoon on Friday towards the University of Yangon six km ( four miles ) away , and returned to their campus , witnesses said .
+test_0549	101	108	Rangoon	location
+
+test_0550|t|
+test_0550|a|The protest culminated at dawn on Tuesday with several hundred students being detained briefly by police in central Rangoon .
+test_0550	117	124	Rangoon	location
+
+test_0551|t|
+test_0551|a|The students also demanded the government announce punishments meted out to policemen who they said had manhandled students involved in a brawl with some restaurant owners near the Yangon institute in October .
+test_0551	182	188	Yangon	location
+
+test_0552|t|
+test_0552|a|On Friday , the road leading to Suu Kyi 's lakeside residence in central Rangoon remained closed by police .
+test_0552	74	81	Rangoon	location
+
+test_0553|t|
+test_0553|a|SINGAPORE 1996-12-06
+test_0553	1	10	SINGAPORE	location
+
+test_0554|t|
+test_0554|a|International trade union leaders on Friday expressed outrage that the head of the International Labour Organisation ( ILO ) had been barred from speaking at next week 's WTO meeting in Singapore .
+test_0554	187	196	Singapore	location
+
+test_0555|t|
+test_0555|a|The three-day trade union conference in Singapore hopes to push labour issues onto the WTO agenda .
+test_0555	41	50	Singapore	location
+
+test_0556|t|
+test_0556|a|ASEAN groups Brunei , Indonesia , Malaysia , the Philippines , Singapore , Thailand and Vietnam .
+test_0556	14	20	Brunei	location
+test_0556	23	32	Indonesia	location
+test_0556	35	43	Malaysia	location
+test_0556	50	61	Philippines	location
+test_0556	64	73	Singapore	location
+test_0556	76	84	Thailand	location
+test_0556	89	96	Vietnam	location
+
+test_0557|t|
+test_0557|a|SINGAPORE 1996-12-06
+test_0557	1	10	SINGAPORE	location
+
+test_0558|t|
+test_0558|a|One way to bridge the widening gap is to put more land under cultivation which the Rubber Board official estimates will reach 220,000 hectares between now and the year 2003 although Matthew said this may not be possible at this time in India .
+test_0558	237	242	India	location
+
+test_0559|t|
+test_0559|a|Japan 's authorities seen seeking to rein in dollar .
+test_0559	1	6	Japan	location
+
+test_0560|t|
+test_0560|a|TOKYO 1996-12-06
+test_0560	1	6	TOKYO	location
+
+test_0561|t|
+test_0561|a|Comments by Japan 's tight-lipped central bank chief and an influential top bureaucrat are further signs that the nation 's authorities want to keep the dollar at current levels , market sources said on Friday .
+test_0561	13	18	Japan	location
+
+test_0562|t|
+test_0562|a|In a rare expression of a view on currencies by the Bank of Japan ( BOJ ) governor , Yasuo Matsushita was quoted in Japan 's leading economic daily on Friday as saying that he sees no further , immediate fall in the yen .
+test_0562	117	122	Japan	location
+
+test_0563|t|
+test_0563|a|But many in the market thought Sakakibara 's real intentions lay elsewhere , and took more notice of his comments about the U.S. government 's stance on the dollar , dealers said .
+test_0563	125	129	U.S.	location
+
+test_0564|t|
+test_0564|a|Asked about Rubin 's comment that a strong dollar was in U.S. interests , Sakakibara said the remark does not necessarily mean the United States supports a stronger dollar .
+test_0564	58	62	U.S.	location
+test_0564	132	145	United States	location
+
+test_0565|t|
+test_0565|a|Takao Sakoh , first vice president at Union Bank of Switzerland in Tokyo , said : " Maybe a dollar at 104.50 yen is not acceptable ( to Sakakibara ) , but it may be okay at the current level , at the lower end of 112 yen . "
+test_0565	68	73	Tokyo	location
+
+test_0566|t|
+test_0566|a|He had said then that the market 's view on Japan 's economy was too pessimistic and that he believed it was stronger than the market thought .
+test_0566	45	50	Japan	location
+
+test_0567|t|
+test_0567|a|Some said the central bank may have been concerned a weaker yen would lead to unfounded pessimism about Japan 's economy .
+test_0567	105	110	Japan	location
+
+test_0568|t|
+test_0568|a|The BOJ does not want the yen 's weakness to lead to pessimism over the economy , " said Taisuke Tanaka , market strategist with Credit Suisse in Tokyo .
+test_0568	147	152	Tokyo	location
+
+test_0569|t|
+test_0569|a|Lebanon sentences pro-Israeli warlord to death .
+test_0569	1	8	Lebanon	location
+
+test_0570|t|
+test_0570|a|BEIRUT 1996-12-06
+test_0570	1	7	BEIRUT	location
+
+test_0571|t|
+test_0571|a|A Lebanese military court on Friday sentenced to death in absentia the commander of Israel 's surrogate militia in south Lebanon on treason charges .
+test_0571	85	91	Israel	location
+test_0571	122	129	Lebanon	location
+
+test_0572|t|
+test_0572|a|The court convicted General Antoine Lahd , head of the South Lebanon Army ( SLA ) , of collaborating with Israel with which Lebanon is officially at war .
+test_0572	107	113	Israel	location
+test_0572	125	132	Lebanon	location
+
+test_0573|t|
+test_0573|a|Lahd , a 69-year-old former Lebanese army major-general , heads the 3,000-strong SLA militia which helps Israel hold a border zone in south Lebanon to ward off cross-frontier guerrilla raids on northern Israel .
+test_0573	106	112	Israel	location
+test_0573	141	148	Lebanon	location
+test_0573	204	210	Israel	location
+
+test_0574|t|
+test_0574|a|He said Israel was capable of pressuring Lebanon 's Syrian-backed government to stop the legal pursuit .
+test_0574	9	15	Israel	location
+test_0574	42	49	Lebanon	location
+
+test_0575|t|
+test_0575|a|The charges against Lahd were : forming a hostile army , carrying weapons on Israel 's side , helping Israel strip off a part of Lebanese territory by violence , forming an armed gang , killing or trying to kill Lebanese civilians by artillery shelling and kidnapping Lebanese citizens for long periods .
+test_0575	78	84	Israel	location
+test_0575	103	109	Israel	location
+
+test_0576|t|
+test_0576|a|Shortly before Lahd 's trial began , a Beirut military prosecutor charged another 89 former Lebanese army soldiers with collaborating with Israel .
+test_0576	40	46	Beirut	location
+test_0576	140	146	Israel	location
+
+test_0577|t|
+test_0577|a|No date has been set for the trial of the men , all members of the SLA living in the Israeli-held zone in south Lebanon .
+test_0577	113	120	Lebanon	location
+
+test_0578|t|
+test_0578|a|Israel and Lahd have repeatedly demanded safety guarantees for the SLA -- a mixed Christian-Shi'ite Moslem force -- which the Jewish states regards as loyal allies .
+test_0578	1	7	Israel	location
+
+test_0579|t|
+test_0579|a|Israel has said the Lebanese army must incorporate the SLA fighters into its ranks as an army brigade as a condition for peace .
+test_0579	1	7	Israel	location
+
+test_0580|t|
+test_0580|a|Former Israeli Prime Minister Shimon Peres , calling Lahd " a great Lebanese patriot " , said earlier this year Lebanon had insulted the SLA commander by ordering his arrest on the treason charges .
+test_0580	113	120	Lebanon	location
+
+test_0581|t|
+test_0581|a|Peres , who was ousted in May by rightwing Israeli leader Benjamin Netanyahu , said there could not be real negotiations with Lebanon " unless it will stop the maltreatment of the SLA and its commanders . "
+test_0581	127	134	Lebanon	location
+
+test_0582|t|
+test_0582|a|The Beirut military court also sentenced to life in jail in absentia Etian Saqr , former head of the pro-Israeli Guardians of the Cedars , a small rightwing Christian civil war militia .
+test_0582	5	11	Beirut	location
+
+test_0583|t|
+test_0583|a|Saqr , whose trial was concurrent with Lahd 's , was convicted of " contacting the Israeli enemy , passing information to Israel and undertaking hostile acts against Lebanon " .
+test_0583	123	129	Israel	location
+test_0583	167	174	Lebanon	location
+
+test_0584|t|
+test_0584|a|Texas / w Okla fed cattle market thin at $ 67 - USDA .
+test_0584	1	6	Texas	location
+test_0584	11	15	Okla	location
+
+test_0585|t|
+test_0585|a|AMARILLO 1996-12-06
+test_0585	1	9	AMARILLO	location
+
+test_0586|t|
+test_0586|a|Trade was slow in the Panhandle area Friday , USDA said .
+test_0586	23	32	Panhandle	location
+
+test_0587|t|
+test_0587|a|( ( Chicago newsdesk 312 408 8720 ) )
+test_0587	5	12	Chicago	location
+
+test_0588|t|
+test_0588|a|BALANCE - Hartford , Conn .
+test_0588	11	19	Hartford	location
+test_0588	22	26	Conn	location
+
+test_0589|t|
+test_0589|a|CITY OF HARTFORD , CONNECTICUT
+test_0589	9	17	HARTFORD	location
+test_0589	20	31	CONNECTICUT	location
+
+test_0590|t|
+test_0590|a|First Union Capital Markets Corp. - NJ
+test_0590	37	39	NJ	location
+
+test_0591|t|
+test_0591|a|14 years later , Florida man dies for killing .
+test_0591	18	25	Florida	location
+
+test_0592|t|
+test_0592|a|TALLAHASSEE , Fla. 1996-12-06
+test_0592	1	12	TALLAHASSEE	location
+test_0592	15	19	Fla.	location
+
+test_0593|t|
+test_0593|a|, 41 , was put to death in Florida 's electric chair Friday .
+test_0593	28	35	Florida	location
+
+test_0594|t|
+test_0594|a|As Glenn Lawhon , a rural Florida minister who is the victim 's father , looked on , Mills was pronounced dead at 7:13 a.m. EST ( 1213 GMT ) for the murder of Lester Lawhon .
+test_0594	27	34	Florida	location
+
+test_0595|t|
+test_0595|a|Mills is the 38th person to die in Florida 's electric chair since the U.S. Supreme Court reversed itself in 1976 and legalised the death penalty .
+test_0595	36	43	Florida	location
+
+test_0596|t|
+test_0596|a|On Thursday , the 11th Circuit U.S. Court of Appeals in Atlanta denied his appeal in federal court .
+test_0596	57	64	Atlanta	location
+
+test_0597|t|
+test_0597|a|New York grain freight fixtures - Dec 5 .
+test_0597	1	9	New York	location
+
+test_0598|t|
+test_0598|a|NEW YORK 1996-12-06
+test_0598	1	9	NEW YORK	location
+
+test_0599|t|
+test_0599|a|Mana 50,000 tonnes soybeans USG / China 10-15/12 $ 23.50 10,000 / 4,000 GeePee .
+test_0599	35	40	China	location
+
+test_0600|t|
+test_0600|a|Iowa-S Minn fed cattle market quiet , no sales-USDA .
+test_0600	1	7	Iowa-S	location
+test_0600	8	12	Minn	location
+
+test_0601|t|
+test_0601|a|DES MOINES 1996-12-06
+test_0601	1	11	DES MOINES	location
+
+test_0602|t|
+test_0602|a|( ( Chicago newsdesk 312-408-8720 ) )
+test_0602	5	12	Chicago	location
+
+test_0603|t|
+test_0603|a|APPLETON , Wis .
+test_0603	1	9	APPLETON	location
+test_0603	12	15	Wis	location
+
+test_0604|t|
+test_0604|a|In sentencing Darrel Voeks , 38 , to a 10-year prison term on Thursday , Outagmie County Circuit Court Judge Dennis Luebke said he was " a thief by habit . "
+test_0604	74	89	Outagmie County	location
+
+test_0605|t|
+test_0605|a|CHICAGO , Dec 6 ( Reuter ) Statistics for the week ending December 1 in 000 's tonnes .
+test_0605	1	8	CHICAGO	location
+
+test_0606|t|
+test_0606|a|In addition , Statistics Canada indicated the following exports to the U.S. between August and September 1996 , in tonnes :
+test_0606	72	76	U.S.	location
+
+test_0607|t|
+test_0607|a|( Chicago newsdesk 312 408 8720 )
+test_0607	3	10	Chicago	location
+
+test_0608|t|
+test_0608|a|NEW YORK 1996-12-06
+test_0608	1	9	NEW YORK	location
+
+test_0609|t|
+test_0609|a|NYMEX Henry Hub natgas futures settled significantly lower Friday , pressured early by profit taking and driven even lower late by the National Weather Service 's bearish six to 10 day forecast , sources said .
+test_0609	7	16	Henry Hub	location
+
+test_0610|t|
+test_0610|a|Now the National Weather Service is calling for above-normal temperatures in more than half of the U.S. , " one futures trader said .
+test_0610	100	104	U.S.	location
+
+test_0611|t|
+test_0611|a|In the cash market , Gulf Coast prices were around $ 3.60 shortly before nomination deadlines .
+test_0611	22	32	Gulf Coast	location
+
+test_0612|t|
+test_0612|a|Midcontinent prices were similarly lower in the $ 3.40s. New York city gate gas slipped into the $ 4.40s , down almost 15 cents .
+test_0612	58	66	New York	location
+
+test_0613|t|
+test_0613|a|NYMEX Alberta natgas remained untraded , with January settling at $ 1.65 , off 10 cents from Thursday .
+test_0613	7	14	Alberta	location
+
+test_0614|t|
+test_0614|a|Physical prices for the weekend at the AECO storage hub were also down about 10 cents in the C$ 1.92-1.97 per gigajoule , or $ 1.52-1.56 per mmBtu range , pressured by unseasonably mild weather in western Canada .
+test_0614	206	212	Canada	location
+
+test_0615|t|
+test_0615|a|Physical prices at Waha for the weekend lost more than 15 cents to the low-to-mid $ 3.50s as milder weather moved into the Southwest .
+test_0615	20	24	Waha	location
+
+test_0616|t|
+test_0616|a|U.S. barges lightly quoted on call session .
+test_0616	1	5	U.S.	location
+
+test_0617|t|
+test_0617|a|ST. LOUIS 1996-12-06
+test_0617	1	10	ST. LOUIS	location
+
+test_0618|t|
+test_0618|a|U.S. barge rates were lightly quoted Friday on the St. Louis Merchants Exchange call session .
+test_0618	1	5	U.S.	location
+test_0618	52	61	St. Louis	location
+
+test_0619|t|
+test_0619|a|- Two barges next week Illinois bid at a steady 130 percent of tariff , offered at 135 percent .
+test_0619	24	32	Illinois	location
+
+test_0620|t|
+test_0620|a|- One barge , week of December 15 , lower Ohio bid 2-1/2 points higher at 105 percent , no offer .
+test_0620	43	47	Ohio	location
+
+test_0621|t|
+test_0621|a|Two barges , week of January 5 , Illinois , offered five points lower at 195 percent , bid at 150 percent .
+test_0621	34	42	Illinois	location
+
+test_0622|t|
+test_0622|a|- 36 barges , two each week May-August , Illinois , offered at 130 percent of tariff , no bid or comparison .
+test_0622	42	50	Illinois	location
+
+test_0623|t|
+test_0623|a|-- Chicago newsdesk 312-408 8720
+test_0623	4	11	Chicago	location
+
+test_0624|t|
+test_0624|a|CHICAGO 1996-12-06
+test_0624	1	8	CHICAGO	location
+
+test_0625|t|
+test_0625|a|Chicago 0 0
+test_0625	1	8	Chicago	location
+
+test_0626|t|
+test_0626|a|St. Louis 21,346 0
+test_0626	1	10	St. Louis	location
+
+test_0627|t|
+test_0627|a|Toledo 61,514 0
+test_0627	1	7	Toledo	location
+
+test_0628|t|
+test_0628|a|Chicago 78,056 0
+test_0628	1	8	Chicago	location
+
+test_0629|t|
+test_0629|a|St. Louis 217,092 75,810
+test_0629	1	10	St. Louis	location
+
+test_0630|t|
+test_0630|a|Toledo 285,505 561,287
+test_0630	1	7	Toledo	location
+
+test_0631|t|
+test_0631|a|Chicago 0 0
+test_0631	1	8	Chicago	location
+
+test_0632|t|
+test_0632|a|Minneapolis 306,364 153,231
+test_0632	1	12	Minneapolis	location
+
+test_0633|t|
+test_0633|a|Chicago 8,674 484,018
+test_0633	1	8	Chicago	location
+
+test_0634|t|
+test_0634|a|St. Louis 253,821 223,172
+test_0634	1	10	St. Louis	location
+
+test_0635|t|
+test_0635|a|Toledo 64,334 160,476
+test_0635	1	7	Toledo	location
+
+test_0636|t|
+test_0636|a|WASHINGTON 1996-12-06
+test_0636	1	11	WASHINGTON	location
+
+test_0637|t|
+test_0637|a|President Clinton aims to hold more news conferences in his second term and will have one Dec. 13 , the White House said Friday .
+test_0637	105	116	White House	location
+
+test_0638|t|
+test_0638|a|White House spokesman Mike McCurry said Clinton " plans to have regular news conferences " during his second term .
+test_0638	1	12	White House	location
+
+test_0639|t|
+test_0639|a|TEMPE , Ariz .
+test_0639	1	6	TEMPE	location
+test_0639	9	13	Ariz	location
+
+test_0640|t|
+test_0640|a|CHICAGO 1996-12-06
+test_0640	1	8	CHICAGO	location
+
+test_0641|t|
+test_0641|a|As many as 1 million dog bites are recorded in the United States every year and half of them are provoked by humans , a veterinarian told fellow animal doctors on Friday .
+test_0641	52	65	United States	location
+
+test_0642|t|
+test_0642|a|The Humane Society of the United States estimates that between 500,000 and one million bites are delivered by dogs each year , more than half of which are suffered by children .
+test_0642	27	40	United States	location
+
+test_0643|t|
+test_0643|a|" Most bites can be prevented by teaching children how to respect a dog , " Michael Cornwell of the Glencoe Animal Hospital in Columbus , Ohio , told the annual meeting of the American Veterinary Medical Association .
+test_0643	128	136	Columbus	location
+test_0643	139	143	Ohio	location
+
+test_0644|t|
+test_0644|a|Iowa-S Minn feedlot cattle market not tested- USDA .
+test_0644	1	7	Iowa-S	location
+test_0644	8	12	Minn	location
+
+test_0645|t|
+test_0645|a|DES MOINES 1996-12-06
+test_0645	1	11	DES MOINES	location
+
+test_0646|t|
+test_0646|a|( ( Chicago newsdesk 312-408-8720 ) )
+test_0646	5	12	Chicago	location
+
+test_0647|t|
+test_0647|a|Nebraska fed cattle roundup - USDA .
+test_0647	1	9	Nebraska	location
+
+test_0648|t|
+test_0648|a|OMAHA 1996-12-06
+test_0648	1	6	OMAHA	location
+
+test_0649|t|
+test_0649|a|The nominees , according to diplomats , are : Kofi Annan of Ghana , the U.N. undersecretary-general for peacekeeping ; Ahmedou Ould Abdallah of Mauritania , the former U.N. special envoy for Burundi ; Amara Essy of the Ivory Coast , its foreign minister and the U.N. General Assembly president in 1994-95 ; and Hamid Algabid of Niger , the secretary-general of the Organisation of the Islamic Conference .
+test_0649	61	66	Ghana	location
+test_0649	145	155	Mauritania	location
+test_0649	192	199	Burundi	location
+test_0649	220	231	Ivory Coast	location
+test_0649	329	334	Niger	location
+
+test_0650|t|
+test_0650|a|Representatives of the U.N. missions of Ghana , the Ivory Coast , Mauritania and Niger have scheduled a meeting with Security Council president Paolo Fulci of Italy to hand in the nominations in writing , the envoys said .
+test_0650	41	46	Ghana	location
+test_0650	53	64	Ivory Coast	location
+test_0650	67	77	Mauritania	location
+test_0650	82	87	Niger	location
+test_0650	160	165	Italy	location
+
+test_0651|t|
+test_0651|a|Diplomats said General Joseph Garba of Nigeria , a U.N. General Assembly president in 1989-90 , was putting forth his own candidacy without being nominated by his country .
+test_0651	40	47	Nigeria	location
+
+test_0652|t|
+test_0652|a|The United States on Nov. 19 vetoed his bid for re-election while the other 14 Security Council members supported him .
+test_0652	5	18	United States	location
+
+test_0653|t|
+test_0653|a|Spain 's police seize petrol bombs , arrest five .
+test_0653	1	6	Spain	location
+
+test_0654|t|
+test_0654|a|MADRID 1996-12-06
+test_0654	1	7	MADRID	location
+
+test_0655|t|
+test_0655|a|Spanish police said on Friday they had arrested five people and seized more than 90 petrol bombs during disturbances after a protest in the Basque country against Spain 's constitution .
+test_0655	164	169	Spain	location
+
+test_0656|t|
+test_0656|a|Hooded protesters threw burning bottles and other objects at police in Pamplona after the protest organised by Herri Batasuna , the political wing of Basque separatist group ETA .
+test_0656	72	80	Pamplona	location
+
+test_0657|t|
+test_0657|a|The protest , which attracted several thousand supporters , coincided with the 18th anniversary of Spain 's constitution .
+test_0657	100	105	Spain	location
+
+test_0658|t|
+test_0658|a|ROME 1996-12-06
+test_0658	1	5	ROME	location
+
+test_0659|t|
+test_0659|a|Alessandra Mussolini , the granddaughter of Italy 's Fascist dictator Benito Mussolini , said on Friday she had rejoined the far-right National Alliance ( AN ) party she quit over policy differences last month .
+test_0659	45	50	Italy	location
+
+test_0660|t|
+test_0660|a|Fini told state radio RAI he met Mussolini thanks to the good offices of Giuseppe Tatarella , AN 's leader in the Chamber of Deputies ( lower house ) , and had overcome their differences .
+test_0660	23	26	RAI	location
+
+test_0661|t|
+test_0661|a|HANOVER , Germany 1996-12-06
+test_0661	1	8	HANOVER	location
+test_0661	11	18	Germany	location
+
+test_0662|t|
+test_0662|a|The man , doing his rounds in the northern city of Hanover on the day when German children traditionally receive small presents from Saint Nicholas , convinced police eventually that he was genuine .
+test_0662	52	59	Hanover	location
+
+test_0663|t|
+test_0663|a|Italy commission concludes 1997 budget examination .
+test_0663	1	6	Italy	location
+
+test_0664|t|
+test_0664|a|ROME 1996-12-06
+test_0664	1	5	ROME	location
+
+test_0665|t|
+test_0665|a|The Italian upper house Senate budget commission has concluded its examination of Italy 's 1997 budget , and it will approve the measure officially by Saturday .
+test_0665	83	88	Italy	location
+
+test_0666|t|
+test_0666|a|-- Milan newsroom +392 66129502
+test_0666	4	9	Milan	location
+
+test_0667|t|
+test_0667|a|EU , Poland agree on oil import tariffs .
+test_0667	6	12	Poland	location
+
+test_0668|t|
+test_0668|a|BRUSSELS 1996-12-06
+test_0668	1	9	BRUSSELS	location
+
+test_0669|t|
+test_0669|a|The European Union and Poland have resolved disagreements over a new Polish oil import regime , the European Commission said on Friday .
+test_0669	24	30	Poland	location
+
+test_0670|t|
+test_0670|a|The EU had objected to increases in Polish tariffs on imports of gasoline and gasoil products introduced on January 1 , 1996 , saying they contravened levels envisaged in the so-called Europe Agreement between the EU and Poland .
+test_0670	186	192	Europe	location
+test_0670	222	228	Poland	location
+
+test_0671|t|
+test_0671|a|" The EU and Poland have now reached a final settlement regarding issues related to the Polish import regime in the oils sector , " the Commission said in a statement .
+test_0671	14	20	Poland	location
+
+test_0672|t|
+test_0672|a|Under the agreement , Poland will abolish all oil import tariffs by 2001 , remove all oil price controls and end quantitative restrictions on imports by January 1 , 1997 .
+test_0672	23	29	Poland	location
+
+test_0673|t|
+test_0673|a|The EU and Poland will monitor the settlement at six-monthly meetings .
+test_0673	12	18	Poland	location
+
+test_0674|t|
+test_0674|a|Hindu party forces India parliament to adjourn .
+test_0674	20	25	India	location
+
+test_0675|t|
+test_0675|a|NEW DELHI 1996-12-06
+test_0675	1	10	NEW DELHI	location
+
+test_0676|t|
+test_0676|a|Hindu nationalists forced adjournment of India 's lower house of parliament on Friday , in protest against a proposal to observe a minute 's silence over the destruction of a mosque by a Hindu mob in 1992 .
+test_0676	42	47	India	location
+
+test_0677|t|
+test_0677|a|The destruction of the 16th-century mosque in the northern Indian town of Ayodhya triggered nationwide Hindu-Moslem violence in which more than 3,000 people were killed .
+test_0677	75	82	Ayodhya	location
+
+test_0678|t|
+test_0678|a|Indian officials blame revenge-minded Moslem underworld gangs in Bombay for a string of bombings in the city three months later that killed 260 people .
+test_0678	66	72	Bombay	location
+
+test_0679|t|
+test_0679|a|The campaign catapulted BJP from the political fringe to become India 's main opposition party in 1991 .
+test_0679	65	70	India	location
+
+test_0680|t|
+test_0680|a|NEW DELHI 1996-12-06
+test_0680	1	10	NEW DELHI	location
+
+test_0681|t|
+test_0681|a|India 's crude petroleum output fell to 2.56 million tonnes in September from 2.83 million in the same month in 1995 , the government said on Friday .
+test_0681	1	6	India	location
+
+test_0682|t|
+test_0682|a|LUXEMBOURG CHRISTMAS MARKET GOES ON WORLD WIDE WEB .
+test_0682	1	11	LUXEMBOURG	location
+
+test_0683|t|
+test_0683|a|BRUSSELS 1996-12-06
+test_0683	1	9	BRUSSELS	location
+
+test_0684|t|
+test_0684|a|Luxembourg 's traditional Christmas market , which starts on Saturday and runs to December 24 , has taken to the world wide web as a way of publicising its activities .
+test_0684	1	11	Luxembourg	location
+
+test_0685|t|
+test_0685|a|London coal / ore fixtures .
+test_0685	1	7	London	location
+
+test_0686|t|
+test_0686|a|LONDON 1996-12-06
+test_0686	1	7	LONDON	location
+
+test_0687|t|
+test_0687|a|COAL - Lantau Peak - 120,000 tones coal Hay Point or Newcastle / Kaohsiung 20-30/1 $ 5.25 and $ 5.85 fio respectively 40,000-35,000 / 28,000 shinc China Steel .
+test_0687	41	50	Hay Point	location
+test_0687	54	63	Newcastle	location
+test_0687	66	75	Kaohsiung	location
+
+test_0688|t|
+test_0688|a|Royal Clipper - 77,000 tonnes coal Maracaibo / Fos 19/12-2/1 $ 9.90 fio 20,000 shinc / 25,000 shinc Coe and Clerici .
+test_0688	36	45	Maracaibo	location
+test_0688	48	51	Fos	location
+
+test_0689|t|
+test_0689|a|ORE - IMC TBN - 70,000 tonnes Dampier / Kaohsiung 20-30/12 $ 5.25 fio 35,000 shinc / 30,000 shinc China Steel .
+test_0689	31	38	Dampier	location
+test_0689	41	50	Kaohsiung	location
+
+test_0690|t|
+test_0690|a|UK bookmakers lengthen Conservative victory odds .
+test_0690	1	3	UK	location
+
+test_0691|t|
+test_0691|a|LONDON 1996-12-06
+test_0691	1	7	LONDON	location
+
+test_0692|t|
+test_0692|a|UK bookmakers William Hill said on Friday they have lengthened the odds of a Conservative victory in the next general election from 9-4 to 5-2 .
+test_0692	1	3	UK	location
+
+test_0693|t|
+test_0693|a|Italy tops week of meagre bond returns - Salomon .
+test_0693	1	6	Italy	location
+
+test_0694|t|
+test_0694|a|LONDON 1996-12-06
+test_0694	1	7	LONDON	location
+
+test_0695|t|
+test_0695|a|High-flying Italy topped the league in a week of meagre returns on government bonds , Salomon Brothers said on Friday .
+test_0695	13	18	Italy	location
+
+test_0696|t|
+test_0696|a|In local currency terms , Italian BTPs offered returns of 0.85 percent in the week ended on Thursday , with fellow high-yielder Sweden close behind on 0.80 percent .
+test_0696	129	135	Sweden	location
+
+test_0697|t|
+test_0697|a|France managed third place with 0.68 percent in the 16-nation world government bond index .
+test_0697	1	7	France	location
+
+test_0698|t|
+test_0698|a|Canada 's were the worst performing bonds .
+test_0698	1	7	Canada	location
+
+test_0699|t|
+test_0699|a|Returns on Treasuries were also in negative territory at minus 0.24 percent , the poorest result after Canada and British gilts which lost 0.28 percent .
+test_0699	104	110	Canada	location
+
+test_0700|t|
+test_0700|a|Australia was the only dollar-bloc country in the table to eke out a positive return , albeit a paltry 0.02 percent .
+test_0700	1	10	Australia	location
+
+test_0701|t|
+test_0701|a|In U.S. dollar terms , Japan was the only country to give positive returns at 1.35 percent .
+test_0701	4	8	U.S.	location
+test_0701	24	29	Japan	location
+
+test_0702|t|
+test_0702|a|France lost 0.37 percent , followed by Italy on minus 0.59 percent .
+test_0702	1	7	France	location
+test_0702	40	45	Italy	location
+
+test_0703|t|
+test_0703|a|The biggest losers in dollar terms were British gilts , which shed 3.41 percent , Canada with minus 3.03 percent and Australia at minus 1.54 percent .
+test_0703	83	89	Canada	location
+test_0703	118	127	Australia	location
+
+test_0704|t|
+test_0704|a|LONDON 1996-12-06
+test_0704	1	7	LONDON	location
+
+test_0705|t|
+test_0705|a|The basket comprises Algeria 's Saharan Blend , Indonesia 's Minas , Nigeria 's Bonny Light , Saudi Arabia 's Arabian Light , Dubai of the UAE , Venezuela 's Tia Juana and Mexico 's Isthmus .
+test_0705	22	29	Algeria	location
+test_0705	49	58	Indonesia	location
+test_0705	70	77	Nigeria	location
+test_0705	95	107	Saudi Arabia	location
+test_0705	140	143	UAE	location
+test_0705	146	155	Venezuela	location
+test_0705	173	179	Mexico	location
+
+test_0706|t|
+test_0706|a|LONDON 1996-12-06
+test_0706	1	7	LONDON	location
+
+test_0707|t|
+test_0707|a|Two dead after executive jet crashes in Newfoundland .
+test_0707	41	53	Newfoundland	location
+
+test_0708|t|
+test_0708|a|STEPHENVILLE , Newfoundland 1996-12-06
+test_0708	1	13	STEPHENVILLE	location
+test_0708	16	28	Newfoundland	location
+
+test_0709|t|
+test_0709|a|Two people were killed when an executive jet en route to Ireland from Michigan crashed on approach to an airport in Stephenville , Newfoundland , on Friday , authorities said .
+test_0709	58	65	Ireland	location
+test_0709	71	79	Michigan	location
+test_0709	117	129	Stephenville	location
+test_0709	132	144	Newfoundland	location
+
+test_0710|t|
+test_0710|a|He said the cargo flight originated in Grand Rapids , Michigan , and was due to stop at Stephenville for refueling before going to Shannon , Ireland .
+test_0710	40	52	Grand Rapids	location
+test_0710	55	63	Michigan	location
+test_0710	89	101	Stephenville	location
+test_0710	132	139	Shannon	location
+test_0710	142	149	Ireland	location
+
+test_0711|t|
+test_0711|a|Investigators were due to fly to Stephenville later on Friday .
+test_0711	34	46	Stephenville	location
+
+test_0712|t|
+test_0712|a|JERUSALEM 1996-12-06
+test_0712	1	10	JERUSALEM	location
+
+test_0713|t|
+test_0713|a|PLO negotiators said on Friday Palestinian President Yasser Arafat , Israeli Prime Minister Benjamin Netanyahu and Egyptian President Hosni Mubarak might all meet on Saturday to try to clinch a deal on Israel 's handover of Hebron to the PLO .
+test_0713	203	209	Israel	location
+test_0713	225	231	Hebron	location
+
+test_0714|t|
+test_0714|a|" It is very possible that Arafat and Netanyahu will meet in Cairo on Saturday .
+test_0714	62	67	Cairo	location
+
+test_0715|t|
+test_0715|a|Especially since the Hebron issue has not been agreed yet and the crucial disputed issues have not been resolved . "
+test_0715	22	28	Hebron	location
+
+test_0716|t|
+test_0716|a|But Rdainah said Arafat would go to Cairo on Saturday for talks with Mubarak .
+test_0716	37	42	Cairo	location
+
+test_0717|t|
+test_0717|a|They last met in Washington after clashes in September that killed 60 Palestinians and 15 Israelis .
+test_0717	18	28	Washington	location
+
+test_0718|t|
+test_0718|a|The violence was spurred by Israel 's opening an entrance to a tunnel near Moslem sites in Jerusalem .
+test_0718	29	35	Israel	location
+test_0718	92	101	Jerusalem	location
+
+test_0719|t|
+test_0719|a|The Palestine Liberation Organisation ( PLO ) negotiators said the last two weeks of talks with Israel on implementing the long-delayed handover of most of Hebron to PLO rule had been " meaningless " , necessitating an Arafat-Netanyahu meeting .
+test_0719	97	103	Israel	location
+test_0719	157	163	Hebron	location
+
+test_0720|t|
+test_0720|a|Palestinian Authority Secretary General Ahmed Abdel-Rahman said on Thursday he understood it could be held in Cairo either on Friday or Sunday .
+test_0720	111	116	Cairo	location
+
+test_0721|t|
+test_0721|a|Turkey hindered by own landmines on Syrian border .
+test_0721	1	7	Turkey	location
+
+test_0722|t|
+test_0722|a|ANKARA 1996-12-06
+test_0722	1	7	ANKARA	location
+
+test_0723|t|
+test_0723|a|Turkey 's efforts to prevent Kurdish rebels and smugglers infiltrating from Syria are being badly hindered because the military does not have a map of its own minefields on the border , a commission of parliamentarians said .
+test_0723	1	7	Turkey	location
+test_0723	77	82	Syria	location
+
+test_0724|t|
+test_0724|a|Turkey says Syria sponsors the PKK , fighting for Kurdish self-rule in southeast Turkey .
+test_0724	1	7	Turkey	location
+test_0724	13	18	Syria	location
+test_0724	82	88	Turkey	location
+
+test_0725|t|
+test_0725|a|Damascus denies aiding the rebels .
+test_0725	1	9	Damascus	location
+
+test_0726|t|
+test_0726|a|The PKK also crosses into Turkey from bases in the mountains of northern Iraq .
+test_0726	27	33	Turkey	location
+test_0726	74	78	Iraq	location
+
+test_0727|t|
+test_0727|a|Three dead in Kurd militia blood feud in Turkey .
+test_0727	42	48	Turkey	location
+
+test_0728|t|
+test_0728|a|DIYARBAKIR , Turkey 1996-12-06
+test_0728	1	11	DIYARBAKIR	location
+test_0728	14	20	Turkey	location
+
+test_0729|t|
+test_0729|a|Texas / w Okla fed cattle roundup - USDA .
+test_0729	1	6	Texas	location
+test_0729	11	15	Okla	location
+
+test_0730|t|
+test_0730|a|AMARILLO 1996-12-06
+test_0730	1	9	AMARILLO	location
+
+test_0731|t|
+test_0731|a|Trade very slow in the Panhandle area Thursday .
+test_0731	24	33	Panhandle	location
+
+test_0732|t|
+test_0732|a|Kansas feedlot cattle roundup - USDA .
+test_0732	1	7	Kansas	location
+
+test_0733|t|
+test_0733|a|DODGE CITY 1996-12-06
+test_0733	1	11	DODGE CITY	location
+
+test_0734|t|
+test_0734|a|U.S. energy futures added to floor session gains in light NYMEX ACCESS trade Thursday , as forecasts for colder temperatures in distillate-hungry Northeastern markets raised supply concerns .
+test_0734	1	5	U.S.	location
+
+test_0735|t|
+test_0735|a|-- David Brinkerhoff , Los Angeles bureau +1 213 380 2014
+test_0735	24	35	Los Angeles	location
+
+test_0736|t|
+test_0736|a|U.S. blasts release of convicted bomber .
+test_0736	1	5	U.S.	location
+
+test_0737|t|
+test_0737|a|WASHINGTON 1996-12-05
+test_0737	1	11	WASHINGTON	location
+
+test_0738|t|
+test_0738|a|The United States Thursday blasted the release from a Greek prison of a Palestinian guerrilla convicted of bombing an airliner and killing a teenager in 1982 , saying the move " does not make sense . "
+test_0738	5	18	United States	location
+
+test_0739|t|
+test_0739|a|It is inexplicable to us why he would have been allowed to leave Greece before serving his just sentence ... This is an incomprehensible move .
+test_0739	66	72	Greece	location
+
+test_0740|t|
+test_0740|a|He spoke after Rashid left Greece Thursday on being freed from prison early for good behaviour after serving 8-1/2 years .
+test_0740	28	34	Greece	location
+
+test_0741|t|
+test_0741|a|Mahammad Rashid was whisked from Korydallos maximum security prison just outside Athens to the airport where he boarded a regular Olympic Airways flight to Cairo where he would transit to Tunis and the former Palestine Liberation Organisation headquarters .
+test_0741	34	44	Korydallos	location
+test_0741	82	88	Athens	location
+test_0741	157	162	Cairo	location
+test_0741	189	194	Tunis	location
+
+test_0742|t|
+test_0742|a|A parole court ruled recently that Rashid could be freed after serving 8-1/2 years , with time in pre-trial detention counted towards his term , but said he must be expelled immediately from Greece .
+test_0742	192	198	Greece	location
+
+test_0743|t|
+test_0743|a|The United States accuses Rashid of belonging to the May 15 Palestinian guerrilla group and being an accomplished student of master Palestinian bombmaker Abu Ibrahim .
+test_0743	5	18	United States	location
+
+test_0744|t|
+test_0744|a|Three FBI agents who testified against Rashid during the trial , held at Korydallos prison , said they had ample evidence against Rashid for a bomb planted on a Pan American plane in Brazil in 1982 and a mid-air bomb blast on a TWA airliner approaching Athens in 1986 which killed four U.S. citizens .
+test_0744	74	84	Korydallos	location
+test_0744	184	190	Brazil	location
+test_0744	254	260	Athens	location
+test_0744	287	291	U.S.	location
+
+test_0745|t|
+test_0745|a|ALBUQUERQUE , N.M. 1996-12-05
+test_0745	1	12	ALBUQUERQUE	location
+test_0745	15	19	N.M.	location
+
+test_0746|t|
+test_0746|a|A New Mexico high school football player who used razor-sharp helmet buckles to slash opponents and a referee was expelled from high school banned Thursday from competition for one year .
+test_0746	3	13	New Mexico	location
+
+test_0747|t|
+test_0747|a|Mike Cito , 17 , was expelled from St Pius X High School in Albuquerque after an October game in which he used the sharpened chin strap buckles to injure two opposing players and the referee .
+test_0747	61	72	Albuquerque	location
+
+test_0748|t|
+test_0748|a|GENEVA 1996-12-06
+test_0748	1	7	GENEVA	location
+
+test_0749|t|
+test_0749|a|In a gloomy Geneva conference centre built before the dawn of the Internet , groups of staid officials made a first stab on Friday at rewriting copyright laws for the digital age .
+test_0749	13	19	Geneva	location
+
+test_0750|t|
+test_0750|a|Mongolia 's state copyright official , Gundegma Jargalshaihan , said apologetically that he had just arrived from Ulan Bator and was not aware of the details of the digital agenda .
+test_0750	1	9	Mongolia	location
+test_0750	115	125	Ulan Bator	location
+
+test_0751|t|
+test_0751|a|" We do n't have money for Internet in Mongolia , " he added .
+test_0751	40	48	Mongolia	location
+
+test_0752|t|
+test_0752|a|Alexander Bavykin , deputy legal chief at Russia 's foreign ministry , said Moscow had yet to formulate a policy on copyright in cybersppace .
+test_0752	43	49	Russia	location
+test_0752	77	83	Moscow	location
+
+test_0753|t|
+test_0753|a|" Internet is a potential cash cow for copyright-based industries and we need roadmaps on the information superhighway , " said Marc Pearl , vice-president of the Information Technology Association of America , a trade association of U.S. network companies opposing the treaties .
+test_0753	235	239	U.S.	location
+
+test_0754|t|
+test_0754|a|Italy evacuates 17 nuns and priests from Zaire .
+test_0754	1	6	Italy	location
+test_0754	42	47	Zaire	location
+
+test_0755|t|
+test_0755|a|ROME 1996-12-06
+test_0755	1	5	ROME	location
+
+test_0756|t|
+test_0756|a|Italy said on Friday it had evacuated 17 Roman Catholic nuns and priests from Zaire where they had been at risk from fighting between government troops and ethnic Tutsi rebels .
+test_0756	1	6	Italy	location
+test_0756	79	84	Zaire	location
+
+test_0757|t|
+test_0757|a|The Foreign Ministry said the 10 Europeans and seven Africans took a special flight from the Garamba national park in northern Zaire to the Ugandan capital Kampala where they were being looked after at the Italian embassy .
+test_0757	94	101	Garamba	location
+test_0757	128	133	Zaire	location
+test_0757	157	164	Kampala	location
+
+test_0758|t|
+test_0758|a|The ministry said the group consisted of 13 nuns , seven Italians and six Zaireans , and four priests , two from Belgium , one from Spain and one from Zambia .
+test_0758	114	121	Belgium	location
+test_0758	133	138	Spain	location
+test_0758	152	158	Zambia	location
+
+test_0759|t|
+test_0759|a|Third Paris blast victim was Moroccan student .
+test_0759	7	12	Paris	location
+
+test_0760|t|
+test_0760|a|PARIS 1996-12-06
+test_0760	1	6	PARIS	location
+
+test_0761|t|
+test_0761|a|Moroccan Mohamed Benchaou , the third person to die after a bombing on a Paris train , was a 25-year-old student about to submit a mathematics doctorate , the Moroccan embassy said on Friday .
+test_0761	74	79	Paris	location
+
+test_0762|t|
+test_0762|a|A newly-married Canadian woman and a man from New Caledonia died instantly in the bomb that injured 90 others in the rush-hour train .
+test_0762	47	60	New Caledonia	location
+
+test_0763|t|
+test_0763|a|MANTUA , Italy 1996-12-06
+test_0763	10	15	Italy	location
+
+test_0764|t|
+test_0764|a|Let 's march together , " Scalfaro , a northerner himself , said .
+test_0764	1	4	Let	location
+
+test_0765|t|
+test_0765|a|" Help Italy to teach , to propose a capacity for strong local autonomy , for the federalism which can give new vigour to our blood .
+test_0765	8	13	Italy	location
+
+test_0766|t|
+test_0766|a|Scalfaro was in Mantua to attend a ceremony commemorating the executions there by Austrian rulers in 1852 and 1853 of a group of Italians who had campaigned for national unity .
+test_0766	17	23	Mantua	location
+
+test_0767|t|
+test_0767|a|He was jeered and whistled at by a small group of League supporters when he arrived for a visit marked by heavy security .
+test_0767	51	57	League	location
+
+test_0768|t|
+test_0768|a|Witnesses said the protesters were outnumbered by other Italians who waved tricolour flags in the national red , white and green or shouted " Viva Italia " .
+test_0768	148	154	Italia	location
+
+test_0769|t|
+test_0769|a|A three-day " independence " march along the Po River in September , culminating in a declaration in Venice of a self-styled " Republic of Padania " , flopped badly .
+test_0769	46	48	Po	location
+test_0769	102	108	Venice	location
+test_0769	128	147	Republic of Padania	location
+
+test_0770|t|
+test_0770|a|Denmark 's Radiometer H1 result seen flat .
+test_0770	1	8	Denmark	location
+
+test_0771|t|
+test_0771|a|COPENHAGEN 1996-12-06
+test_0771	1	11	COPENHAGEN	location
+
+test_0772|t|
+test_0772|a|-- Soeren Linding Jakobsen , Copenhagen newsroom +45 33969650
+test_0772	30	40	Copenhagen	location
+
+test_0773|t|
+test_0773|a|PARIS 1996-12-06
+test_0773	1	6	PARIS	location
+
+test_0774|t|
+test_0774|a|Moslem fundamentalists killed 19 civilians overnight in Blida province south of Algiers , Algerian security forces said on Friday .
+test_0774	57	62	Blida	location
+test_0774	81	88	Algiers	location
+
+test_0775|t|
+test_0775|a|BRUSSELS 1996-12-06
+test_0775	1	9	BRUSSELS	location
+
+test_0776|t|
+test_0776|a|Police smashed two drugs smuggling rings and arrested 30 people after a taxidriver in Spain alerted them to a suitcase of heroin left in his cab , Belgian police said on Friday .
+test_0776	87	92	Spain	location
+
+test_0777|t|
+test_0777|a|He said a 24-year-old Belgian woman left a suitcase containing 13 kg ( 29 lb ) of heroin in a taxi in Barcelona .
+test_0777	103	112	Barcelona	location
+
+test_0778|t|
+test_0778|a|The woman was later arrested in Belgium .
+test_0778	33	40	Belgium	location
+
+test_0779|t|
+test_0779|a|She and the Turkish man smuggled heroin from Turkey to Antwerp from where it was taken to Spain , France and Germany by others , the spokesman said .
+test_0779	46	52	Turkey	location
+test_0779	91	96	Spain	location
+test_0779	99	105	France	location
+test_0779	110	117	Germany	location
+
+test_0780|t|
+test_0780|a|He said 14 people were arrested in Belgium and 16 others in other European nations after an investigation lasting nearly a year .
+test_0780	36	43	Belgium	location
+
+test_0781|t|
+test_0781|a|GREECE , Dec 5 - Greek port workers called off a strike which had kept the country 's ports closed , giving the government until Feb 1 to introduce a promised bonus scheme .
+test_0781	1	7	GREECE	location
+
+test_0782|t|
+test_0782|a|HAMBURG 1996-12-06
+test_0782	1	8	HAMBURG	location
+
+test_0783|t|
+test_0783|a|Colombia shipped 198,226 bags in August after 164,185 in July , El Salvador 160,553 ( 129,184 ) , Indonesia 72,218 ( 78,959 ) , Ethiopia 69,252 ( 60,456 ) and Kenya 63,969 ( 60,043 ) .
+test_0783	1	9	Colombia	location
+test_0783	65	76	El Salvador	location
+test_0783	99	108	Indonesia	location
+test_0783	129	137	Ethiopia	location
+test_0783	160	165	Kenya	location
+
+test_0784|t|
+test_0784|a|Brazil was in seventh position with 54,333 bags ( 29,055 ) .
+test_0784	1	7	Brazil	location
+
+test_0785|t|
+test_0785|a|-- Hamburg newsroom +49-40-41903275
+test_0785	4	11	Hamburg	location
+
+test_0786|t|
+test_0786|a|MUNICH , Germany 1996-12-06
+test_0786	1	7	MUNICH	location
+test_0786	10	17	Germany	location
+
+test_0787|t|
+test_0787|a|BRUSSELS 1996-12-06
+test_0787	1	9	BRUSSELS	location
+
+test_0788|t|
+test_0788|a|Frankfurt dollar fix 1.5338 marks .
+test_0788	1	10	Frankfurt	location
+
+test_0789|t|
+test_0789|a|FRANKFURT 1996-12-06
+test_0789	1	10	FRANKFURT	location
+
+test_0790|t|
+test_0790|a|The dollar was fixed at 1.5338 marks in Frankfurt on Friday , after 1.5607 marks on Thursday .
+test_0790	41	50	Frankfurt	location
+
+test_0791|t|
+test_0791|a|LONDON 1996-12-06
+test_0791	1	7	LONDON	location
+
+test_0792|t|
+test_0792|a|The John Lewis Partnership said its UK department store sales rose 4.5 percent in the week to November 30 compared with the same week a year earlier .
+test_0792	37	39	UK	location
+
+test_0793|t|
+test_0793|a|Timah at 15.625 in London at 0931 GMT .
+test_0793	20	26	London	location
+
+test_0794|t|
+test_0794|a|LONDON 1996-12-06
+test_0794	1	7	LONDON	location
+
+test_0795|t|
+test_0795|a|PT Tambang Timah was traded at $ 15.625 per GDR in London on Friday at around 0931 GMT .
+test_0795	52	58	London	location
+
+test_0796|t|
+test_0796|a|-- Jakarta newsroom +6221 384-6364
+test_0796	4	11	Jakarta	location
+
+test_0797|t|
+test_0797|a|LONDON 1996-12-06
+test_0797	1	7	LONDON	location
+
+test_0798|t|
+test_0798|a|CANBERRA 1996-12-06
+test_0798	1	9	CANBERRA	location
+
+test_0799|t|
+test_0799|a|SYDNEY 1996-12-06
+test_0799	1	7	SYDNEY	location
+
+test_0800|t|
+test_0800|a|But in February 1993 Leszic Betcher , was shot and killed after answering a knock at the door of his Sydney home . "
+test_0800	102	108	Sydney	location
+
+test_0801|t|
+test_0801|a|NZ 's Bolger says Nats to meet NZ First on Sunday .
+test_0801	1	3	NZ	location
+test_0801	32	34	NZ	location
+
+test_0802|t|
+test_0802|a|WELLINGTON 1996-12-06
+test_0802	1	11	WELLINGTON	location
+
+test_0803|t|
+test_0803|a|New Zealand Prime Minister Jim Bolger , emerging from coalition talks with the nationalist New Zealand First party on Friday afternoon , said National and NZ First would meet again on Sunday .
+test_0803	1	12	New Zealand	location
+
+test_0804|t|
+test_0804|a|NZ 's Peters says Nat , Lab talks at similar stage .
+test_0804	1	3	NZ	location
+
+test_0805|t|
+test_0805|a|WELLINGTON 1996-12-06
+test_0805	1	11	WELLINGTON	location
+
+test_0806|t|
+test_0806|a|He told Reuters he had needed to speak to her before she left Wellington later on Friday .
+test_0806	63	73	Wellington	location
+
+test_0807|t|
+test_0807|a|CANBERRA 1996-12-06
+test_0807	1	9	CANBERRA	location
+
+test_0808|t|
+test_0808|a|Langmore , 57 , announced in November that he intended to resign from parliament to take up a position as Australia 's senior representative at the United Nations headquarters in New York .
+test_0808	107	116	Australia	location
+test_0808	180	188	New York	location
+
+test_0809|t|
+test_0809|a|He played an active role at the U.N. social development conference in Copenhagen last year and has co-authored articles with U.N. development programme officer Inge Kaul .
+test_0809	71	81	Copenhagen	location
+
+test_0810|t|
+test_0810|a|His previous posts include assistant director of the national planning office of Papua New Guinea from 1969 to 1973 .
+test_0810	82	98	Papua New Guinea	location
+
+test_0811|t|
+test_0811|a|-- Canberra Bureau 61-6 273-2730
+test_0811	4	12	Canberra	location
+
+test_0812|t|
+test_0812|a|RANGOON 1996-12-06
+test_0812	1	8	RANGOON	location
+
+test_0813|t|
+test_0813|a|A group of Burmese students on Friday marched out of the Yangon Institute of Technology ( YIT ) in the northern outskirts of Rangoon and moved toward the University of Yangon about six km ( four miles ) away , witnesses said .
+test_0813	126	133	Rangoon	location
+
+test_0814|t|
+test_0814|a|The protests culminated at dawn on Tuesday with several hundred of the student protesters being detained briefly by police near the central Shwe Dagon pagoda in Rangoon .
+test_0814	141	151	Shwe Dagon	location
+test_0814	162	169	Rangoon	location
+
+test_0815|t|
+test_0815|a|BANGKOK 1996-11-29
+test_0815	1	8	BANGKOK	location
+
+test_0816|t|
+test_0816|a|Iran Sabr 19/11/96 9,000 Iran
+test_0816	26	30	Iran	location
+
+test_0817|t|
+test_0817|a|Princess of Loine 19/11/96 10,000 Philippines
+test_0817	35	46	Philippines	location
+
+test_0818|t|
+test_0818|a|Deligst 20/11/96 5,500 Indonesia
+test_0818	24	33	Indonesia	location
+
+test_0819|t|
+test_0819|a|Seagramd ace 20/11/96 5,000 Japan
+test_0819	29	34	Japan	location
+
+test_0820|t|
+test_0820|a|Lucky Emdldm 20/11/96 5,000 Japan
+test_0820	29	34	Japan	location
+
+test_0821|t|
+test_0821|a|Algoa Day 21/11/96 6,000 Africa
+test_0821	26	32	Africa	location
+
+test_0822|t|
+test_0822|a|Sangthai Glory 22/11/96 3,000 Singapore
+test_0822	31	40	Singapore	location
+
+test_0823|t|
+test_0823|a|Myos Yang 5 22/11/96 4,000 Indonesia
+test_0823	28	37	Indonesia	location
+
+test_0824|t|
+test_0824|a|Budisuryana 22/11/96 3,800 Malaysia
+test_0824	28	36	Malaysia	location
+
+test_0825|t|
+test_0825|a|King Ace 22/11/96 5,000 Japan
+test_0825	25	30	Japan	location
+
+test_0826|t|
+test_0826|a|Tong Shun 25/11/96 3,000 Vietnam
+test_0826	26	33	Vietnam	location
+
+test_0827|t|
+test_0827|a|But 2 27/11/96 5,000 Burma
+test_0827	22	27	Burma	location
+
+test_0828|t|
+test_0828|a|SHANGHAI 1996-12-06
+test_0828	1	9	SHANGHAI	location
+
+test_0829|t|
+test_0829|a|A five-year-old girl in the east China city of Tianjin choked and almost died from cigarette smoke at her grandfather 's birthday with relatives smoking for hours in a small room , the Wen Hui Bao newspaper said on Friday .
+test_0829	34	39	China	location
+test_0829	48	55	Tianjin	location
+
+test_0830|t|
+test_0830|a|SEOUL 1996-12-06
+test_0830	1	6	SEOUL	location
+
+test_0831|t|
+test_0831|a|The won slid against the U.S. unit on Friday as players prepared for Monday 's import settlement needs , traders said .
+test_0831	26	30	U.S.	location
+
+test_0832|t|
+test_0832|a|Foreign planes to land in China 's popular Guilin .
+test_0832	27	32	China	location
+test_0832	44	50	Guilin	location
+
+test_0833|t|
+test_0833|a|BEIJING 1996-12-06
+test_0833	1	8	BEIJING	location
+
+test_0834|t|
+test_0834|a|China 's tourist spot of Guilin in the southern region of Guangxi will open its airport to foreign aircraft , the Xinhua news agency said on Friday .
+test_0834	1	6	China	location
+test_0834	26	32	Guilin	location
+test_0834	59	66	Guangxi	location
+
+test_0835|t|
+test_0835|a|" The move is expected to give a shot in the arm to the economic expansion of Guangxi and southwest China as a whole , " the agency said but gave no further details .
+test_0835	79	86	Guangxi	location
+test_0835	101	106	China	location
+
+test_0836|t|
+test_0836|a|Guilin is well known for its mountain and river scenery and is one of China 's most popular tourist destinations .
+test_0836	1	7	Guilin	location
+test_0836	71	76	China	location
+
+test_0837|t|
+test_0837|a|TOKYO 1996-12-06
+test_0837	1	6	TOKYO	location
+
+test_0838|t|
+test_0838|a|Japan 's Economic Planning Agency has not changed its view that the economy is gradually recovering , despite relatively weak gross domestic product figures released on Tuesday , EPA Vice Minister Shimpei Nukaya told reporters on Friday .
+test_0838	1	6	Japan	location
+
+test_0839|t|
+test_0839|a|TOKYO 1996-12-06
+test_0839	1	6	TOKYO	location
+
+test_0840|t|
+test_0840|a|Bre-X , Barrick said to continue Busang talks .
+test_0840	34	40	Busang	location
+
+test_0841|t|
+test_0841|a|K.T. Arasu
+test_0841	1	11	K.T. Arasu	location
+
+test_0842|t|
+test_0842|a|JAKARTA 1996-12-06
+test_0842	1	8	JAKARTA	location
+
+test_0843|t|
+test_0843|a|Canada 's Bre-X Minerals Ltd and Barrick Gold Corp are to continue negotiations to hammer out a partnership agreement to develop the spectacular Busang gold find in Indonesia , sources close to the talks said on Friday .
+test_0843	1	7	Canada	location
+test_0843	146	152	Busang	location
+test_0843	166	175	Indonesia	location
+
+test_0844|t|
+test_0844|a|" The negotiations will be held both in Toronto and in Jakarta , " one source , speaking on condition of anonymity , told Reuters .
+test_0844	41	48	Toronto	location
+test_0844	56	63	Jakarta	location
+
+test_0845|t|
+test_0845|a|Another source said most of the key negotiators from both Bre-X and Barrick had returned to Toronto , but declined to say if there had been any progress in their negotiations .
+test_0845	93	100	Toronto	location
+
+test_0846|t|
+test_0846|a|Both sources said Bre-X and Barrick did not hold talks on Thursday with Mines and Energy Ministry Secretary-General Umar Said , who is coordinating the negotiations over the Busang find in East Kalimantan .
+test_0846	175	181	Busang	location
+test_0846	190	205	East Kalimantan	location
+
+test_0847|t|
+test_0847|a|The first source also said Bre-X had until December 21 to submit to the Indonesian Mines and Energy Ministry a feasibility study on the central region of the Busang property , estimated to contain 2.6 million ounces of gold .
+test_0847	159	165	Busang	location
+
+test_0848|t|
+test_0848|a|He said Bre-X would then formally seek the permission of the Indonesian government to begin construction to develop Busang 's central region , which might take up to two years .
+test_0848	117	123	Busang	location
+
+test_0849|t|
+test_0849|a|TOKYO 1996-12-06
+test_0849	1	6	TOKYO	location
+
+test_0850|t|
+test_0850|a|FEATURE - Singapore sees prestige in hosting WTO .
+test_0850	11	20	Singapore	location
+
+test_0851|t|
+test_0851|a|SINGAPORE 1996-12-06
+test_0851	1	10	SINGAPORE	location
+
+test_0852|t|
+test_0852|a|Singapore 's winning campaign to host the World Trade Organisation ( WTO ) 's first ministerial meeting reflected its ambition to play a key role in shaping global free trade , the lifeblood of its economy , analysts said .
+test_0852	1	10	Singapore	location
+
+test_0853|t|
+test_0853|a|" As one of the world 's most externally oriented economies , Singapore has a disproportionately large stake in the WTO , " said Desmond Supple , economist at research house I.D.E.A .
+test_0853	63	72	Singapore	location
+
+test_0854|t|
+test_0854|a|" Singapore stands to benefit more than most from continued global trade liberalisation as trade is the engine of its growth , accounting for nearly three times its gross domestic product . "
+test_0854	3	12	Singapore	location
+
+test_0855|t|
+test_0855|a|The city-state met U.S. opposition two years ago in its bid to host the meeting , expected to gather 4,000 officials from 160 countries from December 9 to 13 .
+test_0855	20	24	U.S.	location
+
+test_0856|t|
+test_0856|a|In a stand some analysts linked to controversy over Singapore 's caning of an American teenager for vandalism , then-U.S. Trade Representative Mickey Kantor had said the meeting ought to be held where the WTO was going to be headquartered .
+test_0856	53	62	Singapore	location
+
+test_0857|t|
+test_0857|a|That would have meant Geneva .
+test_0857	23	29	Geneva	location
+
+test_0858|t|
+test_0858|a|But Singapore had the support of other WTO members .
+test_0858	5	14	Singapore	location
+
+test_0859|t|
+test_0859|a|Derek da Cunha , senior fellow at the Institute of Policy Studies ( ISEAS ) , said Singapore 's hosting of the conference " carries a great deal of symbolism for the city-state , underscoring its commitment to free trade and its trading links across the globe . "
+test_0859	84	93	Singapore	location
+
+test_0860|t|
+test_0860|a|There is the international prestige Singapore would enjoy , but " more importantly there is a genuine national interest in fostering better global free trade and an open market " , said Tan Kong Yam , head of Business Policy at the National University of Singapore .
+test_0860	37	46	Singapore	location
+
+test_0861|t|
+test_0861|a|At the ministerial meeting , trade ministers will review the work of the WTO and the implementation of the Uruguay Round free trade commitments under its predecessor the General Agreement on Tariffs and Trade ( GATT ) .
+test_0861	108	115	Uruguay	location
+
+test_0862|t|
+test_0862|a|In June , the WTO hailed Singapore for its open market policies but the European Union and other trading powers called on Singapore to speed up the opening of its services sector .
+test_0862	26	35	Singapore	location
+test_0862	123	132	Singapore	location
+
+test_0863|t|
+test_0863|a|Supple said the struggle that Singapore had to wage in vying to host the meeting would be repeated during the talks .
+test_0863	31	40	Singapore	location
+
+test_0864|t|
+test_0864|a|Supple said hosting the meeting carried prestige for Singapore , " however , this is quite intangible as the prestige factor may not necessarily lead to any additional investment and trade flows to this region . "
+test_0864	54	63	Singapore	location
+
+test_0865|t|
+test_0865|a|From a commercial point of view , the meeting would be good for Singapore 's tourism industry , Tan said .
+test_0865	65	74	Singapore	location
+
+test_0866|t|
+test_0866|a|A large part of Singapore 's workforce would be mobilised to ensure the meeting would run without a glitch but the average Singaporean " would probably not be too concerned about some of the issues , " Tan said .
+test_0866	17	26	Singapore	location
+
+test_0867|t|
+test_0867|a|" But the more educated public will realise that these kind of things are important for Singapore as a small economy . "
+test_0867	89	98	Singapore	location
+
+test_0868|t|
+test_0868|a|Supple said any political gains the Singapore government would get from the WTO meeting -- ahead of a general election due by April 1997 -- would depend on how successful it was in pushing its economic agenda .
+test_0868	37	46	Singapore	location
+
+test_0869|t|
+test_0869|a|" If there are any movements toward freer trade , then Singapore 's economy and the electorate would gain , " he said . "
+test_0869	56	65	Singapore	location
+
+test_0870|t|
+test_0870|a|Japan NTT says hopes to start int'l business soon .
+test_0870	1	6	Japan	location
+
+test_0871|t|
+test_0871|a|TOKYO 1996-12-06
+test_0871	1	6	TOKYO	location
+
+test_0872|t|
+test_0872|a|One of the local firms will operate in west Japan and the other in east Japan , he added .
+test_0872	45	50	Japan	location
+test_0872	73	78	Japan	location
+
+test_0873|t|
+test_0873|a|ZAANDAM , Netherlands 1996-12-06
+test_0873	1	8	ZAANDAM	location
+test_0873	11	22	Netherlands	location
+
+test_0874|t|
+test_0874|a|Dutch supermarkets group Ahold NV said on Friday it had launched a second food store format for Asian consumers today , opening 16 BILO food discount stores in Malaysia .
+test_0874	161	169	Malaysia	location
+
+test_0875|t|
+test_0875|a|The BILO stores are located in Malysia 's capital Kuala Lumpur and in the country 's second city Johor Bahru .
+test_0875	32	39	Malysia	location
+test_0875	51	63	Kuala Lumpur	location
+test_0875	98	109	Johor Bahru	location
+
+test_0876|t|
+test_0876|a|The discount price format store BILO is to complement Ahold 's full service supermarket TOPS , recently launched in Asia .
+test_0876	117	121	Asia	location
+
+test_0877|t|
+test_0877|a|As well as its activities in Asia , Dutch retail group Ahold has a strong presence in Europe , in the U.S. and the company recently announced a joint venture agreement in Brazil .
+test_0877	30	34	Asia	location
+test_0877	87	93	Europe	location
+test_0877	103	107	U.S.	location
+test_0877	172	178	Brazil	location
+
+test_0878|t|
+test_0878|a|-- Amsterdam newsroom +31 20 504 5000 , Fax +31 20 504 504
+test_0878	4	13	Amsterdam	location
+
+test_0879|t|
+test_0879|a|VAIL , Colorado 1996-12-07
+test_0879	1	5	VAIL	location
+test_0879	8	16	Colorado	location
+
+test_0880|t|
+test_0880|a|Nation : Russia
+test_0880	10	16	Russia	location
+
+test_0881|t|
+test_0881|a|Other Facts : Gladishiva won a silver medal in super G at the 1994 Lillehammer Winter Olympics and a bronze medal in downhill at the 1991 World Championships .
+test_0881	68	79	Lillehammer	location
+
+test_0882|t|
+test_0882|a|VAIL , Colorado 1996-12-07
+test_0882	1	5	VAIL	location
+test_0882	8	16	Colorado	location
+
+test_0883|t|
+test_0883|a|1. Svetlana Gladishiva ( Russia ) one minute 17.76 seconds
+test_0883	26	32	Russia	location
+
+test_0884|t|
+test_0884|a|2. Pernila Wiberg ( Sweden ) 1:17.97
+test_0884	21	27	Sweden	location
+
+test_0885|t|
+test_0885|a|3. Carole Montillet ( France ) 1:18.11
+test_0885	23	29	France	location
+
+test_0886|t|
+test_0886|a|4. Hilde Gerg ( Germany ) 1:18.15
+test_0886	17	24	Germany	location
+
+test_0887|t|
+test_0887|a|5. Isolde Kostner ( Italy ) 1:18.19
+test_0887	21	26	Italy	location
+
+test_0888|t|
+test_0888|a|6. Warwara Zelenskaja ( Russia ) 1:18.21
+test_0888	25	31	Russia	location
+
+test_0889|t|
+test_0889|a|7. Madlen Brigger-Summermatter ( Switzerland ) 1:18.23
+test_0889	34	45	Switzerland	location
+
+test_0890|t|
+test_0890|a|8. Florence Masnada ( France ) 1:18.31
+test_0890	23	29	France	location
+
+test_0891|t|
+test_0891|a|9. Katja Seizinger ( Germany ) 1:18.32
+test_0891	22	29	Germany	location
+
+test_0892|t|
+test_0892|a|10= Martina Ertl ( Germany ) 1:18.48
+test_0892	20	27	Germany	location
+
+test_0893|t|
+test_0893|a|10= Stefanie Schuster ( Austria ) 1:18.48
+test_0893	25	32	Austria	location
+
+test_0894|t|
+test_0894|a|12. Bibiana Perez ( Italy ) 1:18.52
+test_0894	21	26	Italy	location
+
+test_0895|t|
+test_0895|a|13. Barbara Merlin ( Italy ) 1:18.67
+test_0895	22	27	Italy	location
+
+test_0896|t|
+test_0896|a|14. Sybille Brauner ( Germany ) 1:18.81
+test_0896	23	30	Germany	location
+
+test_0897|t|
+test_0897|a|15. Katharina Gutensohn ( Germany ) 1:18.92
+test_0897	27	34	Germany	location
+
+test_0898|t|
+test_0898|a|16. Leatitia Dalloz ( France ) 1:18.96
+test_0898	23	29	France	location
+
+test_0899|t|
+test_0899|a|17. Renate Goetschl ( Austria ) 1:18.98
+test_0899	23	30	Austria	location
+
+test_0900|t|
+test_0900|a|18. Marianne Brechu ( France ) 1:19.02
+test_0900	23	29	France	location
+
+test_0901|t|
+test_0901|a|19. Heidi Zurbriggen ( Switzerland ) 1:19.03
+test_0901	24	35	Switzerland	location
+
+test_0902|t|
+test_0902|a|20. Spela Bracun ( Slovenia ) 1:19.07
+test_0902	20	28	Slovenia	location
+
+test_0903|t|
+test_0903|a|21. Shannon Nobis ( U.S. ) 1:19.08
+test_0903	21	25	U.S.	location
+
+test_0904|t|
+test_0904|a|22= Regine Cavagnoud ( France ) 1:19.21
+test_0904	24	30	France	location
+
+test_0905|t|
+test_0905|a|22= Anita Wachter ( Austria ) 1:19.21
+test_0905	21	28	Austria	location
+
+test_0906|t|
+test_0906|a|24. Megan Gerety ( U.S. ) 1:19.39
+test_0906	20	24	U.S.	location
+
+test_0907|t|
+test_0907|a|25. Hilary Lindh ( U.S. ) 1:19.41
+test_0907	20	24	U.S.	location
+
+test_0908|t|
+test_0908|a|26= Catherine Borghi ( Switzerland ) 1:19.44
+test_0908	24	35	Switzerland	location
+
+test_0909|t|
+test_0909|a|26= Michaela Dorfmeister ( Austria ) 1:19.44
+test_0909	28	35	Austria	location
+
+test_0910|t|
+test_0910|a|28. Alexandra Meissnitzer ( Austria ) 1:19.53
+test_0910	29	36	Austria	location
+
+test_0911|t|
+test_0911|a|29. Ingeborg Helen Marken ( Norway ) 1:19.54
+test_0911	29	35	Norway	location
+
+test_0912|t|
+test_0912|a|30. Monika Tschirky ( Switzerland ) 1:19.60
+test_0912	23	34	Switzerland	location
+
+test_0913|t|
+test_0913|a|VAIL , Colorado 1996-12-07
+test_0913	1	5	VAIL	location
+test_0913	8	16	Colorado	location
+
+test_0914|t|
+test_0914|a|Svetlana Gladishiva of Russia won the women 's World Cup Super G race on Saturday .
+test_0914	24	30	Russia	location
+
+test_0915|t|
+test_0915|a|Pernilla Wiberg of Sweden finished second and Carole Montillet of France came in third , according to provisional results .
+test_0915	20	26	Sweden	location
+test_0915	67	73	France	location
+
+test_0916|t|
+test_0916|a|TARPON SPRINGS , Florida 1996-12-07
+test_0916	1	15	TARPON SPRINGS	location
+test_0916	18	25	Florida	location
+
+test_0917|t|
+test_0917|a|Heavy rains on Saturday washed out the third round of the $ 1.5 million JCPenney Classic at the Innisbrook Hilton Resort .
+test_0917	97	121	Innisbrook Hilton Resort	location
+
+test_0918|t|
+test_0918|a|The tandem of reigning U.S. Amateur champions Kelli Kuehne and Tiger Woods were another shot back at 12-under 130 .
+test_0918	24	28	U.S.	location
+
+test_0919|t|
+test_0919|a|VAIL , Colorado 1996-12-07
+test_0919	1	5	VAIL	location
+test_0919	8	16	Colorado	location
+
+test_0920|t|
+test_0920|a|Nation : Austria
+test_0920	10	17	Austria	location
+
+test_0921|t|
+test_0921|a|Previous victories ( two ) : slalom , Lillehammer Norway , 1993 ; super G , Flachau , Austria , 1995 .
+test_0921	39	50	Lillehammer	location
+test_0921	51	57	Norway	location
+test_0921	77	84	Flachau	location
+test_0921	87	94	Austria	location
+
+test_0922|t|
+test_0922|a|VAIL , Colorado 1996-12-07
+test_0922	1	5	VAIL	location
+test_0922	8	16	Colorado	location
+
+test_0923|t|
+test_0923|a|1. Katja Seizinger ( Germany ) 180 points
+test_0923	22	29	Germany	location
+
+test_0924|t|
+test_0924|a|2. Renate Goetschl ( Austria ) 132
+test_0924	22	29	Austria	location
+
+test_0925|t|
+test_0925|a|3. Carole Montillet ( France ) 86
+test_0925	23	29	France	location
+
+test_0926|t|
+test_0926|a|4. Pernilla Wiberg ( Sweden ) 75
+test_0926	22	28	Sweden	location
+
+test_0927|t|
+test_0927|a|5. Heidi Zurbriggen ( Switzerland ) 69
+test_0927	23	34	Switzerland	location
+
+test_0928|t|
+test_0928|a|6. Regina Haeusl ( Germany ) 66
+test_0928	20	27	Germany	location
+
+test_0929|t|
+test_0929|a|7. Alexandra Meissnitzer ( Austria ) 65
+test_0929	28	35	Austria	location
+
+test_0930|t|
+test_0930|a|8. Isolde Kostner ( Italy ) 60
+test_0930	21	26	Italy	location
+
+test_0931|t|
+test_0931|a|9. Ingeborg Helen Markein ( Norway ) 58
+test_0931	29	35	Norway	location
+
+test_0932|t|
+test_0932|a|10= Megan Gerety ( U.S. ) 51
+test_0932	20	24	U.S.	location
+
+test_0933|t|
+test_0933|a|10= Warwara Zelenskaja ( Russia ) 51
+test_0933	26	32	Russia	location
+
+test_0934|t|
+test_0934|a|10= Florence Masnada ( France ) 51
+test_0934	5	13	Florence	location
+test_0934	24	30	France	location
+
+test_0935|t|
+test_0935|a|13= Picabo Street ( U.S. ) 50
+test_0935	21	25	U.S.	location
+
+test_0936|t|
+test_0936|a|13= Stefanie Schuster ( Austria ) 50
+test_0936	25	32	Austria	location
+
+test_0937|t|
+test_0937|a|15. Miriam Vogt ( Germany ) 47
+test_0937	19	26	Germany	location
+
+test_0938|t|
+test_0938|a|16. Bibiana Perez ( Italy ) 45
+test_0938	21	26	Italy	location
+
+test_0939|t|
+test_0939|a|17. Hilde Gerg ( Germany ) 42
+test_0939	18	25	Germany	location
+
+test_0940|t|
+test_0940|a|18. Barbara Merlin ( Germany ) 38
+test_0940	22	29	Germany	location
+
+test_0941|t|
+test_0941|a|19= Kate Pace Lindsay ( Canada ) 23
+test_0941	25	31	Canada	location
+
+test_0942|t|
+test_0942|a|19= Svetlana Gladishiva ( Russia ) 23
+test_0942	27	33	Russia	location
+
+test_0943|t|
+test_0943|a|19= Regine Cavagnoud ( France ) 23
+test_0943	24	30	France	location
+
+test_0944|t|
+test_0944|a|1. Katja Seizinger ( Germany ) 414 points
+test_0944	22	29	Germany	location
+
+test_0945|t|
+test_0945|a|2. Pernilla Wiberg ( Sweden ) 353
+test_0945	22	28	Sweden	location
+
+test_0946|t|
+test_0946|a|3. Hide Gerg ( Germany ) 276
+test_0946	16	23	Germany	location
+
+test_0947|t|
+test_0947|a|4. Anita Wachter ( Austria ) 180
+test_0947	20	27	Austria	location
+
+test_0948|t|
+test_0948|a|5. Isolde Kostner ( Italy ) 157
+test_0948	21	26	Italy	location
+
+test_0949|t|
+test_0949|a|6. Heidi Zurbriggen ( Switzerland ) 153
+test_0949	23	34	Switzerland	location
+
+test_0950|t|
+test_0950|a|7. Warwara Zelenskaja ( Russia ) 151
+test_0950	25	31	Russia	location
+
+test_0951|t|
+test_0951|a|8= Renate Goetschl ( Austria ) 146
+test_0951	22	29	Austria	location
+
+test_0952|t|
+test_0952|a|8= Carole Montillet ( France ) 146
+test_0952	23	29	France	location
+
+test_0953|t|
+test_0953|a|10. Svetlana Gladishiva ( Russia ) 137
+test_0953	27	33	Russia	location
+
+test_0954|t|
+test_0954|a|11. Florence Masnada ( France ) 133
+test_0954	5	13	Florence	location
+test_0954	24	30	France	location
+
+test_0955|t|
+test_0955|a|12. Deborah Compagnoni ( Italy ) 120
+test_0955	26	31	Italy	location
+
+test_0956|t|
+test_0956|a|13. Martina Ertl ( Germany ) 119
+test_0956	20	27	Germany	location
+
+test_0957|t|
+test_0957|a|15. Urska Horvat ( Slovenia ) 108
+test_0957	20	28	Slovenia	location
+
+test_0958|t|
+test_0958|a|16= Claudia Riegler ( New Zealand ) 100
+test_0958	23	34	New Zealand	location
+
+test_0959|t|
+test_0959|a|16= Sabina Panzanini ( Italy ) 100
+test_0959	24	29	Italy	location
+
+test_0960|t|
+test_0960|a|18. Barbara Merlin ( Italy ) 92
+test_0960	22	27	Italy	location
+
+test_0961|t|
+test_0961|a|19. Stefanie Schuster ( Austria ) 89
+test_0961	25	32	Austria	location
+
+test_0962|t|
+test_0962|a|20. Miriam Vogt ( Germany ) 76
+test_0962	19	26	Germany	location
+
+test_0963|t|
+test_0963|a|1. Pernilla Wiberg ( Sweden ) 180
+test_0963	22	28	Sweden	location
+
+test_0964|t|
+test_0964|a|2. Hilde Gerg ( Germany ) 130
+test_0964	17	24	Germany	location
+
+test_0965|t|
+test_0965|a|3. Svetland Gladishiva ( Russia ) 114
+test_0965	26	32	Russia	location
+
+test_0966|t|
+test_0966|a|4. Warwara Zelenskaja ( Russia ) 100
+test_0966	25	31	Russia	location
+
+test_0967|t|
+test_0967|a|5. Florence Masnada ( France ) 82
+test_0967	23	29	France	location
+
+test_0968|t|
+test_0968|a|6. Katja Seizinger ( Germany ) 74
+test_0968	22	29	Germany	location
+
+test_0969|t|
+test_0969|a|7. Isolde Kostner ( Italy ) 65
+test_0969	21	26	Italy	location
+
+test_0970|t|
+test_0970|a|8. Carole Montillet ( France ) 60
+test_0970	23	29	France	location
+
+test_0971|t|
+test_0971|a|9. Martina Ertl ( Germany ) 58
+test_0971	19	26	Germany	location
+
+test_0972|t|
+test_0972|a|10. Anita Wachter ( Austria ) 49
+test_0972	21	28	Austria	location
+
+test_0973|t|
+test_0973|a|11. Heidi Zurbriggen ( Switzerland ) 43
+test_0973	24	35	Switzerland	location
+
+test_0974|t|
+test_0974|a|12= Madlen Brigger-Summermatter ( Switzerland ) 42
+test_0974	35	46	Switzerland	location
+
+test_0975|t|
+test_0975|a|12= Barbara Merlin ( Italy ) 42
+test_0975	22	27	Italy	location
+
+test_0976|t|
+test_0976|a|12= Katharina Gutensohn ( Germany ) 42
+test_0976	27	34	Germany	location
+
+test_0977|t|
+test_0977|a|15. Stefanie Schuster ( Austria ) 39
+test_0977	25	32	Austria	location
+
+test_0978|t|
+test_0978|a|16. Leatitia Dalloz ( France ) 33
+test_0978	23	29	France	location
+
+test_0979|t|
+test_0979|a|17. Bibiana Perez ( Italy ) 30
+test_0979	21	26	Italy	location
+
+test_0980|t|
+test_0980|a|18= Miriam Vogt ( Germany ) 29
+test_0980	19	26	Germany	location
+
+test_0981|t|
+test_0981|a|18= Marianne Brechu ( France ) 29
+test_0981	23	29	France	location
+
+test_0982|t|
+test_0982|a|20. Alexandra Meissnitzer ( Austria ) 27
+test_0982	29	36	Austria	location
+
+test_0983|t|
+test_0983|a|1. Austria 1,973 points
+test_0983	4	11	Austria	location
+
+test_0984|t|
+test_0984|a|2. Germany 1,135
+test_0984	4	11	Germany	location
+
+test_0985|t|
+test_0985|a|3. Switzerland 972
+test_0985	4	15	Switzerland	location
+
+test_0986|t|
+test_0986|a|4. Italy 887
+test_0986	4	9	Italy	location
+
+test_0987|t|
+test_0987|a|5. France 853
+test_0987	4	10	France	location
+
+test_0988|t|
+test_0988|a|6. Norway 746
+test_0988	4	10	Norway	location
+
+test_0989|t|
+test_0989|a|7. Sweden 673
+test_0989	4	10	Sweden	location
+
+test_0990|t|
+test_0990|a|8. Slovenia 432
+test_0990	4	12	Slovenia	location
+
+test_0991|t|
+test_0991|a|9. Russia 288
+test_0991	4	10	Russia	location
+
+test_0992|t|
+test_0992|a|10. United States 164
+test_0992	5	18	United States	location
+
+test_0993|t|
+test_0993|a|VAIL , Colorado 1996-12-07
+test_0993	1	5	VAIL	location
+test_0993	8	16	Colorado	location
+
+test_0994|t|
+test_0994|a|1. Renate Goetschl ( Austria ) one minute 47.71 seconds
+test_0994	22	29	Austria	location
+
+test_0995|t|
+test_0995|a|2. Katja Seizinger ( Germany ) 1:48.53
+test_0995	22	29	Germany	location
+
+test_0996|t|
+test_0996|a|3. Isolde Kostner ( Italy ) 1:48.91
+test_0996	21	26	Italy	location
+
+test_0997|t|
+test_0997|a|4. Alexandra Meissnitzer ( Austria ) 1:49.13
+test_0997	28	35	Austria	location
+
+test_0998|t|
+test_0998|a|5. Megan Gerety ( U.S. ) 1:49.26
+test_0998	19	23	U.S.	location
+
+test_0999|t|
+test_0999|a|6. Miriam Vogt ( Germany ) 1:49.28
+test_0999	18	25	Germany	location
+
+test_1000|t|
+test_1000|a|7. Stefanie Schuster ( Austria ) 1:49.38
+test_1000	24	31	Austria	location
+
+test_1001|t|
+test_1001|a|8. Ingeborg Helen Marken ( Norway ) 1:49.41
+test_1001	28	34	Norway	location
+
+test_1002|t|
+test_1002|a|9. Florence Masnada ( France ) 1:49.51
+test_1002	23	29	France	location
+
+test_1003|t|
+test_1003|a|10. Regina Haeusl ( Germany ) 1:49.53
+test_1003	21	28	Germany	location
+
+test_1004|t|
+test_1004|a|11. Heidi Zurbriggen ( Switzerland ) 1:49.65
+test_1004	24	35	Switzerland	location
+
+test_1005|t|
+test_1005|a|12. Warwara Zelenskaja ( Russia ) 1:49.66
+test_1005	26	32	Russia	location
+
+test_1006|t|
+test_1006|a|13. Barbara Merlin ( Italy ) 1:49.76
+test_1006	22	27	Italy	location
+
+test_1007|t|
+test_1007|a|14. Hilde Gerg ( Germany ) 1:49.84
+test_1007	18	25	Germany	location
+
+test_1008|t|
+test_1008|a|15. Martina Ertl ( Germany ) 1:49.85
+test_1008	20	27	Germany	location
+
+test_1009|t|
+test_1009|a|16. Pernilla Wiberg ( Sweden ) 1:49.88
+test_1009	23	29	Sweden	location
+
+test_1010|t|
+test_1010|a|17. Svetlana Gladishiva ( Russia ) 1:50.03
+test_1010	27	33	Russia	location
+
+test_1011|t|
+test_1011|a|18. Anita Wachter ( Austria ) 1:50.10
+test_1011	21	28	Austria	location
+
+test_1012|t|
+test_1012|a|19. Spela Bracun ( Slovenia ) 1:50.40
+test_1012	20	28	Slovenia	location
+
+test_1013|t|
+test_1013|a|20. Regine Cavagnoud ( France ) 1:50.51
+test_1013	24	30	France	location
+
+test_1014|t|
+test_1014|a|21. Kate Pace Lindsay ( Canada ) 1:50.54
+test_1014	25	31	Canada	location
+
+test_1015|t|
+test_1015|a|22. Bibiana Perez ( Italy ) 1:50.65
+test_1015	21	26	Italy	location
+
+test_1016|t|
+test_1016|a|23. Hilary Lindh ( United States ) 1:50.69
+test_1016	20	33	United States	location
+
+test_1017|t|
+test_1017|a|24. Catherine Borghi ( Switzerland ) 1:50.72
+test_1017	24	35	Switzerland	location
+
+test_1018|t|
+test_1018|a|25. Carole Montillet ( France ) 1:50.91
+test_1018	24	30	France	location
+
+test_1019|t|
+test_1019|a|26. Brigitte Obermoser ( Austria ) 1:50.99
+test_1019	26	33	Austria	location
+
+test_1020|t|
+test_1020|a|28. Grete Stroem ( Norway ) 1:51.07
+test_1020	20	26	Norway	location
+
+test_1021|t|
+test_1021|a|29. Patrizia Bassis ( Italy ) 1:51.13
+test_1021	23	28	Italy	location
+
+test_1022|t|
+test_1022|a|30. Alessandra Merlin ( Italy ) 1:51.16
+test_1022	25	30	Italy	location
+
+test_1023|t|
+test_1023|a|OESTERSUND , Sweden 1996-12-07
+test_1023	1	11	OESTERSUND	location
+test_1023	14	20	Sweden	location
+
+test_1024|t|
+test_1024|a|1. Vadim Sashurin ( Belarus ) 26 minutes 17.2 seconds ( no penalty
+test_1024	21	28	Belarus	location
+
+test_1025|t|
+test_1025|a|2. Frode Andresen ( Norway ) 26:17.8 ( 2 )
+test_1025	21	27	Norway	location
+
+test_1026|t|
+test_1026|a|3. Ole Einar Bjorndalen ( Norway ) 26:24.9 ( 2 )
+test_1026	27	33	Norway	location
+
+test_1027|t|
+test_1027|a|4. Sven Fischer ( Germany ) 26:28.2 ( 1 )
+test_1027	19	26	Germany	location
+
+test_1028|t|
+test_1028|a|5. Ricco Gross ( Germany ) 26:33.0 ( 1 )
+test_1028	18	25	Germany	location
+
+test_1029|t|
+test_1029|a|1. Fischer ( Germany ) 82 points
+test_1029	14	21	Germany	location
+
+test_1030|t|
+test_1030|a|2. Pavel Muslimov ( Russia ) 82
+test_1030	21	27	Russia	location
+
+test_1031|t|
+test_1031|a|1. Olga Melnik ( Russia ) 23:13.3 ( 0 )
+test_1031	18	24	Russia	location
+
+test_1032|t|
+test_1032|a|2. Svetlana Paramygina ( Belorus ) 23:58.6 ( 0 )
+test_1032	26	33	Belorus	location
+
+test_1033|t|
+test_1033|a|3. Gunn Margit Andreassen ( Norway ) 24:00.4 ( 0 )
+test_1033	29	35	Norway	location
+
+test_1034|t|
+test_1034|a|4. Simone Greiner-Petter-Memm ( Germany ) 24:09.5 ( 1 )
+test_1034	33	40	Germany	location
+
+test_1035|t|
+test_1035|a|5. Petra Behle ( Germany ) 24:15.4 ( 2 )
+test_1035	18	25	Germany	location
+
+test_1036|t|
+test_1036|a|VAIL , Colorado 1996-12-07
+test_1036	1	5	VAIL	location
+test_1036	8	16	Colorado	location
+
+test_1037|t|
+test_1037|a|Renate Goetschl of Austria won the women 's World Cup downhill race on Saturday , according to provisional results .
+test_1037	20	27	Austria	location
+
+test_1038|t|
+test_1038|a|Katja Seizinger of Germany finished second and Islode Kostner of Italy took third .
+test_1038	20	27	Germany	location
+test_1038	66	71	Italy	location
+
+test_1039|t|
+test_1039|a|IGLS , Austria 1996-12-07
+test_1039	1	5	IGLS	location
+test_1039	8	15	Austria	location
+
+test_1040|t|
+test_1040|a|First run leaders Guenther Huber and breakman Antonio Tartaglia in the Italy I sleigh finished second two-hundredths of a second behind the Americans .
+test_1040	72	77	Italy	location
+
+test_1041|t|
+test_1041|a|The Canadians , winners of the opening two events in Altenberg , Germany , and La Plagne , France , increased their lead in the World Cup standings .
+test_1041	54	63	Altenberg	location
+test_1041	66	73	Germany	location
+test_1041	80	89	La Plagne	location
+test_1041	92	98	France	location
+
+test_1042|t|
+test_1042|a|TIGNES , France 1996-12-07
+test_1042	1	7	TIGNES	location
+test_1042	10	16	France	location
+
+test_1043|t|
+test_1043|a|China made a promising debut on the freestyle skiing world cup circuit in an aerials event in the French resort of Tignes on Saturday .
+test_1043	1	6	China	location
+test_1043	116	122	Tignes	location
+
+test_1044|t|
+test_1044|a|But overall , it was France and Canada who dominated the day .
+test_1044	22	28	France	location
+test_1044	33	39	Canada	location
+
+test_1045|t|
+test_1045|a|Alexis Blanc and Sebastien Foucras gave France a one-two finish in the first aerials competition of the season .
+test_1045	41	47	France	location
+
+test_1046|t|
+test_1046|a|Canada 's Jeff Bean , who had never finished higher than ninth in a World Cup event , made his first trip to the podium taking third place with a mark of 209.96 .
+test_1046	1	7	Canada	location
+
+test_1047|t|
+test_1047|a|Veronica Brenner of Canada , who picked up her first career victory at Tignes last year , made it two wins in a row at the French resort taking first in the women 's competition with a score of 170.42 .
+test_1047	21	27	Canada	location
+test_1047	72	78	Tignes	location
+
+test_1048|t|
+test_1048|a|IGLS , Austria 1996-12-07
+test_1048	1	5	IGLS	location
+test_1048	8	15	Austria	location
+
+test_1049|t|
+test_1049|a|CRICKET - WOOLMER MAKES SENTIMENTAL RETURN TO KANPUR .
+test_1049	47	53	KANPUR	location
+
+test_1050|t|
+test_1050|a|KANPUR , India 1996-12-07
+test_1050	1	7	KANPUR	location
+test_1050	10	15	India	location
+
+test_1051|t|
+test_1051|a|South Africa 's trip to Kanpur for the third test against India has given former England test cricketer Bob Woolmer the chance of a sentimental return to his birthplace .
+test_1051	1	13	South Africa	location
+test_1051	25	31	Kanpur	location
+test_1051	59	64	India	location
+test_1051	82	89	England	location
+
+test_1052|t|
+test_1052|a|Woolmer was born in the northern city of Kanpur when his father worked there for an insurance compnay and was himself an active cricketer .
+test_1052	42	48	Kanpur	location
+
+test_1053|t|
+test_1053|a|A visit to India is always an intriguing experience , " Woolmer , now the South African coach , said on Saturday .
+test_1053	12	17	India	location
+
+test_1054|t|
+test_1054|a|Woolmer , 48 , played 19 tests for England between 1975 and 1981 .
+test_1054	36	43	England	location
+
+test_1055|t|
+test_1055|a|His first cricketing sojurn to India was as a member of Tony Greig 's England side in 1976-77 .
+test_1055	32	37	India	location
+test_1055	71	78	England	location
+
+test_1056|t|
+test_1056|a|His father Clarence Woolmer represented United Province , now renamed Uttar Pradesh , in India 's Ranji Trophy national championship and captained the state during 1949 .
+test_1056	41	56	United Province	location
+test_1056	71	84	Uttar Pradesh	location
+test_1056	90	95	India	location
+
+test_1057|t|
+test_1057|a|Now aged 86 , Woolmer senior lives with his son in Cape Town .
+test_1057	52	61	Cape Town	location
+
+test_1058|t|
+test_1058|a|Woolmer 's memories of Kanpur are few and blurred .
+test_1058	24	30	Kanpur	location
+
+test_1059|t|
+test_1059|a|I came here on zero and left at three ( aged three ) when my father was transferred to Calcutta where I spent another four and half years .
+test_1059	88	96	Calcutta	location
+
+test_1060|t|
+test_1060|a|TIGNES , France 1996-12-07
+test_1060	1	7	TIGNES	location
+test_1060	10	16	France	location
+
+test_1061|t|
+test_1061|a|1. Alexis Blanc ( France ) 238.36 points
+test_1061	19	25	France	location
+
+test_1062|t|
+test_1062|a|2. Sebastien Foucras ( France ) 223.60
+test_1062	24	30	France	location
+
+test_1063|t|
+test_1063|a|3. Jeff Bean ( Canada ) 209.96
+test_1063	16	22	Canada	location
+
+test_1064|t|
+test_1064|a|4. Eric Bergoust ( U.S ) 207.15
+test_1064	20	23	U.S	location
+
+test_1065|t|
+test_1065|a|5. Christian Rijavec ( Austria ) 204.17
+test_1065	24	31	Austria	location
+
+test_1066|t|
+test_1066|a|6. Alexandre Mikhailov ( Russia ) 202.59
+test_1066	26	32	Russia	location
+
+test_1067|t|
+test_1067|a|7. Ales Valenta ( Czech Republic ) 194.02
+test_1067	19	33	Czech Republic	location
+
+test_1068|t|
+test_1068|a|8. Andy Capicik ( Canada ) 193.82
+test_1068	19	25	Canada	location
+
+test_1069|t|
+test_1069|a|9. Trace Worthington ( U.S. ) 192.36
+test_1069	24	28	U.S.	location
+
+test_1070|t|
+test_1070|a|10. Dmitri Dashinski Belarus ) 190.70
+test_1070	22	29	Belarus	location
+
+test_1071|t|
+test_1071|a|1. Veronica Brenner ( Canada ) 170.42
+test_1071	23	29	Canada	location
+
+test_1072|t|
+test_1072|a|2. Karin Kuster ( Switzerland ) 160.55
+test_1072	19	30	Switzerland	location
+
+test_1073|t|
+test_1073|a|3. Evelyne Leu ( Switzerland ) 160.36
+test_1073	18	29	Switzerland	location
+
+test_1074|t|
+test_1074|a|4. Caroline Olivier ( Canada ) 157.10
+test_1074	23	29	Canada	location
+
+test_1075|t|
+test_1075|a|5. Jacqui Cooper ( Australia ) 156.52
+test_1075	20	29	Australia	location
+
+test_1076|t|
+test_1076|a|6. Marie Lindgren ( Sweden ) 154.82
+test_1076	21	27	Sweden	location
+
+test_1077|t|
+test_1077|a|7. Dan Cuo ( China ) 154.61
+test_1077	14	19	China	location
+
+test_1078|t|
+test_1078|a|8. Kristie Marshall ( Australia ) 154.60
+test_1078	23	32	Australia	location
+
+test_1079|t|
+test_1079|a|9. Xu Nannan ( China ) 152.08
+test_1079	16	21	China	location
+
+test_1080|t|
+test_1080|a|10. Hilde Synnove Lid ( Norway ) 148.20
+test_1080	25	31	Norway	location
+
+test_1081|t|
+test_1081|a|KUUSAMO , Finland 1996-12-07
+test_1081	1	8	KUUSAMO	location
+test_1081	11	18	Finland	location
+
+test_1082|t|
+test_1082|a|1. Takanobu Okabe ( Japan ) 303.4 points ( first jump
+test_1082	21	26	Japan	location
+
+test_1083|t|
+test_1083|a|2. Kazuyoshi Funaki ( Japan ) 295.4 ( 151.5 / 143.9 )
+test_1083	23	28	Japan	location
+
+test_1084|t|
+test_1084|a|3. Andreas Goldberger ( Austria ) 274.4 ( 144.4 / 130 )
+test_1084	25	32	Austria	location
+
+test_1085|t|
+test_1085|a|4. Dieter Thoma ( Germany ) 267 ( 141.6 / 124.4 )
+test_1085	19	26	Germany	location
+
+test_1086|t|
+test_1086|a|5. Ari-Pekka Nikkola ( Finland ) 256.4 ( 126 / 130.4 )
+test_1086	24	31	Finland	location
+
+test_1087|t|
+test_1087|a|6. Reinhard Schwarzenberger ( Austria ) 252.6 ( 119.7 / 132.9 )
+test_1087	31	38	Austria	location
+
+test_1088|t|
+test_1088|a|7. Noriaki Kasai ( Japan ) 242 ( 124.2 / 117.8 )
+test_1088	20	25	Japan	location
+
+test_1089|t|
+test_1089|a|8. Hiroya Saitoh ( Japan ) 234.7 ( 124.6 / 110.1 )
+test_1089	20	25	Japan	location
+
+test_1090|t|
+test_1090|a|9. Jani Soininen ( Finland ) 231.5 ( 115 / 116.5 )
+test_1090	20	27	Finland	location
+
+test_1091|t|
+test_1091|a|10. Kristian Brenden ( Norway ) 228.1 ( 129.4 / 98.7 )
+test_1091	24	30	Norway	location
+
+test_1092|t|
+test_1092|a|7. Espen Bredesen ( Norway ) 112
+test_1092	21	27	Norway	location
+
+test_1093|t|
+test_1093|a|10. Primoz Peterka ( Slovakia ) 76
+test_1093	22	30	Slovakia	location
+
+test_1094|t|
+test_1094|a|TEMBAU DENPASAR , Bali 1996-12-07
+test_1094	1	16	TEMBAU DENPASAR	location
+test_1094	19	23	Bali	location
+
+test_1095|t|
+test_1095|a|Fung Permadi ( Taiwan ) beat Indra Wijaya ( Indonesia ) 15-6 15-8
+test_1095	16	22	Taiwan	location
+test_1095	45	54	Indonesia	location
+
+test_1096|t|
+test_1096|a|Sun Jun ( China ) beat Allan Budi Kusuma ( Indonesia ) 15-9 15-10
+test_1096	11	16	China	location
+test_1096	44	53	Indonesia	location
+
+test_1097|t|
+test_1097|a|Susi Susanti ( Indonesia ) beat Camilla Martin ( Denmark ) 11-1
+test_1097	16	25	Indonesia	location
+test_1097	50	57	Denmark	location
+
+test_1098|t|
+test_1098|a|Ye Zhaoying ( China ) beat Gong Zhichao ( China ) 11-8 11-3
+test_1098	15	20	China	location
+test_1098	43	48	China	location
+
+test_1099|t|
+test_1099|a|CHONJU , South Korea 1996-12-07
+test_1099	1	7	CHONJU	location
+test_1099	10	21	South Korea	location
+
+test_1100|t|
+test_1100|a|Horii Manabu ( Japan ) 37.23 seconds ; 2 .
+test_1100	16	21	Japan	location
+
+test_1101|t|
+test_1101|a|Jaegal Sung-Yeol ( South Korea ) 37.46 ; 3 .
+test_1101	20	31	South Korea	location
+
+test_1102|t|
+test_1102|a|Grunde Njos ( Norway ) 37.49 ; 4 .
+test_1102	15	21	Norway	location
+
+test_1103|t|
+test_1103|a|Shimizu Hiroyasu ( Japan ) 37.68 ; 5 .
+test_1103	20	25	Japan	location
+
+test_1104|t|
+test_1104|a|Sergey Klevchenya ( Russia ) 37.86 ; 6 .
+test_1104	21	27	Russia	location
+
+test_1105|t|
+test_1105|a|Yamakage Hiroaki ( Japan ) 37.93 ; 7 .
+test_1105	20	25	Japan	location
+
+test_1106|t|
+test_1106|a|Casey Fitzrandolph ( US ) 37.97 ; 8 .
+test_1106	22	24	US	location
+
+test_1107|t|
+test_1107|a|Sylvain Bouchard ( Canada ) 38.00 ; 9 .
+test_1107	20	26	Canada	location
+
+test_1108|t|
+test_1108|a|Kim Yoon-man ( South Korea ) 38.05 ; 10 .
+test_1108	16	27	South Korea	location
+
+test_1109|t|
+test_1109|a|Inoue Junichi ( Japan ) 38.08 .
+test_1109	17	22	Japan	location
+
+test_1110|t|
+test_1110|a|Xuc Rulhong ( China ) 40.78 ; 2 .
+test_1110	15	20	China	location
+
+test_1111|t|
+test_1111|a|Svetlana Jhurova ( Russia ) 41.08 ; 3 .
+test_1111	20	26	Russia	location
+
+test_1112|t|
+test_1112|a|Franziska Schenk ( Germany ) 41.13 ; 4 .
+test_1112	20	27	Germany	location
+
+test_1113|t|
+test_1113|a|Okazaki Tomomi ( Japan ) 41.19 ; 5 .
+test_1113	18	23	Japan	location
+
+test_1114|t|
+test_1114|a|Shimazaki Kyoko ( Japan ) 41.45 ; 6 .
+test_1114	19	24	Japan	location
+
+test_1115|t|
+test_1115|a|Marianne Timmer ( Netherlands ) 41.58 ; 7 .
+test_1115	19	30	Netherlands	location
+
+test_1116|t|
+test_1116|a|Jin Hua ( China ) 41.59 ; 8 .
+test_1116	11	16	China	location
+
+test_1117|t|
+test_1117|a|Alena Koroleva ( Russia ) 41.64 ; 9 .
+test_1117	18	24	Russia	location
+
+test_1118|t|
+test_1118|a|Chris Witty ( US ) 41.75 ; 10 .
+test_1118	15	17	US	location
+
+test_1119|t|
+test_1119|a|Anke Baler ( Germany ) 41.76 .
+test_1119	14	21	Germany	location
+
+test_1120|t|
+test_1120|a|1. Sylvain Bouchard ( Canada ) 1 minute 16.24 seconds
+test_1120	23	29	Canada	location
+
+test_1121|t|
+test_1121|a|2. Sergey Klevchenya ( Russia ) 1:16.31
+test_1121	24	30	Russia	location
+
+test_1122|t|
+test_1122|a|3. Jan Bos ( Netherlands ) 1:16.38
+test_1122	14	25	Netherlands	location
+
+test_1123|t|
+test_1123|a|4. Grunde Njos ( Norway ) 1:16.44
+test_1123	18	24	Norway	location
+
+test_1124|t|
+test_1124|a|5. Lee Kyou-hyuk ( South Korea ) 1:16.47
+test_1124	20	31	South Korea	location
+
+test_1125|t|
+test_1125|a|6. Inoue Junichi ( Japan ) 1:16.61
+test_1125	20	25	Japan	location
+
+test_1126|t|
+test_1126|a|7. Gerard Van Velde ( Netherlands ) 1:16.63
+test_1126	23	34	Netherlands	location
+
+test_1127|t|
+test_1127|a|8. Kim Yoon-man ( South Korea ) 1:16.75
+test_1127	19	30	South Korea	location
+
+test_1128|t|
+test_1128|a|9. Jeremy Wotherspoon ( Canada ) 1:16.75
+test_1128	25	31	Canada	location
+
+test_1129|t|
+test_1129|a|10. Miyabe Yasunori ( Japan ) 1:16.86
+test_1129	23	28	Japan	location
+
+test_1130|t|
+test_1130|a|1. Franziska Schenk ( Germany ) 1:23.17
+test_1130	23	30	Germany	location
+
+test_1131|t|
+test_1131|a|2. Kusunose Shiho ( Japan ) 1:24.77
+test_1131	21	26	Japan	location
+
+test_1132|t|
+test_1132|a|3. Marianne Timmer ( Netherlands ) 1:24.86
+test_1132	22	33	Netherlands	location
+
+test_1133|t|
+test_1133|a|4. Anka Baier ( Germany ) 1:25.16
+test_1133	17	24	Germany	location
+
+test_1134|t|
+test_1134|a|5. Becky Sundstrom ( U.S. ) 1:25.39
+test_1134	22	26	U.S.	location
+
+test_1135|t|
+test_1135|a|6. Shimazaki Kyoko ( Japan ) 1:25.51
+test_1135	22	27	Japan	location
+
+test_1136|t|
+test_1136|a|7. Oksana Ravllova ( Russia ) 1:25.55
+test_1136	22	28	Russia	location
+
+test_1137|t|
+test_1137|a|8. Sammiya Eriko ( Japan ) 1:25.79
+test_1137	20	25	Japan	location
+
+test_1138|t|
+test_1138|a|9. Chris Witty ( U.S. ) 1:25.85
+test_1138	18	22	U.S.	location
+
+test_1139|t|
+test_1139|a|10. Xue Rulhong ( China ) 1:25.89
+test_1139	19	24	China	location
+
+test_1140|t|
+test_1140|a|WHISTLER , British Columbia 1996-12-06
+test_1140	1	9	WHISTLER	location
+test_1140	12	28	British Columbia	location
+
+test_1141|t|
+test_1141|a|For the third consecutive day , Friday 's scheduled training runs were cancelled due to heavy wet snow and fog on Whistler Mountain , leaving the scheduled World Cup events in jeopardy .
+test_1141	115	132	Whistler Mountain	location
+
+test_1142|t|
+test_1142|a|GLASGOW 1996-12-07
+test_1142	1	8	GLASGOW	location
+
+test_1143|t|
+test_1143|a|LONDON 1996-12-07
+test_1143	1	7	LONDON	location
+
+test_1144|t|
+test_1144|a|Villa ) , Les Ferdinand ( Newcastle ) , Efan Ekoku ( Wimbledon ) ,
+test_1144	54	63	Wimbledon	location
+
+test_1145|t|
+test_1145|a|7 - Robbie Earle ( Wimbledon ) , Les Ferdinand ( Newcastle )
+test_1145	20	29	Wimbledon	location
+
+test_1146|t|
+test_1146|a|6 - Marcus Gayle ( Wimbledon ) , Gary Speed ( Everton ) , Chris
+test_1146	20	29	Wimbledon	location
+
+test_1147|t|
+test_1147|a|SOCCER - NORTHERN IRELAND PREMIER DIVISION RESULTS / STANDINGS .
+test_1147	10	26	NORTHERN IRELAND	location
+
+test_1148|t|
+test_1148|a|LONDON 1996-12-07
+test_1148	1	7	LONDON	location
+
+test_1149|t|
+test_1149|a|Results of Northern Ireland premier
+test_1149	12	28	Northern Ireland	location
+
+test_1150|t|
+test_1150|a|LONDON 1996-12-07
+test_1150	1	7	LONDON	location
+
+test_1151|t|
+test_1151|a|GLASGOW 1996-12-07
+test_1151	1	8	GLASGOW	location
+
+test_1152|t|
+test_1152|a|LONDON 1996-12-07
+test_1152	1	7	LONDON	location
+
+test_1153|t|
+test_1153|a|David Campese will consider offers to play club rugby in England but looks more likely to spend the next year chasing business opportunities in Australia .
+test_1153	58	65	England	location
+test_1153	145	154	Australia	location
+
+test_1154|t|
+test_1154|a|The 34-year-old winger played his final game in a Wallaby jersey on Saturday but is currently a target for clubs eager to match London side Saracens who have already snapped up Francois Pienaar , Michael Lynagh and Philippe Sella .
+test_1154	129	135	London	location
+
+test_1155|t|
+test_1155|a|Former Wallaby captain Nick Farr-Jones believes Campese may yet be tempted to England .
+test_1155	79	86	England	location
+
+test_1156|t|
+test_1156|a|" I 'm sure there are a few people in England who 'd be delighted to have David Campese in their club 's jersey , " he said .
+test_1156	39	46	England	location
+
+test_1157|t|
+test_1157|a|LONDON 1996-12-07
+test_1157	1	7	LONDON	location
+
+test_1158|t|
+test_1158|a|Sunderland 1 ( Melville 83 ) Wimbledon 3 ( Ekoku 8 , 29 , Holdsworth
+test_1158	30	39	Wimbledon	location
+
+test_1159|t|
+test_1159|a|GLASGOW 1996-12-07
+test_1159	1	8	GLASGOW	location
+
+test_1160|t|
+test_1160|a|LONDON 1996-12-07
+test_1160	1	7	LONDON	location
+
+test_1161|t|
+test_1161|a|Oxford 22 8 6 8 27 21 30
+test_1161	1	7	Oxford	location
+
+test_1162|t|
+test_1162|a|Portsmouth 22 7 5 10 25 29 26
+test_1162	1	11	Portsmouth	location
+
+test_1163|t|
+test_1163|a|LONDON 1996-12-07
+test_1163	1	7	LONDON	location
+
+test_1164|t|
+test_1164|a|The London club had been rocked by a two-goal burst from forwards Dean Sturridge and Darryl Powell in the 62nd and 71st minutes which overturned Arsenal 's 1-0 lead from a diving header by captain Tony Adams on the stroke of halftime .
+test_1164	5	11	London	location
+
+test_1165|t|
+test_1165|a|GLASGOW 1996-12-07
+test_1165	1	8	GLASGOW	location
+
+test_1166|t|
+test_1166|a|LONDON 1996-12-07
+test_1166	1	7	LONDON	location
+
+test_1167|t|
+test_1167|a|RUGBY UNION - CAMPESE SIGNS OFF WITH TRY IN WALLABY ROMP .
+test_1167	45	52	WALLABY	location
+
+test_1168|t|
+test_1168|a|LONDON 1996-12-07
+test_1168	1	7	LONDON	location
+
+test_1169|t|
+test_1169|a|Australia bade farewell to David Campese in spectacular fashion by overwhelming the Barbarians 39-12 in the final match of their European tour at Twickenham on Saturday .
+test_1169	1	10	Australia	location
+test_1169	147	157	Twickenham	location
+
+test_1170|t|
+test_1170|a|RUGBY UNION - AUSTRALIA BEAT BARBARIANS 39-12 .
+test_1170	15	24	AUSTRALIA	location
+
+test_1171|t|
+test_1171|a|LONDON 1996-12-07
+test_1171	1	7	LONDON	location
+
+test_1172|t|
+test_1172|a|Australia beat the Barbarians 39-12 ( halftime 27-0 ) in the final match of their European tour on Saturday :
+test_1172	1	10	Australia	location
+
+test_1173|t|
+test_1173|a|Australia - Tries : Matthew Burke ( 2 ) , Joe Roff , David Campese , Tim Horan .
+test_1173	1	10	Australia	location
+
+test_1174|t|
+test_1174|a|HARARE 1996-12-07
+test_1174	1	7	HARARE	location
+
+test_1175|t|
+test_1175|a|201 Mark McNulty ( Zimbabwe ) 72 61 68
+test_1175	20	28	Zimbabwe	location
+
+test_1176|t|
+test_1176|a|206 Nick Price ( Zimbabwe ) 68 68 70
+test_1176	18	26	Zimbabwe	location
+
+test_1177|t|
+test_1177|a|207 Clinton Whitelaw 70 70 67 , Mark Cayeux ( Zimbabwe )
+test_1177	47	55	Zimbabwe	location
+
+test_1178|t|
+test_1178|a|212 Trevor Dodds ( Namibia ) 72 69 71 , Schalk van der
+test_1178	20	27	Namibia	location
+
+test_1179|t|
+test_1179|a|Merwe ( Namibia ) 67 73 72 , Hennie Swart 75 64 73 ,
+test_1179	9	16	Namibia	location
+
+test_1180|t|
+test_1180|a|Andrew Pitts ( U.S. ) 69 67 76
+test_1180	16	20	U.S.	location
+
+test_1181|t|
+test_1181|a|213 Sean Farrell ( Zimbabwe ) 77 68 68 , Glen Cayeux
+test_1181	20	28	Zimbabwe	location
+
+test_1182|t|
+test_1182|a|( Zimbabwe ) 75 68 70 , Nic Henning 73 70 70 , Dion
+test_1182	3	11	Zimbabwe	location
+
+test_1183|t|
+test_1183|a|SOCCER - REINSTATED ALBANIA NAMES SQUAD TO PLAY N.IRELAND .
+test_1183	21	28	ALBANIA	location
+test_1183	49	58	N.IRELAND	location
+
+test_1184|t|
+test_1184|a|TIRANA 1996-12-07
+test_1184	1	7	TIRANA	location
+
+test_1185|t|
+test_1185|a|Albanian coach Astrit Hafizi said on Saturday it was important that his players brush aside the country 's short ban by FIFA in order to concentrate on next Saturday'sWorld Cup group nine qualifier against Northern Ireland .
+test_1185	207	223	Northern Ireland	location
+
+test_1186|t|
+test_1186|a|World soccer 's governing body reinstated Albania last Tuesday after the Balkan country 's government lifted suspensions on various soccer officials .
+test_1186	43	50	Albania	location
+test_1186	74	80	Balkan	location
+
+test_1187|t|
+test_1187|a|FIFA had banned Albania indefinitely after its sports ministry had ordered the suspension of Albanian Football Association general secretary Eduard Dervishi and dissolved the executive committee .
+test_1187	17	24	Albania	location
+
+test_1188|t|
+test_1188|a|" We would be very happy with a draw in Belfast , " said Hafizi . "
+test_1188	41	48	Belfast	location
+
+test_1189|t|
+test_1189|a|Especially if one takes into consideration our difficult post-suspension situation and the fact Northern Ireland is very keen to win . "
+test_1189	97	113	Northern Ireland	location
+
+test_1190|t|
+test_1190|a|Regular defender Artur Lekbello , who is injured , was missing from Hafizi 's squad named on Saturday for the Belfast match .
+test_1190	111	118	Belfast	location
+
+test_1191|t|
+test_1191|a|HOBART , Australia 1996-12-07
+test_1191	1	7	HOBART	location
+test_1191	10	19	Australia	location
+
+test_1192|t|
+test_1192|a|Former Australia test batsman Dean Jones hit an unbeaten 130 to lead Victoria 's fightback in their Sheffield Shield match against Tasmania on Saturday .
+test_1192	8	17	Australia	location
+test_1192	70	78	Victoria	location
+
+test_1193|t|
+test_1193|a|Replying to the home side 's first innings 481 for eight declared , Victoria reached 220 for three at close of play on the second day of the four-day match at Hobart 's Bellerive Oval .
+test_1193	69	77	Victoria	location
+test_1193	160	166	Hobart	location
+test_1193	170	184	Bellerive Oval	location
+
+test_1194|t|
+test_1194|a|Jones , who took over as captain for the match in the absence of Australia test leg-spinner Shane Warne , added 195 runs for the third wicket with left-hander Laurie Harper .
+test_1194	66	75	Australia	location
+
+test_1195|t|
+test_1195|a|Earlier , former Australia test batsman David Boon scored 118 and all-rounder Shaun Young hit 113 .
+test_1195	18	27	Australia	location
+
+test_1196|t|
+test_1196|a|Pace bowler Ian Harvey claimed three for 81 for Victoria .
+test_1196	49	57	Victoria	location
+
+test_1197|t|
+test_1197|a|HOBART , Australia 1996-12-07
+test_1197	1	7	HOBART	location
+test_1197	10	19	Australia	location
+
+test_1198|t|
+test_1198|a|Close of play score on the second day of the four-day Sheffield Shield cricket match between Tasmania and Victoria at Bellerive Oval on Saturday :
+test_1198	119	133	Bellerive Oval	location
+
+test_1199|t|
+test_1199|a|SOCCER - SOUTH KOREA MOVE CLOSE TO QUARTER-FINAL BERTH .
+test_1199	10	21	SOUTH KOREA	location
+
+test_1200|t|
+test_1200|a|ABU DHABI 1996-12-07
+test_1200	1	10	ABU DHABI	location
+
+test_1201|t|
+test_1201|a|South Korea made virtually certain of an Asian Cup quarter-final spot with a 4-2 win over Indonesia in a Group A match on Saturday .
+test_1201	1	12	South Korea	location
+test_1201	91	100	Indonesia	location
+
+test_1202|t|
+test_1202|a|After going four up in the first 55 minutes South Korea allowed Indonesia , newcomers to Asian Cup finals , back into the match , conceding two goals from rare counter attacks .
+test_1202	45	56	South Korea	location
+test_1202	65	74	Indonesia	location
+
+test_1203|t|
+test_1203|a|Kim Do Hoon opened the scoring for South Korea in only the fifth minute , turning unmarked on the penalty spot to fire a shot into the top corner .
+test_1203	36	47	South Korea	location
+
+test_1204|t|
+test_1204|a|Ronny Wabia scored for Indonesia three minutes later direct from a a corner kick that Korean goalkeeper Kim Byung reached with one hand but failed to keep out .
+test_1204	24	33	Indonesia	location
+
+test_1205|t|
+test_1205|a|With 65 minutes gone Indonesia 's Widodo Putra , who scored a spectacular goal against Kuwait on Wednesday , was again on target , breaking through the Korean defence to beat the keeper with a low shot .
+test_1205	22	31	Indonesia	location
+test_1205	88	94	Kuwait	location
+
+test_1206|t|
+test_1206|a|Indonesia : 20 - Hendro Kartiko ; 2 - Agung Setyabudi ; 3 - Suwandi Siswoyo ; 4 - Yeyen Tumera ; 5 - Aples Tecuari ; 6 - Sudiriman ; 7 - Widodo Gahyo Purta ; 8 - Ronny Wabia ; 11 - Bima Sakti ; 12 - Chris Yarangga ( 15 - Francis Wewengken 36 ) ; 16 - Marzuki Badriawan .
+test_1206	1	10	Indonesia	location
+
+test_1207|t|
+test_1207|a|South Korea : 1 - Kim Byung Ji ; 2 - Kim Pan Keun ; 5 - Huh Ki Tae ; 8 - Roh Sang Rae ( 7 - Sin Tae Yong 33 ) ; 9 - Kim Do Hoon ; 11 - Ko Jeong Woon ; 17 - Ha Seok Ju ; 18 - Hwang Sun Hong ; 22 - Lee Young Jin ; 23 - Yoo Sang Chul ; 24 - Kim Joo Sung .
+test_1207	1	12	South Korea	location
+
+test_1208|t|
+test_1208|a|JERUSALEM 1996-12-07
+test_1208	1	10	JERUSALEM	location
+
+test_1209|t|
+test_1209|a|ABU DHABI 1996-12-07
+test_1209	1	10	ABU DHABI	location
+
+test_1210|t|
+test_1210|a|United Arab Emirates 3 Kuwait 2 ( halftime 0-2 )
+test_1210	1	21	United Arab Emirates	location
+test_1210	24	30	Kuwait	location
+
+test_1211|t|
+test_1211|a|UAE - Hassan Ahmed 53 , Adnan Al Talyani 55 , Bakhit Saad 80
+test_1211	1	4	UAE	location
+
+test_1212|t|
+test_1212|a|Kuwait - Jassem Al-Huwaidi 9 , 44
+test_1212	1	7	Kuwait	location
+
+test_1213|t|
+test_1213|a|South Korea 4 Indonesia 2 ( 3-0 )
+test_1213	1	12	South Korea	location
+test_1213	15	24	Indonesia	location
+
+test_1214|t|
+test_1214|a|South Korea - Kim Do Hoon 5 , Hwang Sun Hong 7 and 15 , Koo
+test_1214	1	12	South Korea	location
+
+test_1215|t|
+test_1215|a|Indonesia - Ronny Wabia 58 , Widodo Putra 65
+test_1215	1	10	Indonesia	location
+
+test_1216|t|
+test_1216|a|South Korea 2 1 1 0 5 3 4
+test_1216	1	12	South Korea	location
+
+test_1217|t|
+test_1217|a|UAE 2 1 1 0 4 3 4
+test_1217	1	4	UAE	location
+
+test_1218|t|
+test_1218|a|Kuwait 2 0 1 1 4 5 1
+test_1218	1	7	Kuwait	location
+
+test_1219|t|
+test_1219|a|Indonesia 2 0 1 1 4 6 1
+test_1219	1	10	Indonesia	location
+
+test_1220|t|
+test_1220|a|NEW YORK 1996-12-07
+test_1220	1	9	NEW YORK	location
+
+test_1221|t|
+test_1221|a|ATLANTIC DIVISION
+test_1221	1	9	ATLANTIC	location
+
+test_1222|t|
+test_1222|a|PACIFIC DIVISION
+test_1222	1	8	PACIFIC	location
+
+test_1223|t|
+test_1223|a|TORONTO AT ATLANTA
+test_1223	12	19	ATLANTA	location
+
+test_1224|t|
+test_1224|a|LA CLIPPERS AT NEW YORK
+test_1224	16	24	NEW YORK	location
+
+test_1225|t|
+test_1225|a|MILWAUKEE AT WASHINGTON
+test_1225	14	24	WASHINGTON	location
+
+test_1226|t|
+test_1226|a|DETROIT AT NEW JERSEY
+test_1226	12	22	NEW JERSEY	location
+
+test_1227|t|
+test_1227|a|MIAMI AT CHICAGO
+test_1227	10	17	CHICAGO	location
+
+test_1228|t|
+test_1228|a|VANCOUVER AT DALLAS
+test_1228	14	20	DALLAS	location
+
+test_1229|t|
+test_1229|a|PHILADELPHIA AT HOUSTON
+test_1229	17	24	HOUSTON	location
+
+test_1230|t|
+test_1230|a|UTAH AT DENVER
+test_1230	9	15	DENVER	location
+
+test_1231|t|
+test_1231|a|CHARLOTTE AT SEATTLE
+test_1231	14	21	SEATTLE	location
+
+test_1232|t|
+test_1232|a|NEW YORK 1996-12-07
+test_1232	1	9	NEW YORK	location
+
+test_1233|t|
+test_1233|a|NEW YORK 1996-12-07
+test_1233	1	9	NEW YORK	location
+
+test_1234|t|
+test_1234|a|ATLANTIC DIVISION
+test_1234	1	9	ATLANTIC	location
+
+test_1235|t|
+test_1235|a|PACIFIC DIVISION
+test_1235	1	8	PACIFIC	location
+
+test_1236|t|
+test_1236|a|PHOENIX AT NEW JERSEY
+test_1236	12	22	NEW JERSEY	location
+
+test_1237|t|
+test_1237|a|CALGARY AT BOSTON
+test_1237	12	18	BOSTON	location
+
+test_1238|t|
+test_1238|a|BUFFALO AT HARTFORD
+test_1238	12	20	HARTFORD	location
+
+test_1239|t|
+test_1239|a|WASHINGTON AT NY ISLANDERS
+test_1239	15	27	NY ISLANDERS	location
+
+test_1240|t|
+test_1240|a|CHICAGO AT MONTREAL
+test_1240	12	20	MONTREAL	location
+
+test_1241|t|
+test_1241|a|NY RANGERS AT TORONTO
+test_1241	15	22	TORONTO	location
+
+test_1242|t|
+test_1242|a|ANAHEIM AT PITTSBURGH
+test_1242	12	22	PITTSBURGH	location
+
+test_1243|t|
+test_1243|a|COLORADO AT LOS ANGELES
+test_1243	13	24	LOS ANGELES	location
+
+test_1244|t|
+test_1244|a|TAMPA BAY AT SAN JOSE
+test_1244	14	22	SAN JOSE	location
+
+test_1245|t|
+test_1245|a|OTTAWA AT VANCOUVER
+test_1245	11	20	VANCOUVER	location
+
+test_1246|t|
+test_1246|a|NEW YORK 1996-12-07
+test_1246	1	9	NEW YORK	location
+
+test_1247|t|
+test_1247|a|Philadelphia 6 DALLAS 3
+test_1247	1	13	Philadelphia	location
+test_1247	16	22	DALLAS	location
+
+test_1248|t|
+test_1248|a|St Louis 4 COLORADO 3
+test_1248	1	9	St Louis	location
+test_1248	12	20	COLORADO	location
+
+test_1249|t|
+test_1249|a|EDMONTON 5 Ottawa 2
+test_1249	1	9	EDMONTON	location
+test_1249	12	18	Ottawa	location
+
+test_1250|t|
+test_1250|a|NEW YORK 1996-12-06
+test_1250	1	9	NEW YORK	location
+
+test_1251|t|
+test_1251|a|VIENNA 1996-12-07
+test_1251	1	7	VIENNA	location
+
+test_1252|t|
+test_1252|a|German Axel Schulz outpointed Cuba 's Jose Ribalta in their International Boxing Federation non-title 10-round heavyweight fight on Saturday .
+test_1252	31	35	Cuba	location
+
+test_1253|t|
+test_1253|a|MADRID 1996-12-07
+test_1253	1	7	MADRID	location
+
+test_1254|t|
+test_1254|a|SOCCER - BALKAN STRIKE FORCE WIN OLD FIRM GAME FOR REAL .
+test_1254	10	16	BALKAN	location
+
+test_1255|t|
+test_1255|a|MADRID 1996-12-07
+test_1255	1	7	MADRID	location
+
+test_1256|t|
+test_1256|a|Real Madrid 's Balkan strike force of Davor Suker and Predrag Mijatovic shot their side to a 2-0 win over Barcelona in Spain 's old firm game on Saturday .
+test_1256	16	22	Balkan	location
+test_1256	120	125	Spain	location
+
+test_1257|t|
+test_1257|a|AMSTERDAM 1996-12-07
+test_1257	1	10	AMSTERDAM	location
+
+test_1258|t|
+test_1258|a|MADRID 1996-12-07
+test_1258	1	7	MADRID	location
+
+test_1259|t|
+test_1259|a|DUBLIN 1996-12-07
+test_1259	1	7	DUBLIN	location
+
+test_1260|t|
+test_1260|a|Jack Charlton 's relationship with the people of Ireland was cemented on Saturday when the Englishman was officially declared one of their own .
+test_1260	50	57	Ireland	location
+
+test_1261|t|
+test_1261|a|Charlton , 61 , and his wife , Peggy , became citizens of Ireland when they formally received Irish passports from deputy Prime Minister Dick Spring who said the honour had been made in recognition of Charlton 's achievements as the national soccer manager .
+test_1261	59	66	Ireland	location
+
+test_1262|t|
+test_1262|a|" The years I spent as manager of the Republic of Ireland were the best years of my life .
+test_1262	39	58	Republic of Ireland	location
+
+test_1263|t|
+test_1263|a|It all culminated in the fact that I now have lots of great , great friends in Ireland .
+test_1263	80	87	Ireland	location
+
+test_1264|t|
+test_1264|a|Charlton managed Ireland for 93 matches , during which time they lost only 17 times in almost 10 years until he resigned in December 1995 .
+test_1264	18	25	Ireland	location
+
+test_1265|t|
+test_1265|a|He guided Ireland to two successive World Cup finals tournaments and to the 1988 European championship finals in Germany , after the Irish beat a well-fancied England team 1-0 in their group qualifier .
+test_1265	11	18	Ireland	location
+test_1265	114	121	Germany	location
+test_1265	160	167	England	location
+
+test_1266|t|
+test_1266|a|The lanky former Leeds United defender did not make his England debut until the age of 30 but eventually won 35 caps and was a key member of the 1966 World Cup winning team with his younger brother , Bobby .
+test_1266	57	64	England	location
+

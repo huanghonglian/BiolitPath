@@ -1,0 +1,2299 @@
+test_0001|t|
+test_0001|a|The gamma3 subunit is involved in the regulation of AMPK activity in skeletal muscle and strongly influences glycogen metabolism .
+test_0001	70	85	skeletal muscle	bodypart
+
+test_0002|t|
+test_0002|a|The peripheries of lower limbs were measured at four regions ( A : end of tarsal bones , H : heel , B : immediately above the ankle , C : largest circumference of the calf ) at admission in 295 patients how CABG candidates and differences in these measurement points at discharge compared to measurements at admission time were calculated .
+test_0002	5	31	peripheries of lower limbs	bodypart
+test_0002	68	87	end of tarsal bones	bodypart
+test_0002	94	98	heel	bodypart
+test_0002	127	132	ankle	bodypart
+test_0002	168	172	calf	bodypart
+
+test_0003|t|
+test_0003|a|In angiogenesis bioassays , only hESC - MSCs and fetal hMSCs were able to form capillary - like structures , which stained for smooth muscle and endothelial cell markers .
+test_0003	128	141	smooth muscle	bodypart
+
+test_0004|t|
+test_0004|a|FGA / 89 and BR / 90 were assayed for their neurovirulence in newborn mice , and neurons were the major target cells for both DEN - 1 virus strains within the central nervous system .
+test_0004	160	182	central nervous system	bodypart
+
+test_0005|t|
+test_0005|a|Growth hormone promotes early initiation of hepatocyte growth factor gene expression in the liver of hypophysectomized rats after partial hepatectomy .
+test_0005	93	98	liver	bodypart
+
+test_0006|t|
+test_0006|a|The mechanism of the heart ' s adaption to prolonged load and dynamics of RNA synthesis in the myocardium .
+test_0006	96	106	myocardium	bodypart
+
+test_0007|t|
+test_0007|a|The effects of various mitochondrial coenzymes and metabolities on the activities of 3 - oxoacyl - CoA thiolase ( EC 2 . 3 . 1 . 16 ) and acetoacetyl - CoA thiolase ( EC 2 . 3 . 1 . 9 ) from pig heart were investigated with the aim of elucidating the possible regulation of these two enzymes .
+test_0007	196	201	heart	bodypart
+
+test_0008|t|
+test_0008|a|The presence of viruses in blood cells or plasma from asymptomatic donors is the major risk of transmitting an infectious agent through blood transfusion .
+test_0008	43	49	plasma	bodypart
+
+test_0009|t|
+test_0009|a|The thymus of the homozygous nude mouse embryo is laid down normally .
+test_0009	5	11	thymus	bodypart
+
+test_0010|t|
+test_0010|a|Ultrasonography showed that the SPN became subcutaneous between S3 and S4 .
+test_0010	44	56	subcutaneous	bodypart
+
+test_0011|t|
+test_0011|a|Injury of myocardium caused by I / R includes cardiac contractile dysfunction , arrhythmias , as well as irreversible myocyte damage .
+test_0011	11	21	myocardium	bodypart
+
+test_0012|t|
+test_0012|a|Antimuscarinic agents are the most widely used therapy for urge incontinence , but have side effects such as constipation , tachycardia and dry mouth , resulting from a lack of selectivity for the bladder .
+test_0012	198	205	bladder	bodypart
+
+test_0013|t|
+test_0013|a|The terminal field of NL occupies a discrete zone in the rostromedial portion of the contralateral ICc , which we have termed the ` ` core ' ' of ICc .
+test_0013	37	50	discrete zone	bodypart
+
+test_0014|t|
+test_0014|a|Our results show that in patients with stable asthma , there is an increased plasma exudation into the airways , most likely caused by an increased respiratory membrane permeability .
+test_0014	104	111	airways	bodypart
+test_0014	149	169	respiratory membrane	bodypart
+
+test_0015|t|
+test_0015|a|( Vegetable foreign body in the testis ) .
+test_0015	33	39	testis	bodypart
+
+test_0016|t|
+test_0016|a|Minute - to - minute behavior of the bowel , whether it is normal or disordered , is determined by integrative functions of the enteric nervous system ( ENS ) .
+test_0016	38	43	bowel	bodypart
+
+test_0017|t|
+test_0017|a|There was a positive effect of selenium supplementation of the maternal diet on glutathione concentration in the liver of 1 - d - old and 5 - d - old chicks .
+test_0017	114	119	liver	bodypart
+
+test_0018|t|
+test_0018|a|Dendriform pulmonary ossification , defined as ` ` widespread heterotopic bone formation within the lungs , ' ' is a rare entity , which is usually diagnosed upon postmortem examination .
+test_0018	101	106	lungs	bodypart
+
+test_0019|t|
+test_0019|a|Acid secretion from the completely isolated blood perfused canine stomach .
+test_0019	45	50	blood	bodypart
+test_0019	67	74	stomach	bodypart
+
+test_0020|t|
+test_0020|a|Subthalamo - pallido - striatal axis : a feedback system in the basal ganglia .
+test_0020	65	78	basal ganglia	bodypart
+
+test_0021|t|
+test_0021|a|A 61 - year - old man underwent amputation of the rectum for advanced lower rectal cancer in April 2005 .
+test_0021	51	57	rectum	bodypart
+
+test_0022|t|
+test_0022|a|Because of the important variability in US measurement of kidney length it is not possible to definitely conclude that length and growth curve of kidneys in madagascan children are statistically different from those of the published normative standards .
+test_0022	147	154	kidneys	bodypart
+
+test_0023|t|
+test_0023|a|The mean or alternatively the first PC ( PC ( 1 ) ) spectrum from the same region can be used for quantitation of peak areas of metabolites in the human brain at increased SNR .
+test_0023	154	159	brain	bodypart
+
+test_0024|t|
+test_0024|a|( Evaluation of cerebrovascular reserve by xenon computed tomography in patients with ischemic stroke ) .
+test_0024	17	32	cerebrovascular	bodypart
+
+test_0025|t|
+test_0025|a|In persons who chronically and continuously drink alcohol , there are demonstrable biochemical abnormalities similar to the effects of thyroid hormone on the liver .
+test_0025	159	164	liver	bodypart
+
+test_0026|t|
+test_0026|a|Construction of a tracheal pouch in rabbits .
+test_0026	19	33	tracheal pouch	bodypart
+
+test_0027|t|
+test_0027|a|( Neuropsychological study of the senile brain during and after single and combined treatment with deanol and citicoline ) .
+test_0027	42	47	brain	bodypart
+
+test_0028|t|
+test_0028|a|For the treatment group , rAd2p53 was injected into multiple areas of the lesion once a week for 6weeks avoiding deep ulcers points .
+test_0028	114	132	deep ulcers points	bodypart
+
+test_0029|t|
+test_0029|a|When injections were restricted to the neostriatum , retrograde labeling was found in layer V of both SI cortices .
+test_0029	40	51	neostriatum	bodypart
+test_0029	106	114	cortices	bodypart
+
+test_0030|t|
+test_0030|a|Skin metastasis is rare in teratocarcinoma of the testis ( 1 ) .
+test_0030	51	57	testis	bodypart
+
+test_0031|t|
+test_0031|a|Human chorionic gonadotropin in lung and lung tumors .
+test_0031	33	37	lung	bodypart
+test_0031	42	46	lung	bodypart
+
+test_0032|t|
+test_0032|a|Histological analysis of the aneurysm wall showed non - caseating granulomata .
+test_0032	30	43	aneurysm wall	bodypart
+
+test_0033|t|
+test_0033|a|Cord tethering induced a reduction of rSCBF in the distal spinal cord close to the tethering ( L3 ) by 32 % of the normal flow 2 weeks after tethering and by 67 % 10 weeks after tethering .
+test_0033	52	70	distal spinal cord	bodypart
+
+test_0034|t|
+test_0034|a|Concentrations of glutamine ( 902 micromol / L ) , glycine ( 24 micromol / L ) and alanine ( 78 micromol / L ) were elevated in CSF .
+test_0034	129	132	CSF	bodypart
+
+test_0035|t|
+test_0035|a|The effects of four calcium entry blockers ( CEBs ) , diltiazem ( D ) , verapamil ( V ) , nifedipine ( NF ) and nicardipine ( NC ) , were investigated on Ca2 + concentration - effect curves of rat depolarized ( K + , 40 mM ) or noradrenaline ( NA , 3 microM ) - exposed mesenteric resistance vessels .
+test_0035	271	300	mesenteric resistance vessels	bodypart
+
+test_0036|t|
+test_0036|a|With stereotaxic methods under chloralose anesthesia the hypothalami of naturally estrous or estrogen - gonadotropin - primed queens were stimulated bilaterally in one of the following regions : medial basal hypothalamus including the premamillary area ( MBH ) and the anterior hypothalamus including both medial and lateral divisions ( AH , MAH , LAH ) .
+test_0036	58	69	hypothalami	bodypart
+test_0036	236	253	premamillary area	bodypart
+test_0036	270	291	anterior hypothalamus	bodypart
+
+test_0037|t|
+test_0037|a|Ultrastructural analyses of the attachment ( bonding ) zone between bone and implanted biomaterials .
+test_0037	69	73	bone	bodypart
+
+test_0038|t|
+test_0038|a|In contrast , the mitochondrial surface area of the right atrium showed a mean increase of 65 . 8 % , from 0 . 231 + / - 0 . 038 micron 2 in the preischemic stage to 0 . 383 + / - 0 . 057 micron 2 in the ischemic stage ( p less than 0 . 001 ) .
+test_0038	53	65	right atrium	bodypart
+
+test_0039|t|
+test_0039|a|The biogenesis of p51 , the target of nephritogenic monoclonal antibody 5 - 1 - 6 , was studied in the developing glomerulus by immunolocalization and metabolic labeling .
+test_0039	115	125	glomerulus	bodypart
+
+test_0040|t|
+test_0040|a|Retinal pigment epithelium ( RPE ) pigmentation and thickening in the central macula after macular edema resolution in central retinal vein occlusion ( CRVO ) .
+test_0040	71	85	central macula	bodypart
+
+test_0041|t|
+test_0041|a|Lymphangioma are uncommon hamartomatous congenital malformations of the lymphatic system that involve skin and subcutaneous tissue .
+test_0041	73	89	lymphatic system	bodypart
+test_0041	103	107	skin	bodypart
+
+test_0042|t|
+test_0042|a|PAR - 1 is regulated developmentally in the eye , with a decrease from P1 , P9 , to P16 , whereas levels for PAR - 2 , PAR - 3 , and PAR - 4 remain unchanged throughout .
+test_0042	45	48	eye	bodypart
+
+test_0043|t|
+test_0043|a|Biosynthesis of acyl dihydroxyacetone phosphate in subcellular fractions of rat liver .
+test_0043	81	86	liver	bodypart
+
+test_0044|t|
+test_0044|a|Localized immune memory in the lung .
+test_0044	32	36	lung	bodypart
+
+test_0045|t|
+test_0045|a|Thalamocortical ( TC ) projections provide the major pathway for ascending sensory information to the mammalian neocortex .
+test_0045	1	16	Thalamocortical	bodypart
+
+test_0046|t|
+test_0046|a|The autoradiographic distribution of 125I - Fe - transferrin receptors in rat brain has also been determined in vitro .
+test_0046	79	84	brain	bodypart
+
+test_0047|t|
+test_0047|a|Whether conduction in the long fiber tracts of the spinal cord can be similarly modulated is unknown .
+test_0047	27	44	long fiber tracts	bodypart
+test_0047	52	63	spinal cord	bodypart
+
+test_0048|t|
+test_0048|a|Sudden resistive contraction of the tibialis posterior muscle is considered to be the mechanical cause of the initial traumatic injury , and a shallow tibialis posterior tendon sulcus may be the predisposing factor .
+test_0048	37	62	tibialis posterior muscle	bodypart
+
+test_0049|t|
+test_0049|a|In the diluted cell suspension , single cardiomyocytes and capillary fragments containing 6 - 15 endothelial cells could be identified morphologically .
+test_0049	60	69	capillary	bodypart
+
+test_0050|t|
+test_0050|a|We studied the mucosa close to the carcinoma of large bowel ( CLB ) in 200 cases , the carcinoma tissue of CLB in 130 and the mucosa of fetus large bowel in 24 by mucin histochemistry , in addition to the mucosa near CLB studied by scanning electron microscope ( SEM ) in 25 .
+test_0050	16	22	mucosa	bodypart
+test_0050	127	133	mucosa	bodypart
+test_0050	137	154	fetus large bowel	bodypart
+test_0050	206	212	mucosa	bodypart
+
+test_0051|t|
+test_0051|a|( A case of Sertoli cell tumor of the testis with prostatic cancer ) .
+test_0051	39	45	testis	bodypart
+
+test_0052|t|
+test_0052|a|Systemic candidiasis is the most frequently encountered opportunistic fungal infection , the kidneys being primarily affected in 80 % of the cases .
+test_0052	94	101	kidneys	bodypart
+
+test_0053|t|
+test_0053|a|Locomotor movements restricted to imposed ankle joint movements were followed by no , or only focal EMG responses in the stretched muscles .
+test_0053	132	139	muscles	bodypart
+
+test_0054|t|
+test_0054|a|( Fever of unknown origin due to primary mycotic aneurysm of the aorta ) .
+test_0054	66	71	aorta	bodypart
+
+test_0055|t|
+test_0055|a|Absence of HTLV - I DNA in blood from patients with multiple sclerosis .
+test_0055	28	33	blood	bodypart
+
+test_0056|t|
+test_0056|a|Four distinct K + currents have been identified in Drosophila larval muscle fibers , i . e . the voltage - activated transient IA and delayed IK and the Ca ( 2 + ) - activated fast ICF and slow ICS .
+test_0056	70	83	muscle fibers	bodypart
+
+test_0057|t|
+test_0057|a|Given our current findings , and because a number of risk factors for sporadic AD serve to lower levels of sAPP - in brains of AD patients , inadequate sAPP - levels may be sufficient to polarize APP processing towards the amyloidogenic , A - producing route .
+test_0057	118	124	brains	bodypart
+
+test_0058|t|
+test_0058|a|Sagittal section of pelvis was studied .
+test_0058	21	27	pelvis	bodypart
+
+test_0059|t|
+test_0059|a|The temporal bone often falls within the field of radiation for head and neck tumors .
+test_0059	5	18	temporal bone	bodypart
+
+test_0060|t|
+test_0060|a|The circadian clock located in the suprachiasmatic nuclei ( SCN ) of the hypothalamus regulates daily temporal organization in behavior and neuroendocrine function .
+test_0060	36	58	suprachiasmatic nuclei	bodypart
+test_0060	74	86	hypothalamus	bodypart
+
+test_0061|t|
+test_0061|a|The turnover of 5 - hydroxytryptamine in both the denervated and the reinnervated hippocampus was comparable to that in control tissue .
+test_0061	83	94	hippocampus	bodypart
+
+test_0062|t|
+test_0062|a|To study a relationship between the skull base and cervical spine anomalies and Chiari type I malformation ( CMI ) , 364 patients with CMI were examined using craniography and magnetic resonance imaging of the brain and spinal cord .
+test_0062	37	47	skull base	bodypart
+test_0062	211	216	brain	bodypart
+test_0062	221	232	spinal cord	bodypart
+
+test_0063|t|
+test_0063|a|To further investigate the activity of serotonin neurons in relation to feeding behavior , the metabolic activity of the serotonergic system and single neuron activity changes in the lateral hypothalamic area ( LHA ) were investigated concurrently in freely behaving rats .
+test_0063	122	141	serotonergic system	bodypart
+
+test_0064|t|
+test_0064|a|The present study demonstrates that the neuronal groups in the medial part of lamina VI and the central part of lamina VII of lower cervical segments project to the vermis of the caudal lobules of the anterior lobe and the rostral lobules of the posterior lobe .
+test_0064	41	56	neuronal groups	bodypart
+test_0064	64	88	medial part of lamina VI	bodypart
+test_0064	166	215	vermis of the caudal lobules of the anterior lobe	bodypart
+test_0064	224	261	rostral lobules of the posterior lobe	bodypart
+
+test_0065|t|
+test_0065|a|( Features of the circulation of the fundus oculi in patients with cerebral arteriovenous aneurysms and arteriosinus anastomoses ) .
+test_0065	38	50	fundus oculi	bodypart
+
+test_0066|t|
+test_0066|a|The cortical rhythmic changes were distinct in the singing condition compared with the other vocalizing conditions ( speaking and humming ) and thus we considered that more concentrated control of the vocal tract , diaphragm and abdominal muscles is responsible .
+test_0066	202	213	vocal tract	bodypart
+test_0066	216	225	diaphragm	bodypart
+
+test_0067|t|
+test_0067|a|Immunohistochemical staining for estrogen receptors in the endometrium was positive in all but one treated gilts , and negative to weakly positive in control gilts .
+test_0067	60	71	endometrium	bodypart
+
+test_0068|t|
+test_0068|a|Atrial trabeculae were obtained during coronary bypass surgery .
+test_0068	1	18	Atrial trabeculae	bodypart
+
+test_0069|t|
+test_0069|a|BODIPY - conantokin - G binding clusters were associated with presynaptic nerve terminals while isolated BODIPY - conantokin - G binding sites were not always opposed to terminals .
+test_0069	63	90	presynaptic nerve terminals	bodypart
+
+test_0070|t|
+test_0070|a|Microcaudate cercariae emerge from this snail and develop into unencysted metacercariae in the kidney of second intermediate host snails H . ( C . ) aspersa and Otala punctata ( natural hosts ) and Theba pisana ( experimental host ) .
+test_0070	96	102	kidney	bodypart
+
+test_0071|t|
+test_0071|a|Hypertension - dependent cerebrovascular changes were documented primarily in brain pial arteries , whereas no information is so far available concerning changes of peripheral nerve vascularization in hypertension .
+test_0071	79	98	brain pial arteries	bodypart
+
+test_0072|t|
+test_0072|a|Extraction of GAG from neonatal rat cartilage with guanidine hydrochloride removes stainable extracellular matrix but not the interlacunar network .
+test_0072	37	46	cartilage	bodypart
+
+test_0073|t|
+test_0073|a|The serotonin agonist , sumatriptan , is a new , highly promising alternative treatment for migraine that has a vasoconstricting effect on the blood vessels dilated during an attack .
+test_0073	144	157	blood vessels	bodypart
+
+test_0074|t|
+test_0074|a|However , sulphated insulin bound to liver membranes with an affinity more closely resembling that for adipocytes rather than hepatocytes .
+test_0074	38	53	liver membranes	bodypart
+
+test_0075|t|
+test_0075|a|EGF has also got a suppressive effect on 17 a - hydroxylase enzyme ; a key enzyme which is necessary for the hydroxylation of pregnenolone and progesterone in the ovary Hydroxy pregnenolone is a precursor of androstendione , while 17 a - hydroxyprogesterone is a precursor of testosterone .
+test_0075	164	169	ovary	bodypart
+
+test_0076|t|
+test_0076|a|These results clearly demonstrated that the VZ generates relatively few precursor cells and that these oligodendrocyte precursors actively generate their cohort in the parenchyma of the CNS .
+test_0076	169	179	parenchyma	bodypart
+test_0076	187	190	CNS	bodypart
+
+test_0077|t|
+test_0077|a|The intranasal trigeminal system is a third chemical sense in addition to olfaction and gustation .
+test_0077	5	33	intranasal trigeminal system	bodypart
+
+test_0078|t|
+test_0078|a|HPGDS was expressed in the epithelium of immature and cycling mice but not in the oviducts of estrogen receptor knockouts .
+test_0078	83	91	oviducts	bodypart
+
+test_0079|t|
+test_0079|a|Rare deviations in serial visual stimulation are accompanied by an occipital N2 in the event - related potential ( the visual mismatch negativity ( vMMN ) ) .
+test_0079	68	80	occipital N2	bodypart
+
+test_0080|t|
+test_0080|a|Specimens of the spleen from animals with implants showed light 3 - 10 - microns structures that were not observed in those without implants .
+test_0080	18	24	spleen	bodypart
+
+test_0081|t|
+test_0081|a|Electromyographic examination showed absent voluntary activity of the right depressor labii inferior muscle .
+test_0081	77	108	depressor labii inferior muscle	bodypart
+
+test_0082|t|
+test_0082|a|The types of IVSD included perimembrane ( 854 ) , outflow tract ( 131 ) and muscular ( 15 ) .
+test_0082	77	85	muscular	bodypart
+
+test_0083|t|
+test_0083|a|Two cases of metastatic renal tumor are reported , one in a 78 - year - old male who had undergone total gastrectomy for gastric carcinoma , and the other in a 45 - year - old female who had undergone hysterectomy for cervical carcinoma of the uterus .
+test_0083	245	251	uterus	bodypart
+
+test_0084|t|
+test_0084|a|In conclusion , inserting the tube from the apex could shorten the treatment period .
+test_0084	45	49	apex	bodypart
+
+test_0085|t|
+test_0085|a|We suggest a model for the limb regeneration blastema where by 4 days post - amputation the blastema is already divided into distinct growth zones ; the cells of each zone are already specified to give rise to upper arm , lower arm , and hand .
+test_0085	211	220	upper arm	bodypart
+test_0085	223	232	lower arm	bodypart
+test_0085	239	243	hand	bodypart
+
+test_0086|t|
+test_0086|a|Mllerian adenosarcoma is a distinctive type of mixed Mllerian tumor of the female genital tract .
+test_0086	83	96	genital tract	bodypart
+
+test_0087|t|
+test_0087|a|If there is a real crossed allergenicity between pork meat and cat epithelia , we suggest that this crossed allergenicity is without doubt much greater and concerns more the meats and epithelia of mammals .
+test_0087	68	77	epithelia	bodypart
+test_0087	185	194	epithelia	bodypart
+
+test_0088|t|
+test_0088|a|In conclusion , the anterolateral thigh flap is a versatile and dependable flap that can be adapted to any type of defect by modifying the flap design and composition .
+test_0088	21	45	anterolateral thigh flap	bodypart
+
+test_0089|t|
+test_0089|a|Decreased expression of VEGF may be a contributing factor , but the situation may be more complicated for mature retinal vessels than it is for immature vessels , because VEGF replacement does not rescue mature retinal vessels , suggesting that other factors may also be involved .
+test_0089	114	129	retinal vessels	bodypart
+test_0089	154	161	vessels	bodypart
+test_0089	212	227	retinal vessels	bodypart
+
+test_0090|t|
+test_0090|a|We tested the hypothesis that changes in the subcellular distribution of the proapoptotic protein Bax precede the activation of downstream apoptosis - effector mechanisms such as caspase - 3 cleavage and endonuclease activation during the progression of excitotoxic neuronal apoptosis in the striatum of newborn rat .
+test_0090	293	301	striatum	bodypart
+
+test_0091|t|
+test_0091|a|There appears to be nothing unique about the manner in which the CNS responds to inflammation or in the molecules expressed .
+test_0091	66	69	CNS	bodypart
+
+test_0092|t|
+test_0092|a|Spondylocarpotarsal synostosis syndrome is a rare autosomal recessive disorder characterised by vertebral fusions , frequently manifesting as an unsegmented vertebral bar , as well as fusions of the carpal and tarsal bones .
+test_0092	158	171	vertebral bar	bodypart
+test_0092	211	223	tarsal bones	bodypart
+
+test_0093|t|
+test_0093|a|The lengths and dry - tissue masses of all segments of the gastrointestinal tract tended to enlarge in response to increased dietary fiber , but only the total tract contents , contents of the small intestine , and length and dry - tissue mass of the caecum increased significantly .
+test_0093	60	82	gastrointestinal tract	bodypart
+test_0093	194	209	small intestine	bodypart
+test_0093	252	258	caecum	bodypart
+
+test_0094|t|
+test_0094|a|Bath application of glycine and its agonist beta - alanine further confirmed the transitory depolarizing action of glycine in the auditory brainstem .
+test_0094	131	149	auditory brainstem	bodypart
+
+test_0095|t|
+test_0095|a|Treatment with 5 mM dithiothreitol significantly ( P & lt ; 0 . 01 ) reduced the angiotensin II - induced contractile response to 1 . 2 % in the rabbit aorta , but it did not significantly reduce the response in the canine aorta ( 83 . 2 % ) .
+test_0095	153	158	aorta	bodypart
+test_0095	224	229	aorta	bodypart
+
+test_0096|t|
+test_0096|a|The expression levels of other connexins expressed in heart ( Cx37 , Cx43 and Cx45 ) were the same in Cx40 - / - and Cx40 + / + mice .
+test_0096	55	60	heart	bodypart
+
+test_0097|t|
+test_0097|a|An in vitro model subjecting bladder muscle strips to continuous stretch relaxation evaluated - the properties of passive muscle length and tension .
+test_0097	30	51	bladder muscle strips	bodypart
+
+test_0098|t|
+test_0098|a|Forebrain NR2B overexpression facilitating the prefrontal cortex long - term potentiation and enhancing working memory function in mice .
+test_0098	1	10	Forebrain	bodypart
+test_0098	48	65	prefrontal cortex	bodypart
+
+test_0099|t|
+test_0099|a|These results suggested that the eyelids of mice had both alpha - 1 and alpha - 2 adrenoceptors .
+test_0099	34	41	eyelids	bodypart
+
+test_0100|t|
+test_0100|a|The emergence of spike - firing pattern and the underlying ion channels were studied in morphologically - identified principal cells using whole - cell patch - clamp recordings from brain slices of late - term embryos ( embryonic day 16 ) and hatchling chickens ( hatching day 1 and hatching day 5 ) .
+test_0100	183	188	brain	bodypart
+
+test_0101|t|
+test_0101|a|These mice also have circulating rheumatoid factor ( RF ) and develop histological changes in their joints characterized by pannus formation , cartilage and bone erosions .
+test_0101	101	107	joints	bodypart
+
+test_0102|t|
+test_0102|a|We studied the effects of milrinone and its mechanism in nonfatigued and fatigued diaphragms in dogs .
+test_0102	83	93	diaphragms	bodypart
+
+test_0103|t|
+test_0103|a|In addition , all 6 monoclonals that immunostained the enzyme in whole brain , myelin and Wolfgram protein immunoblots recognized both CNP1 ( 44 kDa ) and CNP2 ( 46 kDa ) .
+test_0103	72	77	brain	bodypart
+test_0103	80	86	myelin	bodypart
+
+test_0104|t|
+test_0104|a|These rates of release indicate that the HCG produced by the early placenta was rapidly passed into the circulation rather than stored .
+test_0104	68	76	placenta	bodypart
+
+test_0105|t|
+test_0105|a|The results indicated that the minimal amount of template DNA from single blood plasma for accuracy identification was at least about 0 . 625 ng , the DNA amount extracted from 500 microl of plasma could meet the requirement for PCR amplification .
+test_0105	75	87	blood plasma	bodypart
+test_0105	192	198	plasma	bodypart
+
+test_0106|t|
+test_0106|a|Lesions of the breast associated with discharge from the nipple .
+test_0106	16	22	breast	bodypart
+test_0106	58	64	nipple	bodypart
+
+test_0107|t|
+test_0107|a|We studied the relaxant effects of OPC and mil on isolated human mesenteric arteries and veins in vitro .
+test_0107	60	85	human mesenteric arteries	bodypart
+
+test_0108|t|
+test_0108|a|Determination of dimethyl sulfoxide and dimethyl sulfone in urine by gas chromatography - mass spectrometry after preparation using 2 , 2 - dimethoxypropane .
+test_0108	61	66	urine	bodypart
+
+test_0109|t|
+test_0109|a|We therefore found it of interest to test a new system for capillary blood collection , storage and transportation , which makes it possible to perform capillary blood collection at home , and then forward the blood sample for the laboratory assay of glycated hemoglobin .
+test_0109	70	75	blood	bodypart
+test_0109	163	168	blood	bodypart
+test_0109	211	216	blood	bodypart
+
+test_0110|t|
+test_0110|a|In our case , spinal cord infarction was caused by a massive amount of cholesterol crystals from the aorta related to IABP .
+test_0110	102	107	aorta	bodypart
+
+test_0111|t|
+test_0111|a|4 - MC - administered ACR neuropathy rats showed improvement , i . e . , a decrease in landing foot spread distance , increase in motor nerve conduction velocity and increase in nerve growth factor content in the sciatic nerves in comparison with the corresponding values for ACR neuropathy rats given phosphate - buffered saline alone .
+test_0111	214	228	sciatic nerves	bodypart
+
+test_0112|t|
+test_0112|a|It has characteristic CT findings including a hemispheric cleft , either unilateral or bilateral , in the parasylvian region lined with heterotopic gray matter and extending from the pial to the ependymal surface .
+test_0112	149	160	gray matter	bodypart
+test_0112	196	205	ependymal	bodypart
+
+test_0113|t|
+test_0113|a|Occlusions of the superior mesenteric artery for periods of more than 60 min resulted in significant leakage of 125I - albumin ( i . v . ) into the lumen .
+test_0113	19	45	superior mesenteric artery	bodypart
+
+test_0114|t|
+test_0114|a|Contralateral locus fibers reach the CN by crossing in the pontine central gray at the rostral border of the fourth ventricle and by decussating with the fibers of the mesencephalic trigeminal nucleus ventral to the medial longitudinal fasciculus .
+test_0114	21	27	fibers	bodypart
+test_0114	60	80	pontine central gray	bodypart
+test_0114	88	95	rostral	bodypart
+test_0114	110	126	fourth ventricle	bodypart
+test_0114	155	161	fibers	bodypart
+test_0114	169	209	mesencephalic trigeminal nucleus ventral	bodypart
+test_0114	217	247	medial longitudinal fasciculus	bodypart
+
+test_0115|t|
+test_0115|a|Neuropathic pain is defined as pain arising as a direct consequence of a lesion or disease affecting the somatosensory system either at peripheral or central level .
+test_0115	106	126	somatosensory system	bodypart
+test_0115	151	164	central level	bodypart
+
+test_0116|t|
+test_0116|a|In the primary motor cortex of PSP cases , neuronal loss was confined to inhibitory interneurones , whereas in the pre - SMA both interneurones ( reduced by 26 % ) and corticocortical projection neurones ( reduced by 82 % ) were affected .
+test_0116	8	28	primary motor cortex	bodypart
+
+test_0117|t|
+test_0117|a|( 2 ) Since anatomy is sectionalized , understanding of the body is dwarfed and distorted .
+test_0117	61	65	body	bodypart
+
+test_0118|t|
+test_0118|a|The C . elegans Ce - fkh - 1 gene has been cloned on the basis of its sequence similarity to the winged - helix DNA binding domain of the Drosophila fork head and mammalian HNF - 3alpha , beta , gamma genes , and mutations in the zygotically active pha - 4 gene have been shown to block formation of the pharynx ( and rectum ) at an early stage in embryogenesis .
+test_0118	305	312	pharynx	bodypart
+test_0118	319	325	rectum	bodypart
+
+test_0119|t|
+test_0119|a|Because PCBD - NAC causes selective necrosis to the pars recta of the proximal tubule , and is an organic anion it might be expected to be transported by the renal organic anion transport system .
+test_0119	53	86	pars recta of the proximal tubule	bodypart
+
+test_0120|t|
+test_0120|a|The parapharyngeal section of cartilaginous ET , however , was found to include an open lumen , where pulsatile movements of the medioinferior membranous ET wall could be seen .
+test_0120	130	162	medioinferior membranous ET wall	bodypart
+
+test_0121|t|
+test_0121|a|The results indicated that the level of the dopamine D2 receptor transcript was significantly reduced by SP ( 1 - 7 ) in nucleus accumbens and frontal cortex but not altered in the striatum .
+test_0121	122	139	nucleus accumbens	bodypart
+test_0121	144	158	frontal cortex	bodypart
+test_0121	182	190	striatum	bodypart
+
+test_0122|t|
+test_0122|a|A dietary 18 : 2 n6 / 18 : 3 n3 ratio of 165 versus 1 . 8 caused higher n6 and lower n3 22 - carbon fatty acid levels , without changing total 22 - carbon fatty acid levels , in phosphatidylethanolamine and phosphatidylcholine from several neural membrane fractions .
+test_0122	241	266	neural membrane fractions	bodypart
+
+test_0123|t|
+test_0123|a|In the SD rat liver , the ductus venosus was therefore established by development of the terminal part of the umbilical vein , which anastomosed directly with the posterior vena cava .
+test_0123	15	20	liver	bodypart
+test_0123	27	41	ductus venosus	bodypart
+test_0123	111	125	umbilical vein	bodypart
+test_0123	164	183	posterior vena cava	bodypart
+
+test_0124|t|
+test_0124|a|During 2003 , when the environmental study was undertaken , serotype O12 isolates with bla ( VIM ) were recovered from sinks and stethoscopes in the most - affected units , although not from the hands of staff ; the problem declined once these reservoirs were disinfected and hygienic precautions were reinforced .
+test_0124	196	201	hands	bodypart
+
+test_0125|t|
+test_0125|a|The authors analyze a group of 27 patients with carcinoma of the rectum who were treated in the authors ' department in 1975 - 1990 by electrocoagulation .
+test_0125	66	72	rectum	bodypart
+
+test_0126|t|
+test_0126|a|The retrograde tracer FluoroGold was injected into the preoptic area of nine OVX ewes and labeled cells were examined in the brainstem to determine the extent of co - localization of ER .
+test_0126	126	135	brainstem	bodypart
+
+test_0127|t|
+test_0127|a|( Diagnosis and therapy of superficial tumors of the urinary bladder ) .
+test_0127	54	69	urinary bladder	bodypart
+
+test_0128|t|
+test_0128|a|In NOD mice , disease begins earlier , affects 100 % of the animals , does not require boosting and leads to florid infiltrates circumscribed to lateral and dorsal prostatic lobes .
+test_0128	146	180	lateral and dorsal prostatic lobes	bodypart
+
+test_0129|t|
+test_0129|a|The fine structure of labeled spinothalamic terminals in the central lateral nucleus has been studied in the rat following injection of wheat germ agglutinin - horseradish peroxidase into the spinal cord .
+test_0129	31	54	spinothalamic terminals	bodypart
+test_0129	193	204	spinal cord	bodypart
+
+test_0130|t|
+test_0130|a|Mechanical stimulation of skin organ cultures from HR - 1 , nNOS - KO , endothelial NOS - KO ( eNOS - KO ) , and WT mice caused an enlargement of cutaneous lymphatic vessels .
+test_0130	147	174	cutaneous lymphatic vessels	bodypart
+
+test_0131|t|
+test_0131|a|Collaborative efforts in future research will lead to a growth in our clinical experience with the utilization of PNS and will help in identifying the best candidates for it .
+test_0131	115	118	PNS	bodypart
+
+test_0132|t|
+test_0132|a|( Occurrence of antibiotic - resistant and resistance - transferring in the intestinal tract of hospitalized children in relation to E . coli strains the type of ward and to chemotherapy ) .
+test_0132	77	93	intestinal tract	bodypart
+
+test_0133|t|
+test_0133|a|The process applied to a raw source of collagen , bovine pericardium , provided a sponge - like structure , with heterogeneous pore size , and , moreover , the complete removal of interstitial cells .
+test_0133	58	69	pericardium	bodypart
+
+test_0134|t|
+test_0134|a|Functional dyspepsia - - defined as chronic or recurrent pain or discomfort centred in the upper abdomen , with no clinical or endoscopic evidence of known organic disease - - is very common and causes considerable morbidity and loss of productivity .
+test_0134	92	105	upper abdomen	bodypart
+
+test_0135|t|
+test_0135|a|Our data suggest that genistein has direct genomic effects on the vascular wall that are unrelated to its known actions , leading to increased eNOS expression and NO synthesis , thereby improving hypertension .
+test_0135	67	80	vascular wall	bodypart
+
+test_0136|t|
+test_0136|a|Single units excited by microinjection of atrial natriuretic peptide into the caudal nucleus tractus solitarii were also excited by activation of arterial baroreceptors and inhibited by baroreceptor unloading .
+test_0136	79	111	caudal nucleus tractus solitarii	bodypart
+test_0136	147	169	arterial baroreceptors	bodypart
+
+test_0137|t|
+test_0137|a|Similarities in tooth morphology , degree of wear , and interproximal wear facets ( IPWF ) are generally used to associate isolated teeth qualitatively .
+test_0137	133	138	teeth	bodypart
+
+test_0138|t|
+test_0138|a|In learning rats the specific radioactivity of neuronal DNA was markedly decreased in the hippocampus and remaining brain .
+test_0138	91	102	hippocampus	bodypart
+test_0138	117	122	brain	bodypart
+
+test_0139|t|
+test_0139|a|These effects of lactate on the Na + channel might alter electrophysiological properties during myocardial ischemia and could protect the heart from ischemia - induced conduction abnormalities or , alternatively , could lead to arrhythmias .
+test_0139	139	144	heart	bodypart
+
+test_0140|t|
+test_0140|a|Is the medial wall of the intercondylar notch useful for tibial rotational reference in unicompartmental knee arthroplasty ?
+test_0140	27	46	intercondylar notch	bodypart
+
+test_0141|t|
+test_0141|a|In the field of muscle regulation , there is still controversy as to whether Ca2 + , alone , is able to shift muscle from the relaxed to the fully active state or whether cross - bridge binding also contributes to turning on muscle contraction .
+test_0141	17	23	muscle	bodypart
+test_0141	111	117	muscle	bodypart
+test_0141	226	232	muscle	bodypart
+
+test_0142|t|
+test_0142|a|New formation of smooth muscle in the lung .
+test_0142	39	43	lung	bodypart
+
+test_0143|t|
+test_0143|a|For some unidentified neurones , 4D7 staining is associated with the presence of acetylcholinesterase indicating that this monoclonal antibody offers a probe for mapping cholinergic neurones in the CNS of Periplaneta americana .
+test_0143	199	202	CNS	bodypart
+
+test_0144|t|
+test_0144|a|The results are as follows : The spontaneous activity ( frequency and amplitude ) of isolated strips is extremely variable among strips of the same bladder .
+test_0144	149	156	bladder	bodypart
+
+test_0145|t|
+test_0145|a|Similar ectopic fibers were seen following transection of the optic nerve at the chiasm and after tectal ablation although the onset of these changes was slower than that seen after nerve resection .
+test_0145	63	74	optic nerve	bodypart
+
+test_0146|t|
+test_0146|a|The inclusion criteria used were : randomized trial , radiolucent gallstones in a visualizing gallbladder on oral cholecystography , and complete stone dissolution confirmed by oral cholecystography or ultrasound .
+test_0146	95	106	gallbladder	bodypart
+
+test_0147|t|
+test_0147|a|These results suggest that the ( ( P ) RR ) - dependent activation of prorenin contributes to the pathogenesis of slowly progressive nephropathy in the intact kidney in a rat model of renovascular hypertension .
+test_0147	160	166	kidney	bodypart
+
+test_0148|t|
+test_0148|a|Injuries to the carpometacarpal ( CMC ) joints are uncommon injuries and isolated dislocation of these joints occurs very infrequently .
+test_0148	41	47	joints	bodypart
+test_0148	104	110	joints	bodypart
+
+test_0149|t|
+test_0149|a|Structural surface changes and inflammatory responses against alginate - based microcapsules after exposure to human peritoneal fluid .
+test_0149	118	134	peritoneal fluid	bodypart
+
+test_0150|t|
+test_0150|a|In the active phase of root resorption , the resorption organ contained many odontoclasts with a well - developed ruffled border and a reduced clear zone , cementoblasts , fibroblasts , macrophages , neutrophils , and many blood vessels .
+test_0150	46	62	resorption organ	bodypart
+test_0150	224	237	blood vessels	bodypart
+
+test_0151|t|
+test_0151|a|Based on these results we propose that : ( 1 ) the in vitro particulates in EDTA extracts correspond to an observed particulate form of extracellular matrix within the myocardial basement membrane ( MBM ) of mesenchyme - forming regions and ( 2 ) one or more of the proteins in the MBM particulates function to elicit the epithelial - mesenchymal transition .
+test_0151	169	197	myocardial basement membrane	bodypart
+test_0151	209	237	mesenchyme - forming regions	bodypart
+
+test_0152|t|
+test_0152|a|Recent discoveries in kidney research have given new insights into the molecular make - up of the glomerular filter and mechanisms of permselectivity .
+test_0152	99	116	glomerular filter	bodypart
+
+test_0153|t|
+test_0153|a|If this , so - called , washin - washout effect is substantial it may interfere with the diagnosis , as a major part of breath HCN may originate from the respiratory tract , due to recent exposure , and not from systemic exposure .
+test_0153	155	172	respiratory tract	bodypart
+
+test_0154|t|
+test_0154|a|The effects of YopP on the immune response were studied by a Yersinia Ag - independent approach using bacteria that translocate the well - characterized model Ag listeriolysin O of Listeria monocytogenes via their type III secretion system .
+test_0154	215	240	type III secretion system	bodypart
+
+test_0155|t|
+test_0155|a|Here , we show that the decreased FA synthesis in liver is balanced by an equal increase in nonhepatic tissues , primarily adipose tissue .
+test_0155	51	56	liver	bodypart
+
+test_0156|t|
+test_0156|a|The respiratory rate is a vital sign that can provide important information about the health of a patient , especially that of the respiratory system .
+test_0156	132	150	respiratory system	bodypart
+
+test_0157|t|
+test_0157|a|5 - Hydroxytryptamine injected into posterior and anterior parts of the pigeon hypothalamus evoked a short lasting hyperthermia or hypothermia , respectively .
+test_0157	80	92	hypothalamus	bodypart
+
+test_0158|t|
+test_0158|a|( Traumatic false aneurysm of the superior mesenteric artery with perforation into the duodenum ; surgery ; recovery ) .
+test_0158	35	61	superior mesenteric artery	bodypart
+test_0158	88	96	duodenum	bodypart
+
+test_0159|t|
+test_0159|a|While the added bone produced by acetabular augmentation was durable , histological and biochemical analyses suggested that it had not undergone cartilage metaplasia .
+test_0159	17	21	bone	bodypart
+
+test_0160|t|
+test_0160|a|No effects were obtained in uptake of glutamate and activity of GAD in the optic tectum .
+test_0160	76	88	optic tectum	bodypart
+
+test_0161|t|
+test_0161|a|The stratified squamous epithelium covering the lip could be divided into : ( i ) appendage - bearing , orthokeratinised epidermis ; ( ii ) orthokeratinised vermilion which had a more prominent rete pattern than the epidermis ; ( iii ) parakeratinised , PAS - positive intermediate zone ; and ( iv ) non - or parakeratinised labial mucosal epithelium .
+test_0161	49	52	lip	bodypart
+test_0161	122	131	epidermis	bodypart
+test_0161	217	226	epidermis	bodypart
+
+test_0162|t|
+test_0162|a|Short - lived carriage of foot - and - mouth disease virus in human nasal cavities after exposure to infected animals .
+test_0162	69	83	nasal cavities	bodypart
+
+test_0163|t|
+test_0163|a|Here we examine the effects on partner preference formation in male prairie voles of neurochemical manipulations in the ventral tegmental area ( VTA ) , a major source of dopamine to brain regions implicated in pair bonding .
+test_0163	121	143	ventral tegmental area	bodypart
+test_0163	184	189	brain	bodypart
+
+test_0164|t|
+test_0164|a|In this study , we characterize the metabolic correlates of fat in the liver in a large community - based sample with and without respect to visceral fat .
+test_0164	72	77	liver	bodypart
+
+test_0165|t|
+test_0165|a|In this respect , the construction of chimeras between quail and chick has been a turning point , instrumental in appraising the contribution of the cephalic neural crest to the development of ocular and periocular structures .
+test_0165	150	171	cephalic neural crest	bodypart
+test_0165	205	226	periocular structures	bodypart
+
+test_0166|t|
+test_0166|a|In both cases , spinal T2 - weighted magnetic resonance images showed edema of the spinal cord , indicating a flow void around it .
+test_0166	84	95	spinal cord	bodypart
+
+test_0167|t|
+test_0167|a|The ultrastructural finding revealed that the extent of cytopathology in the isthmus was greater than in the tubular shell gland and shell gland pouch .
+test_0167	110	129	tubular shell gland	bodypart
+test_0167	134	151	shell gland pouch	bodypart
+
+test_0168|t|
+test_0168|a|In conclusion , oxidation of Trx1 and sustained Txnip expression in the lungs of newborn mice exposed to 85 % oxygen is likely to severely attenuate normal Trx1 function .
+test_0168	73	78	lungs	bodypart
+
+test_0169|t|
+test_0169|a|Deposition in organs other than the skeleton appears to be negligible .
+test_0169	37	45	skeleton	bodypart
+
+test_0170|t|
+test_0170|a|On the contrary , dynamic CT scan with air distention of the stomach revealed local thickening of stomach wall in 118 of 120 ( 98 . 3 % ) of the tumors and correctly determined their sizes in 106 of 120 ( 89 . 9 % ) .
+test_0170	62	69	stomach	bodypart
+test_0170	99	111	stomach wall	bodypart
+
+test_0171|t|
+test_0171|a|As the habit is stabilized , the number of interhemispheric correlations increases , which testifies to the enhancement of the paired function of the cerebral hemispheres .
+test_0171	151	171	cerebral hemispheres	bodypart
+
+test_0172|t|
+test_0172|a|Transforming growth factor alpha and epidermal growth factor levels in normal human gastrointestinal mucosa .
+test_0172	85	108	gastrointestinal mucosa	bodypart
+
+test_0173|t|
+test_0173|a|Because of the encouraging results even in patients older than 60 years , hemopoietic stem cell grafting should be seriously considered as part of an overall treatment strategy , in order to avoid irreversible normal hemopoietic stem cell damage from nitrosoureas and radiation to marrow - containing bones .
+test_0173	282	307	marrow - containing bones	bodypart
+
+test_0174|t|
+test_0174|a|This disease was confirmed ultrastructurally by demonstration of typical adenoviral particles in the nuclei of endothelial cells in the myocardium and of interstitial cells in the small intestine .
+test_0174	137	147	myocardium	bodypart
+test_0174	181	196	small intestine	bodypart
+
+test_0175|t|
+test_0175|a|Foramen nutritium radii ( FNR ) and foramen nutritium ulnae ( FNU ) were located mainly along facies anterior and its edges margo anterior and margo interosseus and only in a few cases they were observed along facies posterior .
+test_0175	125	139	margo anterior	bodypart
+test_0175	144	161	margo interosseus	bodypart
+
+test_0176|t|
+test_0176|a|Trans - resveratrol added to plasma was distributed between subsequently isolated lipoproteins with a linear dose - response curve .
+test_0176	30	36	plasma	bodypart
+
+test_0177|t|
+test_0177|a|The cell surface is partly covered by basement membrane .
+test_0177	39	56	basement membrane	bodypart
+
+test_0178|t|
+test_0178|a|The hVPS34 product PI - 3 - K , according to the known data , is involved in the formation of internal vesicles of MVB .
+test_0178	104	112	vesicles	bodypart
+
+test_0179|t|
+test_0179|a|In the monkey , like the rat , the labeling in the dorsal raphe was light but numerous labeled neurons were present in the periaqueductal gray and the adjacent nucleus cuneiformis .
+test_0179	52	64	dorsal raphe	bodypart
+test_0179	124	143	periaqueductal gray	bodypart
+test_0179	161	180	nucleus cuneiformis	bodypart
+
+test_0180|t|
+test_0180|a|Neuromodulation independently determines correlated channel expression and conductance levels in motor neurons of the stomatogastric ganglion .
+test_0180	119	142	stomatogastric ganglion	bodypart
+
+test_0181|t|
+test_0181|a|Parvalbumin - immunoreactive neurons in the rat neostriatum : a light and electron microscopic study .
+test_0181	49	60	neostriatum	bodypart
+
+test_0182|t|
+test_0182|a|Lipoxygenase possessing dual catalytic activities , i . e . dioxygenase and hydroperoxidase , was purified from the cytosols of term placentas from non - smoking women .
+test_0182	134	143	placentas	bodypart
+
+test_0183|t|
+test_0183|a|Total n - 3 fatty acids ( p & lt ; 0 . 02 ) and hematin ( p & lt ; 0 . 0001 ) concentrations were significantly higher in muscle from pigs fed extensively than when fed in confinement .
+test_0183	123	129	muscle	bodypart
+
+test_0184|t|
+test_0184|a|Disturbances of the fractional compounds of glycosaminoglycane in the urine of patients differs from the parameters of chromatograms of normals by a high content of fractions of heparansulfate in a relatively low level of chondroethylsulfatolike fractions .
+test_0184	71	76	urine	bodypart
+
+test_0185|t|
+test_0185|a|Since other reports have shown that RTN4 - A inhibits neuronal outgrowth and restricts the plasticity of the central nervous system , we speculate that RTN3 - A1 might play certain roles in the central nervous system .
+test_0185	110	132	central nervous system	bodypart
+test_0185	195	217	central nervous system	bodypart
+
+test_0186|t|
+test_0186|a|Collectively , these results indicate that mechanistically diverse tumor promoter stimuli elevate TGF alpha mRNA and protein in SENCAR mouse epidermis .
+test_0186	142	151	epidermis	bodypart
+
+test_0187|t|
+test_0187|a|Low dose STZ also disturbed organs other than the pancreas as in high dose STZ .
+test_0187	51	59	pancreas	bodypart
+
+test_0188|t|
+test_0188|a|( Effects of Bromhexine on the phospholipid content of rabbit lungs ) .
+test_0188	63	68	lungs	bodypart
+
+test_0189|t|
+test_0189|a|The bile ducts were dilated on sonography in 26 patients .
+test_0189	5	15	bile ducts	bodypart
+
+test_0190|t|
+test_0190|a|The data suggest that AGEPC produces direct myocardial depression and distinct effects on the coronary and femoral vasculature .
+test_0190	108	127	femoral vasculature	bodypart
+
+test_0191|t|
+test_0191|a|No Y . enterocolitica 4 / O : 3 was isolated from meat strips of hind leg .
+test_0191	66	74	hind leg	bodypart
+
+test_0192|t|
+test_0192|a|Notably , neuronal protein aggregates of mutated huntingtin , which is typical HD neuropathology , were not found within the transplanted fetal tissue .
+test_0192	139	151	fetal tissue	bodypart
+
+test_0193|t|
+test_0193|a|One testis and epididymis were removed and weighed .
+test_0193	5	11	testis	bodypart
+test_0193	16	26	epididymis	bodypart
+
+test_0194|t|
+test_0194|a|Electrical stimulation of the dorsal raphe selectively inhibited the firing rate of slowly firing ( less than 4 spikes / sec ) DA neurons .
+test_0194	31	43	dorsal raphe	bodypart
+
+test_0195|t|
+test_0195|a|( Electrophysiological changes in the state of uterine muscles under the action of agents stimulating histamine H1 and H2 receptors ) .
+test_0195	48	63	uterine muscles	bodypart
+
+test_0196|t|
+test_0196|a|The patient came to the hospital with the chief complaint regarding passage dysphagia in the time of deglutition ; pharyngitis and esophageal candidiasis were found by endoscopy of upper gastrointestinal tract .
+test_0196	182	210	upper gastrointestinal tract	bodypart
+
+test_0197|t|
+test_0197|a|Among the facultative bacteria capable of growth on mesquite wood which were isolated from the asceptically dissected hind - gut of the termite Reticulitermes hesperus were two strains of Bacillus cereus , one strain each of Arthrobacter , Alcaligenes and Serratia , and a very small Gram - negative fermentative rod .
+test_0197	119	129	hind - gut	bodypart
+
+test_0198|t|
+test_0198|a|All rabbits showed a reduction in the number of histochemically detectable stromal nerve trunks in the operated region .
+test_0198	76	96	stromal nerve trunks	bodypart
+
+test_0199|t|
+test_0199|a|37 patients were 44 times treated with cotrimoxazole for an infection of the urinary tract during a renal insufficiency .
+test_0199	78	91	urinary tract	bodypart
+
+test_0200|t|
+test_0200|a|In this study , the expression of bcl - 2 has been examined in normal non - haematopoietic tissues , embryos , and psoriatic skin by immunohistochemical staining .
+test_0200	116	130	psoriatic skin	bodypart
+
+test_0201|t|
+test_0201|a|In conclusion a combination of contrast enhanced and unenhanced 3D MP - RAGE sequences is the technique of choice for the examination of ENT tumors near the base of the skull .
+test_0201	158	175	base of the skull	bodypart
+
+test_0202|t|
+test_0202|a|This article reviews the applications of fMR imaging for studying the sensorimotor cortex prior to craniotomy .
+test_0202	71	90	sensorimotor cortex	bodypart
+
+test_0203|t|
+test_0203|a|Inverted papilloma of the nose and paranasal sinuses : a study of 56 cases and review of the literature .
+test_0203	27	31	nose	bodypart
+test_0203	36	53	paranasal sinuses	bodypart
+
+test_0204|t|
+test_0204|a|Redox regulation of angiotensin II signaling in the heart .
+test_0204	53	58	heart	bodypart
+
+test_0205|t|
+test_0205|a|Distal esophageal sphincter pressure and length of sphincter exposed to the positive pressure environment of the abdomen was measured by esophageal infusion manometry .
+test_0205	114	121	abdomen	bodypart
+
+test_0206|t|
+test_0206|a|The varieties of brain abscess seen in Papua New Guinea are very much those seen by Sir William Macewen a century ago .
+test_0206	18	23	brain	bodypart
+
+test_0207|t|
+test_0207|a|Reduction of inflammatory response in the mouse brain with adenoviral - mediated transforming growth factor - ss1 expression .
+test_0207	49	54	brain	bodypart
+
+test_0208|t|
+test_0208|a|Decrease in tissue weight was significant in whole brain , cerebrum and brain stem but not in cerebellum .
+test_0208	52	57	brain	bodypart
+test_0208	60	68	cerebrum	bodypart
+test_0208	73	83	brain stem	bodypart
+test_0208	95	105	cerebellum	bodypart
+
+test_0209|t|
+test_0209|a|The technique is described in detail and includes tightly packing cancellous bone chips about an intramedullary stem and into the periprosthetic bone defects , then fully cementing a component in place .
+test_0209	98	117	intramedullary stem	bodypart
+
+test_0210|t|
+test_0210|a|Contribution by breastfeeding was an important exogenous source for regulating plasma OXT before weaning by the presence of OXT in milk and the dam ' s mammary glands .
+test_0210	153	167	mammary glands	bodypart
+
+test_0211|t|
+test_0211|a|It was assumed that free CT arose in the lower gastrointestinal tract from protein - CT and fibre - CT dissociation to be digested and / or absorbed .
+test_0211	42	70	lower gastrointestinal tract	bodypart
+
+test_0212|t|
+test_0212|a|The thickness of the intrapulmonary myocardial layer in the tunica adventitia of the venous wall depends on the body mass of the animal .
+test_0212	22	53	intrapulmonary myocardial layer	bodypart
+test_0212	61	78	tunica adventitia	bodypart
+test_0212	86	97	venous wall	bodypart
+
+test_0213|t|
+test_0213|a|The abdominal sonogram showed an unusual position of the spleen in the left - lower quadrant , with no splenic ischemia .
+test_0213	58	64	spleen	bodypart
+
+test_0214|t|
+test_0214|a|Disseminated effects on the central nervous system were similar to those of adults with multiple sclerosis .
+test_0214	29	51	central nervous system	bodypart
+
+test_0215|t|
+test_0215|a|Intense immunoreactivity was noticed in several olfactory receptor neurons ( ORNs ) and their axonal fibers as they extend over the olfactory nerve , spread in the periphery of the olfactory bulb ( OB ) , and terminate in the glomerular layer .
+test_0215	95	108	axonal fibers	bodypart
+test_0215	133	148	olfactory nerve	bodypart
+test_0215	165	196	periphery of the olfactory bulb	bodypart
+test_0215	227	243	glomerular layer	bodypart
+
+test_0216|t|
+test_0216|a|The lower affinity of Met 145 - oxidized calmodulin toward the target peptide correlates with experimentally observed lowering of calmodulin - activated Ca - ATPase activity when oxidized calmodulin from aged rat brains is used .
+test_0216	214	220	brains	bodypart
+
+test_0217|t|
+test_0217|a|A central difficulty of brain modelling is to span the range of spatio - temporal scales from synapses to the whole brain .
+test_0217	25	30	brain	bodypart
+test_0217	117	122	brain	bodypart
+
+test_0218|t|
+test_0218|a|These results suggest that these ( + ) - benzomorphans may act as agonists at putative sigma heteroreceptors on striatal nerve terminals , or through an indirect mechanism , to modulate dopamine synthesis .
+test_0218	113	137	striatal nerve terminals	bodypart
+
+test_0219|t|
+test_0219|a|158 males employees in the metal industry , aged 35 - 44 years , were examined to determine the prevalence of tenderness and pain in the neck and shoulders .
+test_0219	138	142	neck	bodypart
+test_0219	147	156	shoulders	bodypart
+
+test_0220|t|
+test_0220|a|Slow bone resorption has been observed at the interface between the block and the surrounding bone , but the interproximal bone peaks , important for soft tissue support and esthetics , have been maintained over time .
+test_0220	6	10	bone	bodypart
+test_0220	95	99	bone	bodypart
+test_0220	110	134	interproximal bone peaks	bodypart
+
+test_0221|t|
+test_0221|a|In aged human skin , wound healing rates decrease and cellular damage by reactive oxygen species ( ROS ) accumulates .
+test_0221	15	19	skin	bodypart
+
+test_0222|t|
+test_0222|a|It produced a favorable effect on the functional morphology of the peritoneum by leveling many morphological signs of general intoxication of the organism and in this way creating the conditions for a favorable outcome of the postoperative period .
+test_0222	68	78	peritoneum	bodypart
+
+test_0223|t|
+test_0223|a|21 ) ; and the trachea ( n = 28 ) was considered a positive NE ( n = 167 ) .
+test_0223	16	23	trachea	bodypart
+
+test_0224|t|
+test_0224|a|The maxillary tuberosity region is becoming increasingly involved in preprosthetic surgery as part of a comprehensive implant treatment planning .
+test_0224	5	32	maxillary tuberosity region	bodypart
+
+test_0225|t|
+test_0225|a|Since select cannabinoids have anti - inflammatory properties , cross the blood - brain barrier , and target specific receptors , they have potential to serve as agents for dampening untoward neuroimmune responses .
+test_0225	75	96	blood - brain barrier	bodypart
+
+test_0226|t|
+test_0226|a|The label penetrates into the interstitium and is accumulated in the activated macrophages .
+test_0226	31	43	interstitium	bodypart
+
+test_0227|t|
+test_0227|a|Noggin recruits mesoderm progenitors from the dorsal aorta to a skeletal myogenic fate .
+test_0227	47	59	dorsal aorta	bodypart
+
+test_0228|t|
+test_0228|a|In order to do this it will lean , on one hand , on the actual bibliography about blood of the umbilical cord and its present and future applications , and on the other hand , on the document of the European Group of Ethics where this issue is discussed .
+test_0228	96	110	umbilical cord	bodypart
+
+test_0229|t|
+test_0229|a|ADM and UK were infused in three different ways through the left gastric artery on laparotomy , that is , a mixture of both in the first group , ADM followed by UK in the second group and ADM after UK in the third group .
+test_0229	61	80	left gastric artery	bodypart
+
+test_0230|t|
+test_0230|a|Six horses had primary closure of the incision , whereas six horses had a plastic mesh sutured to the ventral abdominal wall leaving the abdomen open for ventral drainage .
+test_0230	103	125	ventral abdominal wall	bodypart
+test_0230	138	145	abdomen	bodypart
+
+test_0231|t|
+test_0231|a|The mineral density was reduced in all teeth , including molars and incisors , and in the mandible , and the mineralized tooth volume in incisor and molars , and the mineralized cortical and alveolar bone volume in mandibles were decreased in FGF23 transgenic mice compared with their wild - type littermates .
+test_0231	40	45	teeth	bodypart
+test_0231	58	64	molars	bodypart
+test_0231	69	77	incisors	bodypart
+test_0231	91	99	mandible	bodypart
+test_0231	138	145	incisor	bodypart
+test_0231	150	156	molars	bodypart
+test_0231	216	225	mandibles	bodypart
+
+test_0232|t|
+test_0232|a|Previously , we reported that in rats , GABA ( A ) and glycine receptor immunoreactivity increased markedly in multiple brain stem respiratory nuclei around postnatal days ( P ) 12 - 13 , a critical period when abrupt neurochemical , metabolic , ventilatory , and electrophysiological changes occur in the respiratory network and when the system is under greater inhibition than excitation .
+test_0232	121	150	brain stem respiratory nuclei	bodypart
+test_0232	307	326	respiratory network	bodypart
+
+test_0233|t|
+test_0233|a|An acute dose of gamma - hydroxybutyric acid alters gene expression in multiple mouse brain regions .
+test_0233	87	92	brain	bodypart
+
+test_0234|t|
+test_0234|a|Preliminary studies in Alzheimer ' s disease have demonstrated elevated levels of phosphomonoesters and phosphodiesters in the areas of Alzheimer ' s brain which exhibit neuropathological changes .
+test_0234	151	156	brain	bodypart
+
+test_0235|t|
+test_0235|a|They allow the immune system to make qualitatively distinct responses against different microbial infections .
+test_0235	16	29	immune system	bodypart
+
+test_0236|t|
+test_0236|a|( Malignant mesothelioma of the pleura ( author ' s transl ) ) .
+test_0236	33	39	pleura	bodypart
+
+test_0237|t|
+test_0237|a|Under anaesthesia , five sheep fetuses were instrumented with catheters and a Transonic probe around an umbilical artery , inside the fetal abdomen , at 0 . 8 of gestation .
+test_0237	105	121	umbilical artery	bodypart
+test_0237	141	148	abdomen	bodypart
+
+test_0238|t|
+test_0238|a|Injury to the common ( n = 19 cases ) , external ( n = 7 ) , internal carotid ( n = 5 ) , innominate ( n = 2 ) , subclavian ( n = 20 ) , vertebral ( n = 12 ) , facial ( n = 2 ) , and intercostal ( n = 2 ) arteries ; the external ( n = 36 ) , internal ( n = 65 ) , subclavian ( n = 20 ) , and innominate ( n = 4 ) veins ; the pharynx / esophagus ( n =
+test_0238	206	214	arteries	bodypart
+test_0238	326	345	pharynx / esophagus	bodypart
+
+test_0239|t|
+test_0239|a|A series of experiments was performed to determine the parameters necessary to produce immediate measurable changes in the visual system of nonhuman primates after exposure of the fovea to laser radiation .
+test_0239	181	186	fovea	bodypart
+
+test_0240|t|
+test_0240|a|The discharge of nerve impulses from ommatidia at various distances from one another may be described quantitatively by a set of simultaneous linear equations which express the excitatory effects of the illumination on each ommatidium and the inhibitory interactions between each ommatidium and its neighbors .
+test_0240	38	47	ommatidia	bodypart
+test_0240	225	235	ommatidium	bodypart
+test_0240	281	291	ommatidium	bodypart
+
+test_0241|t|
+test_0241|a|( Microbial flora of ulcer and its significance in the surgical treatment of the ulcer of the stomach and duodenum ) .
+test_0241	95	102	stomach	bodypart
+test_0241	107	115	duodenum	bodypart
+
+test_0242|t|
+test_0242|a|( Cardiac arrhythmia during pneumatic dilatation of achalasia of the esophagus ( author ' s transl ) ) .
+test_0242	70	79	esophagus	bodypart
+
+test_0243|t|
+test_0243|a|The transmembrane permeability of DEET and oxybenzone across piglet skin and PDMS membrane was dependent on dissolving vehicles and test concentrations .
+test_0243	69	73	skin	bodypart
+
+test_0244|t|
+test_0244|a|Despite the ready access to the skin compared with solid internal organs , the challenges of cutaneous gene therapy are legion and many technical issues need to be surmounted to enable gene replacement or modification of gene expression to have a useful role in these disorders .
+test_0244	33	37	skin	bodypart
+test_0244	52	73	solid internal organs	bodypart
+
+test_0245|t|
+test_0245|a|Four small carcinomas ( 3 , 6 , 10 , and 15 mm ) of the large intestine have been examined for residual epithelial polyp ; none was found .
+test_0245	57	72	large intestine	bodypart
+
+test_0246|t|
+test_0246|a|After orally dosing mice with 1 - aminocyclopropanecarboxylic acid ( 300 mg / kg ) , 46 and 10 % of the dose was excreted unchanged in the 0 - 24 h and 24 - 48 h urines , respectively .
+test_0246	163	169	urines	bodypart
+
+test_0247|t|
+test_0247|a|Thyrotropin - releasing hormone in specific nuclei of rat brain .
+test_0247	59	64	brain	bodypart
+
+test_0248|t|
+test_0248|a|In summary , distinct expression patterns were shown for PKC isoenzymes alpha , beta I , beta II , delta , and epsilon in the mouse kidney .
+test_0248	133	139	kidney	bodypart
+
+test_0249|t|
+test_0249|a|MIF was localized within the epidermis and the vascular area of skin , but diffusely expressed in the entire thickness of colon .
+test_0249	65	69	skin	bodypart
+test_0249	123	128	colon	bodypart
+
+test_0250|t|
+test_0250|a|OP pesticides are metabolized to dialkylphosphates and other metabolites , which are excreted in urine .
+test_0250	98	103	urine	bodypart
+
+test_0251|t|
+test_0251|a|Long - term subdural video / electroencephalographic ( EEG ) monitoring was performed in a series of patients with medically intractable complex partial seizures , in a study of diagnostic accuracy , to test the hypothesis that the time from ictal subdural EEG seizure onset to clinical seizure onset ( ECOT ) is correlated with temporal lobe epileptogenicity and confirm measures of validity of ECOT for predicting seizure - free outcome following anterior temporal lobectomy and amygdalohippocampectomy ( ATL / AH ) .
+test_0251	330	343	temporal lobe	bodypart
+
+test_0252|t|
+test_0252|a|Continuous infusion of the conjunctival sac with chloramphenicol in preoperative cataract patients .
+test_0252	28	44	conjunctival sac	bodypart
+
+test_0253|t|
+test_0253|a|The results would suggest that within this period of time a massive single bolus of ZON is nearly completely eliminated from the body .
+test_0253	130	134	body	bodypart
+
+test_0254|t|
+test_0254|a|Attempts have been made to find alpha 1 - antagonists that have a selective effect on the prostate ( alfuzosin ) , are long acting ( tamsulosin , terazosin , doxazosin ) or present specificity on the alpha 1A prostatic adrenoceptors ( tamsulosin ) , in order to maintain efficacy without affecting blood pressure .
+test_0254	91	99	prostate	bodypart
+
+test_0255|t|
+test_0255|a|The actual extraction ratio was 0 . 64 + / - 0 . 04 ( x + / - S . D . , N = 3 ) , which indicated that the rabbit lung was capable of removing a large percentage of circulating benzo ( a ) pyrene 4 , 5 - oxide in a single pass through the organ .
+test_0255	115	119	lung	bodypart
+
+test_0256|t|
+test_0256|a|Data of toxicants uptake through the skin are generalized .
+test_0256	38	42	skin	bodypart
+
+test_0257|t|
+test_0257|a|Arguments against 5 - hydroxytryptamine as neurotransmitter in the rabbit retina .
+test_0257	75	81	retina	bodypart
+
+test_0258|t|
+test_0258|a|Dacron bags containing these fractions were incubated in the rumen of a steer and the residue that remained was analyzed sequentially for DM , NDF , ADF , ADL , and acid detergent insoluble ash .
+test_0258	62	67	rumen	bodypart
+
+test_0259|t|
+test_0259|a|Contraction of the vastus lateralis , gastrocnemius lateralis , and soleus muscles were determined by the myo - electric activity ( electromyogram , EMG ) by means of surface electrodes .
+test_0259	20	36	vastus lateralis	bodypart
+test_0259	39	62	gastrocnemius lateralis	bodypart
+test_0259	69	83	soleus muscles	bodypart
+
+test_0260|t|
+test_0260|a|Specific opioid - amphetamine interactions in the caudate putamen .
+test_0260	51	66	caudate putamen	bodypart
+
+test_0261|t|
+test_0261|a|The degree of hypertrophy of the right ventricle and its RNA content was studied after 20 days of adaptation , as well as 2 , 10 , 20 and 40 days after cessation of hypoxia .
+test_0261	34	49	right ventricle	bodypart
+
+test_0262|t|
+test_0262|a|The mean distance from the maxillary central incisor to the GPF was 57 . 58 mm .
+test_0262	28	53	maxillary central incisor	bodypart
+
+test_0263|t|
+test_0263|a|Metastases from malignant tumors beyond the knee and elbow are uncommon and represent only 1 to 2 % of all bone metastases .
+test_0263	45	49	knee	bodypart
+test_0263	54	59	elbow	bodypart
+
+test_0264|t|
+test_0264|a|Bacteria exhibited tropism for mucus only on explants maintained with an air interface .
+test_0264	46	54	explants	bodypart
+
+test_0265|t|
+test_0265|a|Here an unusual complication of the treatment is reported : multiple tender subcutaneous nodules developed where the catgut was embedded over the lower abdomen and both medial thighs 1 month after treatment .
+test_0265	61	97	multiple tender subcutaneous nodules	bodypart
+test_0265	118	124	catgut	bodypart
+test_0265	147	160	lower abdomen	bodypart
+test_0265	170	183	medial thighs	bodypart
+
+test_0266|t|
+test_0266|a|Many factors may induce a reduction of the beta - cell function in patients with liver cirrhosis : some are due to a predisposition to the development of diabetes : genetic or environmental , unrelated to the hepatic disease ; some others are hepatic disease - dependent ( excess liver and islet of Langerhans iron deposition , HCV infection rather than other hepatic infections , the co - presence of HCC ) and may be crucial because additive to the previous .
+test_0266	82	87	liver	bodypart
+test_0266	281	286	liver	bodypart
+test_0266	291	310	islet of Langerhans	bodypart
+
+test_0267|t|
+test_0267|a|The results indicate that CHP - induced hypothermia is mediated by cholinergic stimulation of heat loss pathways in CNS thermoregulatory centers .
+test_0267	117	145	CNS thermoregulatory centers	bodypart
+
+test_0268|t|
+test_0268|a|In normal human adult eyes , immunostaining for tenascin - X was seen in the anterior one - third stroma of cornea , in the stroma of limbus and conjunctiva , and in blood vessels .
+test_0268	17	27	adult eyes	bodypart
+test_0268	167	180	blood vessels	bodypart
+
+test_0269|t|
+test_0269|a|The site of damage in the kidney tubule is consistent with the region of concentration of filtered FeNTA .
+test_0269	27	40	kidney tubule	bodypart
+
+test_0270|t|
+test_0270|a|The effects of AMN082 ( 0 . 1 , 1 or 5mg / kg , intraperitoneally ; 5 or 50nmol , intrathecally ) or diclofenac ( 5mg / kg , intraperitoneally ) administered 30min preprocedure or 3h postprocedure on hindpaw withdrawal latency ( in seconds ) to thermal stimulation , and response threshold ( in grams ) to mechanical stimulation , were measured in adult rats ( n = 6 - 8 per group ) before and up to 24h after intradermal injection of carrageenan into the hindpaw or hindpaw incision .
+test_0270	201	208	hindpaw	bodypart
+test_0270	457	464	hindpaw	bodypart
+test_0270	468	475	hindpaw	bodypart
+
+test_0271|t|
+test_0271|a|It appears that SNM produces a modulation of medullary reflexes and brain centers by peripheral afferents .
+test_0271	69	82	brain centers	bodypart
+
+test_0272|t|
+test_0272|a|However , large differences between the potencies of renin inhibitors as measured in human and marmoset plasma were observed .
+test_0272	105	111	plasma	bodypart
+
+test_0273|t|
+test_0273|a|The relaxant responses to acetylcholine were decreased in aortas from arthritic rats , whereas the responses to sodiumnitroprusside were not significantly different when compared to the aortas from control rats .
+test_0273	59	65	aortas	bodypart
+test_0273	187	193	aortas	bodypart
+
+test_0274|t|
+test_0274|a|The rat hypothalamus in vitro preparation was used to investigate the effect of bilateral adrenalectomy , with and without replacement therapy , on the release of corticotrophin - releasing factor ( CRF ) .
+test_0274	9	21	hypothalamus	bodypart
+
+test_0275|t|
+test_0275|a|At the first step , we compared the blood concentration of fentanyl in the azygos vein after thoracic epidural and that after caudal administration .
+test_0275	76	87	azygos vein	bodypart
+
+test_0276|t|
+test_0276|a|The influence of the autonomic nervous system on sinus node automatism was assessed in 61 patients with suspect sinus node dysfunction .
+test_0276	22	46	autonomic nervous system	bodypart
+
+test_0277|t|
+test_0277|a|62 patients ( 64 hips , mean age 56 years , range : 32 - 75 ) were randomized to porous Trilogy cups with ( 30 ) and without ( 34 ) cluster holes for additional screw fixation .
+test_0277	18	22	hips	bodypart
+
+test_0278|t|
+test_0278|a|Lymph nodes other than regional showed no CI response at any time in either tumor system .
+test_0278	1	12	Lymph nodes	bodypart
+
+test_0279|t|
+test_0279|a|These results suggest that exposure to DMN alters bone marrow , particularly the differentiation of effector tumoricidal cells , which renders the host more resistant to metastatic tumor formation .
+test_0279	51	62	bone marrow	bodypart
+
+test_0280|t|
+test_0280|a|( Experimental lung graft using the Nakayama fastener ) .
+test_0280	16	20	lung	bodypart
+
+test_0281|t|
+test_0281|a|Magnetic resonance ( MR ) images of the brain showed multiple high - intensity spotty lesions in the left cerebral cortex and subcortex .
+test_0281	41	46	brain	bodypart
+test_0281	102	122	left cerebral cortex	bodypart
+test_0281	127	136	subcortex	bodypart
+
+test_0282|t|
+test_0282|a|Combination of detoxifying liver support systems with liver cell bioreactors may have additional benefits for the treatment of liver failure due to the replacement of known and unknown metabolic activities of the liver .
+test_0282	28	33	liver	bodypart
+test_0282	55	60	liver	bodypart
+test_0282	128	133	liver	bodypart
+test_0282	214	219	liver	bodypart
+
+test_0283|t|
+test_0283|a|The patient developed chronic nonhealing ulcers secondary to hydrocephalus , ventriculoperitoneal shunts , and the underlying architecture of her cranial vault .
+test_0283	147	160	cranial vault	bodypart
+
+test_0284|t|
+test_0284|a|Concentration of selenium in whole blood and plasma , lipid peroxides in plasma , and glutathione peroxidase activities in red blood cell hemolysates and plasma were determined in 49 coal power plant workers and in 50 rubber factory workers .
+test_0284	30	41	whole blood	bodypart
+test_0284	46	52	plasma	bodypart
+test_0284	74	80	plasma	bodypart
+test_0284	155	161	plasma	bodypart
+
+test_0285|t|
+test_0285|a|The greatest levels were found in the duodenum and jejunum , the principal sites for absorption , which were 2 . 5 - and 3 - fold respectively above ileal levels .
+test_0285	39	47	duodenum	bodypart
+test_0285	52	59	jejunum	bodypart
+
+test_0286|t|
+test_0286|a|Contrast enhancement of the spinal cord in a patient with cervical spondylotic myelopathy .
+test_0286	29	40	spinal cord	bodypart
+
+test_0287|t|
+test_0287|a|Neurogenesis in the adult hippocampus is differentially influenced by the genetic background .
+test_0287	27	38	hippocampus	bodypart
+
+test_0288|t|
+test_0288|a|( The influence of mechanical forces and age on the remodelling of the spongy bone in lumbar vertebrae and in the neck of the femur .
+test_0288	72	103	spongy bone in lumbar vertebrae	bodypart
+test_0288	115	132	neck of the femur	bodypart
+
+test_0289|t|
+test_0289|a|Hormone therapy of such cancer has so far been only mildly active , probably because we do not understand the role and mechanism of action of FSH and FSHR in the hypothalamo - pituitary - ovarian axis in development of such cancer .
+test_0289	163	201	hypothalamo - pituitary - ovarian axis	bodypart
+
+test_0290|t|
+test_0290|a|This innate immune system thereby recognizes hypoxic injury and triggers a systemic inflammatory response through the generation of C3a and subsequent activation of the NF - kappaB system .
+test_0290	6	26	innate immune system	bodypart
+
+test_0291|t|
+test_0291|a|To intracerebral inoculation with JHM - CC virus , cortisone treated ICR mice survived without showing clinical signs , however , demyelinating lesions were produced in the brain and spinal cord of them .
+test_0291	174	179	brain	bodypart
+test_0291	184	195	spinal cord	bodypart
+
+test_0292|t|
+test_0292|a|As a result from retinal detachment or surgical procedures , RPE comes in contact with glutamate from serum , glial release and the injured retina .
+test_0292	103	108	serum	bodypart
+
+test_0293|t|
+test_0293|a|Mammalian sirtuin 1 ( SIRT1 ) may control fatty acid homeostasis in liver .
+test_0293	69	74	liver	bodypart
+
+test_0294|t|
+test_0294|a|Involvement of Src tyrosine kinase and mitogen - activated protein kinase in the facilitation of calcium channels in rat nucleus of the tractus solitarius by angiotensin II .
+test_0294	137	155	tractus solitarius	bodypart
+
+test_0295|t|
+test_0295|a|An autopsy was performed and her skull was found to be thickened circumferentially .
+test_0295	34	39	skull	bodypart
+
+test_0296|t|
+test_0296|a|Our objectives were to compare the EMG and force generated by the ankle plantar - and dorsi - flexors in normal and spastic hemiparetic subjects , and to investigate their reproducibility and their correlation with clinical spasticity .
+test_0296	67	80	ankle plantar	bodypart
+test_0296	87	102	dorsi - flexors	bodypart
+
+test_0297|t|
+test_0297|a|Immunoprecipitation of their livers followed by autoradiographic analysis showed the presence of 32P in small molecular weight apo - B .
+test_0297	30	36	livers	bodypart
+
+test_0298|t|
+test_0298|a|Using meshes in order to strengthen the hiatus of the esophagus is an efficient procedure which reduces the risk of reoccurences .
+test_0298	55	64	esophagus	bodypart
+
+test_0299|t|
+test_0299|a|Severe side effects were not noted except in 10 cases with narrowness of hepatic artery and cases of 2 biloma in patients undergoing therapy two or more times .
+test_0299	74	88	hepatic artery	bodypart
+
+test_0300|t|
+test_0300|a|Based on this preliminary study of 45 shoulders , we present a classification of the lesions found in the acute shoulder dislocation .
+test_0300	39	48	shoulders	bodypart
+
+test_0301|t|
+test_0301|a|Lysosomal beta - mannosidase was purified 160 , 000 - fold in 24 % yield from bovine kidney by a four - step purification procedure , which included concanavalin A - Sepharose , immunoaffinity , TSK - butyl and h . p . l . c . cation - exchange chromatography .
+test_0301	86	92	kidney	bodypart
+
+test_0302|t|
+test_0302|a|To determine the effect of benzodiazepine premedication on central nervous system and cardiovascular effects of bupivacaine , the authors administered toxic doses of bupivacaine to awake spontaneously breathing pigs after intravenous premedication with midazolam ( 0 . 06 mg / kg ) , diazepam ( 0 . 15 mg / kg ) , or saline .
+test_0302	60	82	central nervous system	bodypart
+
+test_0303|t|
+test_0303|a|Crown fracture with pulp exposure in primary incisors is a rare condition .
+test_0303	38	54	primary incisors	bodypart
+
+test_0304|t|
+test_0304|a|The results suggest that there are specific CGRP receptors on afferent arterioles that produce relaxation and in glomeruli that are associated with an increase in cAMP production .
+test_0304	63	82	afferent arterioles	bodypart
+test_0304	114	123	glomeruli	bodypart
+
+test_0305|t|
+test_0305|a|These studies have suggested that the use of HME filters may be effective in preserving body temperature and airway humidity while decreasing fluid build - up in the breathing system and therefore reducing breathing system contamination .
+test_0305	167	183	breathing system	bodypart
+test_0305	207	223	breathing system	bodypart
+
+test_0306|t|
+test_0306|a|Incorporation of amino acids in vivo into brain total protein and into brain ribosomes was impaired , as was protein synthesis in vitro by microsomes isolated from the brain of poisoned rats .
+test_0306	43	48	brain	bodypart
+test_0306	72	77	brain	bodypart
+test_0306	169	174	brain	bodypart
+
+test_0307|t|
+test_0307|a|In the prostate , the Nkx3 . 1 homeobox gene plays an important role in normal differentiation of the prostatic epithelium while its loss of function is an initiating event in prostate carcinogenesis in both mouse models and human patients .
+test_0307	8	16	prostate	bodypart
+test_0307	177	185	prostate	bodypart
+
+test_0308|t|
+test_0308|a|Previous research has shown that in lifting an object , grip force rises with the increase in gravitational load force as the hand takes the weight and that in moving an object , grip force is adjusted to meet movement - induced inertial load force .
+test_0308	127	131	hand	bodypart
+
+test_0309|t|
+test_0309|a|Deamination of amino acids was significantly higher in the contents of the small intestine of chicks fed a meat meal compared to the freeze - dried raw materials , and this deamination was reduced by the addition of 50 p . p . m . penicillin to the meat meal .
+test_0309	76	91	small intestine	bodypart
+
+test_0310|t|
+test_0310|a|A study was carried out in the in - vitro rat phrenic nerve hemidiaphragm preparation to find a fast and strong working antagonist of non - depolarizing muscle relaxants .
+test_0310	47	74	phrenic nerve hemidiaphragm	bodypart
+
+test_0311|t|
+test_0311|a|Hearts were removed and mitochondria were isolated .
+test_0311	1	7	Hearts	bodypart
+
+test_0312|t|
+test_0312|a|Dexamethasone - induced protein degradation in cultured myotubes is p300 / HAT dependent .
+test_0312	57	65	myotubes	bodypart
+
+test_0313|t|
+test_0313|a|Considering these results and the fact that plasma half - life of clonidine at the dose administered is approximately 3h , it is possible to speculate that the inhibitory effect of clonidine on sodium appetite may be independent of - endorphin modulation during the first stage ; however , the long - lasting inhibitory effect of clonidine may be mediated by the - endorphinergic system .
+test_0313	366	387	endorphinergic system	bodypart
+
+test_0314|t|
+test_0314|a|From cell death to neuronal regeneration : building a new brain after traumatic brain injury .
+test_0314	59	64	brain	bodypart
+test_0314	81	86	brain	bodypart
+
+test_0315|t|
+test_0315|a|Transepithelial short - circuit current ( I ( sc ) ) and transepithelial conductance ( G ( t ) ) were measured for colonic mucosa during secretory activation by epinephrine ( EPI ) , prostaglandin E ( 2 ) ( PGE ( 2 ) ) , and carbachol ( CCh ) .
+test_0315	116	130	colonic mucosa	bodypart
+
+test_0316|t|
+test_0316|a|Although the condylar head was returned to the glenoid fossa , optimal occlusion was not obtained because of compensatory tooth movement and inclination .
+test_0316	14	27	condylar head	bodypart
+test_0316	48	61	glenoid fossa	bodypart
+
+test_0317|t|
+test_0317|a|Proceedings : Control of amylase secretion in the parotid gland .
+test_0317	51	64	parotid gland	bodypart
+
+test_0318|t|
+test_0318|a|Perfusion of lungs with Krebs solution containing dipyridamole ( 1 - 100 microM ) or adenine ( 10 microM ) increased the rate of radioactive efflux , decreased uptake of radioactivity by lung and decreased metabolites of adenosine ( inosine and hypoxanthine ) in the effluent .
+test_0318	188	192	lung	bodypart
+
+test_0319|t|
+test_0319|a|When guinea - pig hearts were perfused with 3 X 10 ( - 6 ) M denopamine or 10 ( - 7 ) M isoproterenol , their cardiotonic effects were of the same magnitude whereas the degree of c - AMP elevation in the ventricular tissue by denopamine was significantly less than that by isoproterenol .
+test_0319	19	25	hearts	bodypart
+
+test_0320|t|
+test_0320|a|The variable - velocity feature allows low pedalling forces for individuals with very weak leg muscles , yet provides resistance to higher pedalling effort in stronger patients .
+test_0320	92	103	leg muscles	bodypart
+
+test_0321|t|
+test_0321|a|The penetration of host surfaces is accompanied by the release of penetration gland products and the shedding of highly antigenic surface components ( miracidial ciliated plates and cercarial glycocalyx ) which trigger host immune reactions .
+test_0321	152	178	miracidial ciliated plates	bodypart
+
+test_0322|t|
+test_0322|a|Radiolabeled steroids were directly perfused in the dextran - blood into either the left or right half of the hypothalamus .
+test_0322	111	123	hypothalamus	bodypart
+
+test_0323|t|
+test_0323|a|Immunoreactivity for beta - endorphin in LH - RH neurons of the fetal human hypothalamus .
+test_0323	42	57	LH - RH neurons	bodypart
+test_0323	77	89	hypothalamus	bodypart
+
+test_0324|t|
+test_0324|a|However , pseudophakia changes the physiology of the eye and immediate changes include release of inflammatory cytokines .
+test_0324	54	57	eye	bodypart
+
+test_0325|t|
+test_0325|a|The P - wave and the PAD produced by mechanical stimulation were at a minimum in the rostral part of the cuneate nucleus and at a maximum 2 - 6 mm caudal to the obex . 3 .
+test_0325	86	98	rostral part	bodypart
+test_0325	106	121	cuneate nucleus	bodypart
+test_0325	148	154	caudal	bodypart
+
+test_0326|t|
+test_0326|a|Norepinephrine , released from sympathetic neurons , and epinephrine , released from the adrenal medulla , participate in a number of physiological processes including those that facilitate adaptation to stressful conditions .
+test_0326	90	105	adrenal medulla	bodypart
+
+test_0327|t|
+test_0327|a|In this paper we report concentrations of lead , cadmium , mercury , and selenium in breast feathers of common terns ( Sterna hirundo ) and roseate terns ( S . dougallii ) trapped during incubation at breeding colonies in New York and Massachusetts .
+test_0327	86	101	breast feathers	bodypart
+
+test_0328|t|
+test_0328|a|Identification of macrophages in sections of rabbit lung using acetoacetylated lipoproteins .
+test_0328	53	57	lung	bodypart
+
+test_0329|t|
+test_0329|a|( Clinical presentations of aneurysms and dissections of the aorta ) .
+test_0329	62	67	aorta	bodypart
+
+test_0330|t|
+test_0330|a|No sperm was detected in testes or epididymes .
+test_0330	26	32	testes	bodypart
+test_0330	36	46	epididymes	bodypart
+
+test_0331|t|
+test_0331|a|DNA content of foetal kidneys and heart .
+test_0331	23	30	kidneys	bodypart
+test_0331	35	40	heart	bodypart
+
+test_0332|t|
+test_0332|a|Conclusions : The addition a jejuna pouch to Roux - en - Y reconstruction provides better reservoir function , but does not influence the incidence of reflux esophagitis .
+test_0332	30	42	jejuna pouch	bodypart
+
+test_0333|t|
+test_0333|a|The results indicate that the cell group is distinguished by massive projections to parasympathetic preganglionic neurons in the brainstem ( especially in the salivatory nuclei and dorsal motor nucleus of the vagus nerve ) and to parts of the parabrachial nucleus and nucleus of the solitary tract that relay viscerosensory and gustatory information .
+test_0333	130	139	brainstem	bodypart
+test_0333	210	221	vagus nerve	bodypart
+test_0333	284	298	solitary tract	bodypart
+
+test_0334|t|
+test_0334|a|The measure of contraction depends on the diagnosis ( TAO greater than ASO greater than DIA ) , on the age of patient and also the anatomical location of the artery in the case of TAO ( TP greater than greater than TA ) , on the associated hypertension in the case of ASO ( normotensive greater than hypertensive ) and finally on the time elapsed between the operation and usage of preparation if the agonist is KCl .
+test_0334	159	165	artery	bodypart
+
+test_0335|t|
+test_0335|a|To begin identifying the molecular basis for gap junction channel behavior in the human heart , a tissue that expresses connexin43 , we used site - directed mutagenesis to generate mutant cDNAs of human connexin43 with shortened cytoplasmic tail domains .
+test_0335	89	94	heart	bodypart
+
+test_0336|t|
+test_0336|a|A Load - Matched group received the same peak applied loads ( corresponding to + 2100 at the medial diaphysis of the tibia ) and a Strain - Matched group received the same peak diaphyseal strains ( + 1200 , requiring half the load ) as the young mice .
+test_0336	94	110	medial diaphysis	bodypart
+test_0336	118	123	tibia	bodypart
+
+test_0337|t|
+test_0337|a|These cases support the hypothesis that testicular descent is guided by the tail of the epididymis .
+test_0337	77	81	tail	bodypart
+test_0337	89	99	epididymis	bodypart
+
+test_0338|t|
+test_0338|a|Isolation of mycoplasma species from the lower respiratory tract of healthy cattle and cattle with respiratory disease in Belgium .
+test_0338	42	65	lower respiratory tract	bodypart
+
+test_0339|t|
+test_0339|a|In contrast , the mechanism of eigenmode synchronization critically depends on the geometrical and biomechanical properties of the vocal folds ( at least 2 - degrees - of - freedom are required ) , and has little requirement on the glottal aerodynamics other than flow separation .
+test_0339	132	143	vocal folds	bodypart
+
+test_0340|t|
+test_0340|a|The result was good for thirty - one ankles ( 19 per cent ) , fair for fifty - five ( 34 per cent ) , and poor for seventeen ( 11 per cent ) ; fifty - seven arthroplasties ( 36 per cent ) were considered to be a failure ( defined as removal of the implant ) .
+test_0340	25	44	thirty - one ankles	bodypart
+
+test_0341|t|
+test_0341|a|Leiomyoma of the esophagus ) .
+test_0341	18	27	esophagus	bodypart
+
+test_0342|t|
+test_0342|a|In an effort to uncover the cathepsin L expression in diverse pathological conditions in human testis , the immunohistochemical localization of cathepsin L was conducted in human testis under diverse male infertility condition including spermatogenic hypoplasia and testis cancer .
+test_0342	96	102	testis	bodypart
+test_0342	180	186	testis	bodypart
+test_0342	267	273	testis	bodypart
+
+test_0343|t|
+test_0343|a|The presence of osteocyte autophagy , as detected by immunostaining for LC3 , increased 50 % at the distal femur cortical bone region but not at trabecular bone region at the 1 . 4 and 2 . 8 mg / kg / d GC dose levels .
+test_0343	108	134	femur cortical bone region	bodypart
+test_0343	146	161	trabecular bone	bodypart
+
+test_0344|t|
+test_0344|a|The actions of one atrium with a frequency of 55 - - 60 / minute were transmitted regularly to the ventricles ; the actions of the other atrium had a frequency of 90 / minute and were not transmitted .
+test_0344	20	26	atrium	bodypart
+test_0344	100	110	ventricles	bodypart
+test_0344	138	144	atrium	bodypart
+
+test_0345|t|
+test_0345|a|The multidrug resistance protein P - glycoprotein ( P - gp ) is physiologically expressed at the bile canalicular membrane of the liver , where it participates in the biliary excretion of various lipophilic drugs .
+test_0345	98	123	bile canalicular membrane	bodypart
+test_0345	131	136	liver	bodypart
+
+test_0346|t|
+test_0346|a|Extramammary Paget ' s disease of the perineal skin : role of radiotherapy .
+test_0346	39	52	perineal skin	bodypart
+
+test_0347|t|
+test_0347|a|( The activity of the lipid peroxidation processes in the mucosa of the rat small intestine and its morphofunctional state under acute irradiation and the administration of combined preparations created on a base of highly dispersed silica ) .
+test_0347	77	92	small intestine	bodypart
+
+test_0348|t|
+test_0348|a|In the mutants ' brains , entry of T4 was not affected , but uptake of T3 was diminished .
+test_0348	18	24	brains	bodypart
+
+test_0349|t|
+test_0349|a|Two - electrode recordings revealed tight electrical coupling ( 83 % ) between neighboring cells in the circumferential direction of the artery .
+test_0349	138	144	artery	bodypart
+
+test_0350|t|
+test_0350|a|There is evidence implying an active role of airway epithelium in the modulation of bronchomotor tone .
+test_0350	46	63	airway epithelium	bodypart
+
+test_0351|t|
+test_0351|a|The combination of the TSA and sABC amplification systems provided the first successful co - localization of sympathetic adrenergic and sympathetic cholinergic nerve fibers in cutaneous human sweat glands and vasomotor and pilomotor systems .
+test_0351	177	205	cutaneous human sweat glands	bodypart
+
+test_0352|t|
+test_0352|a|In the adult CNS , however , transplanted neurons and their growing neurites can become confined to the graft region , and there may also be a relative paucity of afferents innervating grafted neurons .
+test_0352	14	17	CNS	bodypart
+
+test_0353|t|
+test_0353|a|In the skin , several connexins are expressed and are involved in the regulation of epidermal growth and differentiation .
+test_0353	8	12	skin	bodypart
+
+test_0354|t|
+test_0354|a|The morphological and functional alterations along the epididymal duct and lack of spermatozoa within the lumen after deslorelin treatment indicate that a potent GnRH agonist is likely responsible for an impairment of the microenvironment created by epididymal cells for sperm maturation and their storage .
+test_0354	56	71	epididymal duct	bodypart
+test_0354	223	239	microenvironment	bodypart
+
+test_0355|t|
+test_0355|a|In addition , strong reactivity was found in the circulating mononuclear cells of capsular blood vessels .
+test_0355	83	105	capsular blood vessels	bodypart
+
+test_0356|t|
+test_0356|a|In the tectum opticum of the adult neotenic A . mexicanum , responses of single neuronal units to diffuse illumination and moving visual stimuli have been investigated .
+test_0356	8	22	tectum opticum	bodypart
+
+test_0357|t|
+test_0357|a|Patients with a narrow face have often a defect in expansion of the maxillary - malar complex .
+test_0357	24	28	face	bodypart
+test_0357	69	86	maxillary - malar	bodypart
+
+test_0358|t|
+test_0358|a|Respiratory effects of 5 ' - ethylcarboxamidoadenosine , an analog of adenosine , following microinjections into the nucleus tractus solitarius of rats .
+test_0358	118	144	nucleus tractus solitarius	bodypart
+
+test_0359|t|
+test_0359|a|Decreased GSH / GSSG and increased MDA concentrations were also viewed in the cortex and basal ganglia .
+test_0359	79	85	cortex	bodypart
+test_0359	90	103	basal ganglia	bodypart
+
+test_0360|t|
+test_0360|a|In addition , an in vitro gluing of the ulna segment was performed with a four - point bending test after 10 , 60 and 360 min polymerization time .
+test_0360	41	53	ulna segment	bodypart
+
+test_0361|t|
+test_0361|a|The bacteriological examination of bronchial secretion in various lung diseases showed a prevailing growth by diplococcus pneumoniae , and more sterile conditions in the peripheral bronchial airways of 56 patients .
+test_0361	171	199	peripheral bronchial airways	bodypart
+
+test_0362|t|
+test_0362|a|Granulocytic sarcoma of the testis .
+test_0362	29	35	testis	bodypart
+
+test_0363|t|
+test_0363|a|In contrast , its pelvic girdle and hind limb have no aquatic modifications .
+test_0363	19	32	pelvic girdle	bodypart
+test_0363	37	46	hind limb	bodypart
+
+test_0364|t|
+test_0364|a|In the albino rabbit eyes , the chick embryo eyes and the human eye , the concentration of chloride ion in the cytoplasm of retinal pigment epithelium ( RPE ) was high , and in the bullfrog eyes , the concentration was low .
+test_0364	22	26	eyes	bodypart
+test_0364	39	50	embryo eyes	bodypart
+test_0364	65	68	eye	bodypart
+test_0364	191	195	eyes	bodypart
+
+test_0365|t|
+test_0365|a|The activity of gamma - aminobutyrate aminotransferase ( GABA - T ) was estimated in twelve regions of brains from 22 control subjects and 6 cases with schizophrenia .
+test_0365	104	110	brains	bodypart
+
+test_0366|t|
+test_0366|a|Pancreatic nodules were produced in rats by either feeding raw soya flour alone or by injection of azaserine plus raw soya flour feeding .
+test_0366	1	19	Pancreatic nodules	bodypart
+
+test_0367|t|
+test_0367|a|Hemangiomatosis of the liver is growing in the last decades , because of the abdominal imaging progresses : brain CT scan , MRI .
+test_0367	24	29	liver	bodypart
+
+test_0368|t|
+test_0368|a|Infected kidneys appeared to be more susceptible to the nephrotoxic potential of gentamicin .
+test_0368	10	17	kidneys	bodypart
+
+test_0369|t|
+test_0369|a|The concentration of copper in plasma and that of lead in hair were higher in hypertensive subjects than in normotensives , but the concentrations of zinc , magnesium and selenium in plasma , urine and hair were similar to those of normotensives .
+test_0369	59	63	hair	bodypart
+test_0369	203	207	hair	bodypart
+
+test_0370|t|
+test_0370|a|To determine whether thromboxane or oxygen - derived free radicals , a byproduct in the cyclooxygenase pathway , mediate this effect , subepicardial coronary arterioles ( 103 + / - 21 mu ) from New Zealand White rabbits were studied in vitro in a pressurized ( 40 mm Hg ) , no - flow state using videomicroscopy .
+test_0370	136	169	subepicardial coronary arterioles	bodypart
+
+test_0371|t|
+test_0371|a|Mild angular acceleration was imparted to the skull of a human volunteer inside an MR scanner , using a custom MR - compatible device to constrain motion .
+test_0371	47	52	skull	bodypart
+
+test_0372|t|
+test_0372|a|The carotids and ophthalmics are densely innervated and are accompanied by thick nerve bundles , suggesting that the nerves preferentially enter the skull along those arteries .
+test_0372	5	13	carotids	bodypart
+test_0372	76	95	thick nerve bundles	bodypart
+test_0372	150	155	skull	bodypart
+test_0372	168	176	arteries	bodypart
+
+test_0373|t|
+test_0373|a|The second component of the reciprocal synapse , located approximately 1 . 5 micron from the first , was recognized by a localized accumulation of clear membrane vesicles within the neuronal process and a short membrane profile within the cytoplasm of the adjacent hair cell .
+test_0373	148	171	clear membrane vesicles	bodypart
+
+test_0374|t|
+test_0374|a|The ovaries were recovered at 14 days after the second PG ( luteal phase ) or 24h after the third PG given 14 days after the second PG ( follicular phase ) .
+test_0374	5	12	ovaries	bodypart
+
+test_0375|t|
+test_0375|a|A novel binding site for angiotensins II and III was recently discovered in brain membranes in the presence of the sulfhydryl reactive angiotensinase inhibitor parachloromercuribenzoate .
+test_0375	77	92	brain membranes	bodypart
+
+test_0376|t|
+test_0376|a|( Isolation of mesenchymal stem cells from human umbilical cord blood and its bone inducing activity in vitro ) .
+test_0376	50	70	umbilical cord blood	bodypart
+
+test_0377|t|
+test_0377|a|These data support the hypothesis that in the epileptic human hippocampus , there may be pathophysiologic associations among mossy fiber synaptic plasticity , hippocampal neuron damage , and granule cell mRNA neurotrophin levels .
+test_0377	47	74	epileptic human hippocampus	bodypart
+
+test_0378|t|
+test_0378|a|A novel epitope of entactin is present at the mammalian neuromuscular junction .
+test_0378	57	79	neuromuscular junction	bodypart
+
+test_0379|t|
+test_0379|a|These results suggest that the BMP7 - BMPR2 - p38 - NDRG1 axis plays a critical role in dormancy and recurrence of prostate CSCs in bone and suggest a potential therapeutic utility of BMP7 for recurrent metastatic disease .
+test_0379	133	137	bone	bodypart
+
+test_0380|t|
+test_0380|a|Imaging of the vascular system revealed vessels down to the caliber of capillaries , and the digital three - dimensional data obtained from the scans allowed for virtual cutting , amplification , and scaling without destroying the sample .
+test_0380	41	48	vessels	bodypart
+test_0380	61	83	caliber of capillaries	bodypart
+
+test_0381|t|
+test_0381|a|Feeding diets with different protein contents for 1 or 4 weeks did not influence NPY gene expression in goldfish brain .
+test_0381	114	119	brain	bodypart
+
+test_0382|t|
+test_0382|a|Resected lung after an abbreviated rifampin regimen .
+test_0382	10	14	lung	bodypart
+
+test_0383|t|
+test_0383|a|The present experiment addressed whether increases in corticospinal excitability following sensory stimulation with muscle tendon vibration are accompanied by reorganization of the forearm musculature representation within the primary motor cortex .
+test_0383	228	248	primary motor cortex	bodypart
+
+test_0384|t|
+test_0384|a|Weakness of the lumbar extensors was clearly shown by isokinetic measurement and a marked atrophy of these muscles with fatty infiltration was demonstrated by CT scanning .
+test_0384	17	33	lumbar extensors	bodypart
+test_0384	108	115	muscles	bodypart
+
+test_0385|t|
+test_0385|a|The inhibitory effect on adherence is also observed in the urine after oral administration of 400 mg of nitroxoline .
+test_0385	60	65	urine	bodypart
+
+test_0386|t|
+test_0386|a|OKA did not affect glycogen synthesis in denervated muscle except for abolishing a small insulin effect .
+test_0386	53	59	muscle	bodypart
+
+test_0387|t|
+test_0387|a|Intravenous administration of TB ( 50 mg / kg ) caused a decrease in the urinary excretion rate of SMZ but an increase in the unbound concentration of SMZ in plasma .
+test_0387	159	165	plasma	bodypart
+
+test_0388|t|
+test_0388|a|Treatment of acute infections in the upper airways comprises a significant part of direct healthcare expenditure and is a challenge for healthcare professionals .
+test_0388	38	51	upper airways	bodypart
+
+test_0389|t|
+test_0389|a|In vagotomized rabbits separation of both halves of the medulla by a midline section resulted in a ` desynchronization ' of both phrenic and both efferent vagal inspiratory volleys .
+test_0389	57	64	medulla	bodypart
+
+test_0390|t|
+test_0390|a|In the present study the effects of intraduodenal ( i . d . ) fat ( endogenous CCK ) and of CCK infusion on satiety were studied during normo - and hyperglycemic conditions .
+test_0390	37	50	intraduodenal	bodypart
+
+test_0391|t|
+test_0391|a|Recent studies employing a range of animal models implicate that matrix metalloproteinases regulate multiple aspects of the neuronal development and remodeling in the brain .
+test_0391	168	173	brain	bodypart
+
+test_0392|t|
+test_0392|a|Anatomical specificity within rat striatum for the dopaminergic modulation of DRL responding and activity .
+test_0392	35	43	striatum	bodypart
+
+test_0393|t|
+test_0393|a|Decreased 11beta - HSDII activity and mRNA levels in mesenteric arteries were observed in 8 - week - old DS rats on a high - salt diet , indicating that 11beta - HSDII may play a significant role in salt sensitivity and hypertension .
+test_0393	54	73	mesenteric arteries	bodypart
+
+test_0394|t|
+test_0394|a|Tropical splenomegaly is thought to encompass a variety of diseases , most of them presenting an intermediate stage of reactive to autonome disorders of the lymphatic system .
+test_0394	158	174	lymphatic system	bodypart
+
+test_0395|t|
+test_0395|a|Free flaps may safely allow meaningful ambulation , durable limb preservation , and better quality of life in patients undergoing resections of soft - tissue cancers of the foot .
+test_0395	174	178	foot	bodypart
+
+test_0396|t|
+test_0396|a|In conclusion , our data show that T . b . brucei invasion of the brain is related to that of leukocytes and that minocycline can ameliorate the disease in trypanosome - infected mice .
+test_0396	67	72	brain	bodypart
+
+test_0397|t|
+test_0397|a|Rostral area 12r displayed connections mostly with rostral prefrontal and orbitofrontal areas and relatively weaker connections with the fundus and the upper bank of the superior temporal sulcus .
+test_0397	1	17	Rostral area 12r	bodypart
+test_0397	75	94	orbitofrontal areas	bodypart
+test_0397	138	144	fundus	bodypart
+test_0397	153	163	upper bank	bodypart
+test_0397	171	195	superior temporal sulcus	bodypart
+
+test_0398|t|
+test_0398|a|The results indicate the MTX is cleared from the plasma at a rate of 84 . 6 mL / min / m2 .
+test_0398	50	56	plasma	bodypart
+
+test_0399|t|
+test_0399|a|A significant increase in gene expression of muscarinic M3 , 7 nicotinic acetylcholine , insulin , Vitamin D receptors , acetylcholine esterase , choline acetyl transferase and GLUT 3 were observed in the brainstem of diabetic rats .
+test_0399	206	215	brainstem	bodypart
+
+test_0400|t|
+test_0400|a|The color coding offers the possibility to identify any radiographic changes that take place over time , eg , growth , apposition or resorption of bone , and progression or regression of pathological processes .
+test_0400	148	152	bone	bodypart
+
+test_0401|t|
+test_0401|a|Reversible abnormal regional contraction of the myocardium was demonstrated and correlated with a reversible perfusion defect on subsequent thallium myocardial perfusion imaging and a blocked artery at coronary angiography .
+test_0401	49	59	myocardium	bodypart
+test_0401	193	199	artery	bodypart
+
+test_0402|t|
+test_0402|a|We suggest that some carcinomas of the lung with the light - microscopic and cytologic appearance of small cell anaplastic carcinoma are actually small cell variants of squamous cell carcinoma and lack the characteristic neurosecretory granules of classic small cell carcinoma .
+test_0402	40	44	lung	bodypart
+
+test_0403|t|
+test_0403|a|It is suggested that similar changes may take place in the human myocardium and may underlie the cardiac weakness .
+test_0403	66	76	myocardium	bodypart
+
+test_0404|t|
+test_0404|a|Next , the effects of restraint stress , nociceptive stimulus and acute inflammatory stress on the expression of the prolactin - releasing peptide mRNA in the dorsomedial hypothalamic nucleus , nucleus of the solitary tract and ventrolateral medulla were examined using in situ hybridization histochemistry for prolactin - releasing peptide mRNA .
+test_0404	160	192	dorsomedial hypothalamic nucleus	bodypart
+test_0404	195	224	nucleus of the solitary tract	bodypart
+test_0404	229	250	ventrolateral medulla	bodypart
+
+test_0405|t|
+test_0405|a|The findings are interpreted as evidence that enteric botulinum infection occurs in human infants whose intestinal tract has not yet been colonized by bacteria which are indigenous to adults and prevent growth of C . botulinum .
+test_0405	105	121	intestinal tract	bodypart
+
+test_0406|t|
+test_0406|a|Recognized early in Antiquity by its excessive urine output , its clinical features and fatal outcome were recorded by the end of the first century A . D . by Areteus of Cappadocia and attributed to a weakness of the retentive ability of the kidneys by Galen .
+test_0406	243	250	kidneys	bodypart
+
+test_0407|t|
+test_0407|a|These results suggest that a core mnemonic function of the hippocampus is to bridge representational gaps in our experience .
+test_0407	60	71	hippocampus	bodypart
+
+test_0408|t|
+test_0408|a|Slit smears form 16 LL and 4 BL patients were taken from scalp , axilla , inguinal regions and apparently involved skin patch .
+test_0408	58	63	scalp	bodypart
+test_0408	66	72	axilla	bodypart
+test_0408	75	91	inguinal regions	bodypart
+test_0408	116	120	skin	bodypart
+
+test_0409|t|
+test_0409|a|The varying topography of the commodities necessitated minor modifications to the method ; for example , analysis of kiwi required that the hair on the surface be shaved prior to swabbing to achieve good recovery .
+test_0409	141	145	hair	bodypart
+
+test_0410|t|
+test_0410|a|Lymphoma of the lumbar nerve root : case report .
+test_0410	17	34	lumbar nerve root	bodypart
+
+test_0411|t|
+test_0411|a|Pax - 6 is also expressed in the developing eye , the pituitary and the nasal epithelium .
+test_0411	45	48	eye	bodypart
+test_0411	55	64	pituitary	bodypart
+test_0411	73	89	nasal epithelium	bodypart
+
+test_0412|t|
+test_0412|a|No significant clinical deficit subsequent to dividing the anterior part of the body of the corpus callosum could be demonstrated .
+test_0412	93	108	corpus callosum	bodypart
+
+test_0413|t|
+test_0413|a|The manubrium was widened using an iliac crest bone graft , stabilised using internal fixation plates and reconstructed with a pectoral muscle flap .
+test_0413	5	14	manubrium	bodypart
+test_0413	36	52	iliac crest bone	bodypart
+test_0413	128	148	pectoral muscle flap	bodypart
+
+test_0414|t|
+test_0414|a|To determine the effect of surgery on subsequent clinical course , we reviewed the treatment records of 30 patients with known stage IV carcinoma of the kidney who underwent nephrectomy or additional procedures in preparation for systemic therapy .
+test_0414	154	160	kidney	bodypart
+
+test_0415|t|
+test_0415|a|The influence of sodium bromide in man : a study in human volunteers with special emphasis on the endocrine and the central nervous system .
+test_0415	117	139	central nervous system	bodypart
+
+test_0416|t|
+test_0416|a|Bilateral atrophy of the frontal and temporal lobes in schizophrenic patients with Capgras syndrome : a case - control study using computed tomography .
+test_0416	38	52	temporal lobes	bodypart
+
+test_0417|t|
+test_0417|a|Noradrenaline and caffeine released 45Ca2 + from a cellular site in the aorta .
+test_0417	73	78	aorta	bodypart
+
+test_0418|t|
+test_0418|a|Among 14 focus reduction neutralization test - positive sera , specific reactivity ( at least 4 - fold higher endpoint titer ) of neutralizing antibodies was as follows : six sera were specific for Saaremaa hantavirus , three showed equal titers to Saaremaa and Dobrava hantaviruses , and five showed the highest endpoint titers to Puumala hantavirus .
+test_0418	57	61	sera	bodypart
+test_0418	176	180	sera	bodypart
+
+test_0419|t|
+test_0419|a|Little is known about involvement of DC in multiple sclerosis ( MS ) , where auto - aggressive T cells against myelin autoantigens are considered to contribute to inflammation and demyelination in the central nervous system .
+test_0419	202	224	central nervous system	bodypart
+
+test_0420|t|
+test_0420|a|( Reimplantation of the common bile duct and pancreatic duct into the duodenal stump ) .
+test_0420	25	41	common bile duct	bodypart
+test_0420	46	61	pancreatic duct	bodypart
+test_0420	71	79	duodenal	bodypart
+
+test_0421|t|
+test_0421|a|All galactosylated proteins were dose - dependently taken up by the liver and the relative amount accumulated in the liver was decreased with an increase of the administered dose .
+test_0421	69	74	liver	bodypart
+test_0421	118	123	liver	bodypart
+
+test_0422|t|
+test_0422|a|To explore the role of Pgp in drug transport across an endothelial cell barrier derived from the central nervous system , the expression and activity of Pgp in bovine retinal endothelial cells ( BRECs ) and the effects of representative CNS drugs on Pgp activity were examined .
+test_0422	98	120	central nervous system	bodypart
+
+test_0423|t|
+test_0423|a|Because all birds were killed as adults , results indicate the time of birth of neurons that survived to adulthood in different structures of the avian brain .
+test_0423	81	88	neurons	bodypart
+test_0423	153	158	brain	bodypart
+
+test_0424|t|
+test_0424|a|For irradiation of the prostate + proximal seminal vesicles the unweighted four - field technique provided the best bladder dose sparing .
+test_0424	24	32	prostate	bodypart
+test_0424	44	60	seminal vesicles	bodypart
+
+test_0425|t|
+test_0425|a|In the soleus only 4 ( 12 . 3 % ) motor units remain while 10 ( 24 . 3 % ) remain in the EDL , showing that soleus alpha motoneurones are more sensitive to nerve injury at birth .
+test_0425	8	14	soleus	bodypart
+test_0425	109	115	soleus	bodypart
+
+test_0426|t|
+test_0426|a|Patients with breast cancer are unlikely to benefit from prophylactic irradiation of the contralateral breast .
+test_0426	15	21	breast	bodypart
+test_0426	104	110	breast	bodypart
+
+test_0427|t|
+test_0427|a|The cause of death entered on the death certificates of 193 patients originally diagnosed as having cancer of the breast was compared with information obtained from clinical records , cancer registry records , and necropsy findings to determine the accuracy of death certification and the proportion of patients who , though dying from another cause , still had overt signs of cancer of the breast .
+test_0427	115	121	breast	bodypart
+test_0427	392	398	breast	bodypart
+
+test_0428|t|
+test_0428|a|Dopamine ( 100 microg kg ( - 1 ) min ( - 1 ) intra - carotid , i . c . ) potentiated thrombin ( 90 u kg ( - 1 ) , i . c . ) induced platelet accumulation in the cerebral vasculature whereas higher doses ( 1 - 2 mg kg ( - 1 ) min ( - 1 ) ) inhibited accumulation .
+test_0428	162	182	cerebral vasculature	bodypart
+
+test_0429|t|
+test_0429|a|Because IV - spectrin does not interact with KCNQ2 / 3 subunits , it is suspected that IV - spectrin regulates the distribution of KCNQ2 / 3 subunits in axonal subdomains via regulatory partners .
+test_0429	154	171	axonal subdomains	bodypart
+
+test_0430|t|
+test_0430|a|Because androgen levels were in the physiological range , we conclude that the brain routinely enriches the estrogen content of blood in normal adult males of this species .
+test_0430	80	85	brain	bodypart
+
+test_0431|t|
+test_0431|a|Atherosclerotic plaques of carotid arteries were detected only in group 2 .
+test_0431	28	44	carotid arteries	bodypart
+
+test_0432|t|
+test_0432|a|Cytoid aggregates of amyloid in the skin occur mainly in lichen amyloidosus and macular amyloidosis .
+test_0432	37	41	skin	bodypart
+
+test_0433|t|
+test_0433|a|In addition , we assayed for Pax2 expression in glial cells in mammalian retinas .
+test_0433	74	81	retinas	bodypart
+
+test_0434|t|
+test_0434|a|The soluble serotonin - binding proteins ( SBP ) present in bovine frontal cortex are very similar to those reported in rat brain .
+test_0434	68	82	frontal cortex	bodypart
+test_0434	125	130	brain	bodypart
+
+test_0435|t|
+test_0435|a|Ontogenic origin of salmon GnRH neurons in the ventral telencephalon and the preoptic area in masu salmon .
+test_0435	48	69	ventral telencephalon	bodypart
+
+test_0436|t|
+test_0436|a|The model represents the local environment of a single blood vessel .
+test_0436	56	68	blood vessel	bodypart
+
+test_0437|t|
+test_0437|a|Recorded karyometric and histometric parameters include measures of nuclear DNA content ( based on optical density measurements ) , size , roundness , texture , shape , distance to the basal layer , angle with the stratum germinativum , epithelial height and proximate nuclear distance .
+test_0437	186	197	basal layer	bodypart
+test_0437	215	235	stratum germinativum	bodypart
+
+test_0438|t|
+test_0438|a|These results demonstrate that ( 1 ) skeletal muscle plays an important role in the metabolism of dietary ethanol , ( 2 ) the fed state appears to favor the conversion of ethanol - derived carbons to lipid , and ( 3 ) female rats have a greater propensity to convert ethanol - derived carbons to lipid and to store these carbons in adipose tissue .
+test_0438	38	53	skeletal muscle	bodypart
+
+test_0439|t|
+test_0439|a|Use of surface electromyogram as a measure of dynamic force in human limb muscles .
+test_0439	70	82	limb muscles	bodypart
+
+test_0440|t|
+test_0440|a|All stones in the upper third of the ureter and larger stones in the distal third of the ureter are preferably treated with ESWL in situ whereas smaller stones in the distal ureter are better treated endoscopically .
+test_0440	38	44	ureter	bodypart
+test_0440	90	96	ureter	bodypart
+test_0440	175	181	ureter	bodypart
+
+test_0441|t|
+test_0441|a|Hp administrated orally along with Cd injection for 21 days , significantly revert back the status of oxidative stress markers , Cd concentration in testis , improved status of antioxidant markers and membrane bound enzymes in the testis to near normal level .
+test_0441	150	156	testis	bodypart
+test_0441	232	238	testis	bodypart
+
+test_0442|t|
+test_0442|a|The results show that walls of coronary arteries as small as 45 m in diameter are visible using a table - top micro - CT scanner .
+test_0442	23	49	walls of coronary arteries	bodypart
+
+test_0443|t|
+test_0443|a|To investigate the mechanisms responsible for the conversion of noradrenaline synthesizing precursors to adrenaline producing endocrine chromaffin cells we studied the role of glucocorticoids on the initial induction of adrenaline synthesis in embryonic adrenals and cultures of highly purified chromaffin precursor cells .
+test_0443	245	263	embryonic adrenals	bodypart
+
+test_0444|t|
+test_0444|a|Application of matrix metalloproteinase models to migraine helps explain the ability of medications to cross the blood - brain barrier during a migraine episode , as well as describe possible ischemia with repeated migraine ( e . g . , white matter abnormalities seen on magnetic resonance scanning ) .
+test_0444	114	135	blood - brain barrier	bodypart
+
+test_0445|t|
+test_0445|a|A thiol peptide , which recently was shown to be a potent inhibitor of corneal collagenase in vitro , was tested in alkali - burned rabbit corneas to determine its effectiveness in inhibiting corneal ulceration .
+test_0445	140	147	corneas	bodypart
+
+test_0446|t|
+test_0446|a|These effects of CSF were blocked by naloxone administration and were observed only if injecting CSF which was preliminarily treated with protease inhibitors .
+test_0446	18	21	CSF	bodypart
+test_0446	98	101	CSF	bodypart
+
+test_0447|t|
+test_0447|a|In both instances the drug has to reach the enteric nervous system or the enterocyte , either via the blood or from the lumen , in sufficient concentrations to affect the mediators that regulate motility and fluid transport .
+test_0447	45	67	enteric nervous system	bodypart
+test_0447	103	108	blood	bodypart
+
+test_0448|t|
+test_0448|a|It is concluded that under some conditions filling the vagina with air ( tightly ) can cause fatal air embolisms .
+test_0448	56	62	vagina	bodypart
+
+test_0449|t|
+test_0449|a|A distinction between stenosis and occlusion by UDS of the supratrochlear artery is , however , not possible , unless additional examination of the carotid arteries is performed .
+test_0449	60	81	supratrochlear artery	bodypart
+test_0449	149	165	carotid arteries	bodypart
+
+test_0450|t|
+test_0450|a|Although these results were consistent with the proposal that cAMP is a second messenger mediating relaxation of airway smooth muscle , close inspection of the data revealed a discrepancy in the relationship between cAMP accumulation and relaxation .
+test_0450	114	134	airway smooth muscle	bodypart
+
+test_0451|t|
+test_0451|a|Increased vascular endothelial growth factor expression but impaired vascular endothelial growth factor receptor signaling in the myocardium of type 2 diabetic patients with chronic coronary heart disease .
+test_0451	131	141	myocardium	bodypart
+
+test_0452|t|
+test_0452|a|The metabolic and perfusional changes in the cerebral cortex of ALS patients are likely to depend on upper motor neuron involvement , but they are not confined to the neurons of the corticospinal tract .
+test_0452	46	61	cerebral cortex	bodypart
+test_0452	108	120	motor neuron	bodypart
+test_0452	183	202	corticospinal tract	bodypart
+
+test_0453|t|
+test_0453|a|On the next after exposure of the cortex to DC , the dominant recovered after application of 7 - - 10 trials of geniculate stimulation .
+test_0453	35	41	cortex	bodypart
+
+test_0454|t|
+test_0454|a|6 eyes had undergone ICCE and one eye had been secondarily implanted .
+test_0454	3	7	eyes	bodypart
+test_0454	35	38	eye	bodypart
+
+test_0455|t|
+test_0455|a|Many antidepressant drugs , when administered chronically to rats , have been shown to produce decreases in the density of beta adrenergic receptors in the central nervous system .
+test_0455	157	179	central nervous system	bodypart
+
+test_0456|t|
+test_0456|a|Somatosensory cortex : a comparison of the response to noxious thermal , mechanical , and electrical stimuli using functional magnetic resonance imaging .
+test_0456	1	21	Somatosensory cortex	bodypart
+
+test_0457|t|
+test_0457|a|The size of the soma area was not correlated to the dendritic field size and increased from 100 to 150 microm ( 2 ) near the fovea to 150 - 300 microm ( 2 ) at the retinal margin .
+test_0457	126	131	fovea	bodypart
+test_0457	165	179	retinal margin	bodypart
+
+test_0458|t|
+test_0458|a|All specimens showed a protruded nerve end .
+test_0458	34	43	nerve end	bodypart
+
+test_0459|t|
+test_0459|a|No significant alterations in densities of M1 , M2 or total muscarinic binding sites were observed in any brain structure evaluated at either early or late stages of thiamine deficiency .
+test_0459	107	112	brain	bodypart
+
+test_0460|t|
+test_0460|a|In patient nos 1 and 2 , histological examination showed that the arterial wall had been replaced by an abundant collagenic tissue .
+test_0460	67	80	arterial wall	bodypart
+
+test_0461|t|
+test_0461|a|In LMCA disease , there is usually also disease in other parts of the coronary arterial tree .
+test_0461	71	93	coronary arterial tree	bodypart
+
+test_0462|t|
+test_0462|a|The treatment of Paget ' s disease of bone by radiotherapy .
+test_0462	39	43	bone	bodypart
+
+test_0463|t|
+test_0463|a|Distribution of total progesterone receptor levels in various segments and tissues of the normal human uterus : the effect of short - term estrogen administration .
+test_0463	104	110	uterus	bodypart
+
+test_0464|t|
+test_0464|a|Among 3961 infants checked at the ages of 3 - - 7 days and again at 6 weeks 42 % showed nevi flammei mediales in the nape and / or in the eyelids and glabella .
+test_0464	118	122	nape	bodypart
+test_0464	139	146	eyelids	bodypart
+
+test_0465|t|
+test_0465|a|The affected subject has an android build , with more facial and body hair than in previously described affected adults .
+test_0465	66	75	body hair	bodypart
+
+test_0466|t|
+test_0466|a|Notes of a Case of Separation of the Uterus from the Body by Laceration during Labor .
+test_0466	38	44	Uterus	bodypart
+
+test_0467|t|
+test_0467|a|Absorption of hyaluronan applied to the surface of intact skin .
+test_0467	59	63	skin	bodypart
+
+test_0468|t|
+test_0468|a|Occasional CGRP - containing nerve fibers were also noted adjacent to submucosal gland acini , near the epithelial basement membrane , and between epithelial cells .
+test_0468	30	42	nerve fibers	bodypart
+test_0468	71	93	submucosal gland acini	bodypart
+test_0468	105	133	epithelial basement membrane	bodypart
+
+test_0469|t|
+test_0469|a|The densities of the HCC and liver were decreased and increased during scanning , respectively .
+test_0469	30	35	liver	bodypart
+
+test_0470|t|
+test_0470|a|Here we performed whole - cell patch clamp recordings from CA1 stratum radiatum interneurons in rat brain slices to investigate the effect of the eCB anandamide on excitatory synapses as well as the involvement of Group I metabotropic glutamate receptors ( mGluRs ) , which have been reported to produce eCBs endogenously .
+test_0470	101	106	brain	bodypart
+
+test_0471|t|
+test_0471|a|Anatomy , nomenclature , first clinical observations : In ancient Greece and Rome and in the Middle Ages the posterior opening of the nasal passage was known ( Greek ` ` choane ' ' = funnel ) as an atomical structure , and it was also known that chronic nasal catarrh is common in children , but it was not realized that this was associated with special pathological alterations .
+test_0471	135	148	nasal passage	bodypart
+
+test_0472|t|
+test_0472|a|The presence of leptin in stomach epithelium was recently demonstrated in the rat and humans , and gastric leptin has been linked to the control of meal size , local inflammatory responses , and paracrine and autocrine functions through leptin receptors in the stomach .
+test_0472	27	45	stomach epithelium	bodypart
+test_0472	262	269	stomach	bodypart
+
+test_0473|t|
+test_0473|a|Isoproterenol stimulation of adenylate cyclase activity is lost completely in ureters from 90 day and older animals .
+test_0473	79	86	ureters	bodypart
+
+test_0474|t|
+test_0474|a|At autopsy , Blocq and Marinesco discovered an encapsulated tumor confined to the substantia nigra , contralateral to the affected side , and concluded that tremor in that particular case resulted from a midbrain lesion .
+test_0474	83	99	substantia nigra	bodypart
+
+test_0475|t|
+test_0475|a|These results suggest that MT - PK may have specialized functions in different areas of central nervous system .
+test_0475	89	111	central nervous system	bodypart
+
+test_0476|t|
+test_0476|a|Radiation distributions produced by both sealed sources commonly used in brachytherapy ( 192I , 137Cs , 226Ra ) and an unsealed source used in the treatment of the thyroid ( 131I ) were used to irradiate a Rando phantom .
+test_0476	165	172	thyroid	bodypart
+
+test_0477|t|
+test_0477|a|( Resection of the large superficial petrosal nerve and post - otitic syndromes ) .
+test_0477	26	52	superficial petrosal nerve	bodypart
+
+test_0478|t|
+test_0478|a|The gamma scintigraphy indicated that the microspheres cleared slowly from the nasal cavity .
+test_0478	80	92	nasal cavity	bodypart
+
+test_0479|t|
+test_0479|a|Long - term memory KJ1 . 26 ( + ) CD4 ( + ) T cells from wild - type mice were detected in the spleen , lungs and liver during 10 weeks after immunization ; however , Bcl6 - deficient KJ1 . 26 ( + ) CD4 ( + ) T cells were vanished completely in those organs 4 weeks after immunization .
+test_0479	96	102	spleen	bodypart
+test_0479	105	110	lungs	bodypart
+test_0479	115	120	liver	bodypart
+
+test_0480|t|
+test_0480|a|( Spontaneous rupture of the ureter caused by metastatic ureteric tumor : a case report ) .
+test_0480	30	36	ureter	bodypart
+
+test_0481|t|
+test_0481|a|We utilized gas chromatography - mass spectrometry to study the transfer of 15N from ( 2 - 15N ) glutamine , ( 15N ) leucine , ( 15N ) alanine , or 15NH4Cl to ( 15N ) glutamate and ( 15N ) aspartate in cultured cerebrocortical GABA - ergic neurons from the mouse .
+test_0481	212	248	cerebrocortical GABA - ergic neurons	bodypart
+
+test_0482|t|
+test_0482|a|Solid tumor nests were surrounded by dense IgG4 - positive plasma cells and fibrosis at both the primary site and metastatic lymph nodes .
+test_0482	126	137	lymph nodes	bodypart
+
+test_0483|t|
+test_0483|a|For the hypothalamic response test , two basal samples ( 3 . 5 ml ) were collected at 15 - min intervals via the saphenous vein , and then N - methyl - D - L - aspartic acid ( NMA ; 20 mg / kg ) was given iv and four more blood samples collected .
+test_0483	114	128	saphenous vein	bodypart
+
+test_0484|t|
+test_0484|a|Do people with acquired brain impairment benefit from additional therapy specifically directed at the hand ?
+test_0484	103	107	hand	bodypart
+
+test_0485|t|
+test_0485|a|The case histories of six patients are presented where the diagnosis of carcinoma of the esophagus and the stomach was made at the same time by barium studies .
+test_0485	90	99	esophagus	bodypart
+test_0485	108	115	stomach	bodypart
+
+test_0486|t|
+test_0486|a|None of these immittance components reaches its extremum exactly at middle - ear pressure neither at 220 nor at 660 Hz , due to the hysteresis caused by the viscoelastic behavior of the soft biological tissue of the middle - ear structures .
+test_0486	217	240	middle - ear structures	bodypart
+
+test_0487|t|
+test_0487|a|Putative transmitters and related substances were perfused through the guinea pig scala tympani while monitoring the compound action potential of the cochlear nerve ( AP ) and the cochlear microphonic potential .
+test_0487	83	96	scala tympani	bodypart
+
+test_0488|t|
+test_0488|a|Cognitive brain functions , for example , sensory perception , motor control and learning , are understood as computation by axonal - dendritic chemical synapses in networks of integrate - and - fire neurons .
+test_0488	126	162	axonal - dendritic chemical synapses	bodypart
+
+test_0489|t|
+test_0489|a|Tubulopapillary carcinoma with spindle cell metaplasia of the mammary gland in a cat .
+test_0489	63	76	mammary gland	bodypart
+
+test_0490|t|
+test_0490|a|The purpose of this case report was to demonstrate a conservative approach in the treatment of an extensive keratocystic odontogenic tumor , located in the mandible ' s posterior region , using decompression and enucleation .
+test_0490	157	186	mandible ' s posterior region	bodypart
+
+test_0491|t|
+test_0491|a|The effects of mercury on vascular smooth muscle results in vasoconstriction , but the mechanism of this action is not elucidated yet .
+test_0491	27	49	vascular smooth muscle	bodypart
+
+test_0492|t|
+test_0492|a|A more rapid accumulation of H + during intense stimulation may lead to a earlier onset of fatigue in the aged muscle .
+test_0492	112	118	muscle	bodypart
+
+test_0493|t|
+test_0493|a|An imbalance of Hcy in the body may lead to hyperhomocysteinemia , a condition with elevated Hcy concentration in blood that may be one of the risk factors responsible for the development of several vascular diseases ( thromboembolism , atherosclerosis , stroke , vascular diseases and dementia ) .
+test_0493	28	32	body	bodypart
+test_0493	115	120	blood	bodypart
+
+test_0494|t|
+test_0494|a|The internal lateral nucleus ( IL ) of the parabrachial nucleus receives information from the spinal cord .
+test_0494	44	64	parabrachial nucleus	bodypart
+test_0494	95	106	spinal cord	bodypart
+
+test_0495|t|
+test_0495|a|During development endothelial cells ` invade ' the retina , accompanied by a population of microglial cells ; glial fibrillary acidic protein ( GFAP ) - immunoreactive astrocytes are also seen associated with the developing vasculature , and are in advance of the vascular front by a few hundred microns .
+test_0495	53	59	retina	bodypart
+test_0495	226	237	vasculature	bodypart
+test_0495	266	274	vascular	bodypart
+
+test_0496|t|
+test_0496|a|Proton NMR of lyophilized aortic fragments revealed several peaks originating from biologically relevant molecules , lactate , creatine , taurine . . .
+test_0496	15	43	lyophilized aortic fragments	bodypart
+
+test_0497|t|
+test_0497|a|The anisakis body was found in the submucosal layer of the resection specimen .
+test_0497	36	52	submucosal layer	bodypart
+
+test_0498|t|
+test_0498|a|These preliminary results suggest that encapsulated islets sheets can survive and maintain islet viability and function in vivo , within the subcutaneous region .
+test_0498	53	59	islets	bodypart
+
+test_0499|t|
+test_0499|a|Unilateral nephrectomy , when performed during this period of natural increase , induced the formation of supplementary nephrons in the contralateral kidney .
+test_0499	151	157	kidney	bodypart
+
+test_0500|t|
+test_0500|a|In all patients the range of motion of the elbow improved significantly .
+test_0500	44	49	elbow	bodypart
+
+test_0501|t|
+test_0501|a|( Presence of two types of cholinesterase in the thymus of infants ) .
+test_0501	50	56	thymus	bodypart
+
+test_0502|t|
+test_0502|a|AQP10 is localized on the apical compartment of the intestinal epithelium called the glycocalyx while AQP3 is selectively targeted to the basolateral membrane .
+test_0502	53	74	intestinal epithelium	bodypart
+test_0502	139	159	basolateral membrane	bodypart
+
+test_0503|t|
+test_0503|a|Significant improvement in both subjective and objective voice measures was achieved after surgical removal of the lingual thyroid gland , which allowed for maintenance of a consistent euthyroid state .
+test_0503	116	137	lingual thyroid gland	bodypart
+
+test_0504|t|
+test_0504|a|Male Sprague - Dawley rats were used to measure the brain uptake index ( BUI ) by single - pass clearance in brain after rapid injection at pH 7 . 4 into the left common carotid artery ( expressed as a percentage ) relative to simultaneously injected 3HOH .
+test_0504	159	185	left common carotid artery	bodypart
+
+test_0505|t|
+test_0505|a|Some enzymatic methods are described allowing the quantitation of chemical additives in blood derivatives .
+test_0505	89	94	blood	bodypart
+
+test_0506|t|
+test_0506|a|An in vitro study on human ureteric smooth muscle with the alpha1 - adrenoceptor subtype blocker , tamsulosin .
+test_0506	28	50	ureteric smooth muscle	bodypart
+
+test_0507|t|
+test_0507|a|Photorhabdus luminescens is carried in the gut of the infective juvenile ( IJ ) , a nematode stage that infects soft - cuticled insect larvae in the soil .
+test_0507	44	47	gut	bodypart
+
+test_0508|t|
+test_0508|a|In previous work on the mixed - mode loading of human cortical bone ( using an asymmetric bend test geometry ) , we found that the bone toughness was lower when loaded in far - field shear than in tension ( opposite to the trend in most brittle materials ) , although only for the transverse orientation .
+test_0508	55	68	cortical bone	bodypart
+
+test_0509|t|
+test_0509|a|MR imaging of the peritoneum and abdominal wall .
+test_0509	19	29	peritoneum	bodypart
+test_0509	34	48	abdominal wall	bodypart
+
+test_0510|t|
+test_0510|a|The repeated isolation of the organism in pure culture from the peritoneal fluid and its isolation from postmortem subdiaphragmatic microabscesses suggest that Kluyvera can be clinically significant .
+test_0510	65	81	peritoneal fluid	bodypart
+test_0510	116	147	subdiaphragmatic microabscesses	bodypart
+
+test_0511|t|
+test_0511|a|These proteins , whose secondary structures are predominantly alpha - helical segments , and many peptides form pores in membranes without a crystallizable protein assembly , contrary to the family of beta - pore - forming proteins , which form crystallizable beta - barrel pores .
+test_0511	113	118	pores	bodypart
+test_0511	275	280	pores	bodypart
+
+test_0512|t|
+test_0512|a|In contrast ankyrin , protein band 3 and protein 4 . 2 are removed from skeletons as the ionic strength increased .
+test_0512	73	82	skeletons	bodypart
+
+test_0513|t|
+test_0513|a|The prognosis of malignant tumors of the olfactory epithelium of the nasal vault stays very poor .
+test_0513	42	81	olfactory epithelium of the nasal vault	bodypart
+
+test_0514|t|
+test_0514|a|For each individual wrist bone we recorded the incidence of fractures , clinical treatment and diagnoses , including any special x - ray takes that would be necessary for the detection of a particular fracture .
+test_0514	21	31	wrist bone	bodypart
+
+test_0515|t|
+test_0515|a|IGFBP - 2 mRNA levels remained high at the contusion site in the presence of either drug , but the increase was blocked in the cortex temporal to the impact by MK - 801 .
+test_0515	128	143	cortex temporal	bodypart
+
+test_0516|t|
+test_0516|a|60 - 90 days after infection , worm - cysts can not only be detected in the lungs , but also in the liver , mediastinum and abdominal wall , with mature or premature worms and eggs .
+test_0516	77	82	lungs	bodypart
+test_0516	101	106	liver	bodypart
+test_0516	109	120	mediastinum	bodypart
+test_0516	125	139	abdominal wall	bodypart
+
+test_0517|t|
+test_0517|a|Macroscopically the intoxication in ostriches resulted in a severe anasarca of the neck and ventral body .
+test_0517	84	88	neck	bodypart
+test_0517	93	105	ventral body	bodypart
+
+test_0518|t|
+test_0518|a|( Restricted mouth opening due to bilateral ankylosis of TMJ and coronoid processes enlargement - - surgical treatment ) .
+test_0518	14	19	mouth	bodypart
+
+test_0519|t|
+test_0519|a|( Comparison between the electroneurographic effects of gustatory activation of Staderini ' s nucleus intercalatus and of those of adjacent bulbar regions ) .
+test_0519	81	115	Staderini ' s nucleus intercalatus	bodypart
+test_0519	141	155	bulbar regions	bodypart
+
+test_0520|t|
+test_0520|a|Effect of 3 - isobutyl - 1 - methylxanthine on HCO3 - transport in turtle bladder .
+test_0520	75	82	bladder	bodypart
+
+test_0521|t|
+test_0521|a|An immune response to cancer is elicited in humans , as demonstrated , in part , by the identification of autoantibodies against a number of tumor - associated antigen ( TAAs ) in sera from patients with different types of cancer .
+test_0521	181	185	sera	bodypart
+
