@@ -25,7 +25,7 @@ class YensKSP:
         self.nodes = list(G.nodes())
       
     def dijkstra(self, source: str, target: str, node_seq: List,
-                max_path_length: int, excluded_edges: Set[Tuple] = None,
+                max_hop: int, excluded_edges: Set[Tuple] = None,
                 excluded_nodes: Set[str] = None) -> Tuple[List[str], float]:
         """
         Dijkstra's algorithm with support for excluding specific edges and nodes
@@ -58,7 +58,7 @@ class YensKSP:
         num=0
         '''
         print('*'*60)
-        print(max_path_length)
+        print(max_hop)
         print([source,target])
         print(node_seq)
         print(excluded_edges)
@@ -77,10 +77,12 @@ class YensKSP:
             # If the distance extracted from the queue is worse than the best known distance
             if current_dist > dist[current]:
                 continue
-            if cur_match_len>=max_path_length:
+            if target is None and cur_match_len>=max_hop+1:
+                continue
+            if target is not None and cur_match_len>=max_hop:
                 continue
             if target is None and current != source:
-                cur_diff_len=abs(max_path_length-cur_match_len)
+                cur_diff_len=abs(max_hop+1-cur_match_len)
                 if cur_diff_len<best_len:
                     best_len=cur_diff_len
                     best_dist = current_dist
@@ -157,7 +159,7 @@ class YensKSP:
         return path, dist[target]
 
     def yen_ksp(self, source: str, target: str,  node_seq: List, K: int = 10, 
-                max_path_length: int = 4) -> List[Tuple[List[str], float]]:
+                max_hop: int = 4) -> List[Tuple[List[str], float]]:
         """
         Yen's K Shortest Paths Algorithm - Main Function
 
@@ -165,7 +167,7 @@ class YensKSP:
             source: starting node
             target: destination node
             K: number of shortest paths to find
-            max_path_length: maximum allowed path length (to limit search depth)
+            max_hop: maximum allowed path hop (to limit search depth)
         
         Returns:
             A list of tuples, each containing:
@@ -179,15 +181,15 @@ class YensKSP:
             return []
         
         # 1. Find the first shortest path
-        path_0, weight_0 = self.dijkstra(source, target, node_seq, max_path_length)
-        #print(path_0)
+        path_0, weight_0 = self.dijkstra(source, target, node_seq, max_hop)
+        print(path_0)
         if not path_0:
             print(f"No path found from {source} to {target}")
             return []
         
         # Limit Path Length
-        if len(path_0) - 1 > max_path_length:
-            print(f"First path length {len(path_0)-1} exceeds limit {max_path_length}")
+        if len(path_0) - 1 > max_hop:
+            print(f"First path length {len(path_0)-1} exceeds limit {max_hop}")
             return []
         
         A = [(weight_0, path_0)]  # Main list to store the found paths
@@ -219,12 +221,12 @@ class YensKSP:
                 # 3d. Compute the shortest path from the divergence node to the target node
                 if node_seq:
                     spur_path, spur_weight = self.dijkstra(
-                        spur_node, target, node_seq[i:], max_path_length-i, excluded_edges, excluded_nodes
+                        spur_node, target, node_seq[i:], max_hop-i, excluded_edges, excluded_nodes
                     )
                 else:
-                    #print(spur_node,target,node_seq,max_path_length-i,excluded_edges,excluded_nodes)
+                    #print(spur_node,target,node_seq,max_hop-i,excluded_edges,excluded_nodes)
                     spur_path, spur_weight = self.dijkstra(
-                        spur_node, target, node_seq, max_path_length-i, excluded_edges, excluded_nodes
+                        spur_node, target, node_seq, max_hop-i, excluded_edges, excluded_nodes
                     )
                 #print('*',[spur_node,target])
                 #print([spur_weight,spur_path])
@@ -234,7 +236,7 @@ class YensKSP:
                     total_path = root_path[:-1] + spur_path
                     total_weight = self._calculate_path_weight(total_path)
                     # Check the path length constraint
-                    if len(total_path) - 1 <= max_path_length:
+                    if len(total_path) - 1 <= max_hop:
                         # Add to the candidate list
                         if (total_weight, total_path) not in B:
                             heapq.heappush(B, (total_weight, total_path))
@@ -305,7 +307,7 @@ class BiomedicalPathFinder(YensKSP):
         
     
     def find_topk_paths(self, source: str, target: str, node_seq: List, K: int = 10,
-                       max_hop: int = 3, min_hop: int = 1) -> List[Dict]:
+                       max_hop: int = 2, min_hop: int = 1) -> List[Dict]:
         """
         Search for the Top-K paths and return the detailed information
         

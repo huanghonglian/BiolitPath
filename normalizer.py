@@ -59,7 +59,7 @@ class Normalizer:
 
 
         # checkpoint on huggingface hub
-        self.NEURAL_NORM_MODEL_PATH = 'model/biolitNEN'
+        self.NEURAL_NORM_MODEL_PATH = 'model/BiolitNEN'
         self.NEURAL_NORM_CACHE_PATH = {
             'disease':os.path.join(self.BASE_DIR,
                     'normalizers/neural_norm_caches/dict_disease_202602.txt.pk'),
