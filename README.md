@@ -19,19 +19,14 @@ Place GNormPlus, resources, and tmVar3 under the `BiolitPath` directory. The com
 
 
 ```python
-# (For Linux Users) install CRF 
-cd GNormPlusJava
+#install CRF 
+cd GNormPlus
 mv CRF++-0.58 CRF
 cd CRF
 ./configure --prefix="$HOME"
 make
 make install
-cd ../..
-
-# (For Windows Users) install CRF 
-cd GNormPlusJava
-mv CRF++-0.58 CRF
-cd ../..
+cd ..
 ```
 
 ### Running BiolitPath
