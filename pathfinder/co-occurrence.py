@@ -12,6 +12,63 @@ from nltk.tokenize import sent_tokenize
 from ops import json_to_sent
 
 
+INVALID_ENTITY_IDS = {'undefined', 'CUI-less', ''}
+
+
+def split_normalized_ids(entity_type, raw_id):
+    """Return one normalized ID without splitting multi-ID gene annotations.
+
+    A semicolon-delimited gene value can represent an unresolved normalization
+    result rather than several genes explicitly mentioned in the text.  Keep
+    the complete value as one node so that, for example, ``2012;2013;2014``
+    becomes ``gene:2012;2013;2014`` instead of three separate gene nodes.
+    """
+    if raw_id is None:
+        return []
+
+    raw_id = str(raw_id).strip()
+    if raw_id in INVALID_ENTITY_IDS:
+        return []
+    return [raw_id]
+
+
+def build_mutation_nodes(entity, pmid):
+    """Build mutation metadata without changing the original node ID."""
+    mutation_ids = split_normalized_ids('mutation', entity.get('id'))
+    corresponding_genes = split_normalized_ids(
+        'gene', entity.get('CorrespondingGene')
+    )
+    return [
+        (mutation_id, {
+            'name': str(entity.get('mention', '')),
+            'mutation_id': mutation_id,
+            'corresponding_gene': ';'.join(corresponding_genes),
+            'subtype': str(entity.get('subtype', '')),
+        })
+        for mutation_id in mutation_ids
+    ]
+
+
+def merge_mutation_attributes(current, incoming):
+    """Merge multi-valued gene annotations for one unchanged mutation ID."""
+    if current is None:
+        return dict(incoming)
+
+    merged = dict(current)
+    genes = []
+    for attributes in (current, incoming):
+        genes.extend(
+            gene_id for gene_id in
+            attributes.get('corresponding_gene', '').split(';')
+            if gene_id
+        )
+    merged['corresponding_gene'] = ';'.join(dict.fromkeys(genes))
+    for field in ('name', 'mutation_id', 'subtype'):
+        if not merged.get(field) and incoming.get(field):
+            merged[field] = incoming[field]
+    return merged
+
+
 def read_dictionary():
     BASE_DIR='../resources/normalization'
 
@@ -35,6 +92,7 @@ def read_dictionary():
 
 def assign_entities_to_sentences(json_data):
     mentions_dict={}
+    mutation_metadata={}
     sent_ids=[]
     num=0
     file_sents_pos=[]
@@ -69,12 +127,17 @@ def assign_entities_to_sentences(json_data):
             for entity in each_item['entities'][entity_type]:
                 start=entity['start']
                 end=entity['end']
-                nor_id=entity['id']
-                if nor_id in ['undefined','CUI-less','']:
+                if entity_type == 'mutation':
+                    normalized_entities = build_mutation_nodes(entity, pmid)
+                else:
+                    normalized_entities = [
+                        (normalized_id, None)
+                        for normalized_id in split_normalized_ids(
+                            entity_type, entity.get('id')
+                        )
+                    ]
+                if not normalized_entities:
                     #print(entity_type,[content[start:end+1]],entity)
-                    continue
-                nor_id=entity_type+':'+nor_id
-                if nor_id=='species:9606':
                     continue
                 if entity_type not in ['gene','mutation','species','cellline'] and entity['prob']<0.5:
                     continue
@@ -89,13 +152,21 @@ def assign_entities_to_sentences(json_data):
                     #print(pmid,entity_type,[content[start:end+1]],entity)
                     continue
                 
-                if nor_id not in mentions_dict[entity_type]:
-                    mentions_dict[entity_type][nor_id]=[]
-                if sent_id not in mentions_dict[entity_type][nor_id]:
-                    mentions_dict[entity_type][nor_id].append(sent_id)
+                for normalized_id, metadata in normalized_entities:
+                    nor_id = entity_type + ':' + normalized_id
+                    if nor_id == 'species:9606':
+                        continue
+                    if nor_id not in mentions_dict[entity_type]:
+                        mentions_dict[entity_type][nor_id]=[]
+                    if sent_id not in mentions_dict[entity_type][nor_id]:
+                        mentions_dict[entity_type][nor_id].append(sent_id)
+                    if metadata is not None:
+                        mutation_metadata[nor_id] = merge_mutation_attributes(
+                            mutation_metadata.get(nor_id), metadata
+                        )
     sent_ids=list(set(sent_ids))
     #print(num)
-    return mentions_dict, sent_ids, file_sents_pos
+    return mentions_dict, sent_ids, file_sents_pos, mutation_metadata
 
 def assign_entities_to_pmid(json_data):
     mentions_dict={}
@@ -113,15 +184,24 @@ def assign_entities_to_pmid(json_data):
             if entity_type not in mentions_dict:
                 mentions_dict[entity_type]={}
             for entity in each_item['entities'][entity_type]:
-                nor_id=entity['id']
-                if nor_id in ['undefined','CUI-less','']:
+                if entity_type == 'mutation':
+                    normalized_ids = [
+                        node_id
+                        for node_id, _ in build_mutation_nodes(entity, pmid)
+                    ]
+                else:
+                    normalized_ids = split_normalized_ids(
+                        entity_type, entity.get('id')
+                    )
+                if not normalized_ids:
                     continue
                 entity_exist=True
-                nor_id=entity_type+':'+nor_id
-                if nor_id not in mentions_dict[entity_type]:
-                    mentions_dict[entity_type][nor_id]=[]
-                if pmid not in mentions_dict[entity_type][nor_id]:
-                    mentions_dict[entity_type][nor_id].append(pmid)
+                for normalized_id in normalized_ids:
+                    nor_id = entity_type + ':' + normalized_id
+                    if nor_id not in mentions_dict[entity_type]:
+                        mentions_dict[entity_type][nor_id]=[]
+                    if pmid not in mentions_dict[entity_type][nor_id]:
+                        mentions_dict[entity_type][nor_id].append(pmid)
         if entity_exist:
             pmids.append(pmid)
     return mentions_dict, pmids
@@ -204,9 +284,17 @@ def calculate_cooccurrence_pvalue(case,mentions_dict,sent_num):
                         if pvalue<1:
                             cui2_2pvalue[cui2]=pvalue
                             D[(cui1,cui2)]=[cui1,st1,cui2,st2,a,b,c,d,pvalue]
+                        else:
+                            # Count/NPMI graphs must also include co-occurring
+                            # pairs whose Fisher p-value is exactly one.
+                            D[(cui1,cui2)]=[cui1,st1,cui2,st2,a,b,c,d,pvalue,
+                                          1.0,0.0,npmi_from_counts(a,b,c,d)]
                 pvalues_list=list(cui2_2pvalue.values())
                 if len(pvalues_list)>0:
-                    adjusted_pvalue_minmum = min([i for i in pvalues_list if i>0])
+                    adjusted_pvalue_minmum = min(
+                        (i for i in pvalues_list if i > 0),
+                        default=np.finfo(float).tiny,
+                    )
                     enrichment_score = [-np.log(p) if p!=0 else -np.log(adjusted_pvalue_minmum)for p in pvalues_list]
                     e_index=0
                     for e, e_pvalue in cui2_2pvalue.items():
@@ -219,6 +307,7 @@ def calculate_cooccurrence_pvalue(case,mentions_dict,sent_num):
                         adjusted_pvalue = min(1.0, e_pvalue * float(numerator) / float(denominator))
                         D[(cui1,e)].append(adjusted_pvalue)
                         D[(cui1,e)].append(enrichment_score[e_index])
+                        D[(cui1,e)].append(npmi_from_counts(*D[(cui1,e)][4:8]))
                         e_index+=1
             if len(D)>0:
                 for k in D:
@@ -244,84 +333,91 @@ def merge_dicts(all_mentions):
                             all_mentions_dict[entity_type][cui].append(sent_id)
     return all_mentions_dict
 
+
+def merge_mutation_metadata(all_metadata):
+    """Merge metadata collected from multiple NEN output files."""
+    merged = {}
+    for metadata in all_metadata:
+        for node_id, attributes in metadata.items():
+            merged[node_id] = merge_mutation_attributes(
+                merged.get(node_id), attributes
+            )
+    return merged
+
 def normalized_score(co_occur_data):
     edge_weight={}
     node_sum_weight={}
     for row in co_occur_data:
         k=row[0]+'_'+row[2]
-        edge_weight[k]=row[-1]
+        edge_weight[k]=row[10]
         if row[0] not in node_sum_weight:
             node_sum_weight[row[0]]=0
-        node_sum_weight[row[0]]+=row[-1]
+        node_sum_weight[row[0]]+=row[10]
         if row[2] not in node_sum_weight:
             node_sum_weight[row[2]]=0
-        node_sum_weight[row[2]]+=row[-1]
+        node_sum_weight[row[2]]+=row[10]
     for row in co_occur_data:
         k=row[0]+'_'+row[2]
         nor_score=edge_weight[k]/math.sqrt(node_sum_weight[row[0]]+node_sum_weight[row[2]])
         row.append(nor_score)
     return co_occur_data
 
-def should_keep_relation(a, b, c, d, min_support=10):
-    """
-    Decision tree to determine if a relation should be kept based on co-occurrence statistics.
-    """
-
-    if a >= min_support:
-        return True
-        
-    N = a + b + c + d
-    # Calculate frequencies
-    freq_x = (a + b) / N  # entity X frequency
-    freq_y = (a + c) / N  # entity Y frequency
-    
-    # Calculate conditional probabilities
-    p_y_given_x = a / (a + b) if (a + b) > 0 else 0  # P(Y|X)
-    p_x_given_y = a / (a + c) if (a + c) > 0 else 0  # P(X|Y)
-    max_cooccur_ratio=max(p_y_given_x,p_x_given_y)
-
-        
-    # Strong directional relationship
-    if max_cooccur_ratio > 0.5:
-        return True
-    
-    # Check 3: At least one high-frequency entity with low co-occurrence
-    if freq_x > 0.1 or freq_y > 0.1:
-        return False
-    
-    # Check 4: Both conditional probabilities are too low
-    if p_y_given_x < 0.15 and p_x_given_y < 0.15:
-        return False
-    
-    # Default: keep with low confidence
-    return True
-
-    
 
 
-def save_co_occur_data(case,co_occur_data):
+
+def resolve_weight_threshold(weight_method, threshold=None):
+    """Validate graph filtering; retrieval requires positive edge weights."""
+    defaults = {'fisher': 0.05, 'npmi': 0.0, 'count': 1.0}
+    if weight_method not in defaults:
+        raise ValueError(f'Unknown weight method: {weight_method}')
+    threshold = defaults[weight_method] if threshold is None else threshold
+    if not math.isfinite(threshold):
+        raise ValueError('Threshold must be finite')
+    if weight_method == 'fisher' and not 0 < threshold <= 1:
+        raise ValueError('Fisher threshold must be in (0, 1]')
+    if weight_method == 'npmi' and not 0 <= threshold <= 1:
+        raise ValueError('NPMI threshold must be in [0, 1]; only positive weights are retained')
+    if weight_method == 'count' and (threshold < 1 or not float(threshold).is_integer()):
+        raise ValueError('Count threshold must be an integer >= 1')
+    return threshold
+
+
+def save_co_occur_data(case,co_occur_data,mutation_metadata=None,
+                       weight_method='fisher', threshold=None):
+    threshold = resolve_weight_threshold(weight_method, threshold)
+    mutation_metadata = mutation_metadata or {}
     if not os.path.exists(f'../case/{case}/pathfinder'):
         os.makedirs(f'../case/{case}/pathfinder')
     pval_path=f'../case/{case}/pathfinder/co_occur_pvalue.txt'
     edge_path=f'../case/{case}/pathfinder/graph.edgelist'
     node_path=f'../case/{case}/pathfinder/graph.nodelist'
+    # Rebuilding the text graph invalidates the path retrieval cache.
+    pickle_path = f'../case/{case}/pathfinder/graph.pkl'
+    if os.path.exists(pickle_path):
+        os.remove(pickle_path)
     node_info={}
     with open(pval_path,'w',encoding='utf-8') as fw, open(edge_path,'w',encoding='utf-8') as fw1:
-        fw.write('\t'.join(['id1','entity1_type','id2','entity2_type','a','b','c','d','pvalue','adjP','enrichment_score'])+'\n')
+        fw.write('\t'.join(['id1','entity1_type','id2','entity2_type','a','b','c','d','pvalue','adjP','enrichment_score', 'npmi'])+'\n')
         for row in co_occur_data:
-            a,b,c,d=row[4:8]
-            if row[-2]<0.05:
-                keep=should_keep_relation(a,b,c,d)
-                if keep:
-                    fw1.write('\t'.join([row[0],row[2],str(row[-1])])+'\n')
-                    if row[1] not in node_info:
-                        node_info[row[1]]={}
-                    if row[3] not in node_info:
-                        node_info[row[3]]={}
-                    if row[0] not in node_info[row[1]]:
-                        node_info[row[1]][row[0]]=''
-                    if row[2] not in node_info[row[3]]:
-                        node_info[row[3]][row[2]]=''
+            if weight_method == 'fisher':
+                weight = row[10]  # Preserve the existing -ln(raw p-value) score.
+                keep = row[9] < threshold
+            elif weight_method == 'npmi':
+                weight = row[11]
+                keep = weight is not None and weight > threshold
+            else:
+                weight = row[4]  # Number of distinct sentences containing both entities.
+                keep = weight >= threshold
+            if keep:
+                fw1.write('\t'.join([row[0],row[2],str(weight)])+'\n')
+                if row[1] not in node_info:
+                    node_info[row[1]]={}
+                if row[3] not in node_info:
+                    node_info[row[3]]={}
+                if row[0] not in node_info[row[1]]:
+                    node_info[row[1]][row[0]]=''
+                if row[2] not in node_info[row[3]]:
+                    node_info[row[3]][row[2]]=''
             row=[str(value) for value in row]
             fw.write('\t'.join(row)+'\n')
     norm_dict_path=read_dictionary()
@@ -350,7 +446,19 @@ def save_co_occur_data(case,co_occur_data):
     with open(node_path,'w',encoding='utf-8') as fw:
         for entity_type in node_info:
             for id_, name in node_info[entity_type].items():
-                fw.write('\t'.join([id_,name])+'\n')
+                if entity_type == 'mutation':
+                    metadata = mutation_metadata.get(id_, {})
+                    fw.write('\t'.join([
+                        id_,
+                        metadata.get('name', name),
+                        metadata.get('mutation_id', ''),
+                        metadata.get('corresponding_gene', ''),
+                        metadata.get('subtype', ''),
+                    ])+'\n')
+                else:
+                    fw.write('\t'.join([id_,name])+'\n')
+    with open(f'../case/{case}/pathfinder/graph_config.json', 'w', encoding='utf-8') as fp:
+        json.dump({'weight_method': weight_method, 'threshold': threshold}, fp, indent=2)
 
 
 def save_sent_mentions(case,all_mentions_dict,all_sent_pos):
@@ -385,25 +493,36 @@ def save_pmid_mentions(case,all_mentions_dict,):
 def main():
     argparser = argparse.ArgumentParser()
     argparser.add_argument('-c', '--case',help='Specify case name',required=True)
+    argparser.add_argument('--weight-method', choices=('fisher', 'npmi', 'count'), default='fisher',
+                           help='Graph edge weight (default: fisher)')
+    argparser.add_argument('--threshold', type=float,
+                           help='Fisher: adjP < threshold (0.05); NPMI: score > threshold (0); count: >= threshold (1)')
     args = argparser.parse_args()
+    try:
+        args.threshold = resolve_weight_threshold(args.weight_method, args.threshold)
+    except ValueError as exc:
+        argparser.error(str(exc))
     nen_path=f'../case/{args.case}/NENoutput/{args.case}*.json'
     nen_files = glob.glob(nen_path)
     all_mentions_dict=[]
     all_sent_ids=[]
     all_sent_pos=[]
     all_pmids=[]
+    all_mutation_metadata=[]
     print("Data loading in progress...")
     for nen_file in nen_files:
         print(f'\t{nen_file}')
         with open(nen_file, 'r', encoding='utf-8') as f:
             tagged_docs = json.load(f)
-        mentions_dict,sent_ids,sent_pos=assign_entities_to_sentences(tagged_docs)
+        mentions_dict,sent_ids,sent_pos,mutation_metadata=assign_entities_to_sentences(tagged_docs)
         #mentions_dict,pmids=assign_entities_to_pmid(tagged_docs)
         all_mentions_dict.append(mentions_dict)
+        all_mutation_metadata.append(mutation_metadata)
         #all_pmids+=pmids
         all_sent_pos+=sent_pos
         all_sent_ids+=sent_ids
     all_mentions_dict=merge_dicts(all_mentions_dict)
+    all_mutation_metadata=merge_mutation_metadata(all_mutation_metadata)
     all_sent_ids=list(set(all_sent_ids))
     #all_pmids=list(set(all_pmids))
     save_sent_mentions(args.case,all_mentions_dict,all_sent_pos)
@@ -417,7 +536,9 @@ def main():
     print(f"\n[SAVING] Writing co-occurrence data to output file...")
     print(f"[SAVE PATH] Results will be saved to: ../case/{args.case}/pathfinder")
 
-    save_co_occur_data(args.case,co_occur_data)
+    print(f'Graph weights: {args.weight_method}; threshold: {args.threshold}')
+    save_co_occur_data(args.case,co_occur_data,all_mutation_metadata,
+                       weight_method=args.weight_method, threshold=args.threshold)
     print(f"✓ Co-occurrence analysis completed successfully for case: '{args.case}'")
     
     
