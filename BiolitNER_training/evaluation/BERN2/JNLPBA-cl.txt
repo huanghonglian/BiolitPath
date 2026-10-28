@@ -1,0 +1,1659 @@
+DOC_0001|t|
+DOC_0001|a|Octamer-binding proteins from B or HeLa cells stimulate transcription of the immunoglobulin heavy-chain promoter in vitro .
+DOC_0001	31	32	B	cell_line
+
+DOC_0002|t|
+DOC_0002|a|Extracts of the B-cell line , BJA-B , contain high levels of NF-A2 and specifically transcribe Ig promoters .
+DOC_0002	17	28	B-cell line	cell_line
+DOC_0002	31	36	BJA-B	cell_line
+
+DOC_0003|t|
+DOC_0003|a|In contrast , extracts from HeLa cells transcribed the Ig promoter poorly .
+DOC_0003	29	39	HeLa cells	cell_line
+
+DOC_0004|t|
+DOC_0004|a|Studies with inhibitors of protein synthesis indicated that the time of synthesis of the activator of the IL-2 gene in Jurkat T cells corresponds to the time of appearance of NFAT-1 .
+DOC_0004	120	134	Jurkat T cells	cell_line
+
+DOC_0005|t|
+DOC_0005|a|Characterization of thyroid hormone receptors in human IM-9 lymphocytes .
+DOC_0005	50	72	human IM-9 lymphocytes	cell_line
+
+DOC_0006|t|
+DOC_0006|a|As a first step towards understanding the mechanism of thyroid hormone action in man we have characterized T3 binding sites in nuclei of the human lymphoblastoid line , IM-9 cells .
+DOC_0006	142	167	human lymphoblastoid line	cell_line
+DOC_0006	170	173	IM-	cell_line
+DOC_0006	173	180	9 cells	cell_line
+
+DOC_0007|t|
+DOC_0007|a|These results suggest that the T3 binding sites present in human IM-9 lymphocyte nuclei and extracts thereof are thyroid hormone receptors .
+DOC_0007	60	81	human IM-9 lymphocyte	cell_line
+
+DOC_0008|t|
+DOC_0008|a|Further studies show that genes governing the expression of class II antigens fall into at least three complementation groups ; two of these were previously unidentified in mutant cell lines generated in vitro .
+DOC_0008	174	191	mutant cell lines	cell_line
+
+DOC_0009|t|
+DOC_0009|a|Though the mutation in at least one mutant line generated in vitro ( RJ2.2.5 ) affects products functioning via interaction with the X box , clear alterations in either NFX1.1 or NFX1.2 are not found in any of the mutant cell lines .
+DOC_0009	37	48	mutant line	cell_line
+DOC_0009	70	75	RJ2.2	cell_line
+DOC_0009	215	232	mutant cell lines	cell_line
+
+DOC_0010|t|
+DOC_0010|a|Properties of glucocorticoid receptors in Epstein-Barr virus-transformed lymphocytes from patients with familial cortisol resistance .
+DOC_0010	43	85	Epstein-Barr virus-transformed lymphocytes	cell_line
+
+DOC_0011|t|
+DOC_0011|a|In a previous report of two patients with familial glucocorticoid resistance due to reduced numbers of glucocorticoid receptors ( GR ) , we have shown decreased numbers of GR in peripheral mononuclear cells and cultured fibroblasts but normal affinity of GR in both patients .
+DOC_0011	212	232	cultured fibroblasts	cell_line
+
+DOC_0012|t|
+DOC_0012|a|Reduced numbers and normal affinity of GR were found in the Epstein-Barr virus-transformed lymphocytes from both patients while the son and daughter had normal numbers and affinity of GR .
+DOC_0012	61	103	Epstein-Barr virus-transformed lymphocytes	cell_line
+
+DOC_0013|t|
+DOC_0013|a|These abnormal properties of GR ( reduced numbers of GR ) were preserved in the transformed cells from the patients .
+DOC_0013	81	98	transformed cells	cell_line
+
+DOC_0014|t|
+DOC_0014|a|From several findings , including the absence of OTF-2B ( but not OTF-2A ) from a lymphocyte line that can not respond to the IgH enhancer , we propose a role of the novel octamer factor in the long range activation by the IgH enhancer .
+DOC_0014	83	98	lymphocyte line	cell_line
+
+DOC_0015|t|
+DOC_0015|a|Inhibition of interleukin 2 -induced proliferation of cloned murine T cells by glucocorticoids .
+DOC_0015	55	76	cloned murine T cells	cell_line
+
+DOC_0016|t|
+DOC_0016|a|The ability of glucocorticoids to inhibit interleukin 2 ( IL 2 ) -induced T cell proliferation in two cytotoxic T cell ( CTL ) clones has been studied .
+DOC_0016	103	134	cytotoxic T cell ( CTL ) clones	cell_line
+
+DOC_0017|t|
+DOC_0017|a|A complete inhibition of DNA synthesis by dexamethasone ( Dx ) could be observed when IL 2-depleted cultures of CTL were either incubated for 6 h with the hormone prior to the addition of IL 2 or treated simultaneously with Dx and a low concentration of IL 2 .
+DOC_0017	87	109	IL 2-depleted cultures	cell_line
+
+DOC_0018|t|
+DOC_0018|a|Furthermore , supernatant from Dx-treated CTL contained a nondialyzable factor which inhibited DNA synthesis and cell growth of CTL clones induced by IL 2 .
+DOC_0018	32	46	Dx-treated CTL	cell_line
+DOC_0018	129	139	CTL clones	cell_line
+
+DOC_0019|t|
+DOC_0019|a|The enhancer-binding factor NF-kappa B , which is found only in cells that transcribe immunoglobulin light chain genes , has been purified from nuclear extracts of Namalwa cells ( human Burkitt lymphoma cells ) by sequence-specific DNA affinity chromatography .
+DOC_0019	165	178	Namalwa cells	cell_line
+DOC_0019	181	209	human Burkitt lymphoma cells	cell_line
+
+DOC_0020|t|
+DOC_0020|a|Decreased deoxyribonucleic acid binding of glucocorticoid-receptor complex in cultured skin fibroblasts from a patient with the glucocorticoid resistance syndrome .
+DOC_0020	79	104	cultured skin fibroblasts	cell_line
+
+DOC_0021|t|
+DOC_0021|a|To explain the end-organ resistance to cortisol , the glucocorticoid receptors ( GR ) in peripheral mononuclear leukocytes and cultured skin fibroblasts from a forearm skin biopsy were characterized and compared with the results of similar studies in normal subjects .
+DOC_0021	128	153	cultured skin fibroblasts	cell_line
+
+DOC_0022|t|
+DOC_0022|a|In the cytosol of cultured skin fibroblasts from the patient , there was also decreased binding capacity .
+DOC_0022	19	44	cultured skin fibroblasts	cell_line
+
+DOC_0023|t|
+DOC_0023|a|The thermal stability and the sedimentation coefficient in a sucrose density gradient of the receptors in the cytosol of cultured skin fibroblasts from the patient and normal subjects were similar .
+DOC_0023	122	147	cultured skin fibroblasts	cell_line
+
+DOC_0024|t|
+DOC_0024|a|GR complex activation , analyzed by DEAE-cellulose chromatography , was decreased in the patient .
+
+DOC_0025|t|
+DOC_0025|a|The regulation of GM-CSF expression is seen in both normal human mitogen-activated T lymphocytes and T lymphocytes from a line ( S-LB1 ) transformed with human T cell lymphotropic virus 1 ( HTLV-1 ) .
+DOC_0025	123	127	line	cell_line
+DOC_0025	130	135	S-LB1	cell_line
+
+DOC_0026|t|
+DOC_0026|a|In contrast , cells from a HTLV-1 transformed T lymphocyte line ( Ab-VDR ) established from a patient with vitamin D-resistant rickets type II with undetectable 1 , 25 ( OH ) 2D3 cellular receptors are resistant to the action of 1 , 25 ( OH ) 2D3 .
+DOC_0026	28	64	HTLV-1 transformed T lymphocyte line	cell_line
+DOC_0026	67	73	Ab-VDR	cell_line
+
+DOC_0027|t|
+DOC_0027|a|The effects of cortisol on the natural killer ( NK ) activity of human peripheral blood mononuclear ( PBM ) cells were studied in vitro using a direct 4-h 51Cr-release assay and K 562 cell line as a target .
+DOC_0027	66	114	human peripheral blood mononuclear ( PBM ) cells	cell_line
+DOC_0027	179	194	K 562 cell line	cell_line
+
+DOC_0028|t|
+DOC_0028|a|Octamer-containing fragments have been reported to bind a factor present in nuclear extracts of human cell lines ; however , identical binding activity was detected in both B lymphoid and non-lymphoid cells .
+DOC_0028	97	113	human cell lines	cell_line
+
+DOC_0029|t|
+DOC_0029|a|The promoters of the adenovirus 2 major late gene , the mouse beta-globin gene , the mouse immunoglobulin VH gene and the LTR of the human T-lymphotropic retrovirus type I were tested for their transcription activities in cell-free extracts of four cell lines ; HeLa , CESS ( Epstein-Barr virus-transformed human B cell line ) , MT-1 ( HTLV-I-infected human T cell line without viral protein synthesis ) , and MT-2 ( HTLV-I-infected human T cell line producing viral proteins ) .
+DOC_0029	250	260	cell lines	cell_line
+DOC_0029	263	267	HeLa	cell_line
+DOC_0029	270	274	CESS	cell_line
+DOC_0029	277	325	Epstein-Barr virus-transformed human B cell line	cell_line
+DOC_0029	330	334	MT-1	cell_line
+DOC_0029	337	370	HTLV-I-infected human T cell line	cell_line
+DOC_0029	411	415	MT-2	cell_line
+DOC_0029	418	451	HTLV-I-infected human T cell line	cell_line
+
+DOC_0030|t|
+DOC_0030|a|LTR was preferentially transcribed in the extracts of MT-2 although the other three genes were transcribed with relatively constant efficiencies in different extracts .
+DOC_0030	55	59	MT-2	cell_line
+
+DOC_0031|t|
+DOC_0031|a|Interestingly , a factor showing similar binding specificity to IgNF-A is also present in human HeLa cells .
+DOC_0031	91	107	human HeLa cells	cell_line
+
+DOC_0032|t|
+DOC_0032|a|The glucocorticoid target tissues that have been examined ( circulating mononuclear lymphocytes and cultured skin fibroblasts ) have normal concentrations of glucocorticoid receptors with decreased affinity for dexamethasone .
+DOC_0032	101	126	cultured skin fibroblasts	cell_line
+
+DOC_0033|t|
+DOC_0033|a|Separate epitopes in VP22 were defined for T-cell clones from each of three patients .
+DOC_0033	44	57	T-cell clones	cell_line
+
+DOC_0034|t|
+DOC_0034|a|Some tegument-specific CD4 T-cell clones exhibited cytotoxic activity against HSV-infected cells .
+DOC_0034	6	41	tegument-specific CD4 T-cell clones	cell_line
+
+DOC_0035|t|
+DOC_0035|a|U937 cells differentiated with PMA in nonadherent culture were shown to express two fibrinogen-binding integrins , predominately CD11b/CD18 , and to a lesser extent , CD11c/CD18 .
+DOC_0035	1	11	U937 cells	cell_line
+DOC_0035	39	58	nonadherent culture	cell_line
+
+DOC_0036|t|
+DOC_0036|a|To determine the effects on transcriptional regulation , U937 cells were transfected with a plasmid containing the HIV-1 enhancer ( bearing two NF-kappa B sites ) coupled to a chloramphenicol acetyltransferase ( CAT ) reporter .
+DOC_0036	58	68	U937 cells	cell_line
+
+DOC_0037|t|
+DOC_0037|a|Peripheral blood T cells and monocytes and B cell lines derived from patients with lupus express estrogen receptor transcripts similar to those of normal cells .
+DOC_0037	44	56	B cell lines	cell_line
+
+DOC_0038|t|
+DOC_0038|a|Epstein-Barr virus-transformed B cell lines ( n = 7 ) and B cell hybridomas ( n = 2 ) established from patients with SLE and a healthy individual were used as a B cell source .
+DOC_0038	32	44	B cell lines	cell_line
+DOC_0038	59	76	B cell hybridomas	cell_line
+DOC_0038	162	168	B cell	cell_line
+
+DOC_0039|t|
+DOC_0039|a|Using the 1G5 cell line harbouring the luciferase reporter gene under the control of the HIV-1 LTR , it was first found that culture protein filtrates ( CFP ) from M. tuberculosis or purified ManLAM could activate HIV-1 LTR-dependent gene expression unlike similarly prepared CFP extracts devoid of ManLAM .
+DOC_0039	11	24	1G5 cell line	cell_line
+
+DOC_0040|t|
+DOC_0040|a|Transient expression analyses in cells of neuroglial and lymphocytic origin demonstrated that some of these LTRs had activities which varied significantly from the LAI LTR in U-373 MG cells ( an astrocytoma cell line ) as well as in Jurkat cells ( a CD4-positive lymphocyte cell line ) .
+DOC_0040	176	190	U-373 MG cells	cell_line
+DOC_0040	196	217	astrocytoma cell line	cell_line
+DOC_0040	234	246	Jurkat cells	cell_line
+DOC_0040	251	284	CD4-positive lymphocyte cell line	cell_line
+
+DOC_0041|t|
+DOC_0041|a|While LTRs which demonstrated the highest activities in U-373 MG cells also yielded high activities in Jurkat cells , the LTRs were generally more active in Jurkat cells when compared to the LAI LTR .
+DOC_0041	57	71	U-373 MG cells	cell_line
+DOC_0041	158	170	Jurkat cells	cell_line
+
+DOC_0042|t|
+DOC_0042|a|Transcriptional regulation of the gene for the myeloid calcium binding protein , MRP14 , was investigated in human monocytic leukemia cell lines .
+DOC_0042	110	145	human monocytic leukemia cell lines	cell_line
+
+DOC_0043|t|
+DOC_0043|a|The MRP14 gene was not expressed in monoblastic ML-1 cells , promonocytic U-937 cells , or promyelocytic HL-60 cells .
+DOC_0043	37	59	monoblastic ML-1 cells	cell_line
+DOC_0043	62	86	promonocytic U-937 cells	cell_line
+DOC_0043	92	117	promyelocytic HL-60 cells	cell_line
+
+DOC_0044|t|
+DOC_0044|a|On the other hand , the gene was expressed in monocytic THP-1 cells and in the HL-60 cells treated with 1 , 25-dihydroxyvitamin D3 ( VD3 ) .
+DOC_0044	47	68	monocytic THP-1 cells	cell_line
+DOC_0044	80	91	HL-60 cells	cell_line
+
+DOC_0045|t|
+DOC_0045|a|The level of MRP14 in VD3-treated HL-60 cells was two-fold higher than that in THP-1 cells .
+DOC_0045	23	26	VD3	cell_line
+DOC_0045	80	91	THP-1 cells	cell_line
+
+DOC_0046|t|
+DOC_0046|a|Among several known transcription factor binding motifs , nuclear protein ( s ) of VD3-treated HL-60 cells and THP-1 cells bound to the CCAAT/enhancer binding protein ( C/EBP ) -binding motif that was located in the upstream region of the MRP14 gene ( -81 ) , as evidenced by the competitive gel mobility-shift assay .
+DOC_0046	84	107	VD3-treated HL-60 cells	cell_line
+DOC_0046	112	123	THP-1 cells	cell_line
+
+DOC_0047|t|
+DOC_0047|a|An antibody for C/EBP alpha super-shifted the nucleoprotein complex in THP-1 cells but not in the VD3-treated HL-60 cells , whereas an antibody for C/EBP beta blocked the formation of the complex with the nuclear factor of the HL-60 cells but not with that of THP-1 cells .
+DOC_0047	72	83	THP-1 cells	cell_line
+DOC_0047	99	122	VD3-treated HL-60 cells	cell_line
+DOC_0047	228	239	HL-60 cells	cell_line
+DOC_0047	261	272	THP-1 cells	cell_line
+
+DOC_0048|t|
+DOC_0048|a|Thus , it was concluded that C/EBP alpha and -beta were able to bind to the C/EBP motif , and that C/EBP alpha bound to the motif in THP-1 cells and C/EBP beta bound to that in the VD3-treated HL-60 cells .
+DOC_0048	134	145	THP-1 cells	cell_line
+DOC_0048	182	205	VD3-treated HL-60 cells	cell_line
+
+DOC_0049|t|
+DOC_0049|a|Furthermore , to examine the transcriptional activity of the C/EBP motif , we transfected several constructed luciferase reporter DNAs into HL-60 cells and THP-1 cells .
+DOC_0049	141	152	HL-60 cells	cell_line
+DOC_0049	157	162	THP-1	cell_line
+
+DOC_0050|t|
+DOC_0050|a|The luciferase activity of the C/EBP motif in HL-60 cells was increased by VD3 treatment .
+DOC_0050	47	58	HL-60 cells	cell_line
+
+DOC_0051|t|
+DOC_0051|a|The C/EBP motif in the MRP14 gene was confirmed to function as a regulatory region in VD3-treated HL-60 cells and THP-1 cells by the assay .
+DOC_0051	115	126	THP-1 cells	cell_line
+
+DOC_0052|t|
+DOC_0052|a|Since C/EBP beta was also detected in VD3-untreated HL-60 cells by immunoblotting , VD3 activated C/EBP beta to bind to the motif , probably through post-translational modification .
+
+DOC_0053|t|
+DOC_0053|a|Steroid metabolism was investigated in cultured human B-lymphoblastoid cells ( B-LCL ) , and peripheral blood T and B cells .
+DOC_0053	40	77	cultured human B-lymphoblastoid cells	cell_line
+DOC_0053	80	85	B-LCL	cell_line
+
+DOC_0054|t|
+DOC_0054|a|There was minimal expression of HSD3B1 and HSD3B2 ( 3beta-hydroxysteroid dehydrogenase I and II ) in B-LCL and T cells .
+DOC_0054	102	107	B-LCL	cell_line
+
+DOC_0055|t|
+DOC_0055|a|In this report the biochemical properties of the heterotrimeric NF-Y complex have been characterized during stage-specific B-cell development , and in several class II- mutant B-cell lines , which represent distinct bare lymphocyte syndrome class II genetic complementation groups .
+
+DOC_0056|t|
+DOC_0056|a|The NF-Y complex derived from class II+ mature B-cells bound with high affinity to anion exchangers , and eluted as an intact trimeric complex , whereas , NF-Y derived from class II- plasma B-cells , and from bare lymphocyte syndrome group II cell lines , RJ2.2.5 and RM3 , dissociated into discrete NF-YA and NF-YB : C subunit fractions .
+DOC_0056	31	55	class II+ mature B-cells	cell_line
+DOC_0056	174	198	class II- plasma B-cells	cell_line
+DOC_0056	210	254	bare lymphocyte syndrome group II cell lines	cell_line
+DOC_0056	257	260	RJ2	cell_line
+
+DOC_0057|t|
+DOC_0057|a|We found that the conversion of 70Z/3 pre-B lymphocytes to cells with a macrophage-like phenotype is associated with the loss of E2A and EBF .
+DOC_0057	33	56	70Z/3 pre-B lymphocytes	cell_line
+
+DOC_0058|t|
+DOC_0058|a|Moreover , we show that ectopic expression of the E2A protein E12 in this macrophage line results in the induction of many B lineage genes , including EBF , IL7Ralpha , lambda5 , and Rag-1 , and the ability to induce kappa light chain in response to mitogen .
+DOC_0058	75	90	macrophage line	cell_line
+
+DOC_0059|t|
+DOC_0059|a|Our data demonstrate that , in the context of this macrophage line , E12 induces expression of EBF and together these transcription factors coordinately regulate numerous B lineage-associated genes .
+DOC_0059	52	67	macrophage line	cell_line
+
+DOC_0060|t|
+DOC_0060|a|Use of transfected liver cells to evaluate potential mechanisms of alcohol-induced liver injury [ see comments ]
+DOC_0060	8	31	transfected liver cells	cell_line
+
+DOC_0061|t|
+DOC_0061|a|The objectives of these studies were to investigate mechanisms for induction of an injurious factor ( IL-8 ) and a protective factor ( MnSOD ) in the HepG2 human hepatoma cell line .
+DOC_0061	151	156	HepG2	cell_line
+DOC_0061	157	181	human hepatoma cell line	cell_line
+
+DOC_0062|t|
+DOC_0062|a|In the first set of experiments , IL-8 gene reporter constructs were used to transiently transfect a derivative ( MVh2E1-9 ) of the HepG2 cell line which expresses P-4502E1 and metabolizes ethanol .
+DOC_0062	115	123	MVh2E1-9	cell_line
+DOC_0062	133	148	HepG2 cell line	cell_line
+
+DOC_0063|t|
+DOC_0063|a|In the second set of experiments , HepG2 cells were cultured in 25 to 100 mmol concentrations of ethanol .
+DOC_0063	36	47	HepG2 cells	cell_line
+
+DOC_0064|t|
+DOC_0064|a|Both TNF and ethanol increased HepG2 cell MnSOD activity in short-term ( 72 hr ) cultures with ethanol .
+DOC_0064	32	42	HepG2 cell	cell_line
+
+DOC_0065|t|
+DOC_0065|a|Further studies are needed to assess the effect of this diminished induction of MnSOD with chronic ethanol culture on HepG2 cell susceptibility to TNF cytotoxicity .
+DOC_0065	119	129	HepG2 cell	cell_line
+
+DOC_0066|t|
+DOC_0066|a|We conclude that transfected liver cell lines can be used to evaluate mechanisms for increased injurious factors and decreased protective factors in alcoholic liver injury .
+DOC_0066	18	46	transfected liver cell lines	cell_line
+
+DOC_0067|t|
+DOC_0067|a|MPs and HeLa cells subjected to hypoxia ( pO2 approximately 13 torr ) had increased levels of tissue factor transcripts ( approximately 18-fold ) and an increased rate of transcription ( approximately 15-fold ) , based on nuclear run-on analysis .
+DOC_0067	9	19	HeLa cells	cell_line
+
+DOC_0068|t|
+DOC_0068|a|Gel-shift analysis of nuclear extracts from hypoxic MPs and HeLa cells demonstrated increased DNA-binding activity at the serum response region ( SRR ; -111/+14 bp ) of the tissue factor promoter at Egr-1 motifs .
+DOC_0068	61	71	HeLa cells	cell_line
+
+DOC_0069|t|
+DOC_0069|a|Using 32P-labeled Egr consensus oligonucleotide , we observed induction of DNA-binding activity in nuclear extracts from hypoxic lung and HeLa cells because of activation of Egr-1 , by means of supershift analysis .
+DOC_0069	139	149	HeLa cells	cell_line
+
+DOC_0070|t|
+DOC_0070|a|Transient transfection of HeLa cells with chimeric plasmids containing wild-type or mutant SRR from the tissue factor promoter showed that intact Sp1 sites are necessary for basal promoter activity , whereas the integrity of Egr-1 sites was required for hypoxia-enhanced expression .
+DOC_0070	27	37	HeLa cells	cell_line
+
+DOC_0071|t|
+DOC_0071|a|Kinetics of cytokine and NFAT gene expression in human interleukin-2-dependent T lymphoblasts stimulated via T-cell receptor .
+DOC_0071	50	94	human interleukin-2-dependent T lymphoblasts	cell_line
+
+DOC_0072|t|
+DOC_0072|a|The transcriptional regulatory region of the gp34 gene was activated by HTLV-I Tax in the human T cell line Jurkat , in which endogenous gp34 is induced by Tax .
+DOC_0072	91	115	human T cell line Jurkat	cell_line
+
+DOC_0073|t|
+DOC_0073|a|Unlike typical NF-kappaB elements , the NF-kappaB-like elements in gp34 were not activated by treatment of Jurkat cells with phorbol ester despite induction of the NF-kappaB -like binding activity .
+DOC_0073	108	120	Jurkat cells	cell_line
+
+DOC_0074|t|
+DOC_0074|a|beta-Amyloid fibrils activate parallel mitogen-activated protein kinase pathways in microglia and THP1 monocytes .
+DOC_0074	99	113	THP1 monocytes	cell_line
+
+DOC_0075|t|
+DOC_0075|a|We report that exposure of primary rat microglia and human THP1 monocytes to fibrillar Abeta results in the tyrosine kinase -dependent activation of two parallel signal transduction cascades involving members of the mitogen-activated protein kinase ( MAPK ) superfamily .
+DOC_0075	54	74	human THP1 monocytes	cell_line
+
+DOC_0076|t|
+DOC_0076|a|Abeta stimulated the rapid , transient activation of extracellular signal-regulated kinase 1 ( ERK1 ) and ERK2 in microglia and ERK2 in THP1 monocytes .
+DOC_0076	137	151	THP1 monocytes	cell_line
+
+DOC_0077|t|
+DOC_0077|a|Exposure of microglia and THP1 monocytes to Abeta resulted in the activation of RSK1 and RSK2 and phosphorylation of cAMP response element-binding protein at Ser133 , providing a mechanism for Abeta -induced changes in gene expression
+DOC_0077	27	41	THP1 monocytes	cell_line
+
+DOC_0078|t|
+DOC_0078|a|In this study , we analyzed normal and malignant lymphoid tissues and cell lines , including 102 cases of B-cell NHL , 23 cases of T- and null-cell NHL , and 18 cases of Hodgkin 's disease .
+DOC_0078	71	81	cell lines	cell_line
+DOC_0078	139	152	null-cell NHL	cell_line
+
+DOC_0079|t|
+DOC_0079|a|Western blot analysis showed a 52-kD BSAP band in B-cell lines , but not in non-B-cell or plasma cell lines .
+DOC_0079	51	63	B-cell lines	cell_line
+DOC_0079	77	108	non-B-cell or plasma cell lines	cell_line
+
+DOC_0080|t|
+DOC_0080|a|Isolation and analysis of a T cell clone variant exhibiting constitutively phosphorylated Ser133 cAMP response element-binding protein .
+DOC_0080	29	49	T cell clone variant	cell_line
+
+DOC_0081|t|
+DOC_0081|a|PCNA transcription is regulated in part through tandem CRE sequences in the promoter and CRE binding proteins ; IL-2 stimulates CREB phosphorylation in the resting cloned T lymphocyte , L2 .
+DOC_0081	157	184	resting cloned T lymphocyte	cell_line
+
+DOC_0082|t|
+DOC_0082|a|After culturing L2 cells for greater than 91 days , we consistently isolate a stable variant that exhibits constitutive CREB phosphorylation .
+DOC_0082	17	25	L2 cells	cell_line
+
+DOC_0083|t|
+DOC_0083|a|L2 and L2 variant cells were tested for IL-2 responsiveness and rapamycin sensitivity with respect to specific kinase activity , PCNA expression and proliferation .
+DOC_0083	1	3	L2	cell_line
+DOC_0083	8	24	L2 variant cells	cell_line
+
+DOC_0084|t|
+DOC_0084|a|In L2 cells , IL-2 stimulated and rapamycin inhibited the following : cAMP-independent CREB kinase activity , PCNA expression and proliferation .
+DOC_0084	4	12	L2 cells	cell_line
+
+DOC_0085|t|
+DOC_0085|a|In L2 variant cells , CREB kinase activity was constitutively high ; IL-2 stimulated and rapamycin blocked PCNA expression and proliferation .
+DOC_0085	4	20	L2 variant cells	cell_line
+
+DOC_0086|t|
+DOC_0086|a|These results indicate that IL-2 induces a rapamycin-sensitive , cAMP-independent CREB kinase activity in L2 cells .
+DOC_0086	107	115	L2 cells	cell_line
+
+DOC_0087|t|
+DOC_0087|a|CS at 50-200 microM reduced tumor necrosis factor ( TNF ) , interleukin-1 ( IL-1 ) , and IL-6 activities in the culture supernatants from LPS-stimulated human blood monocytes without cytotoxicity .
+DOC_0087	139	175	LPS-stimulated human blood monocytes	cell_line
+
+DOC_0088|t|
+DOC_0088|a|The level of nm23-H1 mRNA in CML cells at the chronic phase was as high as that in bone marrow cells from healthy volunteers .
+DOC_0088	30	39	CML cells	cell_line
+
+DOC_0089|t|
+DOC_0089|a|We first developed two thymidine kinase ( tk ) inducible human cell lines using the Gal4-Estrogen receptor system .
+DOC_0089	24	74	thymidine kinase ( tk ) inducible human cell lines	cell_line
+
+DOC_0090|t|
+DOC_0090|a|In our TK6i-G3 and G9 tk heterozygous cell lines , the active tk allele is linked to an inducible promoter element .
+DOC_0090	8	49	TK6i-G3 and G9 tk heterozygous cell lines	cell_line
+
+DOC_0091|t|
+DOC_0091|a|Spontaneous mutation rate was significantly decreased in human cell lines after induction in contrast to the report in yeast .
+DOC_0091	58	74	human cell lines	cell_line
+
+DOC_0092|t|
+DOC_0092|a|A third member of the family ( MNP-3 ) is expressed in PMA induced HL60 cells and probably has a role in monocyte differentiation .
+DOC_0092	68	78	HL60 cells	cell_line
+
+DOC_0093|t|
+DOC_0093|a|In TF-1 cells , an erythroleukemia cell line , granulocyte-macrophage colony-stimulating factor ( GM-CSF ) and erythropoietin ( Epo ) greatly enhanced Bcl-3 expression at both the protein and mRNA levels in association with stimulation of proliferation .
+DOC_0093	4	14	TF-1 cells	cell_line
+DOC_0093	20	45	erythroleukemia cell line	cell_line
+
+DOC_0094|t|
+DOC_0094|a|Upon stimulation of TF-1 cells with GM-CSF or Epo , the nuclear translocation of Bcl-3 was dramatically enhanced .
+DOC_0094	21	31	TF-1 cells	cell_line
+
+DOC_0095|t|
+DOC_0095|a|Overexpression of Bcl-3 in TF-1 cells by transient transfection along with the NF-kappaB factors p50 or p52 resulted in significant induction of an human immunodeficiency virus-type 1 ( HIV-1 ) kappaB-TATA-luceriferase reporter plasmid , demonstrating that Bcl-3 has a positive role in transactivation of kappaB-containing genes in erythroid cells .
+DOC_0095	28	38	TF-1 cells	cell_line
+DOC_0095	333	348	erythroid cells	cell_line
+
+DOC_0096|t|
+DOC_0096|a|Bcl-3 in nuclear extracts of TF-1 cells bound to a kappaB enhancer in the c-myb promoter together with NF-kappaB2/p52 and this binding activity was enhanced by GM-CSF stimulation .
+DOC_0096	30	40	TF-1 cells	cell_line
+
+DOC_0097|t|
+DOC_0097|a|Furthermore , cotransfection of Bcl-3 with p52 or p50 in TF-1 cells resulted in significant activation of a c-myb kappaB-TATA-luceriferase reporter plasmid .
+DOC_0097	58	68	TF-1 cells	cell_line
+
+DOC_0098|t|
+DOC_0098|a|A synthetic peptide consisting of the Kaposi fibroblast growth factor signal sequence fused to the 5-lipoxygenase639-656 bipartite nuclear localizing sequence has a prominent inhibitory effect on 5-lipoxygenase catalysis in granulocytic HL-60 cells activated by calcium ionophor A23187 .
+DOC_0098	225	249	granulocytic HL-60 cells	cell_line
+
+DOC_0099|t|
+DOC_0099|a|The peptide also inhibited redistribution of 5-lipoxygenase from the cytosol to the nuclear membrane of HL-60 cells stimulated by A23187 .
+DOC_0099	105	116	HL-60 cells	cell_line
+
+DOC_0100|t|
+DOC_0100|a|5-Lipoxygenase protein was detected in nuclear factor kappaB ( NF-kappaB ) p65 subunit immunoprecipitate fractions prepared from HL-60 cell lysates .
+DOC_0100	130	140	HL-60 cell	cell_line
+
+DOC_0101|t|
+DOC_0101|a|We have demonstrated that in both HTLV-1-infected cells and Tax-expressing JPX-9 cells , TR3/nur77 is highly expressed , whereas neither NOR-1 nor NOT expression is detectable .
+DOC_0101	35	56	HTLV-1-infected cells	cell_line
+DOC_0101	61	87	Tax-expressing JPX-9 cells	cell_line
+
+DOC_0102|t|
+DOC_0102|a|In Jurkat T cells , inhibition of PP2A activity by small t antigen enhanced activation of CREB -mediated transcription by CaMKIV .
+DOC_0102	4	18	Jurkat T cells	cell_line
+
+DOC_0103|t|
+DOC_0103|a|We have investigated the effect of hypoxia both on MCP-1 expression in ovarian cancer cell lines and monocyte migration .
+DOC_0103	72	97	ovarian cancer cell lines	cell_line
+
+DOC_0104|t|
+DOC_0104|a|By using purified human erythroid colony-forming cells ( ECFC ) , we have found that SCF and EPO synergistically activate MAP kinase ( MAPK , ERK1/2 ) , which correlates with the cell growth and thus may be responsible for the synergistic effects .
+DOC_0104	10	55	purified human erythroid colony-forming cells	cell_line
+DOC_0104	58	62	ECFC	cell_line
+
+DOC_0105|t|
+DOC_0105|a|Antioxidant regulation of phorbol ester-induced adhesion of human Jurkat T-cells to endothelial cells .
+DOC_0105	61	81	human Jurkat T-cells	cell_line
+
+DOC_0106|t|
+DOC_0106|a|The effects of clinically safe antioxidants in the regulation of adhesion molecule expression in human endothelial cells ( ECV ) , and adherence of human Jurkat T cells to ECV cells were investigated .
+DOC_0106	149	169	human Jurkat T cells	cell_line
+
+DOC_0107|t|
+DOC_0107|a|Inhibition of PMA-induced ICAM-1 and VCAM-1 expression as well as PMA-induced adhesion of Jurkat T-cells to ECV cells by alpha-lipoate was dose dependent ( 50-250 microM ) .
+DOC_0107	91	105	Jurkat T-cells	cell_line
+
+DOC_0108|t|
+DOC_0108|a|Using the Raji B cell lymphoma , which express similar levels of CD80 and CD86 , it was found that T cell proliferation was mainly co-stimulated by CD80 .
+DOC_0108	11	31	Raji B cell lymphoma	cell_line
+
+DOC_0109|t|
+DOC_0109|a|To further characterize the consequences of this biased co-stimulatory dependency , we employed a well-defined system of transfected CHO cells expressing human MHC class II together with CD80 , CD86 or CD80 and CD86 .
+DOC_0109	122	143	transfected CHO cells	cell_line
+
+DOC_0110|t|
+DOC_0110|a|To analyze IL-2 transcriptional activity in CD80 and CD86 co-stimulated T cells we used Jurkat T cells transfected with luciferase reporter gene constructs .
+DOC_0110	45	53	CD80 and	cell_line
+DOC_0110	89	103	Jurkat T cells	cell_line
+
+DOC_0111|t|
+DOC_0111|a|We report here that the DR3 gene locus is tandemly duplicated on human chromosome band 1p36.2-p36.3 and that these genes are hemizygously deleted and/or translocated to another chromosome in neuroblastoma ( NB ) cell lines with amplified MYCN .
+DOC_0111	192	223	neuroblastoma ( NB ) cell lines	cell_line
+
+DOC_0112|t|
+DOC_0112|a|In most NB cell lines , both the DR3 and the DR3L sequences are simultaneously deleted and/or translocated to another chromosome .
+DOC_0112	9	22	NB cell lines	cell_line
+
+DOC_0113|t|
+DOC_0113|a|Finally , DR3/ Wsl-1 protein expression is quite variable among these NB cell lines , with very low or undetectable levels in 7 of 17 NB cell lines
+DOC_0113	71	84	NB cell lines	cell_line
+
+DOC_0114|t|
+DOC_0114|a|The effect of cycloheximide on granulocyte/macrophage progenitors ( CFU-GM ) after in vitro Ara-C exposure was examined using normal human bone marrow , malignant progenitors from patients with chronic myelogenous leukemia ( CML ) , and clonogenic cells from the human acute nonlymphocytic leukemia cell lines HL-60 and KG-1 .
+DOC_0114	69	75	CFU-GM	cell_line
+DOC_0114	238	254	clonogenic cells	cell_line
+DOC_0114	264	310	human acute nonlymphocytic leukemia cell lines	cell_line
+DOC_0114	311	316	HL-60	cell_line
+DOC_0114	321	325	KG-1	cell_line
+
+DOC_0115|t|
+DOC_0115|a|Mononuclear or clonogenic cells were incubated for one hour with cycloheximide , followed by the addition , for three or 17 hours , of Ara-C before being plated in a methylcellulose culture system .
+DOC_0115	16	32	clonogenic cells	cell_line
+
+DOC_0116|t|
+DOC_0116|a|Similar cycloheximide pretreatment of CML progenitors and clonogenic HL-60 and KG-1 cells failed to protect CFU-GM from Ara-C-induced cytotoxicity .
+DOC_0116	59	90	clonogenic HL-60 and KG-1 cells	cell_line
+
+DOC_0117|t|
+DOC_0117|a|We have examined mononuclear cell preparations from patients with chronic myeloid leukemia [ CML ] for binding of and response to 1 , 25-dihydroxycholecalciferol [ 1 , 25- ( OH ) 2D3 ] .
+
+DOC_0118|t|
+DOC_0118|a|Subcellular fractionation of labeled cells showed that binding was restricted to cytosols and nuclei .
+DOC_0118	30	43	labeled cells	cell_line
+
+DOC_0119|t|
+DOC_0119|a|In addition , cytosols prepared from a mixture of CML cells and 1 , 25- ( OH ) 2D3 receptor-positive T47D ( human breast cancer ) cells had less than 10 % of the binding measured in T47D cytosol alone .
+DOC_0119	51	60	CML cells	cell_line
+DOC_0119	65	136	1 , 25- ( OH ) 2D3 receptor-positive T47D ( human breast cancer ) cells	cell_line
+DOC_0119	183	187	T47D	cell_line
+
+DOC_0120|t|
+DOC_0120|a|However , the levels of binding in T47D cytosols were not reduced if the receptors were occupied with [ 3H ] -1 , 25- ( OH ) 2D3 prior to the addition of the CML cytosols .
+DOC_0120	36	40	T47D	cell_line
+
+DOC_0121|t|
+DOC_0121|a|Thus , CML cells appear to contain both the receptor for 1 , 25- ( OH ) 2D3 and an unknown substance which prevents its detection following the preparation of cytosol .
+DOC_0121	8	17	CML cells	cell_line
+
+DOC_0122|t|
+DOC_0122|a|Effect of cell cycle position on dexamethasone binding by mouse and human lymphoid cell lines : correlation between an increase in dexamethasone binding during S phase and dexamethasone sensitivity .
+DOC_0122	59	94	mouse and human lymphoid cell lines	cell_line
+
+DOC_0123|t|
+DOC_0123|a|We determined the effect of cell cycle position on the amount of dexamethasone that was specifically bound by mouse and human lymphoid cell lines .
+DOC_0123	111	146	mouse and human lymphoid cell lines	cell_line
+
+DOC_0124|t|
+DOC_0124|a|Cell lines that were either sensitive or resistant to growth inhibition by dexamethasone were compared .
+DOC_0124	1	11	Cell lines	cell_line
+
+DOC_0125|t|
+DOC_0125|a|In three dexamethasone-sensitive cell lines ( two mouse and one human ) , we found that the amount of dexamethasone bound per cell increased 2-4-fold between G1 phase and S phase , and then decreased during G2/M phase .
+DOC_0125	10	44	dexamethasone-sensitive cell lines	cell_line
+
+DOC_0126|t|
+DOC_0126|a|In contrast , we found that the amount of dexamethasone bound per cell by three dexamethasone-resistant cell lines ( two mouse and one human ) did not increase during S phase .
+DOC_0126	81	115	dexamethasone-resistant cell lines	cell_line
+
+DOC_0127|t|
+DOC_0127|a|These included inhibition of the proliferative responses to the T-cell mitogens concanavalin A and phytohaemagglutinin and an enhanced accumulation of immunoglobulin secreting cells in pokeweed mitogen-stimulated cultures .
+
+DOC_0128|t|
+DOC_0128|a|An excess of an antagonist such as cortexolone was found to inhibit the cortisol-induced cytolysis of the CLL cells .
+DOC_0128	107	116	CLL cells	cell_line
+
+DOC_0129|t|
+DOC_0129|a|It is suggested that the glucocorticoid-induced lysis of human CLL cells is similar to the phenomenon observed in rat or murine lymphocytes and is mediated by interaction of the steroid molecule with the cytoplasmic receptor .
+DOC_0129	58	73	human CLL cells	cell_line
+
+DOC_0130|t|
+DOC_0130|a|On the basis of in vitro models , it is proposed that perhaps the high receptor cell lines ( i.e. , common ALL of childhood ) have relative stability of their genetic material making glucocorticoid-resistant mutations less likely to occur in patients with these cells than in low-receptor cell lines ( i.e. , T-cell leukemia ) .
+DOC_0130	67	91	high receptor cell lines	cell_line
+DOC_0130	277	300	low-receptor cell lines	cell_line
+
+DOC_0131|t|
+DOC_0131|a|This greater genetic variability in the low-receptor lines could account for the earlier emergence of clinical glucocorticoid resistance in these patients .
+DOC_0131	41	59	low-receptor lines	cell_line
+
+DOC_0132|t|
+DOC_0132|a|Glucocorticoid inhibition of urokinase-like plasminogen activators in cultured human lymphoblasts .
+DOC_0132	71	98	cultured human lymphoblasts	cell_line
+
+DOC_0133|t|
+DOC_0133|a|Two human lymphoblast cell lines , LICR-LON-HMy2 ( HMy2 cells ) and GM4672A cells , are moderately growth inhibited by dexamethasone ( 1 , 4-pregnadien-9-fluoro-16 alpha-methyl-11 beta , 17 alpha , 21-triol-3 , 20-dione ) ( Dex ) .
+DOC_0133	5	33	human lymphoblast cell lines	cell_line
+DOC_0133	36	49	LICR-LON-HMy2	cell_line
+DOC_0133	52	62	HMy2 cells	cell_line
+DOC_0133	69	82	GM4672A cells	cell_line
+
+DOC_0134|t|
+DOC_0134|a|Treatment of both HMy2 and GM4672A cells with Dex for 1-4 days inhibits extracellular PA activity in a concentration-dependent manner , being half-maximal at approximately 1 X 10 ( -9 ) M .
+DOC_0134	19	23	HMy2	cell_line
+DOC_0134	28	41	GM4672A cells	cell_line
+
+DOC_0135|t|
+DOC_0135|a|HMy2 cell PA is fully suppressible by Dex , whereas up to one third of the activator expressed by GM4672A cells is resistant to glucocorticoid inhibition .
+DOC_0135	1	5	HMy2	cell_line
+DOC_0135	99	112	GM4672A cells	cell_line
+
+DOC_0136|t|
+DOC_0136|a|Mixing experiments using a UK standard and conditioned media from Dex-treated cells suggest an absence of glucocorticoid-inducible inhibitors to UK or plasmin in both cell types .
+DOC_0136	67	84	Dex-treated cells	cell_line
+
+DOC_0137|t|
+DOC_0137|a|However , conditioned media from Dex-treated GM4672A cells inhibits a portion of the homologous cellular activator in conditioned media from control GM4672A cells .
+DOC_0137	34	59	Dex-treated GM4672A cells	cell_line
+
+DOC_0138|t|
+DOC_0138|a|Glucocorticoid-inducible inhibitors in HMy2 cells are either totally absent or are present at undetectable levels .
+DOC_0138	40	50	HMy2 cells	cell_line
+
+DOC_0139|t|
+DOC_0139|a|Thus , regulation of UK-like PAs in HMy2 and GM4672A cells differs with respect to the extent to which glucocorticoids inhibit constitutively expressed activator levels , as well as the possible contribution of glucocorticoid-inducible inhibitors to the regulatory process in GM4672A cells .
+DOC_0139	37	41	HMy2	cell_line
+DOC_0139	46	59	GM4672A cells	cell_line
+DOC_0139	277	290	GM4672A cells	cell_line
+
+DOC_0140|t|
+DOC_0140|a|Aldosterone binding sites in human mononuclear leukocytes were characterized after separation of cells from blood by a Percoll gradient .
+DOC_0140	30	58	human mononuclear leukocytes	cell_line
+
+DOC_0141|t|
+DOC_0141|a|However , the recent description of estrogen receptors in the thymus and in some lymphocyte subpopulations , as well as a deeper understanding of regulating factors in the immune system , open the possibility of a more detailed understanding of the estrogen mechanism of interference .
+DOC_0141	82	107	lymphocyte subpopulations	cell_line
+
+DOC_0142|t|
+DOC_0142|a|After treating neonatal mice with the synthetic estrogen diethylstilbestrol ( DES ) , disturbances are induced in lymphocyte populations and lymphocyte functions which are permanent and irreversible .
+
+DOC_0143|t|
+DOC_0143|a|The authors investigated the behaviour of steroid hormone uptake in leukaemic cells ( CML , CLL , AML , ALL ) , in basal conditions and after incubation with drugs which modify the cellular concentration of cAMP , PGE and PGF .
+DOC_0143	69	84	leukaemic cells	cell_line
+
+DOC_0144|t|
+DOC_0144|a|Differences were observed in the behavior of hormonal uptake of CML , in contrast to that of AML , CLL and ALL peripheral leucocytes .
+DOC_0144	65	68	CML	cell_line
+DOC_0144	94	133	AML , CLL and ALL peripheral leucocytes	cell_line
+
+DOC_0145|t|
+DOC_0145|a|We studied NK activity in patients with benign and malignant breast disease , using a chromium-51 release microtiter cytotoxicity assay with K562 cells as targets .
+DOC_0145	142	152	K562 cells	cell_line
+
+DOC_0146|t|
+DOC_0146|a|The lymphokine enhanced the antimicrobial activity of dexamethasone-treated macrophages against Listeria and Salmonella but not against Aspergillus or Nocardia .
+DOC_0146	55	88	dexamethasone-treated macrophages	cell_line
+
+DOC_0147|t|
+DOC_0147|a|Dexamethasone-induced damage to the antimicrobial activity of human macrophages in vitro parallels observations that glucocorticoids render laboratory animals susceptible to listeriosis and aspergillosis by damaging resident macrophages .
+
+DOC_0148|t|
+DOC_0148|a|Normal resting T-cells and most leukemic T-cell populations do not express IL-2 receptors ; however , the leukemic cells of the 11 patients examined who had human T-cell lymphotropic virus-associated adult T-cell leukemia expressed the Tac antigen .
+DOC_0148	33	60	leukemic T-cell populations	cell_line
+
+DOC_0149|t|
+DOC_0149|a|Although the specific binding further increased as T-cells entered the G1b phase ( as measured at 44 h of incubation and using hydroxyurea-treated cells ) , the major changes in the specific binding of dexamethasone took place during the period 16 - 20 h after stimulation .
+DOC_0149	128	153	hydroxyurea-treated cells	cell_line
+
+DOC_0150|t|
+DOC_0150|a|Glucocorticoid receptors and cortico-sensitivity in a human clonal monocytic cell line , CM-SM .
+DOC_0150	55	87	human clonal monocytic cell line	cell_line
+DOC_0150	90	95	CM-SM	cell_line
+
+DOC_0151|t|
+DOC_0151|a|CM-SM is a clonal line of human precursor mononuclear phagocytes inducible to macrophage differentiation in response to the tumor promoter phorbol ester 12-O-tetradecanoyl-phorbol-13-acetate ( TPA ) .
+DOC_0151	1	6	CM-SM	cell_line
+DOC_0151	27	42	human precursor	cell_line
+
+DOC_0152|t|
+DOC_0152|a|Exposure of CM-SM to dexamethasone ( DEX ) produced a progressive , dose- and time-related series of changes in CM-SM cell growth , saturation density , morphology , and functional properties , with half-maximal effects at about 10 ( -9 ) M for DEX .
+DOC_0152	13	18	CM-SM	cell_line
+
+DOC_0153|t|
+DOC_0153|a|After 5 days in culture with a saturating concentration ( 3.6 X 10 ( -8 ) M ) of hormone , the cells reached a saturation density of about 9.0 X 10 ( 6 ) viable cells/ml ( about 4.0 X 10 ( 6 ) viable cells/ml in the controls ) , while the modal volume of the resulting cell population was approximately 60 % , as compared to the volume of untreated cells .
+DOC_0153	270	285	cell population	cell_line
+
+DOC_0154|t|
+DOC_0154|a|DEX-treated cells appeared less differentiated than controls , as assessed by combined morphologic , antigenic , and cytoenzymatic analyses .
+DOC_0154	1	18	DEX-treated cells	cell_line
+
+DOC_0155|t|
+DOC_0155|a|Additional immunological , morphological , biochemical , cytokinetic , and cytogenetic factors have been identified , illustrating the heterogeneity of ALL and its derivation from malignant clones at various stages of differentiation and with varying rates of proliferation .
+DOC_0155	181	197	malignant clones	cell_line
+
+DOC_0156|t|
+DOC_0156|a|Within the lymphoproliferative diseases , ALL cells exhibited the highest GR concentration ( regardless of the method used ) and the highest in vitro inhibition of spontaneous [ 3H ] thymidine ( [ 3H ] TdR ) uptake by glucocorticoids .
+DOC_0156	43	52	ALL cells	cell_line
+
+DOC_0157|t|
+DOC_0157|a|On the contrary , CLL cells presented the highest sensitivity to glucocorticoids in PHA-stimulated cell cultures .
+DOC_0157	19	28	CLL cells	cell_line
+DOC_0157	85	113	PHA-stimulated cell cultures	cell_line
+
+DOC_0158|t|
+DOC_0158|a|CML cells exhibited an inhibition degree by in vitro glucocorticoids significantly higher than that of ANLL cells but not different from that of lymphoproliferative diseases .
+DOC_0158	1	10	CML cells	cell_line
+DOC_0158	104	114	ANLL cells	cell_line
+
+DOC_0159|t|
+DOC_0159|a|Glucocorticoid receptors and in vitro corticosensitivity of peanut-positive and peanut-negative human thymocyte subpopulations .
+DOC_0159	61	127	peanut-positive and peanut-negative human thymocyte subpopulations	cell_line
+
+DOC_0160|t|
+DOC_0160|a|Despite the greater number of glucocorticoid receptor sites , the peanut-negative thymocyte subpopulation did not differ from the peanut-positive one in its sensitivity to the inhibitory effects of triamcinolone acetonide , as determined by measurements of the incorporation of radiolabeled precursors of protein and DNA .
+DOC_0160	67	106	peanut-negative thymocyte subpopulation	cell_line
+DOC_0160	131	150	peanut-positive one	cell_line
+
+DOC_0161|t|
+DOC_0161|a|Moreover , the peanut-negative subset appeared more resistant in vitro to the steroid-induced cell lysis as compared to the peanut-positive one .
+DOC_0161	16	38	peanut-negative subset	cell_line
+DOC_0161	125	144	peanut-positive one	cell_line
+
+DOC_0162|t|
+DOC_0162|a|Antisera raised against human lymphoid glucocorticoid receptors were used in combination with the glucocorticoid receptor affinity label [ 3H ] dexamethasone 21-mesylate [ ( 3H ] DM ) to identify the glucocorticoid receptors of the human B-lymphoblastoid cell line IM-9 and the human T-cell leukemic cell line CEM-C7 .
+DOC_0162	233	270	human B-lymphoblastoid cell line IM-9	cell_line
+DOC_0162	279	317	human T-cell leukemic cell line CEM-C7	cell_line
+
+DOC_0163|t|
+DOC_0163|a|This component was markedly diminished when cytosols from the glucocorticoid receptor-deficient cell line ICR-27 were used .
+DOC_0163	63	113	glucocorticoid receptor-deficient cell line ICR-27	cell_line
+
+DOC_0164|t|
+DOC_0164|a|Incubation of a human malignant thymus derived T cell line ( MOLT 3 ) with TMS F5 also resulted in a significant reduction of the number of steroid binding sites to 44.2 +/- 15.3 % of control ( P less than 0.05 ) , but TMS F5 did not significantly reduce the glucocorticoid sensitivity of MOLT 3 cells .
+DOC_0164	17	59	human malignant thymus derived T cell line	cell_line
+DOC_0164	62	68	MOLT 3	cell_line
+DOC_0164	290	302	MOLT 3 cells	cell_line
+
+DOC_0165|t|
+DOC_0165|a|The majority of the infiltrating mononuclear cells were T cells ; generally the OKT8 cells were predominant .
+DOC_0165	81	91	OKT8 cells	cell_line
+
+DOC_0166|t|
+DOC_0166|a|To directly examine the effect of 1 , 25- ( OH ) 2D3 on T cell activation in the absence of other complicating interactions , we utilized a panel of cloned Ia-restricted T cell hybridomas that secrete IL 2 on activation by cloned Ia-bearing stimulator cells ( TA3 ) or when stimulated by mitogen .
+DOC_0166	157	188	Ia-restricted T cell hybridomas	cell_line
+DOC_0166	261	264	TA3	cell_line
+
+DOC_0167|t|
+DOC_0167|a|Physiologic concentrations of 1 , 25- ( OH ) 2D3 ( 0.01 to 0.1 nm ) inhibited the antigen-induced secretion of IL 2 by several of these T cell hybridomas .
+DOC_0167	137	154	T cell hybridomas	cell_line
+
+DOC_0168|t|
+DOC_0168|a|This inhibition was dependent on the concentration of the free hormone and could be overcome by increasing the number of Ia-bearing stimulator cells used .
+DOC_0168	122	149	Ia-bearing stimulator cells	cell_line
+
+DOC_0169|t|
+DOC_0169|a|Pretreatment of the T hybridoma but not the TA3 stimulator cell with 1 , 25- ( OH ) 2D3 resulted in inhibition of activation .
+DOC_0169	21	32	T hybridoma	cell_line
+DOC_0169	45	64	TA3 stimulator cell	cell_line
+
+DOC_0170|t|
+DOC_0170|a|These results are consistent with the finding that specific 1 , 25- ( OH ) 2D3 receptors are present on the T cell hybridomas but are lacking in TA3 cells .
+DOC_0170	109	126	T cell hybridomas	cell_line
+DOC_0170	146	149	TA3	cell_line
+
+DOC_0171|t|
+DOC_0171|a|1 , 25- ( OH ) 2D3 failed , however , to inhibit the activation of the T cell hybridomas by lectin or by an anti-Thy-1 antibody .
+DOC_0171	72	89	T cell hybridomas	cell_line
+
+DOC_0172|t|
+DOC_0172|a|To assess the interaction between these atypical steroids and the glucocorticoid receptor , we examined the binding of [ 3H ] CVZ to cytosol from glucocorticoid-sensitive and -resistant variants of the human leukemic cell line CEM C7 .
+DOC_0172	147	177	glucocorticoid-sensitive and -	cell_line
+DOC_0172	203	234	human leukemic cell line CEM C7	cell_line
+
+DOC_0173|t|
+DOC_0173|a|In glucocorticoid-sensitive cells [ 3H ] CVZ causes a 2-fold induction of glutamine synthetase and binds to a protein in the 4.6 S region of high salt sucrose gradients .
+DOC_0173	4	34	glucocorticoid-sensitive cells	cell_line
+
+DOC_0174|t|
+DOC_0174|a|Scatchard analysis of the binding of [ 3H ] CVZ in glucocorticoid-sensitive cells revealed a curvilinear plot which resolved into high ( 0.4 nM ) and low ( 11 nM ) affinity components .
+DOC_0174	52	82	glucocorticoid-sensitive cells	cell_line
+
+DOC_0175|t|
+DOC_0175|a|In cytosol from a glucocorticoid-resistant cell line with virtually no [ 3H ] DEX binding , [ 3H ] CVZ detected a single high affinity binding site that was similar in dissociation constant ( 0.8 nM ) and receptor concentration ( 0.13 pmol/mg protein ) to the high affinity site detected in the glucocorticoid-sensitive cell line C7 .
+DOC_0175	19	53	glucocorticoid-resistant cell line	cell_line
+DOC_0175	296	333	glucocorticoid-sensitive cell line C7	cell_line
+
+DOC_0176|t|
+DOC_0176|a|Agarose filtration and ultracentrifugation in hypotonic buffers containing 20 mM Na2MoO4 revealed complexes of similar size and shape in all clinical specimens tested and two established leukemic cell lines .
+DOC_0176	176	207	established leukemic cell lines	cell_line
+
+DOC_0177|t|
+DOC_0177|a|Human lymphoid cell lines and glucocorticoids : II .
+DOC_0177	1	26	Human lymphoid cell lines	cell_line
+
+DOC_0178|t|
+DOC_0178|a|Whole cell and cytoplasmic binding properties of lymphoblastoid , leukaemia and lymphoma lines .
+DOC_0178	50	95	lymphoblastoid , leukaemia and lymphoma lines	cell_line
+
+DOC_0179|t|
+DOC_0179|a|The glucocorticoid binding properties of 18 human lymphoid cell lines ( HLCL ) have been investigated .
+DOC_0179	45	70	human lymphoid cell lines	cell_line
+DOC_0179	73	77	HLCL	cell_line
+
+DOC_0180|t|
+DOC_0180|a|A gradation in whole cell and cytoplasmic glucocorticoid binding capacity was observed in the different cell line types : lymphoblastoid greater than lymphoma greater than leukaemia .
+DOC_0180	105	114	cell line	cell_line
+DOC_0180	123	137	lymphoblastoid	cell_line
+DOC_0180	151	159	lymphoma	cell_line
+
+DOC_0181|t|
+DOC_0181|a|The cytoplasmic receptors of leukaemia and lymphoblastoid lines appeared to contain both proteinaceous and phospholipid components .
+DOC_0181	30	64	leukaemia and lymphoblastoid lines	cell_line
+
+DOC_0182|t|
+DOC_0182|a|No correlation was observed between the level or nature of glucocorticoid binding and the cytolethal or cytostatic responsiveness of HLCL to glucocorticoid treatment in vitro .
+DOC_0182	134	138	HLCL	cell_line
+
+DOC_0183|t|
+DOC_0183|a|Ikaros in hemopoietic lineage determination and homeostasis .
+
+DOC_0184|t|
+DOC_0184|a|Overexpression of Rel proteins demonstrated that p65-expressing Jurkat cells transcribed equally well a nuclear factor kappabeta reporter construct when costimulated with B7-1 or LFA-3 , but transcription of IL-2 promoter or CD28 response element ( CD28RE ) -driven reporters was superior in B7-1-costimulated cells .
+DOC_0184	50	77	p65-expressing Jurkat cells	cell_line
+
+DOC_0185|t|
+DOC_0185|a|HIV-1 infection of primary monocytic cells and myeloid cell lines results in sustained NF-kappaB activation .
+DOC_0185	48	66	myeloid cell lines	cell_line
+
+DOC_0186|t|
+DOC_0186|a|In the present study , we sought to investigate whether constitutive NF-kappaB activity in chronically HIV-1-infected promonocytic U937 ( U9-IIIB ) and myeloblastic PLB-985 ( PLB-IIIB ) cells affects apoptotic signaling .
+DOC_0186	92	136	chronically HIV-1-infected promonocytic U937	cell_line
+DOC_0186	139	146	U9-IIIB	cell_line
+DOC_0186	153	192	myeloblastic PLB-985 ( PLB-IIIB ) cells	cell_line
+
+DOC_0187|t|
+DOC_0187|a|TNFalpha and cycloheximide caused infected cells to undergo apoptosis more rapidly than parental U937 and PLB-985 cells .
+DOC_0187	89	97	parental	cell_line
+DOC_0187	98	120	U937 and PLB-985 cells	cell_line
+
+DOC_0188|t|
+DOC_0188|a|Inhibition of TNFalpha -induced NF-kappaB activation using the antioxidant N-acetylcysteine ( NAC ) resulted in increased apoptosis in both U937 and U9-IIIB cells , while preactivation of NF-kappaB with the non-apoptotic inducer IL-1beta caused a relative decrease in apoptosis .
+DOC_0188	141	145	U937	cell_line
+DOC_0188	150	163	U9-IIIB cells	cell_line
+
+DOC_0189|t|
+DOC_0189|a|Inhibition of constitutive NF-kappaB activity in U9-IIIB and PLB-IIIB cells also induced apoptosis , suggesting that NF-kappaB protects cells from a persistent apoptotic signal .
+DOC_0189	50	57	U9-IIIB	cell_line
+DOC_0189	62	76	PLB-IIIB cells	cell_line
+
+DOC_0190|t|
+DOC_0190|a|The protective role of NF-kappaB in blocking TNFalpha- and HIV-1-induced apoptosis was supported by studies in Jurkat T cells engineered to express IkappaB alpha repressor mutants ( TD-IkappaB ) under the control of a tetracycline-responsive promoter .
+DOC_0190	112	126	Jurkat T cells	cell_line
+
+DOC_0191|t|
+DOC_0191|a|As was observed for the U9-IIIB cells , TNFalpha treatment also induced a marked decrease in Bcl-2 protein levels in TD-IkappaB expressing cells .
+DOC_0191	25	38	U9-IIIB cells	cell_line
+DOC_0191	118	145	TD-IkappaB expressing cells	cell_line
+
+DOC_0192|t|
+DOC_0192|a|These experiments demonstrate that apoptotic signaling is perturbed in HIV-1-infected U9-IIIB cells and indicate that NF-kappaB activation may play an additional protective role against HIV-1-induced apoptosis in myeloid cells .
+DOC_0192	72	100	HIV-1-infected U9-IIIB cells	cell_line
+DOC_0192	214	227	myeloid cells	cell_line
+
+DOC_0193|t|
+DOC_0193|a|The absence of P-CREB following CD3 cross-linking was unexpected , as other laboratories reported increased phosphorylation of CREB following CD3 cross-linking of the Jurkat lymphocyte cell line .
+DOC_0193	168	195	Jurkat lymphocyte cell line	cell_line
+
+DOC_0194|t|
+DOC_0194|a|Due to Jurkat T-cells being IL-2-independent , it was postulated that IL-2 might provide a necessary co-stimulus for phosphorylation of CREB in primary lymphocytes .
+DOC_0194	8	22	Jurkat T-cells	cell_line
+DOC_0194	145	164	primary lymphocytes	cell_line
+
+DOC_0195|t|
+DOC_0195|a|Here we show that forced expression of the lung Kruppel-like transcription factor ( LKLF ) in Jurkat T cells is sufficient to program a quiescent phenotype characterized by decreased proliferation , reduced cell size and protein synthesis and decreased surface expression of activation markers .
+DOC_0195	95	109	Jurkat T cells	cell_line
+
+DOC_0196|t|
+DOC_0196|a|Transduction of primary human peripheral blood mononuclear cells ( PBMCs ) with a human immunodeficiency virus type 1-based retroviral vector expressing p12 ( I ) also resulted in increased STAT5 phosphorylation and DNA binding .
+DOC_0196	17	65	primary human peripheral blood mononuclear cells	cell_line
+DOC_0196	68	73	PBMCs	cell_line
+
+DOC_0197|t|
+DOC_0197|a|TRAF2 -mediated NF-kappaB activation , AP-1 induction and JAK3 / STAT activation may result in sustained proliferation leading to lymphoma .
+
+DOC_0198|t|
+DOC_0198|a|Cytotoxic T lymphocytes directed against well-characterized epitopes of EBV latency genes represent an already successful and promising therapeutic approach to EBV-associated lymphomas , in particular PTLDs
+
+DOC_0199|t|
+DOC_0199|a|Activation of the p21 ( CIP1/WAF1 ) promoter by bone morphogenetic protein-2 in mouse B lineage cells .
+DOC_0199	81	102	mouse B lineage cells	cell_line
+
+DOC_0200|t|
+DOC_0200|a|We have previously reported that BMP-2 inhibited the growth of HS-72 mouse hybridoma cells by inducing p21 ( CIP1/WAF1 ) expression .
+DOC_0200	64	91	HS-72 mouse hybridoma cells	cell_line
+
+DOC_0201|t|
+DOC_0201|a|In the present study , we demonstrated that BMP-2 activated the mouse p21 ( CIP1/WAF1 ) promoter in HS-72 cells , and that a 29-base pair ( b ) region of the promoter ( -1928/-1900 relative to the TATA box ) , conserved between mice and humans , was responsive to BMP-2 as well as expression of Smad1 , Smad4 , and constitutively active mutants of BMP type I receptors .
+DOC_0201	101	112	HS-72 cells	cell_line
+
+DOC_0202|t|
+DOC_0202|a|Furthermore , an oligonucleotide containing the 29-b region was found to be associated with Smad4 and phosphorylated Smad1 in the nuclear extract of BMP-2 -stimulated HS-72 cells .
+DOC_0202	150	155	BMP-2	cell_line
+DOC_0202	168	179	HS-72 cells	cell_line
+
+DOC_0203|t|
+DOC_0203|a|These results suggested that BMP-2 might activate p21 ( CIP1/WAF1 ) transcription by inducing a binding of Smad4 and Smad1 to the 29-b region in HS-72 cells .
+DOC_0203	146	157	HS-72 cells	cell_line
+
+DOC_0204|t|
+DOC_0204|a|Using MonoMac6 cells , we observed high C/EBPbeta and AP-1 but weaker and transient NF-kappaB activation by MB .
+DOC_0204	7	21	MonoMac6 cells	cell_line
+
+DOC_0205|t|
+DOC_0205|a|Moreover , the truncated form of C/EBPbeta , known to repress HIV-1 transcription , was detected in extracts from MB-treated THP-1 cells .
+DOC_0205	126	137	THP-1 cells	cell_line
+
+DOC_0206|t|
+DOC_0206|a|We identified PPAR-alpha and -gamma messenger RNA by RT-PCR and protein by immunoblotting of lysates of peritoneal macrophages and monocytic U937 cells .
+DOC_0206	132	152	monocytic U937 cells	cell_line
+
+DOC_0207|t|
+DOC_0207|a|Migration of U937 cells was increased by WY 14643 and reduced by rosiglitazone .
+DOC_0207	14	24	U937 cells	cell_line
+
+DOC_0208|t|
+DOC_0208|a|Peritoneal fluid from patients with endometriosis activated U937 cells transiently transfected with a PPAR-alpha/GAL4 luciferase reporter .
+DOC_0208	61	71	U937 cells	cell_line
+
+DOC_0209|t|
+DOC_0209|a|The U937 cells transiently transfected with a PPAR response element luciferase reporter showed disease stage-dependent up-regulation when treated with peritoneal fluid from patients with endometriosis .
+DOC_0209	5	15	U937 cells	cell_line
+
+DOC_0210|t|
+DOC_0210|a|These results indicate that the fly and mouse FOG proteins function similarly in three distinct cellular contexts in Drosophila , but may use different mechanisms to regulate genetic events in blood vs . cardial or eye cell lineages
+
+DOC_0211|t|
+DOC_0211|a|TRAIL/Apo2L potently induced apoptosis of MM cells from patients and the majority of MM cell lines , including cells sensitive or resistant to dexamethasone ( Dex ) , doxorubicin ( Dox ) , melphalan , and mitoxantrone .
+DOC_0211	86	99	MM cell lines	cell_line
+
+DOC_0212|t|
+DOC_0212|a|Constitutive expression of MHC class II genes in melanoma cell lines results from the transcription of class II transactivator abnormally initiated from its B cell-specific promoter .
+DOC_0212	50	69	melanoma cell lines	cell_line
+
+DOC_0213|t|
+DOC_0213|a|In melanoma cell lines , two different patterns of MHC class II expression have been described , either an IFN gamma-inducible expression of HLA-DR and HLA-DP , with a faint or null expression of HLA-DQ , resembling that described for melanocytes , or a constitutive expression , i.e. , IFN-gamma independent , of all three HLA-D isotypes .
+DOC_0213	4	23	melanoma cell lines	cell_line
+DOC_0213	236	247	melanocytes	cell_line
+
+DOC_0214|t|
+DOC_0214|a|As this latter phenotype has been associated with a more rapid progression of melanoma tumors , we have analyzed in different melanoma cell lines the molecular mechanisms leading to this abnormal pattern of MHC class II expression .
+DOC_0214	127	146	melanoma cell lines	cell_line
+
+DOC_0215|t|
+DOC_0215|a|Constitutive transcription of CIITA from promoter III having been observed in unrelated melanoma cell lines , we propose the hypothesis that this phenomenon might not be a random event , but could be linked to the neoplasic state of the melanoma cells
+DOC_0215	89	108	melanoma cell lines	cell_line
+DOC_0215	238	252	melanoma cells	cell_line
+
+DOC_0216|t|
+DOC_0216|a|It has been previously reported that IL-2 release in activated Jurkat T requires caspase-like activity ( Posmantur et al. ( 1998 ) Exp. Cell. Res. 244 , 302-309 ) .
+DOC_0216	64	72	Jurkat T	cell_line
+
+DOC_0217|t|
+DOC_0217|a|We report here that the 60-kDa catalytic subunit of calcineurin A ( Cn A ) was partially cleaved to a 45-kDa form in phytohemagglutinin A ( PHA ) or phorbol ester + ionomycin ( P + I ) -activated Jurkat cells .
+DOC_0217	141	146	PHA )	cell_line
+
+DOC_0218|t|
+DOC_0218|a|Furthermore , in PHA or P + I-activated Jurkat cells , dephosphorylation of calcineurin substrate NFATc ( a transcription factor known to be involved in transactivation of the IL-2 gene ) , was also suppressed by Z-D-DCB .
+DOC_0218	18	24	PHA or	cell_line
+DOC_0218	25	53	P + I-activated Jurkat cells	cell_line
+
+DOC_0219|t|
+DOC_0219|a|A specific proteasome defect has been identified in NOD mouse in select lymphocytic and monocytic lineages that results from down-regulation of expression of the proteasome subunit LMP2 , which is encoded by a gene in the MHC genomic region .
+DOC_0219	73	84	lymphocytic	cell_line
+
+DOC_0220|t|
+DOC_0220|a|Mutations that selectively disrupt Ikaros binding to an integrated TdT promoter had no effect on promoter function in a CD4 ( + ) CD8 ( + ) thymocyte line .
+DOC_0220	121	155	CD4 ( + ) CD8 ( + ) thymocyte line	cell_line
+
+DOC_0221|t|
+DOC_0221|a|Surprisingly , in the CD4 ( + ) CD8 ( + ) thymocyte line , overexpression of a small Ikaros isoform had no effect on differentiation or on the pericentromeric targeting and DNA-binding properties of Ikaros .
+DOC_0221	23	57	CD4 ( + ) CD8 ( + ) thymocyte line	cell_line
+
+DOC_0222|t|
+DOC_0222|a|To investigate the role of costimulation of OX40 in human immunodeficiency virus type 1 ( HIV-1 ) infection by its natural ligand , gp34 , the OX40-transfected ACH-2 cell line , ACH-2/OX40 , chronically infected with HIV-1 , was cocultured with paraformaldehyde ( PFA ) -fixed gp34-transfected mouse cell line , SV-T2/gp34 .
+DOC_0222	161	171	ACH-2 cell	cell_line
+DOC_0222	179	182	ACH	cell_line
+DOC_0222	185	189	OX40	cell_line
+DOC_0222	313	318	SV-T2	cell_line
+
+DOC_0223|t|
+DOC_0223|a|Furthermore , enhanced HIV-1 transcription in gp34 -stimulated ACH-2/OX40 cells was dependent on the kappa B site of the HIV-1 long terminal repeat , and the OX40-gp34 interaction activated NF-kappa B consisting of p50 and p65 subunits .
+DOC_0223	47	80	gp34 -stimulated ACH-2/OX40 cells	cell_line
+
+DOC_0224|t|
+DOC_0224|a|When primary activated CD4 ( + ) T cells acutely infected with HIV-1 ( NL4-3 ) ( CXCR4-using T-cell-line-tropic ) were cocultured with PFA-fixed gp34 ( + ) human T-cell leukemia virus type 1-bearing MT-2 cells or SV-T2/gp34 cells , HIV-1 production was also markedly enhanced .
+DOC_0224	82	106	CXCR4-using T-cell-line-	cell_line
+DOC_0224	136	139	PFA	cell_line
+DOC_0224	214	230	SV-T2/gp34 cells	cell_line
+
+DOC_0225|t|
+DOC_0225|a|In this study , we examined whether PPARgamma ligand regulates osteopontin gene expression in THP-1 cells , a cell line derived from human monocytic leukemia cells which can differentiate to macrophage upon stimulation with phorbol ester PMA .
+DOC_0225	95	106	THP-1 cells	cell_line
+
+DOC_0226|t|
+DOC_0226|a|RESULTS : TPO enhanced the proliferation of Mo-7e cells as determined by 3H-thymidine incorporation , whereas TGF-beta1 suppressed baseline cell growth and antagonized the proliferative effect of TPO .
+DOC_0226	45	56	Mo-7e cells	cell_line
+
+DOC_0227|t|
+DOC_0227|a|As demonstrated by Western blotting , TGF-beta1 reduced the TPO -stimulated ERK1 / ERK2 and STAT5 phosphorylation in Mo-7e and HEL cells .
+DOC_0227	118	123	Mo-7e	cell_line
+DOC_0227	128	137	HEL cells	cell_line
+
+DOC_0228|t|
+DOC_0228|a|We have identified a functional AP-1 site that lies between ( -106 to -100 ) through transient transfection analysis in YT cells , a human NK cell line .
+DOC_0228	121	129	YT cells	cell_line
+DOC_0228	134	142	human NK	cell_line
+DOC_0228	143	152	cell line	cell_line
+
+DOC_0229|t|
+DOC_0229|a|Multipotent HSCs become committed to the B cell lineage in bone marrow and the T cell lineage in the thymus after receiving appropriate signals from the corresponding microenvironment .
+
+DOC_0230|t|
+DOC_0230|a|Indeed , transient expression of GILZ in Jurkat T cells blocked induction of a reporter construct driven by the FasL promoter .
+DOC_0230	42	56	Jurkat T cells	cell_line
+
+DOC_0231|t|
+DOC_0231|a|First , we found that TGF-beta1 significantly increases endogenous germ-line ( GL ) alpha transcripts by LPS-stimulated CH12.LX.4933 ( mu ( + ) ) B lymphoma cells .
+DOC_0231	106	138	LPS-stimulated CH12.LX.4933 ( mu	cell_line
+
+DOC_0232|t|
+DOC_0232|a|To investigate its signaling mechanisms , the lymphoma cell line was transfected with pFL3 that contains the TGF-beta-responsive element of the GLalpha promoter , and stimulated with TGF-beta1 .
+DOC_0232	47	65	lymphoma cell line	cell_line
+
+DOC_0233|t|
+DOC_0233|a|We previously reported that Tax induced cell cycle progression from G0/G1 phase to S and G2/M phases in human T-cell line Kit 225 cells .
+DOC_0233	105	136	human T-cell line Kit 225 cells	cell_line
+
+DOC_0234|t|
+DOC_0234|a|Introduction of Tax into resting Kit 225 cells induced activation of the G1/S transition regulation cascade consisting of activation of cyclin dependent kinase 2 ( CDK2 ) and CDK4 , phosphorylation of the Rb family proteins and an increase in free E2F .
+
+DOC_0235|t|
+DOC_0235|a|Here we report that Cot kinase , a mitogen-activated protein kinase kinase kinase involved in T cell activation , up-regulates COX-2 gene expression in Jurkat T cells .
+DOC_0235	153	167	Jurkat T cells	cell_line
+
+DOC_0236|t|
+DOC_0236|a|Mutation of either Tyr248 , Tyr357 , or Tyr462 to phenylalanine reduced transcription from a c-fos promoter relative to wild-type BAP/TFII-I in transfected COS-7 cells , consistent with the interpretation that phosphorylation at these sites contributes to transcriptional activation .
+DOC_0236	157	168	COS-7 cells	cell_line
+
+DOC_0237|t|
+DOC_0237|a|To evaluate transcriptional regulation of the IL-2 gene in CD8+ T cells , we stably transfected reporter genes into Ag -specific CD8+ T cell clones .
+DOC_0237	117	148	Ag -specific CD8+ T cell clones	cell_line
+
+DOC_0238|t|
+DOC_0238|a|Stem cell factor and interleukin-3 induce stepwise generation of erythroid precursor cells from a basic fibroblast growth factor -dependent hematopoietic stem cell line , A-6 .
+DOC_0238	99	169	basic fibroblast growth factor -dependent hematopoietic stem cell line	cell_line
+DOC_0238	172	175	A-6	cell_line
+
+DOC_0239|t|
+DOC_0239|a|A m ultipotent immature myeloid cell population was produced from a basic fibroblast growth factor ( bFGF ) -dependent hematopoietic stem cell line , A-6 , when cultured with stem cell factor ( SCF ) replacing bFGF .
+DOC_0239	3	4	m	cell_line
+DOC_0239	5	48	ultipotent immature myeloid cell population	cell_line
+DOC_0239	69	148	basic fibroblast growth factor ( bFGF ) -dependent hematopoietic stem cell line	cell_line
+DOC_0239	151	154	A-6	cell_line
+
+DOC_0240|t|
+DOC_0240|a|SCF and IL-3 induced stepwise generation of erythroid precursor cells from an A-6 hematopoietic stem cell line .
+DOC_0240	79	111	A-6 hematopoietic stem cell line	cell_line
+
+DOC_0241|t|
+DOC_0241|a|Expression of the Gads cleavage products in Jurkat T cells inhibited NFAT activation following TCR cross linking .
+DOC_0241	45	59	Jurkat T cells	cell_line
+
+DOC_0242|t|
+DOC_0242|a|In contrast , the CBFbeta - smooth muscle myosin heavy chain ( SMMHC ) fusion protein generated by the inv ( 16 ) associated with acute myeloid leukemias ( M4Eo ) can not rescue definitive hematopoiesis by Cbfb-deficient ES cells .
+DOC_0242	157	161	M4Eo	cell_line
+DOC_0242	207	230	Cbfb-deficient ES cells	cell_line
+
+DOC_0243|t|
+DOC_0243|a|The expression of EBV-related antigens was examined by immunostaining using paraffin-embedded tissue sections and cell pellets of EBV-positive cell lines .
+DOC_0243	131	154	EBV-positive cell lines	cell_line
+
+DOC_0244|t|
+DOC_0244|a|Our study demonstrated that all samples from the patients contained EBV nuclear antigen ( EBNA ) -1 mRNA which was transcribed using the Q promoter , whereas both the Q promoter and another upstream promoter ( Cp/Wp ) were used in EBV-positive cell lines , B95.8 , Raji and Jiyoye .
+DOC_0244	232	255	EBV-positive cell lines	cell_line
+DOC_0244	258	261	B95	cell_line
+DOC_0244	266	270	Raji	cell_line
+DOC_0244	275	281	Jiyoye	cell_line
+
+DOC_0245|t|
+DOC_0245|a|Latent membrane protein-1 ( LMP-1 ) mRNA was detected in seven of eight patients and all cell lines , whereas EBNA-2 transcripts were found only in the cell lines .
+DOC_0245	90	100	cell lines	cell_line
+DOC_0245	153	163	cell lines	cell_line
+
+DOC_0246|t|
+DOC_0246|a|Immunostaining showed no LMP-1 , EBNA-2 or ZEBRA antigens in the paraffin-embedded tissue sections , although they were positive in the cell line cells .
+DOC_0246	137	152	cell line cells	cell_line
+
+DOC_0247|t|
+DOC_0247|a|PU.1 is a member of the Ets family of transcription factors required for the development of various lymphoid and myeloid cell lineages , but its role in natural killer ( NK ) cell development is not known .
+DOC_0247	101	135	lymphoid and myeloid cell lineages	cell_line
+
+DOC_0248|t|
+DOC_0248|a|To better understand the mechanisms of their proinflammatory activities , we studied the effects of several components extracted from DEPs on interleukin ( IL ) -8 expression in human bronchial epithelial cell line BEAS-2B and normal human airway epithelial cells obtained from very peripheral airways by an ultrathin bronchoscope .
+DOC_0248	185	215	bronchial epithelial cell line	cell_line
+DOC_0248	216	223	BEAS-2B	cell_line
+
+DOC_0249|t|
+DOC_0249|a|Notch1 also inhibited TCR-mediated signaling in Jurkat T cells .
+DOC_0249	49	63	Jurkat T cells	cell_line
+
+DOC_0250|t|
+DOC_0250|a|The SART3 antigen was detected in all of the breast cancer cell lines tested , 30 of 40 ( 75 % ) breast cancer tissue samples , and 0 of 3 non-tumourous breast tissue samples .
+DOC_0250	46	70	breast cancer cell lines	cell_line
+
+DOC_0251|t|
+DOC_0251|a|Culture with the murine fetal liver cell line AFT024 and defined cytokines was capable of inducing TCF-1 mRNA .
+DOC_0251	18	46	murine fetal liver cell line	cell_line
+DOC_0251	47	53	AFT024	cell_line
+
+DOC_0252|t|
+DOC_0252|a|To determine the presence and potential role of BCL-6 mutations in cHD , the 5'-noncoding BCL-6 proportion of single Hodgkin and Reed-Sternberg ( HRS ) cells from 6 cases of cHD and 6 cases of HD-derived cell lines was analyzed .
+DOC_0252	111	135	single Hodgkin and Reed-	cell_line
+DOC_0252	135	158	Sternberg ( HRS ) cells	cell_line
+DOC_0252	194	215	HD-derived cell lines	cell_line
+
+DOC_0253|t|
+DOC_0253|a|Investigation of mast cell responsiveness toward retinoic acid ( RA ) revealed selective promotion of ICAM-3 expression in the human mast cell line HMC-1 .
+DOC_0253	128	154	human mast cell line HMC-1	cell_line
+
+DOC_0254|t|
+DOC_0254|a|ICAM-3 modulation was found to be cell-type dependent , detectable also for HL-60 cells and monocytes but not U-937 and only weakly for KU812 cells .
+DOC_0254	77	88	HL-60 cells	cell_line
+DOC_0254	111	116	U-937	cell_line
+DOC_0254	137	148	KU812 cells	cell_line
+
+DOC_0255|t|
+DOC_0255|a|Investigation of retinoid receptor expression , known to mediate intracellular RA signaling , revealed presence of RAR alpha , RAR gamma , RXR beta , and RXR gamma transcripts in all cell lines studied , and HMC-1 cells were the only line lacking RXR alpha .
+DOC_0255	184	194	cell lines	cell_line
+DOC_0255	209	220	HMC-1 cells	cell_line
+
+DOC_0256|t|
+DOC_0256|a|ER-27191 completely antagonized HL60 cell differentiation induced by all-trans-retinoic acid ( atRA ) .
+DOC_0256	33	37	HL60	cell_line
+
+DOC_0257|t|
+DOC_0257|a|During HL60 cell differentiation , atRA induced RARbeta mRNA , while the RXR had no effect .
+DOC_0257	8	12	HL60	cell_line
+
+DOC_0258|t|
+DOC_0258|a|In Jurkat T cells , approximately 5 -- 10 % of Src homology 2 domain-containing tyrosine phosphatase ( SHP-1 ) is constitutively associated with plasma membrane , and nearly 50 % of SHP-2 is translocated to plasma membrane after vanadate treatment .
+DOC_0258	4	18	Jurkat T cells	cell_line
+
+DOC_0259|t|
+DOC_0259|a|SDF1 alpha treatment of Jurkat T cells increased the activity of NO synthase , which catalyzes the generation of NO .
+DOC_0259	25	39	Jurkat T cells	cell_line
+
+DOC_0260|t|
+DOC_0260|a|We observed that pretreatment of Jurkat cells or activated PBLs with several NO donors significantly enhanced the SDF1 alpha -induced migration , whereas various inhibitors of NO synthase markedly abrogated the chemotactic response in a concentration-dependent manner .
+DOC_0260	34	46	Jurkat cells	cell_line
+
+DOC_0261|t|
+DOC_0261|a|To examine whether Epstein-Barr virus ( EBV ) lytic replication interferes with PML bodies , we expressed the EBV immediate-early genes BZLF1 ( Z ) and BRLF1 ( R ) in EBV-positive cell lines and examined PML localization .
+DOC_0261	168	191	EBV-positive cell lines	cell_line
+
+DOC_0262|t|
+DOC_0262|a|Z but not R expression is sufficient to disrupt PML bodies in EBV-negative cell lines .
+DOC_0262	63	86	EBV-negative cell lines	cell_line
+
+DOC_0263|t|
+DOC_0263|a|The involvement of the tyrosine kinases p56 ( lck ) and ZAP-70 in this reaction is demonstrated here using specific pharmacological inhibitors and Jurkat mutants unable to express these kinases .
+DOC_0263	148	162	Jurkat mutants	cell_line
+
+DOC_0264|t|
+DOC_0264|a|Although the inhibitors prevented both pervanadate-induced phosphorylation of I kappa B-alpha on Tyr42 and NF-kappa B activation , we observed that , in p56 ( lck ) -deficient Jurkat mutants , NF-kappa B could still associate with I kappa B-alpha despite phosphorylation on Tyr42 .
+DOC_0264	158	191	( lck ) -deficient Jurkat mutants	cell_line
+
+DOC_0265|t|
+DOC_0265|a|However , ATRA metabolism appears to be involved in the growth inhibition of several cancer cell lines in vitro .
+DOC_0265	86	103	cancer cell lines	cell_line
+
+DOC_0266|t|
+DOC_0266|a|The purpose of this study was to evaluate the in vitro activity of the principal metabolites of ATRA [ 4-hydroxy-retinoic acid ( 4-OH-RA ) , 18-hydroxy-retinoic acid ( 18-OH-RA ) , 4-oxo-retinoic acid ( 4-oxo-RA ) , and 5 , 6-epoxy-retinoic acid ( 5 , 6-epoxy-RA ) ] in NB4 , a human promyelocytic leukemia cell line that exhibits the APL diagnostic t ( 15 ; 17 ) chromosomal translocation and expresses the PML-RAR alpha fusion protein .
+DOC_0266	271	274	NB4	cell_line
+DOC_0266	279	317	human promyelocytic leukemia cell line	cell_line
+DOC_0266	336	339	APL	cell_line
+
+DOC_0267|t|
+DOC_0267|a|We established that the four ATRA metabolites were indeed formed by the NB4 cells in vitro .
+DOC_0267	73	82	NB4 cells	cell_line
+
+DOC_0268|t|
+DOC_0268|a|ATRA and its metabolites could induce NB4 cells differentiation with similar activity , as evaluated by cell morphology , by the nitroblue tetrazolium reduction test ( 82-88 % at 120 h ) or by the expression of the maturation specific cell surface marker CD11c .
+DOC_0268	39	48	NB4 cells	cell_line
+
+DOC_0269|t|
+DOC_0269|a|The ATRA metabolites were found to exert their differentiation effects via the RAR alpha nuclear receptors , because the RAR alpha-specific antagonist BMS614 blocked metabolite-induced CD11c expression in NB4 cells .
+DOC_0269	186	191	CD11c	cell_line
+DOC_0269	206	215	NB4 cells	cell_line
+
+DOC_0270|t|
+DOC_0270|a|In the present study we found that DMA-2 , 4-D is able to cause apoptosis in peripheral blood lymphocytes of healthy individuals and Jurkat T cells .
+DOC_0270	134	148	Jurkat T cells	cell_line
+
+DOC_0271|t|
+DOC_0271|a|Transfection of Jurkat cells with Bcl-2 prevented DMA-2 , 4-D-induced disruption of the mitochondrial transmembrane potential and led to a complete blockage of apoptosis .
+DOC_0271	17	29	Jurkat cells	cell_line
+
+DOC_0272|t|
+DOC_0272|a|ASA inhibited IL-4 , but not IL-2 , promoter-driven chloramphenicol acetyltransferase expression in transiently transfected Jurkat T cells .
+DOC_0272	125	139	Jurkat T cells	cell_line
+
+DOC_0273|t|
+DOC_0273|a|Neither full-length isoform alters growth of a myeloid cell line under nondifferentiating conditions , but the proximal isoform selectively delays mitotic arrest of the cell line under differentiating conditions , resulting in the generation of greater numbers of neutrophils .
+DOC_0273	48	65	myeloid cell line	cell_line
+
+DOC_0274|t|
+DOC_0274|a|In the present study we show that the ubiquitously expressed transcription factor AP-4 , and not E47 , interacts specifically with the kappa promoter E-boxes when tested in electrophoretic mobility-shift assays using nuclear extracts derived from human and murine B-cell lines .
+DOC_0274	248	277	human and murine B-cell lines	cell_line
+
+DOC_0275|t|
+DOC_0275|a|This peptide induced CTL in C57BL/6 mice and protected them against growth of an ovalbumin expressing tumour cell line ( E.G7-OVA ) .
+DOC_0275	82	119	ovalbumin expressing tumour cell line	cell_line
+DOC_0275	122	130	E.G7-OVA	cell_line
+
+DOC_0276|t|
+DOC_0276|a|The in vitro effect of G-CSF and corticosteroids on granulopoiesis was evaluated in clonogenic assays of marrow mononuclear cells , by proliferation studies of the murine myeloid cell line 32D expressing the patient 's mutated G-CSFR , and by measuring STAT5 activation in nuclear extracts from stimulated cells .
+DOC_0276	165	184	murine myeloid cell	cell_line
+DOC_0276	185	193	line 32D	cell_line
+DOC_0276	296	312	stimulated cells	cell_line
+
+DOC_0277|t|
+DOC_0277|a|Proliferation of 32D cells expressing the mutated receptor and STAT5 activation were improved by a combination of G-CSF and dexamethasone .
+DOC_0277	18	27	32D cells	cell_line
+
+DOC_0278|t|
+DOC_0278|a|We have studied in cultured human mesangial cells ( CHMC ) several effects of 9-cis retinoic acid ( 9-cRA ) , an activator of both retinoic acid receptors ( RARs ) and retinoid X receptors ( RXRs ) .
+DOC_0278	20	50	cultured human mesangial cells	cell_line
+DOC_0278	53	57	CHMC	cell_line
+
+DOC_0279|t|
+DOC_0279|a|9-cRA inhibited foetal calf serum-induced CHMC proliferation .
+DOC_0279	43	47	CHMC	cell_line
+
+DOC_0280|t|
+DOC_0280|a|It also prevented CHMC death induced by the inflammatory mediator H ( 2 ) O ( 2 ) .
+DOC_0280	19	23	CHMC	cell_line
+
+DOC_0281|t|
+DOC_0281|a|Finally , 9-cRA diminished monocyte adhesion to FCS-stimulated CHMC .
+DOC_0281	49	68	FCS-stimulated CHMC	cell_line
+
+DOC_0282|t|
+DOC_0282|a|All major RARs and RXRs isotypes were expressed in CHMC regardless of the presence or absence of 9-cRA .
+DOC_0282	52	56	CHMC	cell_line
+
+DOC_0283|t|
+DOC_0283|a|To monitor changes in the subcellular distribution of Syk in B cells responding to BCR cross-linking , we expressed in Syk -deficient DT40 B cells a fusion protein consisting of Syk coupled to green fluorescent protein .
+DOC_0283	120	147	Syk -deficient DT40 B cells	cell_line
+
+DOC_0284|t|
+DOC_0284|a|As immunoglobulin transcription is mainly regulated by the B-cell transcription factors Oct2 and BOB.1/OBF.1 , we analyzed 35 cases of LPHD , 32 cases of cHD , and 2 Hodgkin disease cell lines for the expression of these transcription factors and also in parallel for immunoglobulin expression .
+DOC_0284	167	193	Hodgkin disease cell lines	cell_line
+
+DOC_0285|t|
+DOC_0285|a|We investigated the expression of active NF-kappa B p65 ( Rel A ) in cases of mycosis fungoides ( MF ) and the effect of chemical inhibitors of NF-kappa B on apoptosis in cutaneous T cell lymphoma ( CTCL ) cell lines .
+DOC_0285	172	217	cutaneous T cell lymphoma ( CTCL ) cell lines	cell_line
+
+DOC_0286|t|
+DOC_0286|a|Apoptosis after treatment with the NF-kappa B inhibitors gliotoxin , MG132 , BAY 11-7082 , and BAY 11-7085 was quantitatively measured in the CTCL cell lines HuT-78 and HH by propidium iodide ( PI ) /cell cycle analysis for detection of a hypodiploid ( sub-G ( 0 ) ) population and by determination of increased Annexin V/7-amino-actinomycin D ( 7-AAD ) expression .
+DOC_0286	143	158	CTCL cell lines	cell_line
+DOC_0286	159	165	HuT-78	cell_line
+DOC_0286	170	172	HH	cell_line
+DOC_0286	240	251	hypodiploid	cell_line
+DOC_0286	254	265	sub-G ( 0 )	cell_line
+
+DOC_0287|t|
+DOC_0287|a|Nuclear expression of p65 ( Rel A ) before and after treatment with the various inhibitory compounds was measured by immunofluorescence staining in each CTCL cell line .
+DOC_0287	154	168	CTCL cell line	cell_line
+
+DOC_0288|t|
+DOC_0288|a|Compared with untreated control cells , a marked increase in apoptosis , a significant decrease in NF-kappa B DNA-binding activity , and a marked decrease in nuclear p65 ( Rel A ) expression were seen in cells from both CTCL cell lines after chemical NF-kappa B inhibition .
+DOC_0288	15	38	untreated control cells	cell_line
+DOC_0288	221	236	CTCL cell lines	cell_line
+
+DOC_0289|t|
+DOC_0289|a|In CTCL cell lines , the significant decrease in nuclear NF-kappa B expression and the marked increase in spontaneous apoptosis caused by chemical NF-kappa B inhibition suggest a critical role for NF-kappa B in the pathogenesis and tumor cell maintenance of CTCLs .
+DOC_0289	4	19	CTCL cell lines	cell_line
+DOC_0289	259	264	CTCLs	cell_line
+
+DOC_0290|t|
+DOC_0290|a|Transient transfection studies showed that Tax activated the expression of a luciferase gene regulated by two copies of an AP-1 site in the human Jurkat T-cell line .
+DOC_0290	141	160	human Jurkat T-cell	cell_line
+
+DOC_0291|t|
+DOC_0291|a|In addition , Tax703 and Tax , but not TaxM22 , converted cell growth of a mouse T-cell line from being interleukin ( IL ) -2-dependent to being IL-2-independent .
+DOC_0291	76	93	mouse T-cell line	cell_line
+
+DOC_0292|t|
+DOC_0292|a|Unlike the wild-type Tax , Tax703 and TaxM22 only weakly activated the AP-1 site in the T-cell line .
+DOC_0292	89	100	T-cell line	cell_line
+
+DOC_0293|t|
+DOC_0293|a|Activation of transcription through the AP-1 site in Jurkat cells by JunD and/or Fra-2 was weak .
+DOC_0293	54	66	Jurkat cells	cell_line
+
+DOC_0294|t|
+DOC_0294|a|These designer `` HIV-rtTA '' viruses replicate in a strictly dox-dependent manner both in a T-cell line and in primary blood cells , and the rate of replication can be fine-tuned by simple variation of the dox concentration .
+DOC_0294	94	105	T-cell line	cell_line
+
+DOC_0295|t|
+DOC_0295|a|Synovial fluid induced nuclear factor-kappaB DNA binding in a monocytic cell line .
+DOC_0295	63	82	monocytic cell line	cell_line
+
+DOC_0296|t|
+DOC_0296|a|OBJECTIVE : To determine the effects of synovial fluids ( SF ) on DNA binding activity of transcription factor nuclear factor-kappaB ( NF-kappaB ) in the Mono Mac 6 monocytic/macrophage cell line as a model for the interaction between SF and synovial tissue macrophages in arthritis .
+DOC_0296	155	196	Mono Mac 6 monocytic/macrophage cell line	cell_line
+
+DOC_0297|t|
+DOC_0297|a|METHODS : Mono Mac 6 cells were incubated with SF from the knee joints of human subjects with rheumatoid arthritis ( RA ) , undifferentiated seronegative oligoarthritis , and osteoarthritis ( OA ) .
+DOC_0297	11	27	Mono Mac 6 cells	cell_line
+
+DOC_0298|t|
+DOC_0298|a|Nuclear extracts prepared from the Mono Mac 6 cells and RA synovial tissue were analyzed by electrophoretic mobility shift analysis ( EMSA ) for NF-kappaB DNA binding proteins .
+DOC_0298	36	52	Mono Mac 6 cells	cell_line
+
+DOC_0299|t|
+DOC_0299|a|RESULTS : Induction of NF-kappaB DNA binding by the p65 ( RelA ) /p50 heterodimer was observed in response to incubation of Mono Mac 6 cells with SF ( 20 % in culture medium ) from 5 of 8 subjects with RA , 4 of 5 with OA , and none of 3 with undifferentiated seronegative oligoarthritis .
+DOC_0299	125	141	Mono Mac 6 cells	cell_line
+
+DOC_0300|t|
+DOC_0300|a|Unexpectedly , a slowly migrating SF inducible NF-kappaB -binding complex was observed in EMSA of Mono Mac 6 cells after incubation with SF from 5 of 8 RA and 2 of 5 OA subjects .
+DOC_0300	99	115	Mono Mac 6 cells	cell_line
+
+DOC_0301|t|
+DOC_0301|a|We demonstrated that expression of dnEts markedly suppressed HIV-1 infection of a T cell line .
+DOC_0301	83	94	T cell line	cell_line
+
+DOC_0302|t|
+DOC_0302|a|We have designed a Nef protein that is readily expressed in T-cell lines and whose function is inducibly activated .
+DOC_0302	61	73	T-cell lines	cell_line
+
+DOC_0303|t|
+DOC_0303|a|Using this inducible Nef , we also compared the specific requirements for CD4 and HLA-A2 downmodulation in a SupT1 T-cell line .
+DOC_0303	110	127	SupT1 T-cell line	cell_line
+
+DOC_0304|t|
+DOC_0304|a|Confocal microscopy further demonstrated that exogenously expressed PKCtheta and IKKss colocalize in the membrane of CD3/CD28-costimulated Jurkat T cells .
+DOC_0304	118	121	CD3	cell_line
+
+DOC_0305|t|
+DOC_0305|a|Constitutively active but not kinase-inactive PKCtheta activated IKKbeta in Jurkat T cells .
+DOC_0305	77	91	Jurkat T cells	cell_line
+
+DOC_0306|t|
+DOC_0306|a|SKAT-2 is tissue restricted in expression at the RNA level , detectable only in brain and at low levels in kidney and spleen and few hematopoietic cell lines .
+DOC_0306	134	158	hematopoietic cell lines	cell_line
+
+DOC_0307|t|
+DOC_0307|a|In transient transfection experiments in phorbol 12-myristate 13-acetate/ionomycin-stimulated EL4 cells , SKAT-2 was found to up-regulate the activity of the IL-4 but not the IL-5 promoter , contrasting with the ability of GATA-3 to activate both promoters .
+DOC_0307	42	104	phorbol 12-myristate 13-acetate/ionomycin-stimulated EL4 cells	cell_line
+
+DOC_0308|t|
+DOC_0308|a|This result was confirmed using clones of EL4 cells stably expressing an inducible form of SKAT-2 , thus SKAT-2 is a novel Th2-specific gene that may play a role in selective regulation of cytokine genes in T cells .
+DOC_0308	43	52	EL4 cells	cell_line
+DOC_0308	208	215	T cells	cell_line
+
+DOC_0309|t|
+DOC_0309|a|In the five-protein system , Hip prevents inhibition of assembly by the hsp70 co-chaperone BAG-1 , and cotransfection of Hip with BAG-1 opposes BAG-1 reduction of steroid binding activity in COS cells .
+DOC_0309	192	201	COS cells	cell_line
+
+DOC_0310|t|
+DOC_0310|a|A transient transfection study showed that Tax can activate transcription through the AP-1-binding site in a human T cell line , whereas any combination of AP-1 proteins did so much less than Tax , indicating that the activation of the AP-1 site by Tax may require a mechanism other than the induction of AP-1 mRNA .
+DOC_0310	110	127	human T cell line	cell_line
+
+DOC_0311|t|
+DOC_0311|a|In the present study , we investigated the effect of PCBs on immune system by assessing apoptotic cell death in human monocytic U937 cells .
+DOC_0311	113	139	human monocytic U937 cells	cell_line
+
+DOC_0312|t|
+DOC_0312|a|In contrast , 3 , 3 ' , 4 , 4 ' , 5-PeCB , a congener of coplanar structure , as well as 2 , 3 , 7 , 8-TCDD did not induce apoptosis in these human monocytic cells , although they potently induced CYP 1A1 in human hepatoma Hep G2 cells .
+DOC_0312	209	236	human hepatoma Hep G2 cells	cell_line
+
+DOC_0313|t|
+DOC_0313|a|The cytokine-dependent murine myeloid FDC-P1 and human erythroleukemic TF-1 cell lines were transformed to grow in response to deregulated Raf expression in the absence of exogenous cytokines .
+DOC_0313	5	45	cytokine-dependent murine myeloid FDC-P1	cell_line
+DOC_0313	50	87	human erythroleukemic TF-1 cell lines	cell_line
+
+DOC_0314|t|
+DOC_0314|a|Continuous deltaRaf expression prevented apoptosis in the absence of exogenous cytokines and altered the morphology of the FD/deltaRaf : ER cells as they grew in large aggregated masses ( > 100 cells ) whereas the parental cytokine-dependent FDC-P1 cells grew in smaller grape-like clusters ( < 10 cells ) .
+DOC_0314	124	146	FD/deltaRaf : ER cells	cell_line
+DOC_0314	224	255	cytokine-dependent FDC-P1 cells	cell_line
+
+DOC_0315|t|
+DOC_0315|a|FD/deltaRaf-1 : ER cells growing in response to Raf activation displayed decreased levels of the Mac-2 and Mac-3 molecules on their cell surface .
+DOC_0315	1	25	FD/deltaRaf-1 : ER cells	cell_line
+
+DOC_0316|t|
+DOC_0316|a|Expression of activated Raf oncoproteins also abrogated cytokine dependency and prevented apoptosis of TF-1 cells .
+DOC_0316	104	114	TF-1 cells	cell_line
+
+DOC_0317|t|
+DOC_0317|a|These Raf-responsive cell lines will be useful in elucidating the roles of the MAP kinase cascade on hematopoietic cell differentiation and malignant transformation
+DOC_0317	7	10	Raf	cell_line
+
+DOC_0318|t|
+DOC_0318|a|In this study , we constructed wild and mutated types of human IL-13R alpha 1 , and analyzed IL-4 and IL-13 signals using an IL-13R alpha 1 -transfected human B cell line .
+DOC_0318	126	171	IL-13R alpha 1 -transfected human B cell line	cell_line
+
+DOC_0319|t|
+DOC_0319|a|Janus tyrosine kinase ( Jak ) 3 and transcription factors Stat5a and Stat5b are essential for the proliferation of normal T cells and are constitutively hyperactivated in both HTLV-1-transformed human T cell lines and lymphocytes isolated from HTLV-1-infected patients ; therefore , a critical role for the Jak3-Stat5 pathway in the progression of this disease has been postulated .
+
+DOC_0320|t|
+DOC_0320|a|We recently reported that tyrphostin AG-490 selectively blocked IL-2 activation of Jak3/Stat5 and growth of murine T cell lines .
+DOC_0320	109	128	murine T cell lines	cell_line
+
+DOC_0321|t|
+DOC_0321|a|Here we demonstrate that disruption of Jak3/Stat5a/b signaling with AG-490 ( 50 & mgr ; M ) blocked the proliferation of primary human T lymphocytes , but paradoxically failed to inhibit the proliferation of HTLV-1-transformed human T cell lines , HuT-102 and MT-2 .
+DOC_0321	122	137	primary human T	cell_line
+DOC_0321	209	246	HTLV-1-transformed human T cell lines	cell_line
+DOC_0321	249	256	HuT-102	cell_line
+DOC_0321	261	265	MT-2	cell_line
+
+DOC_0322|t|
+DOC_0322|a|In the present study , we have demonstrated that , unlike resting cells , activation of cycling human mature PBT lymphocytes , and T lymphocyte leukemia cell lines is accompanied by the accumulation of RXRalpha mRNA and protein .
+DOC_0322	132	164	T lymphocyte leukemia cell lines	cell_line
+
+DOC_0323|t|
+DOC_0323|a|Transfection analysis in Jurkat cells , using RXRE-dependent reporter assays , showed that RXRalpha accumulated during T cell activation was transcriptionally inactive .
+DOC_0323	26	38	Jurkat cells	cell_line
+
+DOC_0324|t|
+DOC_0324|a|For functional characterization of both promoters , plasmids in which reporter genes were placed under the control of a series of truncated or mutated promoter fragments were transfected to human hematopoietic cell lines .
+DOC_0324	197	221	hematopoietic cell lines	cell_line
+
+DOC_0325|t|
+DOC_0325|a|Although both isomers were expressed in human erythroid-megakaryocytic cell lines , megakaryocytic maturation with loss of erythroid phenotype induced by phorbol 12-myristate 13-acetate ( PMA ) resulted in exclusive downregulation of fNF-E2 , suggesting that fNF-E2 promoter is more erythroid specific .
+DOC_0325	41	82	human erythroid-megakaryocytic cell lines	cell_line
+
+DOC_0326|t|
+DOC_0326|a|MATERIALS AND METHODS : We screened a panel of acute myeloid leukemia-derived cell lines for TNF- alpha -responsiveness .
+DOC_0326	48	89	acute myeloid leukemia-derived cell lines	cell_line
+
+DOC_0327|t|
+DOC_0327|a|In two lines ( OCI-AML-1 , OCI-AML-11 ) , TNF- alpha acted as an apoptotic agent ; in others ( HU-3 , M-07e , TF-1 ) , it had the opposite effect , preventing apoptosis and inducing proliferation .
+DOC_0327	16	25	OCI-AML-1	cell_line
+DOC_0327	28	38	OCI-AML-11	cell_line
+DOC_0327	96	100	HU-3	cell_line
+DOC_0327	103	108	M-07e	cell_line
+DOC_0327	111	115	TF-1	cell_line
+
+DOC_0328|t|
+DOC_0328|a|Supporting this notion , TNF-alpha -induced upregulation of GM-CSF mRNA levels and protein secretion in the TNF-alpha -proliferative , but not in the TNF-alpha-apoptotic cell lines .
+DOC_0328	109	133	TNF-alpha -proliferative	cell_line
+DOC_0328	151	181	TNF-alpha-apoptotic cell lines	cell_line
+
+DOC_0329|t|
+DOC_0329|a|We show for the first time that TNF-alpha-treated cell lines producing no or only minimal amounts of GM-CSF demonstrate an apoptotic phenotype , while cell lines with high GM-CSF expression rates can escape from growth arrest or even apoptosis .
+DOC_0329	33	61	TNF-alpha-treated cell lines	cell_line
+DOC_0329	152	162	cell lines	cell_line
+
+DOC_0330|t|
+DOC_0330|a|The binding affinities of the different T cell preparations for dexamethasone were similar .
+DOC_0330	41	60	T cell preparations	cell_line
+
+DOC_0331|t|
+DOC_0331|a|A number of leukemia cell lines in continuous culture were also subjected to the GR assay , and the results were correlated with the sensitivity of these cell lines to glucocorticoid steroids in vitro .
+DOC_0331	13	32	leukemia cell lines	cell_line
+DOC_0331	155	165	cell lines	cell_line
+
+DOC_0332|t|
+DOC_0332|a|GR was identified in all the 12 malignant continuous white cell lines studied .
+DOC_0332	33	70	malignant continuous white cell lines	cell_line
+
+DOC_0333|t|
+DOC_0333|a|Distribution of the surface markers in the leukemic cell lines did not relate to the GR concentration .
+DOC_0333	44	63	leukemic cell lines	cell_line
+
+DOC_0334|t|
+DOC_0334|a|In this paper , TNF-alpha mRNA is shown to be highly induced in a murine T cell clone by stimulation with T cell receptor ( TCR ) ligands or by calcium ionophores alone .
+DOC_0334	67	86	murine T cell clone	cell_line
+
+DOC_0335|t|
+DOC_0335|a|Differences in expression of transcription factor AP-1 in human promyelocytic HL-60 cells during differentiation towards macrophages versus granulocytes .
+DOC_0335	59	90	human promyelocytic HL-60 cells	cell_line
+
+DOC_0336|t|
+DOC_0336|a|Commitment of HL-60 cells to macrophage or granulocytic differentiation was achieved by incubation with 4 beta-phorbol 12-myristate 13-acetate ( PMA ) for 30-60 min or with dimethyl sulphoxide ( DMSO ) for 24 h respectively .
+DOC_0336	15	26	HL-60 cells	cell_line
+
+DOC_0337|t|
+DOC_0337|a|When HL-60 cells were treated with sodium butyrate , which induced monocytic differentiation , a remarkable increase in AP-1 binding activity was detected .
+DOC_0337	6	17	HL-60 cells	cell_line
+
+DOC_0338|t|
+DOC_0338|a|Treatment of HL-60 cells with 1 alpha , 25-dihydroxyvitamin D3 , another monocytic differentiation agent , induced a weak , but appreciable , increase in AP-1 activity .
+DOC_0338	14	25	HL-60 cells	cell_line
+
+DOC_0339|t|
+DOC_0339|a|Furthermore , addition of sodium butyrate or 1 alpha , 25-dihydroxyvitamin D3 to HL-60 cells induced the expression of c-fos , c-jun , jun B and jun D proto-oncogenes .
+DOC_0339	82	93	HL-60 cells	cell_line
+
+DOC_0340|t|
+DOC_0340|a|In contrast , when HL-60 cells were treated with retinoic acid , a granulocytic differentiation inducer , no enhanced AP-1 binding activity was observed , and only a weak increase in jun D mRNA level was detected .
+DOC_0340	20	31	HL-60 cells	cell_line
+
+DOC_0341|t|
+DOC_0341|a|These data indicate that formation of AP-1 is not required for the induction of HL-60 differentiation towards granulocytes , whereas induction of monocytic differentiation is correlated with an increase in AP-1 activity .
+DOC_0341	81	86	HL-60	cell_line
+
+DOC_0342|t|
+DOC_0342|a|The differential expression of AP-1 activity may be critical in the differentiation of HL-60 cells towards monocytic or granulocytic lineages
+DOC_0342	88	99	HL-60 cells	cell_line
+
+DOC_0343|t|
+DOC_0343|a|'Activation-labile ' glucocorticoid-receptor complexes of a steroid-resistant variant of CEM-C7 human lymphoid cells .
+DOC_0343	61	86	steroid-resistant variant	cell_line
+DOC_0343	90	117	CEM-C7 human lymphoid cells	cell_line
+
+DOC_0344|t|
+DOC_0344|a|We report here that DEAE-cellulose chromatography of steroid-receptor complexes from CEM-C7 , a cloned human leukaemic T-cell line sensitive to the cytolytic action of glucocorticoids , and its steroid-resistant subclone 4R4 demonstrated that steroid receptors of clone 4R4 can not form stable activated complexes .
+DOC_0344	86	92	CEM-C7	cell_line
+DOC_0344	97	131	cloned human leukaemic T-cell line	cell_line
+DOC_0344	195	221	steroid-resistant subclone	cell_line
+DOC_0344	222	225	4R4	cell_line
+DOC_0344	265	274	clone 4R4	cell_line
+
+DOC_0345|t|
+DOC_0345|a|This defines a new defect in receptor action , activation lability ( r+act1 ) , which is unlike either the r- , r+nt- , or r+nti phenotypes previously described for mouse lymphoid variants .
+DOC_0345	166	189	mouse lymphoid variants	cell_line
+
+DOC_0346|t|
+DOC_0346|a|We have previously shown that a fragment containing bp -95 to +27 of the mouse GM-CSF promoter can confer inducibility to reporter genes in the human Jurkat T-cell line .
+DOC_0346	151	169	Jurkat T-cell line	cell_line
+
+DOC_0347|t|
+DOC_0347|a|DNaseI footprint and electrophoretic mobility shift assay analyses performed with MLA-144 T cell nuclear extracts demonstrated that this 49-bp region contains a nuclear protein binding region that includes consensus AP-1 and Elf-1 binding sites .
+DOC_0347	83	87	MLA-	cell_line
+
+DOC_0348|t|
+DOC_0348|a|In vitro-transcribed and -translated Elf-1 protein bound specifically to the Elf-1 site , and Elf-1 antisera competed and super shifted nuclear protein complexes present in MLA-144 nuclear extracts .
+DOC_0348	174	181	MLA-144	cell_line
+
+DOC_0349|t|
+DOC_0349|a|Transient transfection studies in MLA-144 T cells revealed that constructs containing mutations in the AP-1 site almost completely abolished CAT activity while mutation of the Elf-1 site or the NF-IL-3 site , a previously described nuclear protein binding site ( bp. -155 to -148 ) in the IL-3 promoter , reduced CAT activity to < 25 % of the activity given by wild-type constructs .
+DOC_0349	35	50	MLA-144 T cells	cell_line
+
+DOC_0350|t|
+DOC_0350|a|Glucocorticoid receptor activation and inactivation in c ultured human lymphocytes .
+DOC_0350	56	83	c ultured human lymphocytes	cell_line
+
+DOC_0351|t|
+DOC_0351|a|Although glucocorticoids are not cytolytic for and do not inhibit the growth of the IM-9 line of cultured human lymphoblasts , these cells have a high steroid-binding capacity .
+DOC_0351	85	94	IM-9 line	cell_line
+DOC_0351	98	125	cultured human lymphoblasts	cell_line
+
+DOC_0352|t|
+DOC_0352|a|The inactivation of glucocorticoid receptors that occurs when cytosol from normal IM-9 cells is incubated at 25 degrees C is inhibited by molybdate , vanadate , fluoride , ATP , and several other nucleotides .
+DOC_0352	83	93	IM-9 cells	cell_line
+
+DOC_0353|t|
+DOC_0353|a|To study variations in glucocorticoid receptor levels during the cell cycle , we have separated mitogen-stimulated human peripheral lymphocytes and rat lymph node cells by unit gravity sedimentation and measured glucocorticoid binding in the resultant fractions .
+DOC_0353	97	144	mitogen-stimulated human peripheral lymphocytes	cell_line
+
+DOC_0354|t|
+DOC_0354|a|A 2- to 3-fold increase in glucocorticoid receptor sites per cell , for cells in the S and post-S phase over those in G0 and G1 , was observed with both nonstimulated rat lymph node cell suspensions and concanavalin A-stimulated human peripheral lymphocytes .
+DOC_0354	154	177	nonstimulated rat lymph	cell_line
+DOC_0354	204	258	concanavalin A-stimulated human peripheral lymphocytes	cell_line
+
+DOC_0355|t|
+DOC_0355|a|We have used the leukocyte migration inhibition ( LMI ) response to assay the response to several potential breast cancer-related antigens , including MuMTV , MPMV , and a breast cancer cultured cell line , MCF-7 , in 96 breast cancer patients , in 32 women with benign breast disease , and in 67 normal women .
+DOC_0355	173	205	breast cancer cultured cell line	cell_line
+DOC_0355	208	213	MCF-7	cell_line
+
+DOC_0356|t|
+DOC_0356|a|Nuclear extracts from unstimulated cells of the human monocytic cell line , Mono Mac 6 , contain one specific binding protein ( complex II ) , consistent with a constitutive p50 homodimer .
+DOC_0356	49	74	human monocytic cell line	cell_line
+DOC_0356	77	87	Mono Mac 6	cell_line
+
+DOC_0357|t|
+DOC_0357|a|Stimulation of Mono Mac 6 cells with LPS will increase complex II and will strongly induce a second specific complex ( complex I ) , which represents the p50/65 heterodimer .
+DOC_0357	16	32	Mono Mac 6 cells	cell_line
+
+DOC_0358|t|
+DOC_0358|a|In T lymphocytes , triggering of the T cell receptor ( TCR ) induces several signaling cascades which ultimately synergize to induce the activity of the nuclear factor of activated T cells ( NFAT ) , a DNA binding complex critical to the inducibility and T cell specificity of the T cell growth factor interleukin 2 .
+DOC_0358	4	17	T lymphocytes	cell_line
+
+DOC_0359|t|
+DOC_0359|a|Calcium signals are important for NFAT induction , and recent studies have identified calcineurin , a calcium-calmodulin dependent serine-threonine phosphatase , as a prominent component of the calcium signaling pathway in T cells .
+DOC_0359	224	231	T cells	cell_line
+
+DOC_0360|t|
+DOC_0360|a|We then examined the ability of the affinity gel to recognize cytosolic [ 3H ] triamcinolone acetonide-receptor complexes from the corticoid-sensitive ( CS ) and -resistant strains of mouse lymphoma P1798 , from CS lymphocytes of patients with chronic lymphatic leukemia , and from a CS clone of human leukemic lymphoblasts in tissue culture ( CH6 ) .
+DOC_0360	132	164	corticoid-sensitive ( CS ) and -	cell_line
+DOC_0360	185	205	mouse lymphoma P1798	cell_line
+DOC_0360	285	293	CS clone	cell_line
+
+DOC_0361|t|
+DOC_0361|a|Whereas the immunoaffinity column retained 70 to 84 % of the 58- to 62-A ( Stokes radius ) [ 3H ] triamcinolone acetonide-receptor complexes characteristic of the CS mouse and human lymphocytes , it failed to recognize the 27- to 28-A ( Stokes radius ) glucocorticoid receptor present in corticoid-resistant mouse lymphoma P1798 cells .
+DOC_0361	164	172	CS mouse	cell_line
+DOC_0361	177	194	human lymphocytes	cell_line
+DOC_0361	289	308	corticoid-resistant	cell_line
+DOC_0361	309	335	mouse lymphoma P1798 cells	cell_line
+
+DOC_0362|t|
+DOC_0362|a|Increased glucocorticoid receptor levels in antigen-stimulated lymphocytes .
+DOC_0362	45	75	antigen-stimulated lymphocytes	cell_line
+
+DOC_0363|t|
+DOC_0363|a|PC-PLC-activated hydrolysis of PC was found to induce bona fide p50/p65 NF-kappa B binding activity in three different cell lines of human or murine origin .
+DOC_0363	120	130	cell lines	cell_line
+
+DOC_0364|t|
+DOC_0364|a|No significant changes in the turnover of other cellular phospholipids were detected in PC-PLC-treated cells .
+DOC_0364	89	109	PC-PLC-treated cells	cell_line
+
+DOC_0365|t|
+DOC_0365|a|In human monocytic and lymphoblastoid T-cell lines , induction of NF-kappa B by PC-PLC resulted in clear induction of luciferase expression vectors placed under the control of synthetic kappa B enhancers or wild type , but not kappa B-mutated , HIV long terminal repeat constructs .
+DOC_0365	4	51	human monocytic and lymphoblastoid T-cell lines	cell_line
+
+DOC_0366|t|
+DOC_0366|a|Human peripheral blood T cells , stimulated with PMA for 48 h ( PMA blasts ) , were incubated with IL-2 in the presence of incremental dosages of dexamethasone ( Dex ; 10 ( -5 ) -10 ( -9 ) M ) .
+DOC_0366	65	75	PMA blasts	cell_line
+
+DOC_0367|t|
+DOC_0367|a|Dex inhibited the IL-2-dependent proliferation of PMA blasts in a dose-dependent fashion ( IC50 , 5 x 10 ( -8 ) M ) .
+DOC_0367	51	61	PMA blasts	cell_line
+
+DOC_0368|t|
+DOC_0368|a|IL-2-dependent IL-2R alpha expression in PMA blasts and NF-kB induction in resting human T cells were also inhibited by Dex .
+DOC_0368	42	52	PMA blasts	cell_line
+
+DOC_0369|t|
+DOC_0369|a|These results demonstrate that glucocorticoids inhibit preactivated T cells by down-regulating signal transduction through IL-2R .
+DOC_0369	56	76	preactivated T cells	cell_line
+
+DOC_0370|t|
+DOC_0370|a|The relationship between human immunodeficiency virus type 1 ( HIV-1 ) infection and the induction of NF-kappa B binding activity was examined in a myeloid cell model of HIV-1 infection derived from the PLB-985 cell line .
+DOC_0370	149	161	myeloid cell	cell_line
+DOC_0370	204	221	PLB-985 cell line	cell_line
+
+DOC_0371|t|
+DOC_0371|a|Chronic infection of PLB-985 cells led to increased monocyte-specific surface marker expression , increased c-fms gene transcription , and morphological alterations consistent with differentiation along the monocytic pathway .
+DOC_0371	22	35	PLB-985 cells	cell_line
+
+DOC_0372|t|
+DOC_0372|a|PLB-IIIB cells displayed a constitutive NF-kappa B-like binding activity that was distinct from that induced by tumor necrosis factor alpha or phorbol 12-myristate 13-acetate treatment of the parental PLB-985 cell line .
+DOC_0372	1	15	PLB-IIIB cells	cell_line
+DOC_0372	193	219	parental PLB-985 cell line	cell_line
+
+DOC_0373|t|
+DOC_0373|a|Transient cotransfection experiments demonstrated that RelA and NFKB1 expression maximally stimulated HIV-1 LTR- and NF-kappa B-dependent reporter genes ; differences in NF-kappa B-like binding activity were also reflected in higher constitutive levels of NF-kappa B-regulated gene expression in HIV-1-infected myeloid cells .
+DOC_0373	297	325	HIV-1-infected myeloid cells	cell_line
+
+DOC_0374|t|
+DOC_0374|a|Presence of estrogen-binding sites on macrophage-like synoviocytes and CD8+ , CD29+ , CD45RO+ T lymphocytes in normal and rheumatoid synovium .
+DOC_0374	39	67	macrophage-like synoviocytes	cell_line
+DOC_0374	72	75	CD8	cell_line
+
+DOC_0375|t|
+DOC_0375|a|Double immunostaining with the anti-ER MAb and with specific MAb to detect different macrophage antigens ( Ber-MAC3 , MAC387 , CD68 ) and CD8+ T cell subsets ( CD29+ , CD45RO+ and CD29- , CD45RO- ) was performed .
+DOC_0375	139	158	CD8+ T cell subsets	cell_line
+DOC_0375	161	165	CD29	cell_line
+DOC_0375	169	175	CD45RO	cell_line
+DOC_0375	181	185	CD29	cell_line
+
+DOC_0376|t|
+DOC_0376|a|Immunostaining showed the estrogen receptor-positive cells to be the macrophage-like synoviocytes and the CD8+ , CD29+ T cells both in RA and in control synovial tissues .
+DOC_0376	27	44	estrogen receptor	cell_line
+DOC_0376	107	127	CD8+ , CD29+ T cells	cell_line
+
+DOC_0377|t|
+DOC_0377|a|It is conceivable that the immunomodulatory activity exerted by estrogens is at least partly mediated through their interaction with EBS that are present on macrophage-like synoviocytes , functioning as antigen-processing and antigen-presenting cells , and on antigen-experienced ( memory ) CD8+ T lymphocytes ( CD29+ , CD45RO+
+DOC_0377	158	186	macrophage-like synoviocytes	cell_line
+DOC_0377	313	317	CD29	cell_line
+

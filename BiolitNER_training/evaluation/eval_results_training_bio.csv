@@ -1,0 +1,24 @@
+Dataset,Type,Model,Precision,Recall,F1
+ncbi-disease,disease,Gold-only Baseline,0.852,0.887,0.869
+ncbi-disease,disease,BiolitNER,0.876,0.897,0.886
+ncbi-disease,disease,BERN2,0.866,0.886,0.876
+ncbi-disease,disease,HunFlair2,0.962,0.943,0.952
+BC4CHEMD,chemical,Gold-only Baseline,0.906,0.907,0.906
+BC4CHEMD,chemical,BiolitNER,0.911,0.911,0.911
+BC4CHEMD,chemical,BERN2,0.908,0.906,0.907
+BC4CHEMD,chemical,HunFlair2,0.664,0.792,0.722
+Revised_JNLPBA-ct,celltype,Gold-only Baseline,0.893,0.905,0.899
+Revised_JNLPBA-ct,celltype,BiolitNER,0.894,0.907,0.901
+Revised_JNLPBA-ct,celltype,BERN2,0.571,0.615,0.592
+CAFETERIA,food,Gold-only Baseline,0.871,0.908,0.889
+CAFETERIA,food,BiolitNER,0.884,0.909,0.897
+CONLL2003,location,Gold-only Baseline,0.871,0.919,0.895
+CONLL2003,location,BiolitNER,0.865,0.922,0.892
+CRAFT-go,go,Gold-only Baseline,0.771,0.762,0.767
+CRAFT-go,go,BiolitNER,0.778,0.812,0.794
+Medmention-diagnosis,diagnosis,Gold-only Baseline,0.748,0.771,0.759
+Medmention-diagnosis,diagnosis,BiolitNER,0.686,0.785,0.732
+Medmention-treatment,treatment,Gold-only Baseline,0.706,0.745,0.725
+Medmention-treatment,treatment,BiolitNER,0.699,0.768,0.732
+NERO-bp,bodypart,Gold-only Baseline,0.732,0.817,0.772
+NERO-bp,bodypart,BiolitNER,0.725,0.826,0.772

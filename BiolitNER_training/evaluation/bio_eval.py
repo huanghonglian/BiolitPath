@@ -1,215 +1,336 @@
 #!/usr/bin/env python3
+"""Evaluate PubTator predictions on the word-level BIO data used in training."""
 
 import argparse
-import re
-import os
-from collections import defaultdict, Counter
-import numpy as np
-import pandas as pd
-from seqeval.metrics import f1_score, precision_score, recall_score, accuracy_score
+import csv
+from dataclasses import dataclass
+from pathlib import Path
 
-def pubtator_to_bio(pubtator_file_path):
+from seqeval.metrics.sequence_labeling import get_entities
 
-    
-    def text_to_tokens(text):
-        """Split text into a list of tokens (simple whitespace tokenization)."""
-        return text.split()
-    
-    def get_token_positions(text, tokens):
-        """Return the start and end character index of each token in the text."""
-        positions = []
-        current_pos = 0
-        for token in tokens:
-            # Skip leading whitespace
-            while current_pos < len(text) and text[current_pos].isspace():
-                current_pos += 1
-            
-            start = current_pos
-            end = start + len(token) - 1
-            positions.append((start, end))
-            
-            # Advance past the current token
-            current_pos = end + 1
-        
-        return positions
-    
-    def create_bio_labels(tokens, positions, entities):
-        """Assign BIO labels to each token."""
-        labels = ['O'] * len(tokens)
-        
-        for entity in entities:
-            ent_start = entity['start']
-            ent_end = entity['end']
-            ent_type = entity['type']
-            
-            # Tokens whose span falls inside the entity
-            for i, (token_start, token_end) in enumerate(positions):
-                if token_start >= ent_start and token_end <= ent_end:
-                    # Compare with previous token to detect entity start vs. continuation
-                    prev_token_end = positions[i-1][1] if i > 0 else -1
-                    if prev_token_end < ent_start - 1:  # First token of entity
-                        labels[i] = f'B'
-                    else:
-                        labels[i] = f'I'
-        
-        return labels
-    
-    # Read PubTator file
-    documents = []
-    with open(pubtator_file_path, 'r', encoding='utf-8') as f:
-        content = f.read().strip()
-    
-    # Split into documents by blank lines
-    doc_blocks = content.split('\n\n')
-    
-    for block in doc_blocks:
-        if not block.strip():
-            continue
-        
-        lines = block.strip().split('\n')
-        
-        # Parse document block
-        doc_info = {}
-        entities = []
-        
-        for line in lines:
-            if line.startswith('|t|') or '|t|' in line:
-                # Title field
-                parts = line.split('|t|')
-                doc_info['id'] = parts[0]
-                doc_info['title'] = '|t|'.join(parts[1:]) if len(parts) > 1 else ''
-            elif line.startswith('|a|') or '|a|' in line:
-                # Abstract field
-                parts = line.split('|a|')
-                doc_info['abstract'] = '|a|'.join(parts[1:]) if len(parts) > 1 else ''
-            elif '\t' in line and len(line.split('\t')) >= 4:
-                # Entity annotation line
-                parts = line.split('\t')
-                entity = {
-                    'doc_id': parts[0],
-                    'start': int(parts[1]),
-                    'end': int(parts[2]) - 1,  # Use inclusive end index
-                    'text': parts[3],
-                    'type': ''
-                }
-                entities.append(entity)
-        
-        if doc_info:
-            # Full text is title plus abstract
-            full_text = doc_info.get('title', '') + ' ' + doc_info.get('abstract', '')
-            doc_info['full_text'] = full_text
-            doc_info['entities'] = entities
-            documents.append(doc_info)
-    
-    # Build BIO-formatted lines
-    bio_lines = []
-    i=0
-    for doc in documents:
-        text = doc['full_text']
-        tokens = text_to_tokens(text)
-        positions = get_token_positions(text, tokens)
-        '''
-        if i==42:
-            print(tokens)
-            print(positions)
-        '''
-        i+=1
-        labels = create_bio_labels(tokens, positions, doc['entities'])
-        # BIO: one line per token
-        for token, label in zip(tokens, labels):
-            bio_lines.append(f"{token}\t{label}")
-        # Blank line between documents
-        bio_lines.append('')
 
-    
-    return bio_lines
-def bio_split_by_sent(file_path):
-    bio_lines = pubtator_to_bio(file_path)
-    # Build BIO from PubTator file and split by document
+DATASETS = {
+    "ncbi-disease": "NCBI-disease",
+    "BC4CHEMD": "BC4CHEMD",
+    "Revised_JNLPBA-ct": "Revised_JNLPBA-ct",
+    "CAFETERIA": "CAFETERIA",
+    "CONLL2003": "CONLL2003",
+    "CRAFT-go": "CRAFT-go",
+    "Medmention-diagnosis": "Medmention-diagnose",
+    "Medmention-treatment": "Medmention-treatment",
+    "NERO-bp": "NERO-bp",
+}
+
+ENTITY_TYPES = {
+    "ncbi-disease": "disease",
+    "BC4CHEMD": "chemical",
+    "Revised_JNLPBA-ct": "celltype",
+    "CAFETERIA": "food",
+    "CONLL2003": "location",
+    "CRAFT-go": "go",
+    "Medmention-diagnosis": "diagnosis",
+    "Medmention-treatment": "treatment",
+    "NERO-bp": "bodypart",
+}
+
+GOLD_NAMES = {"Medmention-diagnosis": "Medmention-diagnose"}
+
+MODEL_NAMES = {
+    "Gold-only_Baseline": "Gold-only Baseline",
+    "BiolitNER": "BiolitNER",
+    "BERN2": "BERN2",
+    "HunFlair2": "HunFlair2",
+}
+
+
+
+@dataclass
+class PubTatorDocument:
+    doc_id: str
+    text: str
+    entities: list[tuple[int, int, str]]
+
+
+def read_bio(path: Path) -> tuple[list[list[str]], list[list[str]]]:
+    all_tokens, all_labels = [], []
     tokens, labels = [], []
-    current_tokens = []
-    current_labels = []
-    
-    for line in bio_lines:
-        if not line:  # Document boundary
-            if current_tokens:
-                tokens.append(current_tokens)
-                labels.append(current_labels)
-                current_tokens = []
-                current_labels = []
-        else:
-            parts = line.split('\t')
-            if len(parts) >= 2:
-                current_tokens.append(parts[0])
-                current_labels.append(parts[1])
-    
-    if current_tokens:
-        tokens.append(current_tokens)
-        labels.append(current_labels)
-    return tokens, labels
 
-def evaluate_pubtator_vs_bio(gold_bio_file, pred_pubtator_file, output_metrics_file=None):
-
-    gold_tokens, gold_labels = bio_split_by_sent(gold_bio_file)
-    # Same conversion for predicted PubTator file
-    pred_tokens, pred_labels = bio_split_by_sent(pred_pubtator_file)
-    # Ensure document counts match
-    if len(gold_tokens) != len(pred_tokens):
-        print(f"Warning: document count mismatch. Gold: {len(gold_tokens)}, prediction: {len(pred_tokens)}")
-            
-        #print(gold_tokens[941])
-        min_docs = min(len(gold_tokens), len(pred_tokens))
-        gold_tokens = gold_tokens[:min_docs]
-        gold_labels = gold_labels[:min_docs]
-        pred_tokens = pred_tokens[:min_docs]
-        pred_labels = pred_labels[:min_docs]
-    for i in range(len(gold_tokens)):
-        if pred_tokens[i][0]!=gold_tokens[i][0]:
-            print(i,gold_tokens[i],pred_tokens[i])
-    all_gold_entities = []
-    all_pred_entities = []
-    all_gold_labels=[]
-    all_pred_labels=[]
-    for i in range(len(gold_tokens)):
-        all_gold_labels.append(gold_labels[i])
-        all_pred_labels.append(pred_labels[i])
-        all_gold_entities.extend(gold_tokens[i])
-        all_pred_entities.extend(pred_tokens[i])
-    for i in range(len(all_gold_labels)):
-        if len(all_gold_labels[i])!=len(all_pred_labels[i]):
-            print(i,len(all_gold_labels[i]),len(len(all_pred_labels[i])))
-            break
-            
-    precision=precision_score(all_gold_labels, all_pred_labels)
-    recall= recall_score(all_gold_labels, all_pred_labels)
-    f1=f1_score(all_gold_labels, all_pred_labels)
-    metrics=[precision,recall,f1]
-    
-    return metrics
-
-def main():
-    models=['biolitpath','bern2','hunflair2']
-    entity_types={'ncbi-disease':'disease','BC4CHEMD':'chemical','Revised_JNLPBA-ct':'celltype',
-                  'CAFETERIA':'food','CONLL2003':'location','CRAFT-go':'go','Medmention-diagnosis':'diagnosis',
-            'Medmention-treatment':'treatment','NERO-bp':'bodypart'}
-    eval_results=[]
-    print('Evaluating models...')
-    for dataset in entity_types:
-        et=entity_types[dataset]
-        file_paths={}
-        gold_file=f'./goldstandard/{dataset}.txt'
-        for model in models:
-            model_pred=f'./{model}/{dataset}.txt'
-            if not os.path.exists(model_pred):
+    with path.open(encoding="utf-8") as handle:
+        for line in handle:
+            line = line.rstrip("\n")
+            if not line or line.startswith("-DOCSTART-"):
+                if tokens:
+                    all_tokens.append(tokens)
+                    all_labels.append(labels)
+                    tokens, labels = [], []
                 continue
-            result=evaluate_pubtator_vs_bio(gold_file, model_pred)
-            result=[round(num, 3) for num in result]
-            eval_results.append([dataset,et,model]+result)
 
-    columns=['Dataset','Type','Model']+['Precision','Recall','F1']
-    eval_results=pd.DataFrame(eval_results,columns=columns)
-    print(eval_results)
-    
-    
+            parts = line.split(" ")
+            if len(parts) < 2:
+                continue
+            tokens.append(parts[0])
+            labels.append(parts[-1].strip())
+
+    if tokens:
+        all_tokens.append(tokens)
+        all_labels.append(labels)
+
+    return all_tokens, all_labels
+
+
+def read_pubtator(path: Path) -> list[PubTatorDocument]:
+    documents = []
+    content = path.read_text(encoding="utf-8").strip()
+
+    for block in content.split("\n\n"):
+        doc_id = None
+        title = ""
+        abstract = ""
+        entities = []
+
+        for line in block.splitlines():
+            if "|t|" in line:
+                line_id, title = line.split("|t|", 1)
+                doc_id = doc_id or line_id
+                if line_id != doc_id:
+                    raise ValueError(f"{path}: inconsistent document IDs in one block")
+            elif "|a|" in line:
+                line_id, abstract = line.split("|a|", 1)
+                doc_id = doc_id or line_id
+                if line_id != doc_id:
+                    raise ValueError(f"{path}: inconsistent document IDs in one block")
+            elif "\t" in line:
+                fields = line.split("\t")
+                if len(fields) < 4:
+                    raise ValueError(f"{path}: malformed annotation: {line}")
+                entity_id, start, end, mention = fields[:4]
+                if doc_id is not None and entity_id != doc_id:
+                    raise ValueError(f"{path}: annotation ID differs from text ID: {line}")
+                entities.append((int(start), int(end), mention))
+
+        if doc_id is None:
+            raise ValueError(f"{path}: document block has no title/abstract line")
+
+        text = title + " " + abstract
+        for start, end, mention in entities:
+            if not 0 <= start < end <= len(text):
+                raise ValueError(f"{path}: invalid span {doc_id} [{start}, {end})")
+            if text[start:end] != mention:
+                raise ValueError(
+                    f"{path}: {doc_id} [{start}, {end}) is {text[start:end]!r}, "
+                    f"not {mention!r}"
+                )
+
+        documents.append(PubTatorDocument(doc_id, text, entities))
+
+    ids = [document.doc_id for document in documents]
+    if len(ids) != len(set(ids)):
+        raise ValueError(f"{path}: duplicate document IDs")
+
+    return documents
+
+
+def locate_bio_tokens(text: str, tokens: list[str], context: str) -> list[tuple[int, int]]:
+    offsets = []
+    position = 0
+
+    for token in tokens:
+        while position < len(text) and text[position].isspace():
+            position += 1
+        start = position
+        end = start + len(token)
+        actual = text[start:end]
+        delimiter_escape = token == "|" and actual == "/"
+        if actual != token and not delimiter_escape:
+            raise ValueError(
+                f"{context}: BIO token {token!r} does not match text at position {start}: "
+                f"{actual!r}"
+            )
+        offsets.append((start, end))
+        position = end
+
+    if text[position:].strip():
+        raise ValueError(f"{context}: PubTator text contains unmatched trailing text")
+
+    return offsets
+
+
+def prediction_to_bio(
+    document: PubTatorDocument,
+    offsets: list[tuple[int, int]],
+) -> tuple[list[str], int, int]:
+    projected_spans = set()
+    unaligned_spans = set()
+
+    for start, end, _ in document.entities:
+        covered = [
+            index
+            for index, (token_start, token_end) in enumerate(offsets)
+            if token_start < end and token_end > start
+        ]
+        if not covered:
+            raise ValueError(
+                f"{document.doc_id}: entity [{start}, {end}) overlaps no BIO token"
+            )
+
+        first, last = covered[0], covered[-1]
+        if start != offsets[first][0] or end != offsets[last][1]:
+            unaligned_spans.add((start, end))
+            continue
+        projected_spans.add((first, last))
+
+    # Flat BIO cannot represent overlaps; deterministically keep longer spans.
+    selected_spans = []
+    for span in sorted(projected_spans, key=lambda item: (-(item[1] - item[0] + 1), item)):
+        if any(span[0] <= kept[1] and kept[0] <= span[1] for kept in selected_spans):
+            continue
+        selected_spans.append(span)
+    ordered_spans = sorted(selected_spans)
+    dropped_overlaps = len(projected_spans) - len(ordered_spans)
+
+    labels = ["O"] * len(offsets)
+    for first, last in ordered_spans:
+        labels[first] = "B"
+        for index in range(first + 1, last + 1):
+            labels[index] = "I"
+
+    return labels, len(unaligned_spans), dropped_overlaps
+
+
+def bio_entities(label_sequences: list[list[str]]) -> set[tuple[int, int, int]]:
+    entities = set()
+    for document_index, labels in enumerate(label_sequences):
+        for _, start, end in get_entities(labels):
+            entities.add((document_index, start, end))
+    return entities
+
+
+def evaluate_dataset(
+    bio_path: Path,
+    gold_pubtator_path: Path,
+    prediction_path: Path,
+) -> tuple[float, float, float, int, int]:
+    tokens, gold_labels = read_bio(bio_path)
+    references = read_pubtator(gold_pubtator_path)
+    predictions = read_pubtator(prediction_path)
+
+    if len(tokens) != len(references):
+        raise ValueError(
+            f"{bio_path}: {len(tokens)} BIO sequences but "
+            f"{gold_pubtator_path} has {len(references)} documents"
+        )
+    if len(references) != len(predictions):
+        raise ValueError(
+            f"{prediction_path}: expected {len(references)} documents, "
+            f"found {len(predictions)}"
+        )
+
+    predicted_labels = []
+    unaligned = 0
+    dropped_overlaps = 0
+
+    for index, (words, reference, prediction) in enumerate(
+        zip(tokens, references, predictions)
+    ):
+        if reference.doc_id != prediction.doc_id:
+            raise ValueError(
+                f"document {index}: ID mismatch: {reference.doc_id!r} != "
+                f"{prediction.doc_id!r}"
+            )
+        if reference.text != prediction.text:
+            raise ValueError(f"{reference.doc_id}: Gold and prediction text differ")
+
+        offsets = locate_bio_tokens(reference.text, words, reference.doc_id)
+        labels, count, dropped = prediction_to_bio(prediction, offsets)
+        predicted_labels.append(labels)
+        unaligned += count
+        dropped_overlaps += dropped
+
+    gold_entities = bio_entities(gold_labels)
+    prediction_entities = bio_entities(predicted_labels)
+    true_positives = len(gold_entities & prediction_entities)
+    false_positives = (
+        len(prediction_entities - gold_entities)
+        + unaligned
+        + dropped_overlaps
+    )
+    false_negatives = len(gold_entities - prediction_entities)
+
+    precision = (
+        true_positives / (true_positives + false_positives)
+        if true_positives + false_positives
+        else 0.0
+    )
+    recall = (
+        true_positives / (true_positives + false_negatives)
+        if true_positives + false_negatives
+        else 0.0
+    )
+    f1 = (
+        2 * precision * recall / (precision + recall)
+        if precision + recall
+        else 0.0
+    )
+
+    return precision, recall, f1, unaligned, dropped_overlaps
+
+
+def main() -> None:
+    script_dir = Path(__file__).resolve().parent
+    parser = argparse.ArgumentParser(
+        description="Evaluate PubTator predictions using training BIO tokens and seqeval"
+    )
+    parser.add_argument(
+        "--nerdata-dir", type=Path, default=script_dir / "Testing_BIO"
+    )
+    parser.add_argument("--gold-dir", type=Path, default=script_dir / "Gold_standard")
+    parser.add_argument(
+        "--models",
+        nargs="+",
+        default=["Gold-only_Baseline", "BiolitNER", "BERN2", "HunFlair2"],
+    )
+    parser.add_argument(
+        "--output", type=Path, default=script_dir / "eval_results_training_bio.csv"
+    )
+    args = parser.parse_args()
+
+    rows = []
+    for dataset, bio_directory in DATASETS.items():
+        bio_path = args.nerdata_dir / bio_directory / "test.txt"
+        gold_name = GOLD_NAMES.get(dataset, dataset)
+        gold_path = args.gold_dir / f"{gold_name}.txt"
+
+        for model in args.models:
+            prediction_path = script_dir / model / f"{dataset}.txt"
+            if not prediction_path.exists():
+                continue
+
+            precision, recall, f1, unaligned, dropped_overlaps = evaluate_dataset(
+                bio_path, gold_path, prediction_path
+            )
+            row = {
+                "Dataset": dataset,
+                "Type": ENTITY_TYPES[dataset],
+                "Model": MODEL_NAMES.get(model, model),
+                "Precision": f"{precision:.3f}",
+                "Recall": f"{recall:.3f}",
+                "F1": f"{f1:.3f}",
+            }
+            rows.append(row)
+            print(
+                f"{dataset:24} {MODEL_NAMES.get(model, model):22} "
+                f"P={precision:.3f} R={recall:.3f} F1={f1:.3f} "
+                f"unaligned={unaligned}"
+            )
+
+    fieldnames = ["Dataset", "Type", "Model", "Precision", "Recall", "F1"]
+    with args.output.open("w", encoding="utf-8", newline="") as handle:
+        writer = csv.DictWriter(handle, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(rows)
+
+    print(f"\nSaved results to {args.output}")
+
+
 if __name__ == "__main__":
     main()
