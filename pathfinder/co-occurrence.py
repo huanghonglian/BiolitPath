@@ -80,7 +80,7 @@ def read_dictionary():
             'food': os.path.join(BASE_DIR,'dictionary/dict_food_202512.txt'),
             'go': os.path.join(BASE_DIR,'dictionary/dict_gene_ontology_202512.txt'),
             'treatment': os.path.join(BASE_DIR,'dictionary/dict_treatment_202512.txt'),
-            'diagnose': os.path.join(BASE_DIR,'dictionary/dict_diagnosis_202512.txt'),
+            'diagnosis': os.path.join(BASE_DIR,'dictionary/dict_diagnosis_202512.txt'),
             'bodypart': os.path.join(BASE_DIR,'dictionary/dict_uberon_202601.txt'),
             'location': os.path.join(BASE_DIR,'dictionary/dict_geoname_202601.txt'),
             'species': os.path.join(BASE_DIR,'dictionary/dict_Species.txt'),
