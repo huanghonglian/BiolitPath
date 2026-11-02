@@ -51,6 +51,8 @@ Variant normalization produces standardized representations of mutations.
 
 BiolitPath constructs a sentence-level co-occurrence graph with a selectable edge weight. Nodes represent normalized entities; edges represent statistical associations, not causal relationships. Entity type pairs remain restricted by `pathfinder/relation.txt`.
 
+`pathfinder/relation.txt` controls which entity-type pairs are considered during co-occurrence calculation. Each line has three **tab-separated** fields, with no header: `type_1`, `type_2`, and an enable flag (`1` = include; `0` = exclude). For example, `gene<TAB>disease<TAB>1` enables gene–disease edges, while `food<TAB>celltype<TAB>0` excludes food–cell-type edges. To change whether entities of two types can be connected by graph edges, change the corresponding `1` or `0` in `relation.txt` (`1` allows edges; `0` prevents them). Save the file and rerun from the graph step (for example, `python run_biolitpath.py -c test --from-step graph`). Existing graph and path results do not change until they are regenerated.
+
 | Weight method | Edge weight | Filtering rule | Default threshold |
 |---|---|---|---|
 | `fisher` | Existing enrichment score: `-ln(raw p-value)` | `adjP < threshold` | `0.05` |
@@ -134,23 +136,7 @@ Download the models and place them in the following directories:
 - [BiolitNER](https://huggingface.co/honglian/BiolitNER): `model/BiolitNER/`.
 - [BiolitNEN](https://huggingface.co/honglian/BiolitNEN): `model/BiolitNEN/`.
 
-Include the configuration, weights, tokenizer, and other required model files. The main resource layout is:
-
-```text
-BiolitPath/
-├── run_biolitpath.py
-├── GNormPlus/
-│   ├── GNormPlus.jar
-│   └── setup.txt
-├── tmVar3/
-│   └── tmVar.jar
-├── Ab3P/
-├── model/
-│   ├── BiolitNER/
-│   └── BiolitNEN/
-├── resources/
-└── case/
-```
+Include the configuration, weights, tokenizer, and other required model files.
 
 The pipeline does not install dependencies or download models automatically. All examples below are run from the project root using the activated Python environment.
 
@@ -263,21 +249,6 @@ python run_biolitpath.py -c MDS --from-step paths \
   -s disease:MESH:D009190,OMIM:614286 --max-hop 2 -k 5 -d
 ```
 
-### 5.4 GO-gene association paths
-
-```bash
-# Cell proliferation
-python run_biolitpath.py -c ICC --from-step paths \
-  -s go:GO:0008283 -n go+gene --max-hop 1 -k 20 -d
-
-# Cell migration
-python run_biolitpath.py -c ICC --from-step paths \
-  -s go:GO:0016477 -n go+gene --max-hop 1 -k 20 -d
-
-# Epithelial-to-mesenchymal transition
-python run_biolitpath.py -c ICC --from-step paths \
-  -s go:GO:0001837 -n go+gene --max-hop 1 -k 20 -d
-```
 
 ## 6. Output files
 
@@ -285,10 +256,6 @@ Results for each case are saved under `case/<case>/`:
 
 | Directory or file | Contents |
 |---|---|
-| `pubtator/` | Retrieved or processed user-provided literature |
-| `NERoutput/` | Multi-semantic entity recognition results |
-| `gnormplus_tmp/`, `gnormplus/` | Raw and post-processed GNormPlus results |
-| `tmvar3/` | Variant recognition results |
 | `NERoutput_m/` | Integrated and post-processed entity annotations |
 | `NENoutput/` | Normalized entity annotations |
 | `pathfinder/co_occur_pvalue.txt` | Entity co-occurrence statistics and association scores |
@@ -297,7 +264,12 @@ Results for each case are saved under `case/<case>/`:
 | `pathfinder/graph_config.json` | Weight method and threshold used for graph construction |
 | `pathfinder/graph.pkl` | Cached NetworkX graph, including node and edge attributes |
 | `pathfinder/found_paths_top<k>_<timestamp>.json` | Retrieved paths (default filename includes the requested path count and a timestamp with microseconds) |
-| `logs/` | Logs for individual stages |
+| `pathfinder/mentions_in_sents.txt` | Sentence IDs containing each normalized entity (graph node) |
+| `pathfinder/split_sents_info.txt` | Sentence IDs and character offsets in each article's `title + " " + abstract` text |
+
+### Evidence provenance for graph edges
+
+Graph edges are **traceable to supporting sentences and PMIDs**. For an edge between two node IDs, look up both IDs in `mentions_in_sents.txt` and intersect their semicolon-separated `sent_ids` lists. Every graph edge has at least one shared sentence ID because only entity pairs that co-occur in a sentence are considered for an edge. Each shared sentence ID identifies a sentence in which both entities occur; its prefix before `_s` is the PMID. Find that ID in `split_sents_info.txt`, then use its start and end offsets to extract the supporting sentence from the matching PMID record in `NENoutput/*.json` (`title + " " + abstract`). 
 
 Path retrieval loads `graph.pkl` directly when it exists. On the first run, it loads `graph.edgelist` and `graph.nodelist` and saves the resulting graph to `graph.pkl`. Rebuilding the graph through `co-occurrence.py` removes the old cache. If you edit the text graph files manually, delete `graph.pkl` before querying to regenerate it.
 
